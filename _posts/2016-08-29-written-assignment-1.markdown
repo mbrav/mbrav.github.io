@@ -2,7 +2,8 @@
 layout: post
 title:  "Written Assignment 1"
 date:   2016-08-29 20:56:48 -0400
-categories: 2016 Fall Lab
+categories: 2016 Lab
+tags: infrastructure systems networks data
 ---
 
 **Investigate a system or network in the world and analyze it. What are its components and how does this system/network work?**
