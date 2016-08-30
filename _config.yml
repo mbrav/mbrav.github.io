@@ -16,7 +16,7 @@
 title: MB Learns
 email: bravm321@newschool.edu
 description: A D&T blog
-baseurl: "/learn-blog" # the subpath of your site, e.g. /blog
+baseurl: "/studies" # the subpath of your site, e.g. /blog
 url: "http://mbrav.com" # the base hostname & protocol for your site
 twitter_username: mixania
 github_username: mbrav
