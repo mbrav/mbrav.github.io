@@ -8,7 +8,7 @@ tags: infrastructure systems networks data
 
 > *Investigate a system or network in the world and analyze it. What are its components and how does this system/network work?*
 
-A system that I decided to re-investigate and reflect on, is called *infrastructure*. All modern humans can apprehend this term, but not everyone understand the term's underlying implication. *Infrastructure* is a system of the modern human being, just like capillaries are for blood, tunnels are for termites, and leafs are for trees. These are the dominant traits that extend the existential potential of individual beings and the populations that they constitute.
+A system that I decided to re-investigate and reflect on, is called *infrastructure*. All modern humans can apprehend this term, but not everyone understand the term's underlying implication. *Infrastructure* is a system of the modern human being--just like capillaries are for blood, tunnels are for termites, and leafs are for trees. These are the dominant traits that extend the existential potential of individual beings and the populations that they constitute.
 
 Modern humans have built infrastructures for water, gas, food, information, and even oxygen. These are individual systems that form a network of infrastructures. Our technocratic society combines this network of infrastructures by systemizing it using technologies. In evolutionary respects, we are superior thanks to these systems, but since we rely on them so much, we are just as vulnerable because of them. Reliances welcome vulnerabilities--just like blood becomes useless without capillaries, humans become helpless without their systems.
 
