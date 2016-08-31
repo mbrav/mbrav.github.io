@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moral Systems and their Notional Confrontations"
+title:  "Moral Systems and their Confrontations"
 date:   2016-05-23 12:00:00 -0400
 categories: Essay
 tags: philosophy
