@@ -17,7 +17,8 @@ The point of these observations is to illustrate how a human body naturally gras
 
 To reflect on what has occurred to me, I will put my observations in context with a book I finished reading a couple days ago. The book's name is *Marvelous Clouds* written by John Peters, which is one of the most interesting reference books I have read. The book is about human relation with *media* which is a term that is definitely worth the book’s elaboration but it encompasses everything that ranges from Neanderthal cave depictions, to Google's search results. The book is meant to push the reader to start looking at technology, media, and social interactions from a different perspective.
 
-Among many other references that I found interesting in the book, one that I found to be very relate to my sleep schedule is the definition of a domesticated animal by a biologist named Helmut Hemmer. According to him, these are the criteria of a domesticated animal[^Hemmer, *Domestication*, 92]:
+Among many other references that I found interesting in the book, one that I found to be very relate to my sleep schedule is the definition of a domesticated animal by a biologist named Helmut Hemmer. According to him, these are the criteria of a domesticated animal [^Hemmer, *Domestication*, 92]:
+
 1. Diversification of appearance.
 2. Decrease of motility.
 3. Increased floridness of sexual behavior.
