@@ -3,7 +3,7 @@ layout: post
 title:  "Sustainable Agriculture 1.0"
 date:   2016-06-29 12:00:00 0200
 categories: Essay
-tags: Ideas agriculture environment
+tags: ideas agriculture environment
 ---
 
 *Reinventing Agriculture for a multi-planetary civilization*

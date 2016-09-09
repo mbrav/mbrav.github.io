@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MB Studies
 email: bravm321@newschool.edu
-description: A blog by a Design & Technology student covering his studies
+description: A blog and collection of essays and writings that explore design, knowledge, and aesthetics.
 baseurl: "/studies" # the subpath of your site, e.g. /blog
 url: "http://www.mbrav.com" # the base hostname & protocol for your site
 twitter_username: mixania
