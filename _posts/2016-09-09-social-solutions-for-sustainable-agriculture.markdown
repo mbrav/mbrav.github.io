@@ -8,7 +8,7 @@ tags: research agriculture environment culture
 
 ## Abstract
 
-The project’s focus is to investigation agriculture and its regard among urban societies, particularly the one of New York. Practices such as urban farming have become active social countermeasures to exploitive industrial farm practices. It is important to investigate whether these social motivations have the ability to solve the ecological problems of the grander scheme. Some solutions might have to inevitably be considered outside of our urban environments. Just as functional solutions are important, the aesthetic are not to be disregarded. This subject of research will explore the lacking regard for natural ecosystems from an aesthetic and psychological standpoint as well.
+The project’s focus is to investigation agriculture and its regard among urban societies, particularly the one of New York. Practices such as urban farming have become active social countermeasures to exploitive industrial farm practices. It is important to investigate whether these social motivations have the ability to solve the ecological problems of the grander scheme. Some solutions might have to inevitably be considered outside of our urban environments. Just as functional solutions are important, the aesthetics are not to be disregarded. This subject of research will explore the lacking regard for natural ecosystems from an aesthetic and psychological standpoint as well.
 
 ## Agriculture as a Civilization Practice
 
