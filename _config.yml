@@ -14,12 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MB Studies
+author: Michael Braverman
 email: bravm321@newschool.edu
 description: A blog and collection of essays and writings that explore design, knowledge, and aesthetics.
 baseurl: "/studies" # the subpath of your site, e.g. /blog
 url: "http://www.mbrav.com" # the base hostname & protocol for your site
 twitter_username: mixania
 github_username: mbrav
+
+permalink: /:year/:month/:title.html
 
 # Build settings
 markdown: kramdown

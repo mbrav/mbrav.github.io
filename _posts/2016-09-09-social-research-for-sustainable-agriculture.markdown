@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Social Solutions for Sustainable Agriculture"
+title:  "Social Research for Sustainable Agriculture"
 date:   2016-09-09 10:04:00 -0400
 categories: Essay
 tags: research agriculture environment culture
