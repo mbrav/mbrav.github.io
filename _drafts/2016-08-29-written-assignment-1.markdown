@@ -2,7 +2,7 @@
 layout: post
 title:  "Written Assignment 1"
 date:   2016-08-29 20:56:48 -0400
-categories: 2016 Lab
+categories: study
 tags: infrastructure systems networks data
 ---
 

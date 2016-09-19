@@ -4,10 +4,25 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Essays</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories['essay'] %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+      </h2>
+    </li>
+    {% endfor %}
+
+    </ul>
+
+    <h1 class="page-heading">Studies</h1>
+
+    <ul class="post-list">
+      {% for post in site.categories['study'] %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -15,9 +30,27 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
       </li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
 
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+      </ul>
+
+    <h1 class="page-heading">Manifestos</h1>
+
+    <ul class="post-list">
+      {% for post in site.categories['manifesto'] %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+      {% endfor %}
+
+      </ul>
+
+    {% for post in site.posts %}
+    {% endfor %}
+
 
 </div>

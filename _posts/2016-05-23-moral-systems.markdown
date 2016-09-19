@@ -2,7 +2,7 @@
 layout: post
 title:  "Moral Systems and their Confrontations"
 date:   2016-05-23 12:00:00 -0400
-categories: Essay
+categories: essay
 tags: philosophy
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Social Research for Sustainable Agriculture"
 date:   2016-09-09 10:04:00 -0400
-categories: Essay
+categories: study
 tags: research agriculture environment culture
 ---
 
