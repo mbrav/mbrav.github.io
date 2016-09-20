@@ -8,6 +8,8 @@ tags: art manifesto
 
 An artist is like a neural synapse. He must rest reactive to the environment and his surroundings. As negative as the reality surrounding the artist might be, he must maintain his awareness if he wants to rest entitled as an artist. Just like a neuron must maintain healthy synapses since otherwise it becomes dysfunctional. If the artist where to become ignorant of his awareness, his function as an artist and that of a healthy neuron — becomes falsified.
 
+![Neural Synapse](https://i.imgur.com/NgGAZcY.png)
+
 The most common way that an artist can become a falsification of his intended function, is when his beliefs become dictated by the environment. Since an artist is like a neuron, he must not allow his neural synapses get clogged with the abundant amounts of dust that the environment is filled with. It should also be within the artist's ability to notice when the environment is making an attempt to stimulate his neural synapses for the sake of manipulating his inner values. Many individuals have succumbed to this manipulation and it is the artist's most important function to raise this awareness. A neuron with healthy synapses must strive to maintain his alertness, especially when other neurons become un-alert after allowing their synapses to become subjects of stimuli.
 
 It is important to outline that although a neuron might seem like a biologic mechanism that easily reacts to the environment, it nevertheless reacts more naturally than a neural whose synapses have been clogged with dust. Moreover, the reactions of a neuron to the environment cannot be predicted with complete accuracy when it is healthy. The reactions of neuron whose synapses are clogged on the other hand, are more predictable.
