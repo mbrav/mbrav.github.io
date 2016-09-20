@@ -5,7 +5,7 @@ date:   2016-09-19 03:50:00 -0400
 categories: study
 ---
 
-After finishing reading *Emergence: The Connected Lives of Ants, Brains, Cities, and Software* by Steven Johnson, and *Adversarial Design* by Carl DiSalvo, I started to think about a project that incorporates some of themes that are explored in the readings.
+After finishing reading *Emergence: The Connected Lives of Ants, Brains, Cities, and Software* by Steven Johnson, and *Adversarial Design* by Carl DiSalvo, I started to think about a project that incorporates some of the themes introduced in the readings.
 
 What I found interesting in the concept of *emergence*, is how complex behaviors emerge from simple organization. In Johnson's terms, emergence is a "movement from low-level rules to higher-level sophistication"[^j1]. In nature we can see how various systems like ant colonies form very complex systems that emerge from relatively simple behaviors. But with ants in particular, it is interesting to note how each of them individually is linked to a collective network of a swarm. The ant colony emerges into a sort of a conscious organism which becomes aware of it’s internal health and economy of sorts. This also allows ants to proactively respond to dangers that threaten the whole colony by interfacing directly with the swarm’s network.
 
