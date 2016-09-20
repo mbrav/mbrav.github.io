@@ -41,7 +41,7 @@ Electronic cigarets seemed to be an intriguing option. Especially since the glob
 
 ![](http://cdns.yournewswire.com/wp-content/uploads/2014/08/electronic-cig-604cs042913.jpg)
 
-I started thinking about a device that can be worn and worn as a backpack. There would also be a hat with 4 cameras and an embed computer that will analyze my actions. Whenever the device registers a beneficial action, it will release a rewarding dose of smoke containing nicotine.
+I started thinking about a device that can be worn as a backpack. There would also be a hat with 4 cameras and an embed computer that will analyze my actions. Whenever the device registers a beneficial action, it will release a rewarding dose of smoke containing nicotine.
 ![](http://i.imgur.com/rcJmwyh.jpg)
 
 The device will incorporate a breathing mechanism. While wearing it, I will inhale and exhale the outside air as I do normally. But whenever I commit an action that benefits the environment, I get rewarded with a dose of nicotine. My substance dependency will drive my brain’s decisions to care for the environment that I existentially depend on. We should all take advantage of our substance dependencies and use them for the benefit of our environments as opposed to a mean for pursuing our necessities. Such a submission of course, is voluntary to the user.
