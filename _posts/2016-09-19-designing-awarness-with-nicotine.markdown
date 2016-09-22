@@ -5,8 +5,6 @@ date:   2016-09-19 03:50:00 -0400
 categories: study
 ---
 
-# Designing Collective Awareness with Nicotine
-
 After reading *Emergence: The Connected Lives of Ants, Brains, Cities, and Software* by Steven Johnson, and *Adversarial Design* by Carl DiSalvo, I started to think about a project that incorporates some of the themes introduced in the readings.
 
 What I found interesting in the aspect of *emergence*, is how complex behaviors emerge from simple organization. In Johnson's terms, emergence is a "movement from low-level rules to higher-level sophistication"[^j1]. In nature we can see how various systems like ant colonies form very complex systems that emerge from relatively simple behaviors. But with ants in particular, it is interesting to note how each of them is individually linked to a collective network of a swarm. The ant colony emerges into a sort of a conscious organism that becomes aware of it’s internal and even economical health. This allows ants to proactively respond to dangers that threaten the whole colony by interfacing directly with the swarm’s network.
@@ -46,7 +44,7 @@ Electronic cigarets seemed to be an intriguing option. Especially since the glob
 I started thinking about a device that can be worn as a backpack. There would also be a hat with cameras and an embed computer that will analyze my actions. Whenever the device registers a beneficial action, it will release a rewarding dose of smoke containing nicotine which I will then inhale.
 ![](http://i.imgur.com/rcJmwyh.jpg)
 
-The device will incorporate a breathing mechanism. While wearing it, I will inhale and exhale the outside air as I do normally. But whenever I commit an action that benefits the environment, I get rewarded with a dose of nicotine. My substance dependency will drive my brain’s decisions to care for the environment that I existentially depend on. We should all take advantage of our substance dependencies and use them for the benefit of our environments as opposed pursuing our superficial necessities. Such a submission of course, will always remain voluntary to the user. 
+The device will incorporate a breathing mechanism. While wearing it, I will inhale and exhale the outside air as I do normally. But whenever I commit an action that benefits the environment, I get rewarded with a dose of nicotine. My substance dependency will drive my brain’s decisions to care for the environment that I existentially depend on. We should all take advantage of our substance dependencies and use them for the benefit of our environments as opposed pursuing our superficial necessities. Such a submission of course, will always remain voluntary to the user.
 
 [^j1]: Steven Johnson, *Emergence*. 2002. p18
 [^j2]: Steven Johnson, *Emergence*. 2002. p115
