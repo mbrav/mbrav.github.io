@@ -44,7 +44,3 @@ Human cyborgization would enviably become necessary especially if we wanted to c
 [^j1]: Johnson, Steven. *Emergence: The Connected Lives of Ants, Brains, Cities, and Software*, 75
 [^j2]: Ibid, 172
 [^j3]: Ibid, 173
-
-## Bibliography
-Johnson, Steven. *Emergence: The Connected Lives of Ants,
-	Brains, Cities, and Software*. New York: Scribner, 2001. Print.
