@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Sleep Data Abyss (WIP)"
-date:   2016-09-29 12:10:00 -0400
+title:  "Sleep Data Abyss"
+date:   2016-10-11 12:10:00 -0400
 categories: study
 ---
-
-# Sleep Data Abyss
 
 This is a study that describes the development process of a project that regards the visualization of personal sleep data collected with an app called [Sleep Cycle](https://www.sleepcycle.com/). The project was first intended to be referred to as “Sleep Harmonics” because of my preliminary assumption that there is a poetic and harmonic quality in my personal data. My immediate intention was to visualize this data in a informative and visual manner. I assumed that the processes of sleep, could produce harmonious sounds based my sleep quality. I was inspired by nature’s cyclical phenomena such as planetary motion, water waves, plant growth, and various intriguing mathematical patterns. I wondered if these patterns and cycles were to be scaled to right speed and extent, could these be guided by music theory, overtone scales and the Fibonacci sequence? Would these cyclical phenomena then produce harmonies when combined? If my sleep cycle is repetitive to very similar extents, would it then be able to harmonize together with these natural cycles? I wanted to find a way of visualizing and representing this occurrence through my personal data.
 
@@ -25,11 +23,11 @@ One however, may argue that visualized data can nevertheless reflect on the exte
 ![](https://static1.squarespace.com/static/55784beee4b06b39773765ab/55ca057de4b0d196f157012e/55ca06b3e4b08d9e41433202/1439303347612/Making_Tracks_with_artist.jpg?format=1500w)
 Laurie Frick’s *Mood+Quantify*
 
+With our current technologies, a human existential extension is scarcely conveyed through 1’s, 0’s. But one can adhere to the ideas of science fiction that envision a brain-computer interface that could potentially allow the translation of human subjective experience through digital information and data. But until the day when such a product of fiction becomes a reality, any stranger that looks at the representation of someone else’s personal data, would only be able to perceive its informational quality, but not its subjective part. Or perhaps, we can envision a modern equivalent of Picasso or Kandinsky, who would be able to express subjective experiences using data. Perhaps it would be a pioneer of *data expressionism*.
+
 > Not everything that can be counted counts, and not everything that counts can be counted. (Albert Einstein)
 
 Following Einstein’s view on the subject of data, I wanted to find ways of how I can find ways of embracing my own personal data. Maybe visualizing isn't what I'm supposed to do with it. Maybe visualizing it, but not towards informational ends, would give it more meaning. Just as Frick surrounds herself with data, I could do the same with my own data. There would be some aesthetic that will make me think something positive about the fact that this was generated from my data.
-
-With our current technologies, a human existential extension is scarcely conveyed through 1’s, 0’s. But one can adhere to the ideas of science fiction that envision a brain-computer interface that could potentially allow the translation of human subjective experience through digital information and data. But until the day when such a product of fiction becomes a reality, any stranger that looks at the representation of someone else’s personal data, would only be able to perceive its informational quality, but not its subjective part. Or perhaps, we can envision a modern equivalent of Picasso or Kandinsky, who would be able to express subjective experiences using data. Perhaps it would be a pioneer of *data expressionism*.
 
 *Abyss* is a profoundly allegorical word. It has multiple meanings including words like Hell, a bottomless pit, a voided space, or an imminent catastrophic happening. This is the term that I eventually realized embodies my personal data, as apposed to something orderly and harmonic. It is an allegoric word that does not necessarily ascribe beauty to data, but does not dismiss it as meaningless. It is the last resort for me to find meaning in my data. The *abyss* is a place where everything is neither meaningful nor meaningless. This gives me a chance to float with my data in give it an opportunity to express itself. Where the experience of the existential quality of my data becomes more important than its meaning. It is a feeling that welcomes an awareness of the past, present, and the future.
 
