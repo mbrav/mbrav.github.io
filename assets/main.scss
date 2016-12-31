@@ -14,11 +14,11 @@ nav {
   font-size: 110%;
 }
 
-// main {
-//   overflow: hidden; /*life saver, worth dedicating */
-//   min-height: 600px;
-//   max-width: 680px;
-//
-//   /*hide all mains in the beginning */
-//   display: none;
-// }
+main {
+  overflow: hidden; /*life saver, worth dedicating */
+  max-width: 680px;
+}
+
+p img {
+  width: 100%;
+}
