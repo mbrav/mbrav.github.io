@@ -1,11 +1,10 @@
 <header>
   <nav>
-    <a class="site-title" href="{{ " / " | relative_url}}">{{ site.title }}</a>
+    <h1 class="site-title"><a href="{{ "/" | relative_url}}">{{ site.title | replace:' ','<br>' }}</a></h1>
     <ul>
       {% for my_page in site.pages %} {% if my_page.title %}
       <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a></li>
       {% endif %} {% endfor %}
     </ul>
-  </nav>
   </nav>
 </header>

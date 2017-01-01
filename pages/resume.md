@@ -6,33 +6,33 @@ permalink: /resume
 
 *Creative Technology, Physical Computing, Interdisciplinary Design, and Installation Art*
 
-## EDUCATION
-Parsons School of Design New York, NY
-BFA in Design and Technology
+## Eduction
+[Parsons School of Design](http://www.newschool.edu/parsons/) New York, NY <br>
+BFA in Design and Technology <br>
 Class of May 2018
 
-Eugene Lang New York, NY
-BFA in Philosophy
+[Eugene Lang](http://www.newschool.edu/lang/) New York, NY <br>
+BFA in Philosophy <br>
 Class of May 2019
 
-Oxford Academy Westbrook, CT
+[Oxford Academy](http://www.oxfordacademy.net/) Westbrook, CT <br>
 High School, 2012 - 2014
 
-## EXPERIENCE
-Communications Intern at Eyebeam
-October 2016 - Present. Brooklyn, NY.
+## Experience
+*Communications Intern* at [Eyebeam](http://eyebeam.org/) <br>
+October 2016 - November 2016. Brooklyn, NY.
 
-Peer Mentor at Parsons School of Design
+*Peer Mentor* at [Parsons School of Design](http://www.newschool.edu/parsons/) <br>
 March 2016 - Present. New York, NY.
 
-## EXHIBITIONS & PUBLIC WORKS
-Tangram
+## Exhibitions & Public Works
+[Tangram](https://www.facebook.com/events/860600520716726) <br>
 **May 2016**. New York, NY.
 
-Rentity concept design at Design and Hack
+[Rentity concept](https://www.crunchbase.com/organization/rentity#/entity) design at [Design and Hack](https://events.newschool.edu/event/design_and_hack_opening_ceremonies_hackathon) <br>
 **November 2014**. New York, NY.
 
-## SKILLS
+## Skills
 - Creative Coding (Processing, Open Frameworks, GLSL, etc.)
 - Arduino, Raspberry Pi and Internet of Things
 - Web Technologies (CSS3 & HTML5, JavaScript, three.js, node.js, socket.io)
@@ -42,14 +42,14 @@ Rentity concept design at Design and Hack
 - Video Editing (Adobe Premier Pro)
 - Operating an espresso machine
 
-## INTERESTS AND INFLUENCES
+### Interests and Influences
 - Design based on Empirical, Ethical, Aesthetic, Utilitarian, and Interdisciplinary modes of thinking
 - Modular/Analog Sound Synthesis
 - Photography
 - Typography
 - Yoga
 
-## LANGUAGES
+### Languages
 ### Human Languages
 
 - English (fluent)
