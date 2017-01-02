@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: resume
 permalink: /resume
 ---
 
@@ -19,18 +19,19 @@ Class of May 2019
 High School, 2012 - 2014
 
 ## Experience
-*Communications Intern* at [Eyebeam](http://eyebeam.org/) <br>
-October 2016 - November 2016. Brooklyn, NY.
 
 *Peer Mentor* at [Parsons School of Design](http://www.newschool.edu/parsons/) <br>
 March 2016 - Present. New York, NY.
 
+*Communications Intern* at [Eyebeam](http://eyebeam.org/) <br>
+October 2016 - November 2016. Brooklyn, NY.
+
 ## Exhibitions & Public Works
 [Tangram](https://www.facebook.com/events/860600520716726) <br>
-**May 2016**. New York, NY.
+**May 2016**, New York, NY.
 
 [Rentity concept](https://www.crunchbase.com/organization/rentity#/entity) design at [Design and Hack](https://events.newschool.edu/event/design_and_hack_opening_ceremonies_hackathon) <br>
-**November 2014**. New York, NY.
+**November 2014**, New York, NY.
 
 ## Skills
 - Creative Coding (Processing, Open Frameworks, GLSL, etc.)
@@ -49,7 +50,7 @@ March 2016 - Present. New York, NY.
 - Typography
 - Yoga
 
-### Languages
+## Languages
 ### Human Languages
 
 - English (fluent)

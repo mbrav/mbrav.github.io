@@ -3,9 +3,11 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: About
+title: about
 permalink: /
 ---
+
+<p><img src="assets/img/head.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
 
 He identifies himself as an *aspiring generalist*, an *unreserved tinkerer*, and an *agitated theorizer*. At present, he is a student at Parsons School of Design studying BFA Design & Technology and Philosophy as a secondary major. His investigations explore the peripheries where design and technology meet — a place where human artifice succumbs in the universalizing ideals of technocratic quantization and determination. Michael’s focuses can be defined as a *creative technologist*, *new media artist*, and ~~*interaction designer*~~ *reflection designer*.
 

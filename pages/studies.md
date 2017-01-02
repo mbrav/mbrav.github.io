@@ -1,5 +1,5 @@
 ---
 layout: posts
-title: Studies
+title: studies
 permalink: /studies
 ---

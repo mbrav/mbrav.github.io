@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Extensions of Bias"
+date:   2016-12-08
+img: "https://c2.staticflickr.com/6/5551/30620093464_1e20da06d6_c.jpg"
+excerpt: "A new media art installation connected to the Internet through a Twitter API. A speculation on how media technology is actively shaping our increasingly biased human natures."
+---
+
+<iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+* [Raspberry Pis]
+* [Character LCDs]
+* [Speakers]
+* [Twitter API]
+* [Network switch]
+* [Ethernet]
+
+A new media art installation connected to the Internet through a Twitter API. A speculation on how media technology is actively shaping our increasingly biased human natures.
+
+The destiny of the romantic relationship between humans and technology is certain — technology is becoming less of a tool, and more of a prosthesis that is actively shaping the human condition and agency. But what does this marvelous and empowering technology bring? Along the biases that are already inherent in biologic human nature, how can technology augment our immensely biased natures? Are we using technology as an instrument that expands our rationality, or are we creating bubbles of opinions and prejudices that we endlessly affirm and entertain — chasms that become desolated from rationality.
+
+Human biases have become the inherent products of digital capitalism and consumer societies — products that are becoming increasingly inconspicuous to human awareness as they hardwire the human consciousness. Human bias is a catalyst for the instrumentality of mass sensation, desire, marketing, and political sentiment. It is the equivalent of a nervous system that is being actively stimulated with electrodes, distracting the mind from thinking sanely.
+
+Too little information is viewed as a deprivation from freedom of speech, but too much information — to an extent that it becomes imperceptible — is not reckoned as such. But distraction is the key instrumentality of *bias* — it can easily breed control, subversion, and indirect manipulation. Excessive abundance of information transforms rationality into an oblique signal, fainted by news about Taylor Swift’s sex life, the new iPhone, and a politician’s hair style. But the information that surfaces, is based on the ideologic intents of either the global Silicone Valley, or insurgent algorithms.
+
+As humanity invents new emergent forms of media consumption, we also embrace the biases that are adherent to these mediums. Mass media feeds, corporate endorsement, rhetoric, and undigested ideologies — are served to the human consciousness through the arteries of digital technology. While we condition ourselves to trust and embrace these technologies, we are also conditioning an increasingly biased human nature.

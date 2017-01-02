@@ -1,21 +1,32 @@
 
+# Contact
 title: Michael Braverman
 author: Michael Braverman
 email: bravm321@newschool.edu
-description: > # this means to ignore newlines until "baseurl:"
-  A blog and collection of essays and writings that explore design, knowledge, and aesthetics.
-# baseurl: "/studies" # the subpath of your site, e.g. /blog
-url: "http://www.mbrav.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social Media
 twitter_username: mixania
 github_username:  mbrav
+vimeo_username: mbrav
+instagram_username: mbrav_
+flickr_username: mixania
+soundcloud_username: mixania
 
-permalink: /:year/:title.html
+description: A blog and collection of essays and writings that explore design, knowledge, and aesthetics.
+baseurl: ""
+url: "http://www.mbrav.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+collections:
+  projects:
+    output: true
+    permalink: project/:title.html
+  posts:
+    output: true
+    permalink: study/:title.html
 
 # Build settings
 markdown: kramdown
-# theme: minima
-gems:
-
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="posts">
+
+  {{ content }}
+
+  <div id="project-container" class="container">
+    {% for project in site.projects %}
+    {% unless project.categories contains 'unlisted' %}
+      <div class="tile" css="background-image: url('{{ project.img }}')">
+        <span class="post-category">{{ project.categories }}</span>
+        <h2><a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h2>
+        <img src="{{ project.img }}" alt="{{ project.title }}">
+        <span class="post-meta">{{ project.date | date: "%b %-d, %Y" }}</span>
+      </div>
+    {% endunless %}
+    {% endfor %}
+  </div>
+
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
+<script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>

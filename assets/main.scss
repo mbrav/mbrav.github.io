@@ -4,17 +4,26 @@
 
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 body {
   padding: 20px;
-  font-family: 'Roboto Slab', serif;
-  color: #333;
+  font-family: 'Inconsolata', monospace;
+  color: #444;
   background-color: #fcfcfc;
 
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
   a {
-    color: #333;
+    color: #444;
     text-decoration: none;
-    border-bottom: 2px solid rgba(0, 0, 0, 1);;
+    border-bottom: 2px solid rgba(68, 68, 68, 0.9);;
     padding-bottom: 1px;
   }
 }
@@ -51,17 +60,55 @@ nav {
 main {
   overflow: hidden; /*life saver, worth dedicating */
   max-width: 680px;
-  line-height: 160%;
 
   .post-title {
     margin-top: 0;
   }
+
+  // stretch the content
+  p {
+    letter-spacing: -.02em;
+    line-height: 1.4em;
+    img {
+      height: auto;
+      width: auto;
+      max-width: 100%;
+    }
+  }
+
+  iframe {
+    height: 300px;
+    width: 100%;
+  }
+
+  .post-content ul li {
+    list-style-type: square;
+    line-height: 1.26em;
+  }
+
+
+  // for the portrait in introduction page
+  #portrait {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin: 10px;
+    margin-left: 0;
+  }
 }
 
-p img {
-  width: 100%;
-}
+/*PROJECT TILE PAGE SETTINGS*/
 
-.posts li {
-  list-style-type: none;
+.container {
+
+
+  .tile {
+    margin-left: 14px;
+    width: 24%;
+    display: inline-block;
+
+    img {
+      width: 100%;
+    }
+  }
 }

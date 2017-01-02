@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Extensions of Bias"
-date:   2016-12-08 12:00:00 -0400
-categories: project
+title:  "600 Grief"
+date:   2016-08-14
+img: "https://c1.staticflickr.com/9/8438/29417930580_3822ebf3c5_c.jpg"
+excerpt: "A new media art installation connected to the Internet through a Twitter API. A speculation on how media technology is actively shaping our increasingly biased human natures."
 ---
-
-### New Media Art Installation
-### December 2016
 
 <iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -16,6 +14,8 @@ categories: project
 * [Twitter API]
 * [Network switch]
 * [Ethernet]
+
+A new media art installation connected to the Internet through a Twitter API. A speculation on how media technology is actively shaping our increasingly biased human natures.
 
 The destiny of the romantic relationship between humans and technology is certain — technology is becoming less of a tool, and more of a prosthesis that is actively shaping the human condition and agency. But what does this marvelous and empowering technology bring? Along the biases that are already inherent in biologic human nature, how can technology augment our immensely biased natures? Are we using technology as an instrument that expands our rationality, or are we creating bubbles of opinions and prejudices that we endlessly affirm and entertain — chasms that become desolated from rationality.
 
