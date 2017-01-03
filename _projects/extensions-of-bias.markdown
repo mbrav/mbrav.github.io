@@ -3,7 +3,7 @@ layout: post
 title:  "Extensions of Bias"
 date:   2016-12-08
 image: "https://c2.staticflickr.com/6/5551/30620093464_1e20da06d6_c.jpg"
-excerpt: "A speculative installation that envisions an utopian idealization of digital infrastructure. Contrary to its ideal, in practice it is a surveilled packet-sniffing wi-fi hotspot."
+excerpt: "A speculative new media art installation about how media technology is actively shaping our increasingly biased human natures."
 ---
 
 <iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -17,7 +17,7 @@ excerpt: "A speculative installation that envisions an utopian idealization of d
 
 [Extensions of Bias on Github](https://github.com/mbrav/bias)
 
-A speculative installation that envisions an utopian idealization of digital infrastructure. Contrary to its ideal, in practice it is a surveilled packet-sniffing wi-fi hotspot
+A speculative new media art installation about how media technology is actively shaping our increasingly biased human natures.
 
 The destiny of the romantic relationship between humans and technology is certain — technology is becoming less of a tool, and more of a prosthesis that is actively shaping the human condition and agency. But what does this marvelous and empowering technology bring? Along the biases that are already inherent in biologic human nature, how can technology augment our immensely biased natures? Are we using technology as an instrument that expands our rationality, or are we creating bubbles of opinions and prejudices that we endlessly affirm and entertain — chasms that become desolated from rationality.
 

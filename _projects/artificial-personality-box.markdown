@@ -3,12 +3,12 @@ layout: post
 title:  "Artificial Personality Box"
 date:   2015-05-22
 image: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1_c.jpg"
-excerpt: "Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities in objects by means of advanced technology"
+excerpt: "Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities in objects by means of advancing technology."
 ---
 
 <iframe src="https://player.vimeo.com/video/173251207?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities in objects by means of advanced technology. 
+Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities in objects by means of advancing technology.
 
 We humans have had an urge to incorporate human-like characteristics into objects for as long as we existed. This is not just a characteristic of the modern human being, we leave signs of this determination starting with Ancient Egyptian stuffed dolls, and continue to do so by crafting avatars in our digital worlds. With advances of virtual technologies and a vast number of other mediums, the human ambition of incorporate personalities into object will not halt any time soon.
 

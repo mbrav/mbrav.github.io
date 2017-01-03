@@ -3,12 +3,14 @@ layout: post
 title:  "Infrastructural Utopia Tower"
 date:   2016-05-22
 image: "https://c1.staticflickr.com/9/8674/28310046481_76696628b6_c.jpg"
-excerpt: "A speculative new media art installation about how media technology is actively shaping our increasingly biased human natures."
+excerpt: "A speculative installation that envisions an utopian idealization of digital infrastructure. Contrary to its ideal, the tower in practice is a surveilled packet-sniffing wi-fi hotspot."
 ---
 
 <iframe src="https://player.vimeo.com/video/166409996?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 - [Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/InfrastructuralUtopiaTower)
+
+A speculative installation that envisions an utopian idealization of digital infrastructure. Contrary to its ideal, the tower in practice is a surveilled packet-sniffing wi-fi hotspot.
 
 *Infrastructural Utopia Tower* is an art installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is a manifestation of our technocratic human nature. We are beings that are entertained by utopian ideals, but when realizing them — we sacrifice many aspects of our own nature. For a modern human, infrastructure is part of his nature, it is a manifested symbol of our intellectual and evolutionary superiority above other animals. Without infrastructure, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent  on infrastructures. We come to this realization and attempt to apply infrastructures almost everywhere while our technological advances only aid this process.
 
