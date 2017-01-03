@@ -6,24 +6,29 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
+// configuration variables
+$base-font-family: 'Inconsolata', monospace;
+$header-font-family: 'Roboto Slab', serif;
+
+$text-color: #444;
+$header-color: #444;
+$link-color: #444;
+
 body {
   padding: 20px;
-  font-family: 'Inconsolata', monospace;
-  color: #444;
+  font-family: $base-font-family;
+  color: $text-color;
   background-color: #fcfcfc;
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Slab', serif;
-  }
-
-  li {
-    list-style-type: none;
+    font-family: $header-font-family;
+    color: $header-color;
   }
 
   a {
-    color: #444;
+    color: $link-color;
     text-decoration: none;
-    border-bottom: 2px solid rgba(68, 68, 68, 0.9);;
+    border-bottom: 2px solid $link-color;
     padding-bottom: 1px;
   }
 }
@@ -41,6 +46,7 @@ nav {
   .site-title {
     margin-top: 0;
     a {
+      color: $header-color;
       display: block;
       margin: 0;
       margin-bottom: 10px;
@@ -101,10 +107,9 @@ main {
 
 .container {
 
-
   .tile {
     margin-left: 14px;
-    width: 24%;
+    width: 200px;
     display: inline-block;
 
     img {

@@ -38,7 +38,7 @@ October 2016 - November 2016. Brooklyn, NY.
 - Arduino, Raspberry Pi and Internet of Things
 - Web Technologies (CSS3 & HTML5, JavaScript, three.js, node.js, socket.io)
 - Music and Sound Production (Logic Pro X)
-- 3D Modelling and Animation (Blender, Rhino)
+- 3D Modeling and Animation (Blender, Rhino)
 - Analog and Digital Photography ( Lightroom, Adobe Photoshop)
 - Video Editing (Adobe Premier Pro)
 - Operating an espresso machine
@@ -51,6 +51,7 @@ October 2016 - November 2016. Brooklyn, NY.
 - Yoga
 
 ## Languages
+
 ### Human Languages
 
 - English (fluent)

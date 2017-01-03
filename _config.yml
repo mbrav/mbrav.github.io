@@ -12,6 +12,7 @@ instagram_username: mbrav_
 flickr_username: mixania
 soundcloud_username: mixania
 
+
 description: A blog and collection of essays and writings that explore design, knowledge, and aesthetics.
 baseurl: ""
 url: "http://www.mbrav.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -19,14 +20,20 @@ url: "http://www.mbrav.com" # the base hostname & protocol for your site, e.g. h
 collections:
   projects:
     output: true
-    permalink: project/:title.html
+    permalink: project/:title
   posts:
     output: true
-    permalink: study/:title.html
+    permalink: study/:title
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-seo-tag
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+# for jekyll-seo-tag
+twitter:
+  username: mixania
