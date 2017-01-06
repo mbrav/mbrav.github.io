@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sleep Data Abyss"
-date:   2016-10-11 12:10:00 -0400
+date:   2016-10-11 12:10:00 -0500
 categories: study
 image: https://4.bp.blogspot.com/-tTYZpdJ18bg/VYITAO4s_uI/AAAAAAAAAlE/L7VMImFFt_M/s1600/noise-to-banana.png
 ---

@@ -4,6 +4,7 @@ title:  "Extensions of Bias"
 date:   2016-12-08
 image: "https://c2.staticflickr.com/6/5551/30620093464_1e20da06d6_c.jpg"
 excerpt: "A speculative new media art installation about how media technology is actively shaping our increasingly biased human natures."
+medium: "Physical Installation"
 ---
 
 <iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

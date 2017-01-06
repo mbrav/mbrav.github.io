@@ -15,7 +15,8 @@ $header-color: #444;
 $link-color: #444;
 
 body {
-  padding: 20px;
+  padding: 18px;
+  margin: 6px;
   font-family: $base-font-family;
   color: $text-color;
   background-color: #fcfcfc;
@@ -68,7 +69,8 @@ main {
   max-width: 680px;
 
   .post-title {
-    margin-top: 0;
+    margin-top: 0px;
+    margin-bottom: 26px;
   }
 
   // stretch the content
@@ -87,11 +89,21 @@ main {
     width: 100%;
   }
 
-  .post-content ul li {
-    list-style-type: square;
-    line-height: 1.26em;
+  blockquote {
+    margin-left: 30px;
+    margin-right: 30px;
+    border-left: 3px solid #CCC;
   }
 
+  .post-content {
+    ul li {
+      list-style-type: square;
+      line-height: 1.26em;
+    }
+    ol li {
+      line-height: 1.26em;
+    }
+  }
 
   // for the portrait in introduction page
   #portrait {
@@ -101,18 +113,82 @@ main {
     margin: 10px;
     margin-left: 0;
   }
+
+  .footnote {
+    position: absolute;
+    display: inline-block;
+  }
 }
 
-/*PROJECT TILE PAGE SETTINGS*/
-
+/*PROJECT TILE PAGE*/
 .container {
-
   .tile {
-    margin-left: 14px;
-    width: 200px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    width: 31%;
     display: inline-block;
 
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    a {
+      border-bottom: 0; // cancel out border link
+    }
+
     img {
+      width: 100%;
+      position: center center; 
+    }
+  }
+}
+
+@media screen and (max-width: 780px) {
+
+  nav {
+    display: block;
+    width: 100%;
+    .class-title a {
+      display: inline;
+    }
+    ul {
+      // display: none;
+      margin-top: 0;
+      padding-bottom: 12px;
+      opacity: 0.85;
+
+      li {
+        padding-top: 6px;
+        padding-bottom: 6px;
+        text-align: center;
+        font-size: 110%;
+      }
+    }
+  }
+
+  main {
+    width: 100%;
+    margin: 0;
+    max-width: 100%;
+
+    p, h1, h2, h3, h4, h5, h6 {
+      margin: 12px;
+    }
+  }
+
+  .container {
+    .tile {
+      margin: 1%;
+      width: 46%;
+    }
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .container {
+    .tile {
+      margin: 0;
       width: 100%;
     }
   }

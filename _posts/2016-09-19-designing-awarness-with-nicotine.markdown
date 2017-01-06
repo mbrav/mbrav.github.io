@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Designing Collective Awareness with Nicotine"
-date:   2016-09-19 03:50:00 -0400
+date:   2016-09-19 03:50:00 -0500
 categories: study
 image: http://i.imgur.com/rcJmwyh.jpg
 ---

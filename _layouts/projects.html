@@ -6,16 +6,14 @@ layout: default
 
   {{ content }}
 
-  <div id="project-container" class="container">
+  <div class="container">
     {% for project in site.projects reversed %}
       <div class="tile">
-        <span class="post-category">{{ project.categories }}</span>
-        <h2><a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h2>
-        <img src="{{ project.image }}" alt="{{ project.title }}">
+        <h3><a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h3>
+        <a href="{{ project.url | prepend: site.baseurl }}"><img src="{{ project.image }}" alt="{{ project.title }}"></a>
         <span class="post-meta">{{ project.date | date: "%m/%Y" }}</span>
       </div>
     {% endfor %}
   </div>
 
 </div>
-<script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>

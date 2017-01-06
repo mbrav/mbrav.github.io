@@ -27,8 +27,10 @@ collections:
 
 # Build settings
 markdown: kramdown
+
 gems:
   - jekyll-seo-tag
+
 exclude:
   - README.md
   - Gemfile

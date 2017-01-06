@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hume’s Conception about Impressions"
-date:   2016-11-8 20:00:00 -0400
+date:   2016-11-8 20:00:00 -0500
 categories: essay
 tags: philosophy
 ---

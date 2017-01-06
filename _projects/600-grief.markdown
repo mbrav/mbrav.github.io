@@ -4,6 +4,7 @@ title:  "600 Grief"
 date:   2016-08-14
 image: "https://c1.staticflickr.com/9/8438/29417930580_3822ebf3c5_c.jpg"
 excerpt: "A creature from millions light years away that mourns and griefs a deceased fellow. A meditation on how grieving may be a universal language of every form of life."
+medium: "Physical Object / Narrative"
 ---
 
 <iframe src="https://player.vimeo.com/video/183026282?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paths Towards Collective Intelligence (WIP)"
-date:   2016-10-06 16:00:00 -0400
+date:   2016-10-06 16:00:00 -0500
 categories: essay
 ---
 

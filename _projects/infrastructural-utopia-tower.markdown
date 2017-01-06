@@ -4,6 +4,7 @@ title:  "Infrastructural Utopia Tower"
 date:   2016-05-22
 image: "https://c1.staticflickr.com/9/8674/28310046481_76696628b6_c.jpg"
 excerpt: "A speculative installation that envisions an utopian idealization of digital infrastructure. Contrary to its ideal, the tower in practice is a surveilled packet-sniffing wi-fi hotspot."
+medium: "Physical Installation"
 ---
 
 <iframe src="https://player.vimeo.com/video/166409996?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
