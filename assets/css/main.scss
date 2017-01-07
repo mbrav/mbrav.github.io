@@ -14,16 +14,31 @@ $text-color: #444;
 $header-color: #444;
 $link-color: #444;
 
+html {
+  font-size: 15px;
+}
+
 body {
-  padding: 18px;
-  margin: 6px;
+  margin: 28px;
   font-family: $base-font-family;
   color: $text-color;
-  background-color: #fcfcfc;
+  background-color: #fffff8;
 
   h1, h2, h3, h4, h5, h6 {
     font-family: $header-font-family;
     color: $header-color;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  h2 {
+    font-size: 2.0rem;
+  }
+
+  h3 {
+    font-size: 1.7rem;
   }
 
   a {
@@ -56,27 +71,62 @@ nav {
     }
   }
 
-  ul {
+  ol, ul {
     padding-left: 0;
     list-style-type: none;
-    line-height: 1.5em;
-    letter-spacing: 0.08em;
+    line-height: 2rem;
+    letter-spacing: 0.08rem;
+    font-size: 1.4rem;
   }
 }
 
 main {
-  overflow: hidden; /*life saver, worth dedicating */
+  overflow: hidden;
   max-width: 680px;
 
   .post-title {
     margin-top: 0px;
-    margin-bottom: 26px;
+  }
+
+  .post-content {
+    p, ol, ul {
+      font-size: 1.4rem;
+    }
+    ul li {
+      list-style-type: square;
+      line-height: 1.26em;
+    }
+    ol li {
+      line-height: 1.26em;
+    }
+    p {
+      line-height: 2rem;
+      margin-top: 1rem;
+      margin-bottom: 2.6rem;
+      padding-right: 0;
+      vertical-align: baseline;
+    }
+    .footnotes ol li p {
+      margin-top: 0.8rem;
+      margin-bottom: 0.8rem;
+    }
+  }
+
+  .list {
+    .post-list-title {
+      margin-top: 0px;
+      a {
+        border-bottom: 0;
+      }
+    }
+  }
+
+  header .post-meta {
+    font-size: 1.2rem;
   }
 
   // stretch the content
   p {
-    letter-spacing: -.02em;
-    line-height: 1.4em;
     img {
       height: auto;
       width: auto;
@@ -90,19 +140,8 @@ main {
   }
 
   blockquote {
-    margin-left: 30px;
-    margin-right: 30px;
     border-left: 3px solid #CCC;
-  }
-
-  .post-content {
-    ul li {
-      list-style-type: square;
-      line-height: 1.26em;
-    }
-    ol li {
-      line-height: 1.26em;
-    }
+    padding-left: 1rem;
   }
 
   // for the portrait in introduction page
@@ -112,11 +151,6 @@ main {
     float: left;
     margin: 10px;
     margin-left: 0;
-  }
-
-  .footnote {
-    position: absolute;
-    display: inline-block;
   }
 }
 
@@ -139,7 +173,7 @@ main {
 
     img {
       width: 100%;
-      position: center center; 
+      position: center center;
     }
   }
 }
@@ -171,16 +205,15 @@ main {
     width: 100%;
     margin: 0;
     max-width: 100%;
-
-    p, h1, h2, h3, h4, h5, h6 {
-      margin: 12px;
-    }
   }
 
   .container {
     .tile {
       margin: 1%;
       width: 46%;
+      h3 {
+        margin-bottom: 0;
+      }
     }
   }
 }

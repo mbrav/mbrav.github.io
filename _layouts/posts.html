@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="list">
 
   {{ content }}
 
   {% for post in site.posts %}
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <span class="post-category">{{ post.categories }}</span>
-    <h3 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h3 class="post-list-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
   {% endfor %}
 
 	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
