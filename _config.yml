@@ -26,7 +26,7 @@ collections:
     permalink: project/:title
   journals:
     output: true
-    permalink: journals/:year/:month/:day/:title
+    permalink: journals/:year/:month/:day
 
 # Build settings
 markdown: kramdown
