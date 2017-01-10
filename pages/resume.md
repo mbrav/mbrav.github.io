@@ -1,10 +1,10 @@
 ---
 layout: page
-title: resume
+title: Resume
 permalink: /resume
 ---
 
-*Creative Technology, Physical Computing, Interdisciplinary Design, and Installation Art*
+*Creative Technology*, *Physical Computing* and *Installation Art*
 
 ## Eduction
 [Parsons School of Design](http://www.newschool.edu/parsons/) New York, NY <br>
@@ -28,10 +28,10 @@ October 2016 - November 2016. Brooklyn, NY.
 
 ## Exhibitions & Public Works
 [Tangram](https://www.facebook.com/events/860600520716726) <br>
-**May 2016**, New York, NY.
+May 2016, New York, NY.
 
 [Rentity concept](https://www.crunchbase.com/organization/rentity#/entity) design at [Design and Hack](https://events.newschool.edu/event/design_and_hack_opening_ceremonies_hackathon) <br>
-**November 2014**, New York, NY.
+November 2014, New York, NY.
 
 ## Skills
 - Creative Coding (Processing, Open Frameworks, GLSL, etc.)

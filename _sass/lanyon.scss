@@ -1,0 +1,25 @@
+@import
+	"lanyon/poole",
+	"lanyon/lanyon",
+	"lanyon/syntax";
+
+/* Custom Sidebar Color for Lanyon */
+.theme-base-custom .sidebar,
+.theme-base-custom .sidebar-toggle:active,
+.theme-base-custom #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: $custom-sidebar-color;
+}
+.theme-base-custom .container a,
+.theme-base-custom .sidebar-toggle,
+.theme-base-custom .related-posts li a:hover {
+  color: $custom-sidebar-color;
+}
+
+.theme-base-custom .sidebar-toggle:active:before,
+.theme-base-custom #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-custom #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, $custom-sidebar-color 20%, $custom-sidebar-color 40%, #fff 40%, #fff 60%, $custom-sidebar-color 60%, $custom-sidebar-color 80%, #fff 80%, #fff 100%);
+  background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, $custom-sidebar-color 20%, $custom-sidebar-color 40%, #fff 40%, #fff 60%, $custom-sidebar-color 60%, $custom-sidebar-color 80%, #fff 80%, #fff 100%);
+  background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, $custom-sidebar-color 20%, $custom-sidebar-color 40%, #fff 40%, #fff 60%, $custom-sidebar-color 60%, $custom-sidebar-color 80%, #fff 80%, #fff 100%);
+  background-image:         linear-gradient(to bottom, #fff, #fff 20%, $custom-sidebar-color 20%, $custom-sidebar-color 40%, #fff 40%, #fff 60%, $custom-sidebar-color 60%, $custom-sidebar-color 80%, #fff 80%, #fff 100%);
+}

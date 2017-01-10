@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+date: "2017-01-10 11:15:53 -0500"
+---
+
+I am a very excited fan of technological advancements, especially in the realm of space technology, clean energy, and computing. But at the same time, I'm trying to be aware of how human obsession with technologic and scientific advancements, creates an alienating view about the world. We all ascribe things in terms of objective descriptions, assuming that it is the "best" or most "rational" way to look at the world. In fact, we are so obsessed with conceiving the world with an objective view, that we are in the process of building machines that could accomplish the task. But leaves out the potential for us to view and imagine the world in way, nobody else had imagined before; from a subjective point of view .
+
+Hannah Arendt in her book *The Human Condition*, mentions a very interesting quote:
+
+> The modern astrophysical world view, which began with Galileo, and it's challenge to the adequacy of the senses to reveal reality, have left us a universe of whose qualities we know no more than the way they effect our measuring instruments.[^Hannah Arendt, *The Human Condition*, p. 261]
+
+Arendth claims that word alienation is the hallmark of modern sciences.[^*Ibid*, p.264] Algebra as Arendth claims, is a device of modern mathematics that succeeded in freeing ourselves from terrestrial measurements, the foundations of Ancient Greek geometry and even numerous extents, even modern geometry.
+It is the reduction of "terrestrial sense data and movements to mathematical symbols."[^*Ibid*, p.265]

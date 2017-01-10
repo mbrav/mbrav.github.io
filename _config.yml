@@ -1,8 +1,10 @@
 
-# Contact
+# Setup
 title: Michael Braverman
-author: Michael Braverman
 email: bravm321@newschool.edu
+description: "Michael Braverman's portfolio site"
+baseurl: ""
+url: "http://www.mbrav.com"
 
 # Social Media
 twitter_username: mixania
@@ -11,10 +13,6 @@ vimeo_username: mbrav
 instagram_username: mbrav_
 flickr_username: mixania
 soundcloud_username: mixania
-
-description: A blog and collection of essays and writings that explore design, knowledge, and aesthetics.
-baseurl: ""
-url: "http://www.mbrav.com"
 
 # Custom names for different kinds of collections
 collections:
@@ -26,24 +24,33 @@ collections:
     permalink: project/:title
   journals:
     output: true
-    permalink: journals/:year/:month/:day
+    permalink: journal/:year/:month/:day
 
 # Build settings
 markdown: kramdown
-
-gems:
-  - jekyll-seo-tag
-
+sass:
+  style: compressed
 exclude:
-  - README.md
+  - LISCENSE.md
   - Gemfile
   - Gemfile.lock
 
-# for jekyll-seo-tag
+# Custom gems
+gems:
+  - jekyll-seo-tag
+
+# For jekyll-seo-tag
 twitter:
   username: mixania
 
-# For Atom editor
+# For Disqus comments
+disqus:
+  shortname: bravm
+
+assets:
+  digest: true
+
+# For Atom Jekyll plugin
 atom:
   postDirs:
     - _projects

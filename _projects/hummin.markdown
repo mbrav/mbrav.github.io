@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Hummin"
+date:   2016-09-14
+image: "https://c2.staticflickr.com/8/7484/29628885231_f997dba9e5_c.jpg"
+excerpt: "A physical object made out of an CRT screen and a programmed Arduino. Inspired by a humanoid character from Isaac Asimov’s Foundation series."
+medium: "Physical Object"
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pw8o-xjXaz8" frameborder="0" allowfullscreen></iframe>
+
+- [Hummin on GitHub](https://gist.github.com/mbrav/fd56ff01b985699b3825df33c41ff7b4)
+- [Blog Post](https://bfadtdeviceart.wordpress.com/2016/09/06/hummin/) of the building process
+
+This is a project called “*Hummin*”, inspired by a humanoid character from Isaac Asimov’s *Foundation* series. The name is pronounced as “human” and was used by a humanoid robot who concealed his benevolent robotic nature from humans, for the sake of maintaining the integrity of the galactic empire. The object consists of what appeared to be a broken CRT cathode tube display and an Arduino. After fiddling around with the electronics, I found some connection areas that influenced the visuals on the screen. I used an Arduino to trigger and flickr these components with the visuals transforming into an outcome.
+
+I repurposed this scrap of electronic parts and created a device that plays music while blinking the display. The aesthetic feel that the cathode tube entails is quite compelling which motivated me to take this project a step further. The plan is to create a procedurally generating music device that displays procedurally generated visuals as well. I’m yet to predict what the final outcome would be. But here is the progress done thus far.

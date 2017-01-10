@@ -2,12 +2,14 @@
 layout: post
 title:  "Extensions of Bias"
 date:   2016-12-08
-image: "https://c2.staticflickr.com/6/5551/30620093464_1e20da06d6_c.jpg"
+image: "https://c1.staticflickr.com/1/267/32193124916_b3e6fa24e2_c.jpg"
 excerpt: "A speculative new media art installation about how media technology is actively shaping our increasingly biased human natures."
 medium: "Physical Installation"
 ---
 
 <iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Starring: Jennifer Lee
 
 * [Raspberry Pis]
 * [Character LCDs]
@@ -15,6 +17,7 @@ medium: "Physical Installation"
 * [Twitter API]
 * [Network switch]
 * [Ethernet]
+
 
 [Extensions of Bias on Github](https://github.com/mbrav/bias)
 

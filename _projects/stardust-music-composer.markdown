@@ -9,7 +9,7 @@ medium: "Interactive Music Composition Tool"
 
 <iframe src="https://player.vimeo.com/video/177885335?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Stardust Composer on GitHub](https://github.com/mbrav/StardustComposer)
+- [Stardust Composer on GitHub](https://github.com/mbrav/StardustComposer)
 
 *Stardust Music Composer* is an experiment that emphasizes on interactivity and visualization and combining it with music composition. Current Digital Audio Workstation (DAW) software used for music production by professionals, does not incorporate any aspects of interaction outside of the technical realm. This experimental project seeks to add a visual element to the music production process and combine it with an interactive aspect.
 

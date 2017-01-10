@@ -1,14 +1,12 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /
 ---
 
- **work in progress... will eventually replace my portfolio site once it starts to look prettier and everything gets migrated.**
-
 <p><img src="assets/img/head.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
 
-He identifies himself as an *aspiring generalist*, an *unreserved tinkerer*, and an *agitated theorizer*. At present, he is a student at Parsons School of Design studying BFA Design & Technology and Philosophy as a secondary major. His investigations explore the peripheries where design and technology meet — a place where human artifice succumbs in the universalizing ideals of technocratic quantization and determination. Michael’s focuses can be defined as a *creative technologist*, *new media artist*, and ~~*interaction designer*~~ *reflection designer*.
+He identifies himself as an *aspiring generalist*, an *unreserved tinkerer*, and an *agitated theorizer*. At present, he is a student at Parsons School of Design studying BFA Design & Technology and Philosophy as a secondary major. His investigations explore the peripheries where design and technology meet — a place where human artifice succumbs in the universalizing ideals of technocratic quantization and determination. Michael’s focuses can be defined as a *creative technologist*, *new media artist*, and *interaction designer*.
 
 Michael’s experiences range from creative/experimental web projects (including this site), to new media art installations built using the Arduino and Raspberry Pi platforms. His other skills include creative coding using JavaScript, WebGL, openFrameworks and Processing libraries, sound effect & music production, 3d animation, photography and video editing.
 
