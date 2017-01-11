@@ -13,6 +13,8 @@ vimeo_username: mbrav
 instagram_username: mbrav_
 flickr_username: mixania
 soundcloud_username: mixania
+medium_username: mbrav
+tumblr_username: bravm
 
 # Custom names for different kinds of collections
 collections:
@@ -29,7 +31,7 @@ collections:
 # Build settings
 markdown: kramdown
 sass:
-  style: compressed
+  # style: compressed
 exclude:
   - LISCENSE.md
   - Gemfile

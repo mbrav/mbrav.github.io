@@ -8,14 +8,25 @@ $custom-sidebar-color: #7e90ad;
 ul {
 	list-style-type:square;
 }
+
+// for videos
 iframe {
 	height:300px;
 	width:100%;
 }
+
+.sidebar-item svg {
+	margin: 3px;
+	width: 18px;
+	height: 18px;
+	fill: white;
+}
+
 .post-meta {
 	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+// protrait photo
 #portrait {
 	width: 100px;
   border-radius: 50px;
@@ -24,28 +35,52 @@ iframe {
   margin-left: 0;
 }
 
+// project tiles
 .container .tile {
+	font-size: 1em;
+	h3 {
+		font-size: 1em;
+	}
 	display:inline-block;
-	margin:0.5%;
-	padding:20px;
 	width:31%;
 	border-radius:5px;
+
+	// three tiles
+	margin:0.5%;
+	padding:20px;
 
 	// Center image
 	background-size:cover;
 	background-position:center center;
 	vertical-align:middle;
 }
+
 @media (max-width: 56em) {
+	// two tiles
 	.container .tile {
 		width:47%;
 		margin:1%;
 	}
 }
-@media (max-width: 32em) {
+
+@media (max-width: 30em) {
+	// one tile
 	.container .tile {
 		margin-left:0;
 		margin-right:0;
 		width:100%;
 	}
+	// full sidebar on mobile
+	#sidebar {
+		width: 100%;
+	}
+
+	.sidebar-toggle {
+		display: inline-block;
+    position: fixed;
+		// toggle on the right side
+		left: auto;
+		right: 1rem;
+	}
+
 }
