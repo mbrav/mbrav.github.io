@@ -3,7 +3,7 @@ layout: post
 title:  "Flowing Pagoda "
 date:   2015-12-16
 image: "https://c1.staticflickr.com/9/8819/27772928563_557a48d304_o.png"
-excerpt: "An animation made in Processing 3 that depicts a pagoda going patiently through the four seasons of the year. "
+excerpt: "An animation made in Processing 3 that depicts a pagoda patiently living through the four seasons of the year. "
 medium: "Processing Animation"
 ---
 
@@ -11,7 +11,7 @@ medium: "Processing Animation"
 
 - [Flowing Pagoda on GitHub](https://github.com/mbrav/FlowingPagoda)
 
-According to the philosophy that this project manifests, everything that constitutes the world, relies on a process of *rebirth* and *decay*. Each moment is an experience of our active mind-state. This allows the mind-state to experience thoughts, memories, feelings, and perceptions. The mind-state arises, exists for a certain period of time, and because of its impermanent nature, it eventually decays. But even after it decayed, its process of rebirth will always be on its way. The process thus repeats, just like Spring, Summer, Autumn, and Winter. This process is poetic in its nature.
+According to the philosophy that this project manifests, everything that constitutes the world, relies on a process of *rebirth* and *decay*. Each moment is an experience of our active mind-state. This mind-state allows us to experience thoughts, memories, feelings, and perceptions. The mind-state arises, exists for a certain period of time, and because of its impermanent nature, it eventually decays. But even after it decayed, its process of rebirth will always be on its way. The process thus repeats, just like Spring, Summer, Autumn, and Winter. It is a process that is poetic in its nature.
 
 The consciousness is a continuous series of births and decays. The beauty behind this philosophy, is that despite the abundant number of decaying processes in the natural world, rebirth always remains their most persistent aspect. Even if something seems to be in a state of eternal decay, let one be assured that the cycle may be longer than one might expect.
 

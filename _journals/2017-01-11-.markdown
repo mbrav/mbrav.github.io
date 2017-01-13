@@ -1,0 +1,25 @@
+---
+layout: post
+title: ""
+date: "2017-01-11 20:53:44 -0500"
+tags: [technology, science, bias, instrument, Arendt, math]
+---
+
+Based on the journal that I written [a few days ago](/journal/2017/01/08), I decided that it would be a good thing to reflect on my dispositions and see how I can confront them, and even try to convince myself otherwise. I feel that as a person who recently finished a work that speculates on [human confirmation bias](/project/extensions-of-bias), I should be determined to entertain thought an ideas that are not always fully inline with my beliefs.
+
+I can consider myself as an excited fan of certain technological advancements, especially in the realm of space technology, clean energy, and computing. But at the same time, I'm trying to be aware of how human obsession with technologic and scientific advancements, also form an alienating view about the world. We all ascribe things in terms of objective descriptions, assuming that it is the "best" or most "rational" way to look at the world. In fact, we are so obsessed with conceiving the world with an objective view, that we are in the process of building machines that could accomplish the task. But this potentially leaves out the freedom to exercise one of the most important things that we posses – our free will. We have the potential to imagine the world in way, nobody else had imagined before; from a subjective point of view, which life has given us an ability to have.
+
+It is interesting to observe how humans have moved away from perceiving the world according to its natural form, to a way that is becoming increasingly symbolized by mathematical and scientific notation, or mediated by some technology. to Hannah Arendt in her book *The Human Condition*, mentions a very interesting quote:
+
+> The modern astrophysical world view, which began with Galileo, and it's challenge to the adequacy of the senses to reveal reality, have left us a universe of whose qualities we know no more than the way they effect our measuring instruments.[^449ac390]
+
+Humans make hypothesis that are then later answered by an experiment that uses some form of an instrument. This instrument is used to either confirm a hypothesis, or to object it. But when we accept a reading from an instrument as a confirmation of a hypothesis and establish it as a *truth*, then we also accept how the instrument views the world, as apposed to the way we may do it naturally.
+
+Arendt claims that word alienation is the hallmark of modern sciences.[^f68e51d6] Technological advancements are the drivers for the production of new instruments that allow us to make scientific discoveries. And scientific discoveries are the drivers to how we think and perceive the world. As we manifest this way of perceiving the world, science and technology determine our know-how that is "derived from [the] cosmic and universal", which can be distinguished from the "terrestrial and natural."[^ba440aa1]
+
+Algebra as Arendth claims, is a device of modern mathematics that succeeded in freeing ourselves from terrestrial measurements, the foundations of Ancient Greek geometry and even numerous extents, even modern geometry.It is the reduction of "terrestrial sense data and movements to mathematical symbols."
+
+[^449ac390]: Hannah Arendt, *The Human Condition*, p. 261
+[^f68e51d6]: *Ibid*, p.264
+[^ba440aa1]: *Ibid*, p.268
+[^268]: *Ibid*, p.265

@@ -31,7 +31,8 @@ collections:
 # Build settings
 markdown: kramdown
 sass:
-  # style: compressed
+  style: compressed
+
 exclude:
   - LISCENSE.md
   - Gemfile
@@ -49,8 +50,8 @@ twitter:
 disqus:
   shortname: bravm
 
-assets:
-  digest: true
+# assets:
+#   digest: true
 
 # For Atom Jekyll plugin
 atom:

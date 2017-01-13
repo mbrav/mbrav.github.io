@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Symbolic View of the Earth"
+date: "2017-01-12 13:32:36 -0500"
+---
+
+We live in a world where technologic and scientific advancements reveal the way we perceive the world. Gone are the days when we contemplated or guessed what the weather would be the next day, we now have access to such information at the edge of our fingertips. Instead of relying on our intuition and observation, we now rely on symbolic systems and technologies of various kinds to perceive the world; algebra, logic, statistics, computation, and scientific instruments.
+
+Weather prediction is a perfect example of how human observation was substituted by mathematical symbolic representation. Instead of taking a glimpse at the weather outside to predict the weather for tomorrow, we trust the information represented in numerical symbols on our devices. And it seems, that this approach is universally correct, even if we one day apply this method to predict the weather on Mars; and as a technologically advancing society, we affirm that this form of correctness is a prerequisite for the majority of advancements we make.
+
+Arendt claims that word alienation is the hallmark of modern sciences.[^c2f10daf] As we manifest this way of perceiving the world, science and technology determine our know-how that is "derived from [the] cosmic and universal", which can be distinguished from the "terrestrial and natural."[^d2c33aab] A well built scientific instrument will yield a precise reading whether it is on Earth, on Mars, or on the opposite side of our galaxy. It would thus yield a more universal and objective measurement than a human could. But is it necessary to substitute the way we perceive the world to an extent that we understand it in a way that is no different than the way an scientific instrument would understand it?
+
+But what is this tendency to describe things according to their universal qualities? Hannah Arendt in her book *The Human Condition*, mentions a very interesting quote:
+
+> The modern astrophysical world view, which began with Galileo, and it's challenge to the adequacy of the senses to reveal reality, have left us a universe of whose qualities we know no more than the way they effect our measuring instruments.[^10db5f0c]
+
+We all ascribe things in terms of objective descriptions, assuming that it is the "best" or most "rational" way to look at the world. In fact, we are so obsessed with conceiving the world with a universal objective view, that we are in the process of building machines that could accomplish the task. But leaves out the potential for us to view and imagine the world in way, nobody else had imagined before; from a humanistic point of view.
+
+This natural progression of technologic development
+**Heidegger: history of mankind becomes history of technology** There comes a point, where humans are no longer the predominant subjects that perceives the world. If the way we see the world is being increasingly substituted with instruments and technology, then that means technology, in whatever broad sense it can be defined, becomes the predominant observer. This state of humans, as Ardent and Heidegger define as the *human condition*, doesn't require a takeover by sentient machines or an Artificial Intelligence (AI). It occurs at a more subtle, but nevertheless significant level.
+
+Algebra as Arendt claims, is a device of modern mathematics that succeeded in freeing ourselves from terrestrial measurements, the foundations of Ancient Greek geometry and even numerous extents, even modern geometry. It is the reduction of "terrestrial sense data and movements to mathematical symbols."[^244cba7e]
+
+Even the mere act of *contemplation* and *observation* was substituted by *doing*.[^bad2a1b8] Even the word thought, as we define it according to our modern notions, is alien to the act of *contemplation* from Greek "contemplation" which means "an attentive considering, a viewing, surveying". Knowing, is associated with the know-how, which is increasingly substituting the act of contemplation. As Plato and Socrates put it, contemplation was "understood as the inner dialogue in which on speaks with himself".[^4bd4172f] It requires one to cease his concern with the outer world and his objective reasoning. Such an outward inactive process is highly active inwardly, as apposed the complete stillness in which truth is revealed to man.
+
+Today, the act of *contemplation* has become meaningless.
+
+~~That act of contemplation was simplified into a thought, and a thought was simplified into what today is called data science; a field of activity that takes nothing but numbers, marks and symbols, and produces something that we now regard as meaningful.~~
+
+Now philosophy is struggling to keep up with scientific and technologic advancements, its importance and influenced had decreased as never before. Whether it is the the discovery of a new particle in physics, it has become an increasingly insignificant to provide a philosophical insight. We no longer pose the old questions "what" or "why" which  ow has become a direct substitute by the question of "how".[^b83ed4e9]
+
+Or more so, contemplation is no longer  even possible since the only why humans think about these discoveries is through symbols and mathematical connotations, that are so alien to act of contemplation. Scientific advancements are increasingly reliant on manufacturing of new tools and instruments. In fact, some discoveries would have never made such as if Galileo hadn't had a telescope. The product of human fabrication is the main driver of technological advancements, which in turn is the driver of scientific discoveries, and which in turn the driver to how we think and perceive the world.
+
+As Arendt puts it, *Vita Activa* is dead and *Homo Faber* won.[^9b452d98] What this ultimately drives at, is that the knowledge about things are no longer objects of knowledge,[^8fc48ca7] but some processes that have happened to happen inside the minds of upright walking apes that currently live on Earth. The most important occurrence that constitutes life; Being was replaced by Process.
+
+Plato believed the leaving things in the realm of theoretic ideas is better than attempting to imitate the image through fabrication.[^e0976831] The ideas are no longer enjoyed for their own sake, but for the sake of they being fabricated. How often do we hear **brig your idea to life**
+
+[^10db5f0c]: Hannah Arendt, *The Human Condition*, p. 261
+[^d2c33aab]: *Ibid*, p.268
+[^c2f10daf]: *Ibid*, p.264
+[^244cba7e]: *Ibid*, p.265
+[^4bd4172f]: *Ibid*, p.291
+[^bad2a1b8]: *Ibid*, p.290
+[^b83ed4e9]: *Ibid*, p.295
+[^8fc48ca7]: *Ibid*, p.296
+[^9b452d98]: *Ibid*, sec.42
+[^e0976831]: *Ibid*, p.303

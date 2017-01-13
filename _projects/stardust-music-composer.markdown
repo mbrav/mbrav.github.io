@@ -2,7 +2,7 @@
 layout: post
 title:  "Stardust Music Composer"
 date:   2015-11-14
-image: "https://c1.staticflickr.com/9/8787/28389454205_6c3c3ffe1a_c.jpg"
+image: "https://c1.staticflickr.com/9/8787/28389454205_6c3c3ffe1a.jpg"
 excerpt: "A Processing 3 experiment that emphasizes on interactivity, visualization, and combining it with music composition."
 medium: "Interactive Music Composition Tool"
 ---

@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Ice Nine"
+date: 2016-11-05
+image: "https://c2.staticflickr.com/6/5706/30441769776_245fc2f92d.jpg"
+excerpt: "WebGL experiments using three.js that illustrate the unleashing of Ice Nine, a fictional substance from Kurt Vonnegut's novel 'Cat’s Cradle'."
+medium: "WebGL Art"
+---
+
+## The Pre-Ice Condition
+
+![](https://c2.staticflickr.com/6/5574/29847493484_9146a017aa_c.jpg)
+In Kurt Vonnegut’s novel *Cat’s Cradle*, Ice IX (Ice Nine) is a substance that was developed by the Manhattan Project, which is also notoriously known for developing the first atom bomb in complete secrecy during World War II. When the bomb was finally used on Hiroshima and Nagasaki, the world realized the destructive potential of the atom bomb -- among these people, was J. Robert Oppenheimer, know as "the father of the atomic bomb". He, like no one else, witnessed what it is like to develop a mechanism, whose power dwarfs everything that was previously created by mankind.
+
+>Now I am become Death, the destroyer of worlds.(J. Robert Oppenheimer)
+
+Similar to the atom bomb, Ice IX was developed so that the Marines would no longer need to deal with mud, since Ice IX is supposedly polymorph of water, that increases the freezing temperature of water from 0 to 46 Celsius. This Ice Nine was abandoned when it becomame clear that any quantity of it would have the power to destroy all life on earth. A global catastrophe involving freezing the world's oceans with ice-nine is used as a plot device in Vonnegut's novel.
+
+
+## Ice Nine Unleashed
+
+This is the part where Ice Nine is unleashed. It was contained in a bottle that was accidentally opened and what followed was that all the water on Earth started to crystallize at a higher temperature. This is an excerpt from Vonnegut’s novel:
+
+>There was a sound like that of the gentle closing of a portal as big as the sky, the great door of heaven being closed softly. It was a grand AH-WHOOM. I opened my eyes - and all the sea was ice-nine. The moist green earth was a blue-white pearl. The sky darkened. ... The sun became a sickly yellow ball, tiny and cruel. The sky was filled with worms. The worms were tornadoes. (Cat’s Cradle, Chapter 116)
+
+[Web Browser Interaction](http://www.mbrav.com/Lab-FA16/13/index.html)
+
+![](https://c2.staticflickr.com/6/5623/29847493454_f8c9841c99_c.jpg)
+![](https://c2.staticflickr.com/6/5476/29845945283_6058071e42_c.jpg)
+![](https://c2.staticflickr.com/6/5720/29845945323_8a3029f8a1_c.jpg)
+
+## Green-Ice Resistance
+
+This is an abstract representation of the resistance that humans attempt to make in order to stop the spread of Ice Nine.
+
+[Web Browser Interaction](http://www.mbrav.com/Lab-FA16/14/index.html)
+
+![](https://c2.staticflickr.com/6/5706/30441769776_245fc2f92d_c.jpg)
+![](https://c2.staticflickr.com/6/5516/30391706841_441f95e50d_c.jpg)
+![](https://c2.staticflickr.com/6/5819/29847493784_7f9b727bf9_c.jpg)
+
+## Post-Ice Condition
+
+All Earth’s oceans are now solidified. Life can no longer form. What have humans done...
+
+[Web Browser Interaction](http://www.mbrav.com/Lab-FA16/15/index.html)
+
+![](https://c2.staticflickr.com/6/5611/30441769956_5007353033_c.jpg)
+![](https://c2.staticflickr.com/6/5511/30441770026_ec3031fdfc_c.jpg)
+![](https://c1.staticflickr.com/9/8649/29847494004_a9dce0af9c_c.jpg)
+![](https://c2.staticflickr.com/6/5592/30441770106_86c3887114_c.jpg)
+
+Coded with [three.js](https://threejs.org/), a WebGL JavaScript library.
+
+[Ice Nine on GitHub](https://github.com/mbrav/Lab-FA16) (part of the Lab Class experiments)

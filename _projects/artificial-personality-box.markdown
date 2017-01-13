@@ -2,9 +2,9 @@
 layout: post
 title:  "Artificial Personality Box"
 date:   2015-05-22
-image: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1_c.jpg"
+image: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1.jpg"
 excerpt: "Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities in objects by means of advancing technology."
-medium: "Physical Installation / Narrative"
+medium: "Physical Installation"
 ---
 
 <iframe src="https://player.vimeo.com/video/173251207?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hume’s Conception about Impressions"
+title:  "Hume on Impressions and Causation"
 date:   2016-11-8 20:00:00 -0500
 categories: essay
 tags: philosophy

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Finite Cogito and the Infinite Faculty of a Deceiving Being"
+title:  "The Finite Cogito"
 date:   2016-10-18 20:00:00 -0500
 categories: essay
 tags: philosophy

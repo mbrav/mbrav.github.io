@@ -15,6 +15,7 @@ iframe {
 	width:100%;
 }
 
+// social media icons
 .sidebar-item svg {
 	margin: 3px;
 	width: 18px;
@@ -24,6 +25,12 @@ iframe {
 
 .post-meta {
 	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	display: block;
+}
+
+.post-list-title, .post-meta{
+	// display: inline-block;
 }
 
 // protrait photo
@@ -38,21 +45,50 @@ iframe {
 // project tiles
 .container .tile {
 	font-size: 1em;
-	h3 {
-		font-size: 1em;
-	}
 	display:inline-block;
 	width:31%;
 	border-radius:5px;
 
 	// three tiles
 	margin:0.5%;
-	padding:20px;
 
 	// Center image
 	background-size:cover;
 	background-position:center center;
 	vertical-align:middle;
+
+	.tile-wrapper {
+		margin: 38px;
+		padding: 8px;
+		border-radius: 8px;
+
+		h3 {
+			display: inline-block;
+
+			margin: 0;
+			padding: 4px;
+			padding-left: 6px;
+			padding-right: 6px;
+
+			border-radius: 2px;
+			color: $custom-sidebar-color;
+			background-color: white;
+			font-size: 1em;
+		}
+		.post-meta {
+			display: inline-block;
+
+			padding: 1px;
+			padding-left: 4px;
+			padding-right: 4px;
+			border-radius: 2px;
+
+			font-size: 12px;
+			text-transform: uppercase;
+			color: white;
+			background-color: #313131;
+		}
+	}
 }
 
 @media (max-width: 56em) {
