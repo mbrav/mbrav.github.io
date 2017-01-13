@@ -11,13 +11,15 @@ layout: default
     {% endif %}
   </br>
     <!-- word count  -->
-    {% assign words = content | number_of_words %}
-    {% if words < 360 %}
-      1 min
-    {% else %}
-      {{ words | divided_by:180 }} mins
+    {% if page.path contains '_posts' or page.path contains '_journals'%}
+      {% assign words = content | number_of_words %}
+      {% if words < 360 %}
+        1 min
+      {% else %}
+        {{ words | divided_by:180 }} mins
+      {% endif %}
+      read ({{ words }} words)
     {% endif %}
-    read ({{ words }} words)
   </span>
     <span>
     </span>

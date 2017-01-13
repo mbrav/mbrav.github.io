@@ -50,6 +50,9 @@ twitter:
 disqus:
   shortname: bravm
 
+# For the AI-illuminati-conspiracy-big-data boys
+google_analytics: UA-78885933-1
+
 # assets:
 #   digest: true
 
