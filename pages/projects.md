@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects
 ---
 
+These are some of the project that I do in different mediums
+
 <div class="container">
 	{% for project in site.projects reversed %}
 		<a href="{{ project.url | prepend: site.baseurl }}">

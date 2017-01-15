@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sleep Data Abyss"
-date:   2016-10-14
+title: "Sleep Data Abyss"
+date: 2016-10-14
 image: "https://c1.staticflickr.com/9/8600/29629268244_e10ab41e98.jpg"
-excerpt: "A meditation on our relation with our personal data. If we constantly extract meaning out of our personal data, what do we accomplish as humans?."
+excerpt: "A meditation on our relation with our personal data. If we constantly extract meaning out of our personal data, what do we accomplish as humans?"
 medium: "Web Art / Data Visualization "
 ---
 

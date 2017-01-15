@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Shaders"
-date: 2016-11-16
-image: "https://c1.staticflickr.com/9/8578/28524788990_3f76b39b23.jpg"
+title: "Eccentric Shaders"
+date: 2016-08-16
+image: "https://c1.staticflickr.com/1/274/31498731173_2ce18933fd.jpg"
 excerpt: ""
 medium: "WebGL Art"
 ---

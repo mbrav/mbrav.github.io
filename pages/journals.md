@@ -2,6 +2,7 @@
 layout: page
 title: Journals
 permalink: /journals
+published: false
 ---
 
 Some journals that I write from time to time.

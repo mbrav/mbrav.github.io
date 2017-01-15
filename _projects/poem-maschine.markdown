@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Poem Maschine"
-date:   2015-04-22
+title: "Poem Maschine"
+date: 2015-04-22
 image: "https://c2.staticflickr.com/8/7675/28284474322_5efdb11d54.jpg"
-excerpt: "A thermal printer controlled by and Arduino that prints poems and lucky numbers."
+excerpt: "A thermal printer controlled by and Arduino that prints poems and lucky numbers. The Poem Maschine."
 medium: "Physical Object"
 ---
 

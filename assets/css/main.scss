@@ -1,4 +1,5 @@
 ---
+# process this file
 ---
 
 $custom-sidebar-color: #7e90ad;
@@ -43,14 +44,22 @@ iframe {
 }
 
 // project tiles
-.container .tile {
+.page .container {
+	padding-left: 0;
+	padding-right: 0
+}
+
+.page .container .tile {
 	font-size: 1em;
 	display:inline-block;
-	width:31%;
+	width:28%;
 	border-radius:5px;
 
 	// three tiles
-	margin:0.5%;
+	margin-left:1%;
+	margin-right:1%;
+	margin-top: 4px;
+	margin-bottom: 4px;
 
 	// Center image
 	background-size:cover;
@@ -58,7 +67,7 @@ iframe {
 	vertical-align:middle;
 
 	.tile-wrapper {
-		margin: 38px;
+		margin: 32px;
 		padding: 8px;
 		border-radius: 8px;
 
@@ -89,23 +98,39 @@ iframe {
 			background-color: #313131;
 		}
 	}
-}
-
-@media (max-width: 56em) {
-	// two tiles
-	.container .tile {
-		width:47%;
-		margin:1%;
+	.tile-wrapper:hover {
+		-webkit-transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
+    transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
+		opacity: 0.5;
 	}
 }
 
-@media (max-width: 30em) {
+@media (max-width: 38em) {
+	// two tiles
+	.page .container .tile {
+		width:47%;
+		margin-left:1%;
+		margin-right:1%;
+	}
+}
+
+@media (max-width: 26em) {
 	// one tile
-	.container .tile {
+	.page .container .tile .tile-wrapper{
+		margin: 20px;
+		.post-meta {
+			display: inline-block;
+		}
+	}
+
+	// one tile
+	.page .container .tile {
 		margin-left:0;
 		margin-right:0;
-		width:100%;
+		width: 100%;
+		min-height: 180px;
 	}
+
 	// full sidebar on mobile
 	#sidebar {
 		width: 100%;
@@ -118,5 +143,31 @@ iframe {
 		left: auto;
 		right: 1rem;
 	}
+}
 
+.slideshow {
+	margin-bottom: 24px;
+	// slideshow
+	.crop-img {
+		width: 100%;
+		height: 200px;
+		overflow: hidden;
+		border-radius: 2px;
+
+		img {
+			background-size:cover;
+			background-position:center center;
+			vertical-align:middle;
+			visibility: visible;
+			width: 100%;
+			/*background-blend-mode: lighten;*/
+		}
+	}
+
+	#img-caption {
+		margin-top: 6px;
+		text-align: right;
+		color: #BBB;
+		font-size: 80%;
+	}
 }
