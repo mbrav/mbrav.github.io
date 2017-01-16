@@ -46,64 +46,67 @@ iframe {
 // project tiles
 .page .container {
 	padding-left: 0;
-	padding-right: 0
-}
+	padding-right: 0;
+	.tile {
+		font-size: 1em;
+		display:inline-block;
+		width:28%;
+		border-radius:5px;
 
-.page .container .tile {
-	font-size: 1em;
-	display:inline-block;
-	width:28%;
-	border-radius:5px;
+		// three tiles
+		margin-left:1%;
+		margin-right:1%;
+		margin-top: 4px;
+		margin-bottom: 4px;
 
-	// three tiles
-	margin-left:1%;
-	margin-right:1%;
-	margin-top: 4px;
-	margin-bottom: 4px;
+		// Center image
+		background-size:cover;
+		background-position:center center;
+		vertical-align:middle;
 
-	// Center image
-	background-size:cover;
-	background-position:center center;
-	vertical-align:middle;
+		.tile-wrapper {
+			margin: 32px;
+			padding: 8px;
+			border-radius: 8px;
 
-	.tile-wrapper {
-		margin: 32px;
-		padding: 8px;
-		border-radius: 8px;
+			h3 {
+				display: inline-block;
 
-		h3 {
-			display: inline-block;
+				margin: 0;
+				padding: 4px;
+				padding-left: 6px;
+				padding-right: 6px;
 
-			margin: 0;
-			padding: 4px;
-			padding-left: 6px;
-			padding-right: 6px;
+				border-radius: 2px;
+				color: $custom-sidebar-color;
+				background-color: white;
+				font-size: 1em;
+			}
+			.post-meta {
+				display: inline-block;
 
-			border-radius: 2px;
-			color: $custom-sidebar-color;
-			background-color: white;
-			font-size: 1em;
-		}
-		.post-meta {
-			display: inline-block;
+				padding: 1px;
+				padding-left: 4px;
+				padding-right: 4px;
+				border-radius: 2px;
 
-			padding: 1px;
-			padding-left: 4px;
-			padding-right: 4px;
-			border-radius: 2px;
-
-			font-size: 12px;
-			text-transform: uppercase;
-			color: white;
-			background-color: #313131;
+				font-size: 12px;
+				text-transform: uppercase;
+				color: white;
+				background-color: #313131;
+			}
 		}
 	}
-	.tile-wrapper:hover {
-		-webkit-transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
-    transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
-		opacity: 0.5;
+
+	.tile:hover {
+		.tile-wrapper {
+			-webkit-transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
+			transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
+			opacity: 0.3;
+		}
 	}
 }
+
 
 @media (max-width: 38em) {
 	// two tiles
