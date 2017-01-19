@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bots, Trigonometry, Math, and Shaders"
-date:   2016-07-17 06:00:00 0200
+date:   2016-07-19 06:00:00 0200
 categories: study
 image: http://i.giphy.com/3o6ZtkTxyhvGyoSTzq.gif
 ---

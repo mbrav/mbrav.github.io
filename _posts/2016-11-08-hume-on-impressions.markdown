@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hume on Impressions and Causation"
-date:   2016-11-8 20:00:00 -0500
+date:   2016-11-08 20:00:00 -0500
 categories: essay
 tags: philosophy
 ---
