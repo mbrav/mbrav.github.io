@@ -7,7 +7,7 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}
   </br>
     <!-- word count  -->
-    {% if page.path contains '_posts' or page.path contains '_journals'%}
+    {% if page.path contains '_posts' or page.path contains '_drafts' or page.path contains '_journals'%}
       {% assign words = content | number_of_words %}
       {% if words < 360 %}
         1 min
