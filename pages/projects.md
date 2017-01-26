@@ -4,7 +4,9 @@ title: Projects
 permalink: /projects
 ---
 
-These are some of the project that I do in different mediums
+These are some of my projects which for the most part, explore and investigate how technology shapes our human condition and understanding about the world. Projects that align to this category are installations and electronic devices with their own speculations and/or narratives.
+
+Some projects also explore creative applications of such as Javascript, WebGL through the scope of data visualization, interactive experience, and generative art.
 
 <div class="container">
 	{% for project in site.projects reversed %}

@@ -9,7 +9,7 @@ var slideData = [
 		  'type': 'project',
 		  'imgFile': '{{ project.image }}',
 		  'title': '{{ project.title }}',
-		  'date': '{{ project.date | date: "%b / %Y" }}'
+		  'date': '{{ project.date | date: "%b %Y" }}'
 		},
 	{% endfor %}
 ];
@@ -44,7 +44,7 @@ function changeImg(time) {
     imageIndex = (imageIndex) % slideData.length;
   }
 
-  var imgText = slideData[imageIndex]["title"] + " (" + slideData[imageIndex]["date"]  + ")";
+  var imgText = slideData[imageIndex]["title"] + " - (" + slideData[imageIndex]["date"]  + ")";
 
 	console.log("slide " + imageIndex + ": " + imgText);
 
