@@ -31,6 +31,7 @@ collections:
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
 sass:
   style: compressed
 
@@ -46,7 +47,7 @@ gems:
 # For jekyll-seo-tag
 twitter:
   username: mixania
-  
+
 # For the AI-illuminati-conspiracy-data-tracking boys
 google_analytics: UA-90389714-1
 
