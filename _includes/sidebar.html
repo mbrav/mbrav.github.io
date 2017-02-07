@@ -11,8 +11,8 @@
   <nav class="sidebar-nav">
 
     {% for page in site.pages %}
-      {% if page.title %}
-      <a class="sidebar-nav-item" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+      {% if page.title and page.listed != false %}
+        <a class="sidebar-nav-item" href="{{ page.url | relative_url }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
 

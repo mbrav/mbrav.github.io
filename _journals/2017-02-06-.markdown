@@ -2,14 +2,14 @@
 layout: post
 title: ""
 date: "2017-02-06 14:55:20 -0500"
+tags: [readings, humanity]
 ---
 
 For some reason a good amount of time passed ever since I promised that I would be writing a journal every 2-3 days, but I guess I made a decision that sticking to such a schedule is only an immediate way of telling whether I'm progressing (by whatever context and definition) or not.
 
 I finished reading *Sapiens: A Brief History of Humankind* by Yuval Noah Harari which was a very insightful book about the history of humanity. The insight that I enjoyed in particular is how human collective progress entirely relies on the establishment of so called *social constructs* such as religions, ideologies, nationalities, economies, and cultures. These are agreements that have allowed humans to form large societies that would otherwise not be able to be maintained naturally.
 
-I have also come to a different view about economic globalization, and the driving force of capitalism when it is combined with scientific rationality. Science, industry and military technology intertwined only with the advent of the capitalist system and the Industrial Revolution. [^358e5bf8] It is in a way, an inevitable development that is needed to not allow humanity to extinguish itself under its own irrational desires.
-This is also relatable to a recent documentary that I have a been watching by Adam Curtis where he explores how Sigmund Freud's *psychoanalysis* was applied in US consumerism. A very interesting documentary.
+I have also come to a different view about economic globalization, and the driving force of capitalism when it is combined with scientific rationality. Science, industry and military technology intertwined only with the advent of the capitalist system and the Industrial Revolution.[^358e5bf8] It is in this way that this has become an inevitable development that is necessary to not allow humanity to extinguish itself under its own irrational desires. This is also relatable to a recent documentary that I have a been watching by Adam Curtis where he explores how Sigmund Freud's *psychoanalysis* methods where applied in US marketing and consumerism. A very interesting documentary.
 
 Now I'm reading Hegel's *Lectures on Aesthetics* for one of my classes. I think it is one of the most profound but difficult readings for understanding the nature of human art.
 
