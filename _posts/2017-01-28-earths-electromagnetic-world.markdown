@@ -3,7 +3,7 @@ layout: post
 title: "Sensing the Earth's Electromagnetic World"
 categories: study
 date: "2017-01-28 19:04:50 -0500"
-tags: earth science magnetosphere
+tags: [earth, science, magnetosphere]
 image: "http://www.thewire.co.uk/img/scale/500/242/2014/01/10/ESES_intro-15.jpg"
 ---
 
