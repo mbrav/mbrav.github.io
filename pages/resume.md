@@ -7,30 +7,32 @@ permalink: /resume
 *Creative Technology*, *Physical Computing* and *Installation Art*
 
 ## Eduction
-[Parsons School of Design](http://www.newschool.edu/parsons/) New York, NY <br>
-BFA in Design and Technology <br>
+[Parsons School of Design](http://www.newschool.edu/parsons/) New York, NY  
+BFA in Design and Technology  
 Class of May 2018
 
-[Eugene Lang](http://www.newschool.edu/lang/) New York, NY <br>
-BFA in Philosophy <br>
+[Eugene Lang](http://www.newschool.edu/lang/) New York, NY  
+BFA in Philosophy  
 Class of May 2019
 
-[Oxford Academy](http://www.oxfordacademy.net/) Westbrook, CT <br>
+[Oxford Academy](http://www.oxfordacademy.net/) Westbrook, CT  
 High School, 2012 - 2014
 
 ## Experience
 
-*Peer Mentor* at [Parsons School of Design](http://www.newschool.edu/parsons/) <br>
-March 2016 - Present. New York, NY.
+*Peer Mentor* at [Parsons School of Design](http://www.newschool.edu/parsons/)  
+March 2016 - Present.  
+New York, NY.
 
-*Communications Intern* at [Eyebeam](http://eyebeam.org/) <br>
-October 2016 - November 2016. Brooklyn, NY.
+*Communications Intern* at [Eyebeam](http://eyebeam.org/)  
+October 2016 - November 2016.   
+Brooklyn, NY.
 
 ## Exhibitions & Public Works
-[Tangram](https://www.facebook.com/events/860600520716726) <br>
+[Tangram](https://www.facebook.com/events/860600520716726)  
 May 2016, New York, NY.
 
-[Rentity concept](https://www.crunchbase.com/organization/rentity#/entity) design at [Design and Hack](https://events.newschool.edu/event/design_and_hack_opening_ceremonies_hackathon) <br>
+[Rentity concept](https://www.crunchbase.com/organization/rentity#/entity) design at [Design and Hack](https://events.newschool.edu/event/design_and_hack_opening_ceremonies_hackathon)  
 November 2014, New York, NY.
 
 ## Skills
