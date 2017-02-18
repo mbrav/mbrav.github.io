@@ -21,7 +21,7 @@ High School, 2012 - 2014
 ## Experience
 
 *Peer Mentor* at [Parsons School of Design](http://www.newschool.edu/parsons/)  
-March 2016 - Present.  
+March 2016 - January 2017.  
 New York, NY.
 
 *Communications Intern* at [Eyebeam](http://eyebeam.org/)  
@@ -38,6 +38,7 @@ November 2014, New York, NY.
 ## Skills
 - Creative Coding (Processing, Open Frameworks, GLSL, etc.)
 - Arduino, Raspberry Pi and Internet of Things
+- Proficient in Mac OSX, Linux and FreeBSD
 - Web Technologies (CSS3 & HTML5, JavaScript, three.js, node.js, socket.io)
 - Music and Sound Production (Logic Pro X)
 - 3D Modeling and Animation (Blender, Rhino)
@@ -46,9 +47,12 @@ November 2014, New York, NY.
 - Operating an espresso machine
 
 ### Interests and Influences
-- Design based on Empirical, Ethical, Aesthetic, Utilitarian, and Interdisciplinary modes of thinking
-- Modular/Analog Sound Synthesis
+- Interdisciplinary, Ethical, Aesthetic,  and design
+- Modular/Analog Sound Synthesis)
+- Philosophy
+- Scientific Papers
 - Photography
+- Reading Books ([list of books](/books))
 - Typography
 - Yoga
 
@@ -64,6 +68,7 @@ November 2014, New York, NY.
 
 - JavaScript, HTML5, and CSS3
 - C++ (openFrameworks, Arduino)
+- Bash
 - Python
 - GLSL
-- Turbo Pascal (1st)
+- Turbo Pascal (1st!)

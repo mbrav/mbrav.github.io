@@ -7,7 +7,7 @@ tags: [philosophy, art, painting, theory]
 image: "http://images.metmuseum.org/CRDImages/ep/web-large/DP375107.jpg"
 ---
 
-Joachim Beuckelaer (c. 1533 – c. 1573/4) is a Flemish painter well known for specialising in depiction of markets, foods, and kitchen scenes. His elaborate displays of food and household equipment. His subjects often feature iconographical associations with Christian theology, but also very intricate depictions and representations of non-human dead subjects. Beuckelaer was also a student of Pieter Aertsen (c. 1507/8 – c. 1575) who also features very similar subject-matter. Him and his student Beuckelaer, both became very famous painter of everyday life.
+Joachim Beuckelaer (c. 1533 – c. 1573/4) is a Flemish painter well known for specializing in depiction of markets, foods, and kitchen scenes. His elaborate displays of food and household equipment. His subjects often feature iconographical associations with Christian theology, but also very intricate depictions and representations of non-human dead subjects. Beuckelaer was also a student of Pieter Aertsen (c. 1507/8 – c. 1575) who also features very similar subject-matter. Him and his student Beuckelaer, both became very famous painter of everyday life.
 
 In one of his series of paintings called *Four Elements: Water* (1569), Beuckelaer depicts a scene of a market that represents twelve kinds of wish that are clearly dead and which ostensibly represent the twelve disciples of Jesus. Other Beuckelaer paintings such as the *Slaughtered Pig* (1563), is a quite realistic depiction of flesh in a pig's cut open belly.
 
