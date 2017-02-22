@@ -8,11 +8,11 @@ permalink: /resume
 
 ## Eduction
 [Parsons School of Design](http://www.newschool.edu/parsons/) New York, NY  
-BFA in Design and Technology  
+BFA in [Design and Technology](http://www.newschool.edu/parsons/bfa-design-technology/)  
 Class of May 2018
 
 [Eugene Lang](http://www.newschool.edu/lang/) New York, NY  
-BFA in Philosophy  
+BFA in [Philosophy](http://www.newschool.edu/lang/philosophy/)  
 Class of May 2019
 
 [Oxford Academy](http://www.oxfordacademy.net/) Westbrook, CT  
@@ -47,7 +47,7 @@ November 2014, New York, NY.
 - Operating an espresso machine
 
 ### Interests and Influences
-- Interdisciplinary, Ethical, Aesthetic,  and design
+- Interdisciplinary, Ethical, Pragmatic, and Aesthetic design
 - Modular/Analog Sound Synthesis)
 - Philosophy
 - Scientific Papers
