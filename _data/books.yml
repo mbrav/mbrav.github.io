@@ -10,14 +10,39 @@
 
 # BOOKS READ
 
-- author: Hannah Arendt
-  title: The Human Condition
-  date: 2017-01-13
-  comment: bla
-  link: https://en.wikipedia.org/wiki/The_Human_Condition_(book)
-
 - author: Yuval Noah Harari
   title: "Sapiens: A Brief History of Humankind"
   date: 2017-01-26
   link: https://en.wikipedia.org/wiki/Sapiens%3A_A_Brief_History_of_Humankind
   comment: A great insight into how our civlization developed and managed to establish governemnts and states.
+
+- author: Hannah Arendt
+  title: The Human Condition
+  date: 2017-01-13
+  comment:
+  link: https://en.wikipedia.org/wiki/The_Human_Condition_(book)
+
+- author: Isaac Asimov
+  date: 2016-08-12
+  title: "Foundation series"
+  link: https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233
+
+- author: Karl Popper
+  date: 2016-07-18
+  title: "In Search of a Better World"
+  link: https://www.amazon.com/Search-Better-World-Lectures-Essays/dp/0415135486
+
+- author: Ashlee Vance
+  date: 2016-07-07
+  title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+  link: https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233
+
+- author: Jeremy Davies
+  date: 2016-06-19
+  title: Birth of the Anthropocene
+  link: http://www.ucpress.edu/book.php?isbn=9780520289970
+
+- author: John Durham Peters
+  date: 2016-06-07
+  title: "The Marvelous Clouds: Toward a Philosophy of Elemental Media"
+  link: http://press.uchicago.edu/ucp/books/book/chicago/M/bo20069392.html

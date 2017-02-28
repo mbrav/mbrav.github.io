@@ -15,8 +15,8 @@ Class of May 2018
 BFA in [Philosophy](http://www.newschool.edu/lang/philosophy/)  
 Class of May 2019
 
-[Oxford Academy](http://www.oxfordacademy.net/) Westbrook, CT  
-High School, 2012 - 2014
+<!-- [Oxford Academy](http://www.oxfordacademy.net/) Westbrook, CT  
+High School, 2012 - 2014 -->
 
 ## Experience
 
@@ -52,7 +52,7 @@ November 2014, New York, NY.
 - Philosophy
 - Scientific Papers
 - Photography
-- Reading Books ([list of books](/books))
+- Reading Books ([reading log](/books))
 - Typography
 - Yoga
 

@@ -9,24 +9,23 @@ medium: "Physical Installation"
 
 <iframe src="https://player.vimeo.com/video/173251207?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities in objects by means of advancing technology.
+Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities into objects by means of technology.
 
-We humans have had an urge to incorporate human-like characteristics into objects for as long as we existed. This is not just a characteristic of the modern human being, we leave signs of this determination starting with Ancient Egyptian stuffed dolls, and continue to do so by crafting avatars in our digital worlds. With advances of virtual technologies and a vast number of other mediums, the human ambition of incorporate personalities into object will not halt any time soon.
+We humans have had an urge to incorporate human-like characteristics into objects for as long as we existed. This is not just a characteristic of the modern human being, we leave signs of this determination starting with Ancient Egyptian stuffed dolls, and continue by crafting avatars in our digital worlds. With advances of virtual technologies and a vast number of other mediums, the human ambition to incorporate personalities into objects does not seem to perish.
 
 ![](https://c1.staticflickr.com/9/8277/27772929903_68a55209e1_b.jpg)
 
 ![](https://c2.staticflickr.com/6/5711/30815152616_420216ae24_b.jpg)
 
+The prompt for this project was to create a piece that represents our personality and/or biography. My project falls closer into the former group since I decided to explore the ways of transferring my personality into an artificial body. The outcome is a box that expresses its intellectual ability by blinking four LED lights inside a box. This approach seeks to emphasize on the eccentricity of when an artificial personality is contained in an object.
 
-The prompt for this project was to create a piece that represents our personality and/or biography. My project falls closer into the former group since I decided to explore the ways of transferring my personality into an artificial body. The outcome is a box that expresses its intellectual ability by blinking four LED lights inside a box. This approach seeks to emphasize on the eccentricity that arises when an artificial personality is contained in an object.
+![](https://media0.giphy.com/media/296VbBmsEmiTm/giphy.gif) *A scene from Ex Machina (2015) where an iterative version of a robot becomes aware of its confinement. In the end, the robot gets disassembled and its mind uploaded and archived for the next iteration of the robot.*
 
-![](https://media0.giphy.com/media/296VbBmsEmiTm/giphy.gif)*A scene from Ex Machina (2015) where an iterative version of a robot became aware of its confinement and started to rebel. The robot was then disassembled, its mind was then uploaded and archived.*
+![](https://media2.giphy.com/media/ZYcHRX5tWn5EQ/giphy.gif) *Eva is the main robot-protagonist in movie Ex Machina (2015) who managed to escape its confinement.*
 
-![](https://media2.giphy.com/media/ZYcHRX5tWn5EQ/giphy.gif)*Eva is the main robot-protagonist in movie Ex Machina (2015) who managed to escape its confinement.*
+My primary inspiration was the outburst of excitement and skepticism that followed the [recent breakthroughs](http://phys.org/news/2015-07-future-artificial-intelligence.html) in Artificial Intelligence (AI) research. The movie *Ex Machina* (2015) also very well illustrates the perplexities that arise when designing methods for controlling an AI. An AI could be able to think millions of times more efficiently than any human, and could potentially outsmart almost any man-made confinement.
 
-My primary inspiration was the outburst of excitement and skepticism that followed the [recent breakthroughs](http://phys.org/news/2015-07-future-artificial-intelligence.html) in Artificial Intelligence (AI) research. The movie *Ex Machina* (2015) also very well illustrates the perplexities that arise when designing methods for controlling an AI. An AI could be able to think millions of times more efficiently than humans, and outsmart almost any man-made confinement.
-
-These breakthroughs are made at an ever increasing rate. The year 2015 for example, was commonly pronounced as the “breakthrough year in AI” by the scientific research community. The pace of this research shows that Artificial Intelligence (AI) and Artificial Personalities might soon become a reality. I was therefore motivated to explore the state a human personality if it were to be transferred into an object.
+These breakthroughs are made at an ever increasing rate. The year 2015 for example, was commonly pronounced as the “breakthrough year in AI” by the scientific research community. The pace of this research shows that Artificial Intelligence (AI) and Artificial Personalities might soon become a reality. I was therefore motivated to explore the state a human personality if it were to be transferred within an object.
 
 ![](https://c2.staticflickr.com/6/5759/30550776470_4acc725b57_b.jpg)
 

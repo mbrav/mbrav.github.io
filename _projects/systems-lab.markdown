@@ -3,7 +3,7 @@ layout: post
 title: "Lab: Systems"
 date: 2016-11-16
 image: "https://c1.staticflickr.com/1/683/31497325653_7799efbdfb.jpg"
-excerpt: ""
+excerpt: "A collection of experiments with data visualization, sound, 3D environments using WebGL and three.js"
 medium: "WebGL/Javascript Experiments"
 ---
 

@@ -10,13 +10,13 @@ This is a place where I keep track of my reading habits. <!-- Part of this motiv
 
 ## Books Read
 
-{% for book in site.data.books reversed %}
+{% for book in site.data.books %}
   <p>
     {% if book.link %}
       <a href="{{ book.link }}"><i>{{ book.title }}</i></a>
     {% else %}
       <i>{{ book.title }}</i>
-    {% endif %}
+    {% endif %} <br>
     by {{ book.author }} <br>
     read on {{ book.date | date_to_string }}
   </p>
