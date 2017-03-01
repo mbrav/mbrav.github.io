@@ -7,7 +7,7 @@ tags: [prototype, arduino, cyborg]
 
 ## Vibro-Neuro prototype
 
-For Week 5 of my Cyborg Futures class, I continued working on the cybernetic vibration motor sense prototype. I went ahead and started to assemble the parts together in order to produce some sort of a device. Considering that our team is still considering many options as to what our final sense will be, we all agreed to start making prototypes in order to increase the pace of of this process.
+For Week 5 of my Cyborg Futures class, I continued working on the cybernetic vibration motor sense prototype. I went ahead and started to assemble the parts together in order to produce some sort of a device. Considering that our team is still considering many options as to what our final sense will be, we all agreed to start making prototypes in order to increase the pace of this process.
 
 My second prototype I decided to call *Vibro-Neuro* because is made out of vibration motors which resemble neural synapses. This provides a metaphor for the device which envisions an ability to function in symbiosis with the brain. And indeed, haptic feedback has immense potential for creating an augmented sensation that can symbiotically interface with a human's brain. In fact, vibration motors have allowed a deaf person [to regain his ability](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans) to hear without using the ear in any way.
 
@@ -25,7 +25,7 @@ The endings of the sense have 4 vibration motors because the wire itself contain
 
 ![](https://c1.staticflickr.com/3/2877/33177198735_400cd39720_b.jpg)
 
-The controller is essentially the same. For now the device does not have a sense, but it it something that will be incorporated in the next prototype.
+The controller is essentially the same. For now the device does not have a sense, but it is something that will be incorporated in the next prototype.
 
 ### Device's Bill of Materials
 
