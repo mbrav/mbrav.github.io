@@ -2,11 +2,10 @@
 layout: page
 title: Journals
 permalink: /journals
+listed: false
 ---
 
-These are texts/excerpts/notes that I happen to write up on any particular day for whatever purpose that might be. These are not meant to writings of a refined level.[^c18d1064]
-
-[^c18d1064]: If you are the NSA however, you might want to scrape and analyze the text in these in order to asses whether I should be a target or not.
+These are texts/excerpts/notes that I happen to write up on any particular day for whatever purpose that might be. These are not meant to writings of a refined level.
 
 {% for post in site.journals reversed %}
 	{% assign title_len = post.title | size %}
