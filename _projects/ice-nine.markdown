@@ -23,7 +23,7 @@ This is the part where Ice Nine is unleashed. It was contained in a bottle that 
 
 >There was a sound like that of the gentle closing of a portal as big as the sky, the great door of heaven being closed softly. It was a grand AH-WHOOM. I opened my eyes - and all the sea was ice-nine. The moist green earth was a blue-white pearl. The sky darkened. ... The sun became a sickly yellow ball, tiny and cruel. The sky was filled with worms. The worms were tornadoes. (Cat’s Cradle, Chapter 116)
 
-[Web Browser Interaction](http://www.mbrav.com/Lab-FA16/13/index.html)
+[Web Browser Interaction](http://mbrav.github.io/Lab-FA16/13/index.html)
 
 ![](https://c2.staticflickr.com/6/5623/29847493454_f8c9841c99_c.jpg)
 ![](https://c2.staticflickr.com/6/5476/29845945283_6058071e42_c.jpg)
@@ -33,7 +33,7 @@ This is the part where Ice Nine is unleashed. It was contained in a bottle that 
 
 This is an abstract representation of the resistance that humans attempt to make in order to stop the spread of Ice Nine.
 
-[Web Browser Interaction](http://www.mbrav.com/Lab-FA16/14/index.html)
+[Web Browser Interaction](http://mbrav.github.io/Lab-FA16/14/index.html)
 
 ![](https://c2.staticflickr.com/6/5706/30441769776_245fc2f92d_c.jpg)
 ![](https://c2.staticflickr.com/6/5516/30391706841_441f95e50d_c.jpg)
@@ -43,7 +43,7 @@ This is an abstract representation of the resistance that humans attempt to make
 
 All Earth’s oceans are now solidified. Life can no longer form. What have humans done...
 
-[Web Browser Interaction](http://www.mbrav.com/Lab-FA16/15/index.html)
+[Web Browser Interaction](http://mbrav.github.io/Lab-FA16/15/index.html)
 
 ![](https://c2.staticflickr.com/6/5611/30441769956_5007353033_c.jpg)
 ![](https://c2.staticflickr.com/6/5511/30441770026_ec3031fdfc_c.jpg)

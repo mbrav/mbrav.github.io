@@ -13,7 +13,7 @@ My second prototype I decided to call *Vibro-Neuro* because is made out of vibra
 
 ![](http://2.bp.blogspot.com/-3B9zPivRn1U/Tk1PJOp-1cI/AAAAAAAAAxY/wTd1Oi__WTw/s1600/Figure+1.jpg) A diagram of a neural synapse which the *Vibro-Neuro* prototype resembles.
 
-While making this prototype, I continued to have in mind the *input* and *output* aspect that I discussed in [Week's 4 blog ](http://mbrav.com/journal/2017/02/21), that is, that the inputs and outputs can be interchangeable because they are made out of technology that itself is interchangeable.
+While making this prototype, I continued to have in mind the *input* and *output* aspect that I discussed in [Week's 4 blog ]({{ site.url }}/journal/2017/02/21), that is, that the inputs and outputs can be interchangeable because they are made out of technology that itself is interchangeable.
 
 ![](https://c1.staticflickr.com/3/2946/32361892013_6af9bda702_b.jpg)
 

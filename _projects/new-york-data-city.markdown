@@ -7,8 +7,8 @@ excerpt: "Data visualizations using New York Open Data."
 medium: "Data"
 ---
 
-- [New York Data City](http://mbrav.com/nydc/)
-- [Link to Data Visualization](http://mbrav.com/nydc/11/index.html)
+- [New York Data City](http://mbrav.github.io/nydc/)
+- [Link to Data Visualization](http://mbrav.github.io/nydc/11/index.html)
 
 NYDC is a project that explores the conventional aspects of data representation. Data visualizations are frequently used to convey information using visual and vocabulary symbols. In some cases, humans can only interpret data only because a symbolic reference is provide along the visualization. But this is the vulnerability of Data visualization because it can be politicized and manipulated with symbols.
 

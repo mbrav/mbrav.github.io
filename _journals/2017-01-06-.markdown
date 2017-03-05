@@ -6,7 +6,7 @@ music: "The Avalanches - If I Was a Folkstar"
 tags : [books, reading, new year, resolutions]
 ---
 
-While on a run along the beach that stretches along the beach coast between Bal Harbour and Surfside (Miami, FL), I thought of what if I start a journal using [Jekyll](https://jekyllrb.com/), which is a customizable blogging platform that transforms text into websites. Hopefully the technicality behind it will be left out for the most part of this journal. But it is worth noting that I'm using it to build my new portfolio website at [mbrav.com](http://mbrav.com.).
+While on a run along the beach that stretches along the beach coast between Bal Harbour and Surfside (Miami, FL), I thought of what if I start a journal using [Jekyll](https://jekyllrb.com/), which is a customizable blogging platform that transforms text into websites. Hopefully the technicality behind it will be left out for the most part of this journal. But it is worth noting that I'm using it to build my new [portfolio website]({{ site.url }}).
 
 The day started in a very lazy. I woke around 10, and while I had a bunch of things that I wanted to do, I ended doing none. And so 2017 resolutions begin, which I haven't come up with, at least not strictly in a written form. For the most part, it is reading 2 books per month which I sort of slacked on last year. Also:
 
