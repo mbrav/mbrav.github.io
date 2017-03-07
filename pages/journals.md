@@ -5,6 +5,8 @@ permalink: /journals
 listed: false
 ---
 
+### [Studies]({{ site.url }}/studies)
+
 These are texts/excerpts/notes that I happen to write up on any particular day for whatever purpose that might be. These are not meant to writings of a refined level.
 
 {% for post in site.journals reversed %}
