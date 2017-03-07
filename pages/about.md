@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /
-excerpt: "Michael is a creative technologist who is currently based in New York. His focus includes speculative new media art installations, as well as interaction design."
+excerpt: "Michael is a creative technologist who is currently based in New York. His focus is in new media art installations, as well as interaction design."
 ---
 
 {% include slideshow.html %}
