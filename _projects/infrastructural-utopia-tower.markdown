@@ -11,7 +11,9 @@ medium: "Physical Installation"
 
 - [Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/InfrastructuralUtopiaTower)
 
-A speculative installation that envisions an utopian idealization of digital infrastructure, but contrary to its ideal, the tower in practice is a surveilled information-sniffing wi-fi hotspot. It is a reflection on the ways humans frequently manifest ideals that become realized in a way that is contrary to what was envisioned.
+*A speculative installation that envisions an utopian idealization of digital infrastructure, but contrary to its ideal, the tower in practice is a surveilled information-sniffing wi-fi hotspot. It is a reflection on the ways humans frequently manifest ideals that become realized in a way that is contrary to what was envisioned.*
+
+## Narrative
 
 *Infrastructural Utopia Tower* is an installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is an ironic manifestation of our technocratic human nature. We are beings that are constantly entertained by utopian ideals, but when realizing them, we sacrifice certain aspects of our own nature. For a modern human, infrastructure is part of his/her nature, it is a manifested symbol of our intellectual and evolutionary superiority above other animals. Without infrastructure, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent on infrastructures. We come to this realization and attempt to apply infrastructures almost everywhere while our technological advances only aid this process.
 

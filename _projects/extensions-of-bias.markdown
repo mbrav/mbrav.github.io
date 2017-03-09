@@ -13,7 +13,7 @@ medium: "Physical Installation"
 - [Extensions of Bias on Github](https://github.com/mbrav/bias)
 - [Additional Notes about the process]({{ site.url }}/journal/2016/12/08)
 
-*A speculative new media art installation about how media technology is shaping our biased minds.*
+*A speculative new media art installation about media technology becoming a mediation of our biases.*
 
 The installation consists of 4 Raspberry Pi's that connect to Twitter, scrape for tweets based on a specific keyword, and read it using text-to-speech. Each of the four nodes choose a random keyword from a set of categories every 2 minutes; *politics*, *science*, *ideology*, *technology*, *consumerism*, *memoirs*, and *celebreties*. The idea behind this process, is to exaggerate the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) that we enjoy exercising as users of media technology.  
 

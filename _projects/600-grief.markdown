@@ -11,7 +11,9 @@ medium: "Physical Object / Narrative"
 
 - [Process and Assembly](https://bfadtdeviceart.wordpress.com/2016/09/14/600-grief/)
 
-A creature from millions light years away that mourns and griefs a deceased fellow. A meditation on how grieving may be a universal language of every form of life.
+*A creature from millions light years away that mourns and griefs a deceased fellow. A meditation on how grief may be a universal language of every possible form of life.*
+
+## Narrative
 
 600 Grief is a "creature" from a world located somewhere in the vast space of the universe. If we where to translate 600 Grief’s name into our anthropocentric human terms, his name would turn out to be "Orange  Grief". The creature’s favorite color is orange, but it has a hidden meaning in its name. The reason why 600 Grief has such a weird numerical name, is because him and the other creatures that live on his planet, collectively decided that it would be better to name everyone according to terms that can be understood by other alien species. This is important for a civilization that wants to encounter another alien civilization. How would you otherwise be able to exchange each other's names if you have no common point of reference? And how could names be understood by aliens who have completely different languages and cultures?
 
