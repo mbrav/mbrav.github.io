@@ -15,6 +15,16 @@
   color: $custom-sidebar-color;
 }
 
+.post-date, .post-medium {
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	color: #9a9a9a;
+}
+
+.post-date {
+	margin-bottom: 0.6em;
+}
+
 .theme-base-custom .sidebar-toggle:active:before,
 .theme-base-custom #sidebar-checkbox:focus ~ .sidebar-toggle:before,
 .theme-base-custom #sidebar-checkbox:checked ~ .sidebar-toggle:before {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hummin"
-date: 2016-09-14
+date: 2016-09-06
 image: "https://c2.staticflickr.com/8/7484/29628885231_f997dba9e5.jpg"
 excerpt: "A physical object made out of an CRT screen and a programmed Arduino. Inspired by a humanoid character from Isaac Asimov’s Foundation series."
 medium: "Physical Object"

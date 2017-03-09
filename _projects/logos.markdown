@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Logos"
+date: "2015-02-26"
+image: "https://c2.staticflickr.com/4/3817/33191258402_0f09a02d9d_c.jpg"
+excerpt: ""
+medium: "Experimental Motion Picture"
+---
+
+<iframe src="https://player.vimeo.com/video/120701640?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
