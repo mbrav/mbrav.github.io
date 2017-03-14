@@ -9,7 +9,7 @@ medium: "Physical Object"
 
 <iframe src="https://www.youtube.com/embed/tzNWS7Lbi3c" frameborder="0" allowfullscreen></iframe>
 
-[https://github.com/mbrav/EndeavoursGuide](Endeavour's Guide on GitHub)
+[Endeavour's Guide on GitHub](https://github.com/mbrav/EndeavoursGuide)
 
 The intention behind this project is to revive James Cook’s geographic discoveries that where made while he was the captain of the *Endeavour* ship. The device is capable of displaying the direction it is directed through 4 different modes and displays its functionality on three 7 segment displays.
 

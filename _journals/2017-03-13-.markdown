@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Commentary on The Human Condition - IV"
+date: "2017-03-13 23:42:12 -0400"
+tags: [philosophy, arendt, human, condition, labor]
+---
+
+Starting with the chapter on Work, Arendt states that the work of human hands is distinguished from the labour of the human body because work fabricates what would then constitute the human artifice.[^1] Any human production has durability which allows an object to "stand against" the needs and wants of their users.[^2] In order to replenish the lost durability however, new human artifice must be produced, maintained, and worked on in order to not allow its dissolution into the processes of nature. Most of human production is made through the killing of some form of natural process which establishes *homo faber* as a destroyer of nature. The products of human artifice is therefore what brings the human to a position where he can look at nature as something objective and something that can be worked disrupted.
+
+The tools which are produced by human hands, cannot be afforded to be destroyed and not replenished. *Homo faber* depends on his productions because not only is he a master of nature, but also a master of himself and his own doings.[^3] This dependance on tools goes to such extents that whole civilizations become defined based on the tools that they mastered. Arendt explains this occurrence with the fact that tools establish an environment for the man and in the process of doing so, men adapt to the tools that are under their disposal.[^4] This reliance extends to even further extents when the tools are substituted with machines. By adapting to machines, men become more reliant to the pace of the machines and the way in which all their production becomes part of a never ending cycle of production and consumption. As long as the work of the machine lasts, the mechanical process replaces the rhythm of the human body.[^5]
+
+According to Arendt there is "nothing that can be mechanized more easily and less artificially then the rhythm of the labor process".[^6] But man was the first one who unchained himself from the processes of nature and partitioned himself away from it, building a world that is completely man-made.[^7] While being partitioned in this non-natural man-made world, men have chained their own processes which consist of assembly lines and conveyer belts. In this manner, the tools and machines become part of chained process that supports the alienated man-made world.
+
+With man constructing an artificial world chained by machines, Arendt begins to suspect that machines might at one point no longer be just *means* of production, but also influence or even dictate the *ends* of their work.[^8] This however does not seem to be far fetched, since human history could have been drastically different without the invention of certain tools and machines. Therefore, machines are already dictating the human destiny but neither machines nor their men creators seem to be fully aware of it, yet.
+
+Arendt emphasis that it is senseless to describe the world of machines in terms of means and ends as "it has always been senseless to ask nature if she produces the seed to produce a tree or tree to produce the seed."[^9] There seems to be a disinterested tone in the idea that machines would deliberately dictate the *ends* of their work even if such a conquest would become strategized. What seems to interest Arendt more, is the process that was first unchained with the advent of the very first man-made tools and machines. This process which unchained itself from the nature's womb, created assembly lines and conveyer belts, as well as atomic bombs and habitats in space. This allowed *homo faber* to create his safe dwelling place where he becomes liberated from the unchained process of nature,[^10] but becomes chained by the processes of the machine. Man has become an envoy to *deus ex machina* as much as Jesus was an envoy to God.
+
+[^1]: Arendt, p.136
+[^2]: Arendt, p.137
+[^3]: Arendt, p.144
+[^4]: Arendt, p.144
+[^5]: Arendt, p.147
+[^6]: Arendt, p.146
+[^7]: Arendt, p.149
+[^8]: Arendt, p.151
+[^9]: Arendt, p.151
+[^10]: Arendt, p.152
