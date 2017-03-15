@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Hegel's Inner and Outer Apprehension"
+date: "2017-03-15 11:04:41 -0400"
+tags: [philosophy, art, aesthetics, theory]
+---
+
+Human art is a method of self-liberation, "it lifts [man] with gentle hands out of and above imprisonment in nature"[^20] which is accomplished when the subject-matter is expressed in an art form. Hegel describes this path to liberation during which the inner and outer apprehensions are synthesized together to produce a new form of apprehension, which conveys the spirit of the subject-matter:
+
+> Man does this in order, as a free subject, to strip the external world of its inflexible foreignness and to enjoy in the shape of things only an external realization of himself ... The universal need for art, that is to say, is man's rational need to lift the inner and outer world into his spiritual consciousness as an object in which he recognizes again his own self.[^10]
+
+The balance between the "inner" and the "outer" world is crucial in determining the extent to which a subject's spiritedness is reflected in a work of art.[^1] A work of art, must not solely rely on either the inner world, nor the outer world. The balance between the way in which the *inner* and the *outer* world is reflected through a work of art, determines the extent to which it is a detachment from nature and a spirited representation of a human subject.
+
+The inner world is what can be described as the "inner material stuff"[^1b] or the "purely sensuous apprehension" which Hegel ascribes as "the poorest mode of apprehension" and the "least adequate to spirit".[^2] This *inner* world of apprehension is lead by desire which is frequently expressed in a form of amusement and wandering without thinking, which can become a cause for spiritual "fatigue". This form of apprehension does not allow the individual to become a thinker who ascribes things according to their *universal categories*, but becomes an individual who is bounded to subject-matter as mere *consumable objects*. In this manner, works of art become things that are sacrificed for one's own self-satisfaction. As Malcolm Knox sums up in the Introduction, "'Sensuous' is opposed to intellectual. A sensuous man, in Hegel's meaning, is simply a man who uses his five senses, or who 'perceives' rather than 'thinks'".[^5]
+
+The opposite of what has been defined as apprehension of art according to its *inner* qualities or its "sensuousness", is the apprehension of art according to its *outer* qualities. This outer mode of apprehension regards subject-matter as a "purely theoretical relation to *intelligence*". This *outer* apprehension is not concerned with consuming the subject-matter, but on the contrary, coming to know it according to its *universality* and its "Concept".[^3] It is a form of scientific treatment of art that aims to ascribe things according to their universal qualities. As Hegel points out however, this form of apprehension of subject-matter is not intrinsic to art as such and is not adequate to its spirit.[^3b] However, this form of *outer* universal apprehension must also not be confounded with the "science of sensation and feeling" which Hegel aims to establish as the underpinnings of Aesthetics.[^4] The science that concerns the intelligent treatment of art does not try to study qualities that are inherent to sensuous individualism but solely according to a pure theoretical interest.
+
+The kind of spirit that art must achieve lies in between the two formerly mentioned extremes; the apprehension of art according to its inner *sensuous* qualities, and the apprehension of art according to its outer *universal* qualities. The mode of apprehension that is most adherent to the Aesthetic of art and art's spiritedness, "stands in the *middle* between the immediate sensuousness and ideal thought."[^1c] This manner of apprehension is intentionally *not yet* pure thought (for reasons that would be explained), and even if it is partially sensuous, it is no longer "purely material existent" as organic life, stones, or plants. This sensuousness of this art is ideal in *itself*, in its own end, and absolute; which is distinguished from the *universal* kind of an ideal. This form of ideal may be referred to as the *middle ideal* and lies between the peripheries of the *inner* and the *outer* modes of apprehension.
+
+![](https://c2.staticflickr.com/4/3924/33247518932_d67669081a_b.jpg)
+
+This is the reason for Hegel to believe that only sight and hearing are able to reach this *middle ideal*, while smell, taste, and touch must be excluded from the enjoyment of art.[^1d] The reasoning behind this, is that smell, taste, and touch, are senses that are too sensuous, which impedes them to reach a point of idealization, or a point where and ideal is formed. It appears that the senses of smell, taste, and touch are too sensuous, whereas the sense of sight and hearing posses a form of objectivity and level of universality that suffices them to become representations of an ideal — thus giving them the potential to form *spirited* art. But to reach an Aesthetic apprehension of art through these senses, the ideal in question must strive to reach the *middle ideal*, and not overarch and attempt to reach the *universal ideal*, which is excessively objective for the apprehension of spirited art.
+
+The variation among the inner and outers forms of apprehension  is what guides the human detachment from nature and forms an Ideal in art. Hegel borrows Schiller's words from his *Letters on Aesthetic Education* where he states that "every individual man bears in himself the capacity for ideal manhood".[^6] The strife to reach the Ideal manhood has been a primary motivation by numerous art cultures, which is synthesized through the  modes of apprehension. Although the way in which these cultures recognize their Ideal varies from culture to culture, Hegel argues that the common characteristic among them was the way in which a "genuine man" becomes represented by an ideal that is established by the "State". It consists of individual persons collecting and combining themselves into a unifying ideal of a man. According to Schiller, this plural unification occurs in two ways; one in which the State conceals individuality through ethics, law, and reason; or when the individual strives to reach the Ideal of manhood through his/her own initiative. In this manner, an art culture becomes occupied with embracing *plurality*, unity, and a common recognition of an Ideal, to counteract the demands of nature which embrace *multiplicity* and *individuality*. It is therefore a human detachment from nature which is organized collectively, and seen as a unification and representation of a collective by one Idea.
+
+Architecture works are one of the most proficient forms of art for symbolizing the erection of man over nature, due to the dominant function of symbolism in architecture as such. The story of the Tower of Babel is an example of a structure that was intended to be built for national unification throught the consolidation of collective labour. The excavation and assembly of such an architecture feat is described by Hegel as a "cultural cultivation" of a country.[^15] The symbolism of Tower of Babylonia is meant to convey a bond and serves as an absolute unifier of men, which can only be expressed in a externalized fashion. This functionality of symbolic architecture is similar to that of sculpture since it gives matter a shape for the perceptible in a material and spatial form.[^16] The only difference is that sculpture becomes emancipated from its architectural purpose and exists for its own sake.
+
+According to Kant, imitation of nature, including the human natural figure, is a way of establishing man as the "supreme end". This however degrades man's independent dignity and nature as a whole, where both become a mean and an end.[^a1] This form of instrumentalization of things into means, no longer regards nature and the human figure as something of intrinsic and independent value. For this reason, the Greeks and Aristotle dreaded anthropocentrism because everything else would become subjects that are dictated by the "exigencies of human life".[^a2] Plato saw that when one makes man the measure of all things use, he becomes user and instrumentalizer, and not the creator of things related to him,[^a3] including art which possesses his spiritedness.
+
+The Ideal manhood was recognized in Christianity as well as the Greek Gods. In contrast to other cultures such the one of Indians, Chinese, and Egyptians, who never got beyond formlessness and being preoccupied with defining what is good and what is a bad form, whereas Greek and Christian art managed to establish an idea of beauty.[^7] The reason why some cultures managed to establish the Ideal of beauty and others have not, was because some cultures determined and secured their mythological ideas, whereas others kept on searching for them without settling. Despite some cultures managing to secure their ideal of beauty and others not, nearly all of them managed to secure their primary purpose for art; that is, unifying every individual into an *ideal of a man*, and stirring away from nature's multiplicity and individuality. But beyond the process of detaching the subject from absorption by nature, only a fraction of these cultures managed to establish an *ideal of beauty*.
+
+Although Egyptian architecture has not established an *ideal of beauty* according to Hegel, it did however demonstrate the extents to which immense amounts of energy and resources where dedicated to the detachment of the subject from the demands of nature through the construction of pyramids and housings for the dead. According to Herodotus, Egyptians where the first to say that the souls of men are immortal.[^13] Egyptians therefore had an imperative to construct mausoleums that would symbolically preserve the souls of deceased. The symbolic function of Egyptian mausoleums, is therefore to preserve the dead body as something *individual* and fortify it against the process of absorption into the *multiplicity* of nature.[^12] Within this symbolism, Egyptians developed a form of art which is arbitrary for the most part, and could have taken limitless other forms due to its immense reliance on symbolism.[^14]
+
+The extensive use of geometric and abstract shapes in Egyptian temples can be explained as a motivation to create an inorganic enclosure through the use of abstract and mathematical shapes. Even thought the pyramids have a purpose similar to that of a house, the right-angle and the circular shape is excluded from its geometric repertoire. What is left is a triangular shape with lines that run from the base to the apex.[^18] According to Hegel, the use of mathematical numbers in architecture is one of the most abstracted expressions. For this cause, the number 7 and 12 are frequent occurrences in Egyptian art because seven represents the humber of planets and twelve represents the feet by which the Nile rises to hydrate the lands.[^19] Egyptian symbolism which prefers the inorganic triangular shape to the right-angle, as well as abstraction through the use of numbers, is contrasted to the symbolism established by the Greeks. By the laws of gravity, Greeks considered the horizontal and vertical position to be the most secure and adequate in itself, the right angle was considered to be "fixed" and "determinate", but the acute and obtuse angles to be "indeterminate, variable and contingent to their measurement."[^17]
+
+Unlike Egyptian sculpture, Greek sculpture formed and ideal of beauty because they abstained from symbolic representation, whereas Egyptian sculptures are "invaded" by it.[^9] According to Hegel, one of the most significant hallmarks of classic Greek sculpture, is that it became the "art proper" to the classical ideal as such. Even to the extent that the romantic art-form acquired a "proper plastic type" only once it started imitating classic Greek sculpture.[^9a] Christian art was another art form which was able to secure its ideal of beauty because God is represented as "a human form [in] its expression of *spirit*, only because God himself here is completely known in himself as *spirit*".[^8] The ideal of God in christianity, and the ideal of a man figure in Greek art, are ideas that became established and determined. For Hegel, determinacy in Greek and Christian art is described as a bridge between "the truly concrete Idea" and its realized configuration in a work of art, which is what permits the establishment of an *ideal of beauty*.[^9b]
+
+[^1]: Hegel, p. 38, sec. *γγ*
+[^1b]: Hegel, p. 38, sec. *γγ*
+[^1c]: Hegel, p. 38, sec. *γγ*
+[^1d]: Hegel, p. 38, sec. *γγ*
+[^2]: Hegel, p. 36, sec. *αα*
+[^3]: Hegel, p. 37, sec. *ββ*
+[^3b]: Hegel, p. 37, sec. *ββ*
+[^4]: Hegel, p. 1
+[^5]: Hegel, Translator's Preface by Malcolm Knox p. *xiv*
+[^6]: Hegel, p. 62
+[^7]: Hegel, p. 74
+[^8]: Hegel, p. 75
+[^9]: Hegel, p. 708
+[^9a]: Hegel, p. 708
+[^9b]: Hegel, p. 708
+[^10]: Hegel, p. 30-31
+[^11]: Hegel, p. 315
+[^12]: Hegel, p. 650
+[^13]: Herodotus, ii. 123, Referenced in Hegel, p. 650
+[^14]: Hegel, p. 647
+[^15]: Hegel, p. 638
+[^16]: Hegel, p. 702
+[^17]: Hegel, p. 669
+[^18]: Hegel, p. 654
+[^19]: Hegel, p. 352
+[^20]: Hegel, p. 49
+
+[^a1]: Kant, Critique of Judgment, p. 272, 515. Referenced in Arendt, Human Condition, p.156.
+[^a2]: Arendt, Human Condition, p.157
+[^a2]: Arendt, Human Condition, p.158 
