@@ -64,4 +64,4 @@ Unlike Egyptian sculpture, Greek sculpture formed and ideal of beauty because th
 
 [^a1]: Kant, Critique of Judgment, p. 272, 515. Referenced in Arendt, Human Condition, p.156.
 [^a2]: Arendt, Human Condition, p.157
-[^a2]: Arendt, Human Condition, p.158 
+[^a3]: Arendt, Human Condition, p.158 
