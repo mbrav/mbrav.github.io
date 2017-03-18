@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Bots, Trigonometry, Math, and Shaders"
-date:   2016-07-19 06:00:00 0200
-categories: study
+title: "Bots, Trigonometry, Math, and Shaders"
+date: 2016-07-19 06:00:00 0200
 image: http://i.giphy.com/3o6ZtkTxyhvGyoSTzq.gif
+tags: [math, programming]
 ---
 
 Over the past couple couple weeks, I started experimenting with procedural maths and generative algorithms using the Processing 3 library. My first experimentations led me to create a new Tumblr blog called [Generative Primitives](http://primitivs.tumblr.com/) where I would post one animated GIF per day. I posted a couple animations while making the code available online for anyone to take a look at on GitHub.
