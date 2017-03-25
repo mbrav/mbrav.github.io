@@ -47,12 +47,12 @@ November 2014, New York, NY.
 - Operating an espresso machine
 
 ### Interests and Influences
-- Interdisciplinary, Ethical, Pragmatic, and Aesthetic design
+<!-- - Interdisciplinary, Ethical, Pragmatic, and Aesthetic design -->
 - Modular/Analog Sound Synthesis)
 - Philosophy
-- Scientific Papers
 - Photography
-- Reading Books ([reading log](/books))
+- Reading Books ([reading log]({{ site.url }}/books))
+- Reading science journals
 - Typography
 - Yoga
 

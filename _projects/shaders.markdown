@@ -4,7 +4,7 @@ title: "Eccentric Shaders"
 date: 2016-08-16
 image: "https://c1.staticflickr.com/1/274/31498731173_2ce18933fd.jpg"
 excerpt: "A collection of WebGL shaders that run on a web browser. Reflections and explorations about the mechanistic and voided world of computation and quantum theory."
-medium: "WebGL Art"
+medium: "WebGL Shaders"
 ---
 
 <iframe src="https://player.vimeo.com/video/200555033?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

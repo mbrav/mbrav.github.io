@@ -9,7 +9,7 @@ medium: "Data Visualization "
 
 ![](https://c2.staticflickr.com/4/3911/33436796956_909c9311d1_b.jpg)
 
-* [Link to Visualization](http://mbrav.github.io/Lab-SP17/07/01/)
+* [Link to Visualization](http://mbrav.github.io/Lab-SP17/07/01/) (works best in Chrome browser)
 * [Wiki Faces on GitHub](https://github.com/mbrav/Lab-SP17/tree/master/07)
 * [Google Slide](https://docs.google.com/presentation/d/1smz2k6QzMbXXq6ocRegkKJwh0VvHCDob8mGcKfmqVhQ/edit#slide=id.p)
 

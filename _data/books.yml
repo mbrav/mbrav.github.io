@@ -10,11 +10,17 @@
 
 # BOOKS READ
 
+- author: Cixin Liu
+  title: "The Three-Body Problem"
+  date: 2017-03-25
+  link: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032
+  comment:
+
 - author: Yuval Noah Harari
   title: "Homo Deus: A Brief History of Tomorrow"
   date: 2017-03-20
   link: https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310
-  comment: The book recounts occurances and patterns that occured in human history, and illustrates a future where humansitic values become replaced by algorithms. 
+  comment: The book recounts occurances and patterns in human history, and illustrates a future where humansitic values become replaced by algorithms.
 
 - author: Robert Pepperell
   title: "The Posthuman Condition"

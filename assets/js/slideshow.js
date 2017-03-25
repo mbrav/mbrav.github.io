@@ -51,14 +51,10 @@ function changeImg(time) {
   var slideImg = $("#slide-img > img");
   var imgCaption = $("#img-caption");
 	next();
-  // TweenLite.to(slideImg, (time/1000)/2, {opacity:0, ease:Power2.easeIn, onComplete:next});
-  // TweenLite.to(imgCaption, (time/1000)/2, {opacity:0, ease:Power2.easeIn, onComplete:next});
   function next() {
     slideImg
       .attr('src', slideData[imageIndex]["imgFile"])
       .attr('alt', imgText);
     imgCaption.html(imgText);
-    // TweenLite.to(slideImg, (time/1000)/2, {opacity:1, ease:Power2.easeIn});
-    // TweenLite.to(imgCaption, (time/1000)/2, {opacity:1, ease:Power2.easeIn});
   }
 }
