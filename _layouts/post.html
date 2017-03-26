@@ -25,7 +25,12 @@ layout: default
   {{ content }}
 </div>
 
-{% if page.path contains '_posts' %}
+{% if site.disqus.shortname %}
+  <h1>Comments</h1>
+  {% include disqus_comments.html %}
+{% endif %}
+
+<!-- {% if page.path contains '_posts' %}
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -41,4 +46,4 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-{% endif %}
+{% endif %} -->

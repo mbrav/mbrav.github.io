@@ -47,6 +47,10 @@ gems:
 twitter:
   username: mixania
 
+# for comments
+disqus:
+  shortname: mbrav
+
 # For the AI-illuminati-conspiracy-data-tracking boys
 google_analytics: UA-90389714-1
 
