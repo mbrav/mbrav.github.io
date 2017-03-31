@@ -37,7 +37,7 @@ But leaves out the potential for us to view and imagine the world in way, that w
 This natural progression of technologic development
 **Heidegger: history of mankind becomes history of technology** There comes a point, where humans are no longer the predominant subjects that perceives the world. If the way we see the world is being increasingly substituted with instruments and technology, then that means technology, in whatever broad sense it can be defined, becomes the predominant observer. This state of humans, as Ardent and Heidegger define as the *human condition*, doesn't require a takeover by sentient machines or an Artificial Intelligence (AI). It occurs at a more subtle, but nevertheless significant level.
 
-Even the mere act of *contemplation* and *observation* was substituted by *doing*.[^bad2a1b8] Even the word thought, as we define it according to our modern notions, is alien to the act of *contemplation* from Greek "contemplation" which means "an attentive considering, a viewing, surveying". Knowing, is associated with the know-how, which is increasingly substituting the act of contemplation. As Plato and Socrates put it, contemplation was "understood as the inner dialogue in which on speaks with himself".[^4bd4172f] It requires one to cease his concern with the outer world and his objective reasoning. Such an outward inactive process is highly active inwardly, as apposed the complete stillness in which truth is revealed to man.
+Even the mere act of *contemplation* and *observation* was substituted by *doing*.[^bad2a1b8] Even the word thought, as we define it according to our modern notions, is alien to the act of *contemplation* from Greek "contemplation" which means "an attentive considering, a viewing, surveying". Knowing, is associated with the know-how, which is increasingly substituting the act of contemplation. As Plato and Socrates put it, contemplation was "understood as the inner dialogue in which on speaks with himself".[^4bd4172f] It requires one to cease his concern with the outer world and his objective reasoning. Such an outward inactive process is highly active inwardly, as opposed the complete stillness in which truth is revealed to man.
 
 Today, the act of *contemplation* has become meaningless.
 
@@ -53,19 +53,23 @@ As Arendt puts it, *Vita Activa* is dead and *Homo Faber* won.[^9b452d98] What t
 
 Plato believed the leaving things in the realm of theoretic ideas is better than attempting to imitate the image through fabrication.[^e0976831] The ideas are no longer enjoyed for their own sake, but for the sake of they being fabricated. How often do we hear **brig your idea to life**
 
-Every human motivation is reduced to the principle of utility [^condition 305] as we condition ourselves to measure what is infinitely large and the infinitely small, we eliminate the act of contemplation from the range of our human activities.[^307] physics was transformed into astrophysics, natural science into "universal" science.[^313] Nietzsche and Bergson describe action in terms of fabrication — which is a direct correlation to why *homo sapiens* might have a better name as *homo faber*. [^p313 footnote]
+Every human motivation is reduced to the principle of utility [^cfa90862] as we condition ourselves to measure what is infinitely large and the infinitely small, we eliminate the act of contemplation from the range of our human activities.[^b16d28c8] physics was transformed into astrophysics, natural science into "universal" science.[^f3bd9ae0] Nietzsche and Bergson describe action in terms of fabrication — which is a direct correlation to why *homo sapiens* might have a better name as *homo faber*. [^712b0164]
 
 As Renaissance revolutionized the world of art, with Leonardo DaVinci, it was clear that a technical revolution would eventually overtake the development of humanity. Today, we see how it is being increasingly overtaken by technology.[^319]
 
 [^21adea0d]: Hogan, Craig (2000). "Why is the universe just so?". *Reviews of Modern Physics*. 72 (4): 1149–1161. Retrieved from:[https://arxiv.org/abs/astro-ph/9909295](https://arxiv.org/abs/astro-ph/9909295)
 [^10db5f0c]: Hannah Arendt, *The Human Condition*, p. 261
-[^d2c33aab]: *Ibid*, p.268
-[^c2f10daf]: *Ibid*, p.264
-[^244cba7e]: *Ibid*, p.265
-[^4bd4172f]: *Ibid*, p.291
-[^bad2a1b8]: *Ibid*, p.290
-[^b83ed4e9]: *Ibid*, p.295
-[^8fc48ca7]: *Ibid*, p.296
-[^9b452d98]: *Ibid*, sec.42
-[^e0976831]: *Ibid*, p.303
+[^d2c33aab]: Arendt, p.268
+[^c2f10daf]: Arendt, p.264
+[^244cba7e]: Arendt, p.265
+[^4bd4172f]: Arendt, p.291
+[^bad2a1b8]: Arendt, p.290
+[^b83ed4e9]: Arendt, p.295
+[^8fc48ca7]: Arendt, p.296
+[^9b452d98]: Arendt, sec.42
+[^e0976831]: Arendt, p.303
 [^10db5f1c]: Yuval Noah Harari, *Sapiens: A Brief History of Humankind*, chapter 7.
+[^712b0164]: Arendt, p.313 footnote
+[^f3bd9ae0]: Arendt, p.313
+[^b16d28c8]: Arendt, p.307
+[^cfa90862]: Arendt, p.305
