@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extensions of Bias"
-date: 2016-12-08
+date: 2016-12-08 00:00:00 -0400
 image: "https://c1.staticflickr.com/1/267/32193124916_b3e6fa24e2.jpg"
 excerpt: "An installation consisting of 4 Raspberry Pi's that connect to Twitter. A speculative new media art installation on bias and media technology."
 medium: "Physical Installation"

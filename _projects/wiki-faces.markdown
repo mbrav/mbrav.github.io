@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wiki Faces"
-date: "2017-03-16"
+date: "2017-03-16 00:00:00 -0400"
 image: "https://c1.staticflickr.com/3/2815/32663368913_94d7b51d72_b.jpg"
 excerpt: ""
 medium: "Data Visualization "

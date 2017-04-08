@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feeduino"
-date: 2013-02-08
+date: 2013-02-08 00:00:00 -0400
 image: "https://i.ytimg.com/vi_webp/1IwfZIiVXiA/sddefault.webp"
 excerpt: "A simple DIY gadget that automatically feeds the fish based on a interval. Controlled by an ATtiny 85 microcontroller."
 medium: "DIY Gadget"

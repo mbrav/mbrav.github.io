@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emotion Cube"
-date: 2015-11-06
+date: 2015-11-06 00:00:00 -0400
 image: "https://c2.staticflickr.com/8/7656/27772929453_622e677747.jpg"
 excerpt: "A small wooden enclosure that senses physical movements, touches, changes in light intensity, and temperature. An Arduino inside controls the output of its emotion."
 medium: "Physical Object"

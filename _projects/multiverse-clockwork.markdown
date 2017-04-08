@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiverse Clockwork"
-date: 2016-04-14
+date: 2016-04-14 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8802/28388678085_ac9fdce3fe.jpg"
 excerpt: ""
 medium: "openFrameworks Animation"

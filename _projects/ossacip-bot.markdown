@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ossacip Bot"
-date: 2016-07-12
+date: 2016-07-12 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8695/28808877635_c977be1337.jpg"
 excerpt: "A Twitter bot that generates procedural artwork using a trigonometric formula, node.js, and Processing 3."
 medium: "Procedural Art"

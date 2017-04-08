@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "infORM"
-date: 2016-03-16
+date: 2016-03-16 00:00:00 -0400
 image: "https://c2.staticflickr.com/8/7570/27772929823_ae1922ff53.jpg"
 excerpt: "Object Oriented Mapping (ORM) of sensory data and translating that into a conveyable form of information about physical occurrences and events."
 medium: "Physical Mapping Tool"

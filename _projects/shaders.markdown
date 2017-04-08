@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eccentric Shaders"
-date: 2016-08-16
+date: 2016-08-16 00:00:00 -0400
 image: "https://c1.staticflickr.com/1/274/31498731173_2ce18933fd.jpg"
 excerpt: "A collection of WebGL shaders that run on a web browser. Reflections and explorations about the mechanistic and voided world of computation and quantum theory."
 medium: "WebGL Shaders"

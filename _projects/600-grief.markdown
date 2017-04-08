@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "600 Grief"
-date: 2016-09-14
+date: 2016-09-14 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8438/29417930580_3822ebf3c5.jpg"
 excerpt: "A creature from millions light years away that mourns and griefs a deceased fellow. A meditation on how grieving may be a universal language of every form of life."
 medium: "Physical Object / Narrative"

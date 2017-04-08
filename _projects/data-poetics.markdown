@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code: Data Poetics"
-date: 2016-05-16
+date: 2016-05-16 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8578/28524788990_3f76b39b23.jpg"
 excerpt: "Experimentations with procedurally analyzed text-based data using JavaScript, statistics, probability, Markov chains, and Twitter bots."
 medium: "JavaScript Experiments"

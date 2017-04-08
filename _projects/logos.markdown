@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Logos"
-date: "2015-02-26"
+date: "2015-02-26 00:00:00 -0400"
 image: "https://c2.staticflickr.com/4/3817/33191258402_0f09a02d9d_c.jpg"
 excerpt: ""
 medium: "Experimental Motion Picture"

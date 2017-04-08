@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ice Nine"
-date: 2016-11-05
+date: 2016-11-05 00:00:00 -0400
 image: "https://c2.staticflickr.com/6/5706/30441769776_245fc2f92d.jpg"
 excerpt: "WebGL experiments using three.js that illustrate the unleashing of Ice Nine, a fictional substance from Kurt Vonnegut's novel 'Cat’s Cradle'."
 medium: "WebGL Art"

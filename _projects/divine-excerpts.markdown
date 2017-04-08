@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Divine Excerpts"
-date: "2016-08-12"
+date: "2016-08-12 00:00:00 -0400"
 image: "https://c1.staticflickr.com/1/729/33218521041_88b202f52c_c.jpg"
 excerpt: ""
 medium: "Music Composition"
