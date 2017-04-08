@@ -9,4 +9,4 @@ medium: "Physical Object"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R6sTHtLNDPA" frameborder="0" allowfullscreen></iframe>
 
-- [Poem Maschine on GitHub](https://gist.github.com/mbrav/813788550e25800a9159)
+[Poem Maschine on GitHub](https://gist.github.com/mbrav/813788550e25800a9159)

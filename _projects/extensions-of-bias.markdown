@@ -9,9 +9,9 @@ medium: "Physical Installation"
 
 <iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-- Starring: Jennifer Lee
-- [Extensions of Bias on Github](https://github.com/mbrav/bias)
-- [Additional Notes about the process]({{ site.url }}/journal/2016/12/08)
+Starring: Jennifer Lee  
+[Extensions of Bias on Github](https://github.com/mbrav/bias)  
+[Additional Notes about the process]({{ site.url }}/journal/2016/12/08)  
 
 *A speculative new media art installation about media technology becoming a mediation of our biases.*
 

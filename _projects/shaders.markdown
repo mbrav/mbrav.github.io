@@ -9,8 +9,8 @@ medium: "WebGL Shaders"
 
 <iframe src="https://player.vimeo.com/video/200555033?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-* [Link to Shader Gallery](http://mbrav.github.io/shaders/01/)
-* [Eccentric Shaders on GitHub](https://github.com/mbrav/shaders)
+[Link to Shader Gallery](http://mbrav.github.io/shaders/01/)  
+[Eccentric Shaders on GitHub](https://github.com/mbrav/shaders)
 
 This is a collection of WebGL shaders that run on a web browser. For the most part, these shaders are reflections and meditations on the laws of nature and physics, expressed through a computer graphic language. Imitating natural patterns with computer code is a very abstracted and intangible process.
 

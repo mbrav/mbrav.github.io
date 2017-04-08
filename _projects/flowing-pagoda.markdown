@@ -9,7 +9,7 @@ medium: "Processing Animation"
 
 <iframe src="https://player.vimeo.com/video/149526108?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-- [Flowing Pagoda on GitHub](https://github.com/mbrav/FlowingPagoda)
+[Flowing Pagoda on GitHub](https://github.com/mbrav/FlowingPagoda)
 
 According to the philosophy that this project manifests, everything that constitutes the world, relies on a process of *rebirth* and *decay*. Each moment is an experience of our active mind-state. This mind-state allows us to experience thoughts, memories, feelings, and perceptions. The mind-state arises, exists for a certain period of time, and because of its impermanent nature, it eventually decays. But even after it decayed, its process of rebirth will always be on its way. The process thus repeats, just like Spring, Summer, Autumn, and Winter. It is a process that is poetic in its nature.
 

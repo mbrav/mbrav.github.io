@@ -40,8 +40,7 @@ exclude:
   - Gemfile.lock
 
 # Custom gems
-gems:
-  - jekyll-seo-tag
+gems: [jekyll-seo-tag, jekyll-feed]
 
 # For jekyll-seo-tag
 twitter:

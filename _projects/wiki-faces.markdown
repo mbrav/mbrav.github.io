@@ -9,9 +9,9 @@ medium: "Data Visualization "
 
 ![](https://c2.staticflickr.com/4/3911/33436796956_909c9311d1_b.jpg)
 
-* [Link to Visualization](http://mbrav.github.io/Lab-SP17/07/01/) (works best in Chrome browser)
-* [Wiki Faces on GitHub](https://github.com/mbrav/Lab-SP17/tree/master/07)
-* [Google Slide](https://docs.google.com/presentation/d/1smz2k6QzMbXXq6ocRegkKJwh0VvHCDob8mGcKfmqVhQ/edit#slide=id.p)
+[Link to Visualization](http://mbrav.github.io/Lab-SP17/07/01/) (works best in Chrome browser)  
+[Wiki Faces on GitHub](https://github.com/mbrav/Lab-SP17/tree/master/07)  
+[Google Slide](https://docs.google.com/presentation/d/1smz2k6QzMbXXq6ocRegkKJwh0VvHCDob8mGcKfmqVhQ/edit#slide=id.p)  
 
 Wiki Faces is a project that aims to visualize the life spans and portraits of human figures who constitute the sums of our current scientific knowledge. Wikipedia is the most popular  knowledge reference which functions on a technology that completely transformed the way humans retrieve knowledge – the Internet. With this in mind, Wikipedia continues to be one of the most predominant organizations which represents the openness of the Internet. It is believed among some people that in case of a distress that humanity may encounter, Wikipedia would be on of the first sums of human knowledge that would be salvaged.
 

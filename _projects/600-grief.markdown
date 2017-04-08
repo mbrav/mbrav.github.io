@@ -9,7 +9,7 @@ medium: "Physical Object / Narrative"
 
 <iframe src="https://player.vimeo.com/video/183026282?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-- [Process and Assembly](https://bfadtdeviceart.wordpress.com/2016/09/14/600-grief/)
+[Process and Assembly](https://bfadtdeviceart.wordpress.com/2016/09/14/600-grief/)
 
 *A creature from millions light years away that mourns and griefs a deceased fellow. A meditation on how grief may be a universal language of every possible form of life.*
 

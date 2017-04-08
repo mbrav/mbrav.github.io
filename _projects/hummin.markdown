@@ -9,8 +9,8 @@ medium: "Physical Object"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pw8o-xjXaz8" frameborder="0" allowfullscreen></iframe>
 
-- [Hummin on GitHub](https://gist.github.com/mbrav/fd56ff01b985699b3825df33c41ff7b4)
-- [Blog Post](https://bfadtdeviceart.wordpress.com/2016/09/06/hummin/) of the building process
+[Hummin on GitHub](https://gist.github.com/mbrav/fd56ff01b985699b3825df33c41ff7b4)  
+[Blog Post](https://bfadtdeviceart.wordpress.com/2016/09/06/hummin/) of the building process
 
 This is a project called “*Hummin*”, inspired by a humanoid character from Isaac Asimov’s *Foundation* series. The name is pronounced as “human” and was used by a humanoid robot who concealed his benevolent robotic nature from humans, for the sake of maintaining the integrity of the galactic empire. The object consists of what appeared to be a broken CRT cathode tube display and an Arduino. After fiddling around with the electronics, I found some connection areas that influenced the visuals on the screen. I used an Arduino to trigger and flickr these components with the visuals transforming into an outcome.
 

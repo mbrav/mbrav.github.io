@@ -9,7 +9,7 @@ medium: "Physical Mapping Tool"
 
 <iframe src="https://player.vimeo.com/video/161095259?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-- [Conference Format Paper (PDF)](https://github.com/mbrav/infORM/raw/master/ProjectIntent.pdf)
-- [infORM on GitHub](https://github.com/mbrav/infORM)
+[Conference Format Paper (PDF)](https://github.com/mbrav/infORM/raw/master/ProjectIntent.pdf)  
+[infORM on GitHub](https://github.com/mbrav/infORM)
 
 This project is a research initiative that achieved a minimalistic proof of concept and provided a roadmap for possible further development. *infORM* is based on Object Oriented Mapping (ORM) of sensory data and translating that into a conveyable form of information about physical occurrences and events. The project emphasized on the possibility that every event within the space and time dimension, can be mapped, related, and compared. The implication behind such a capability, is that it is feasibly possible to create a new form of an augmented reality based on the analysis of sensory data.

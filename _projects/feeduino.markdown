@@ -11,6 +11,6 @@ medium: "DIY Gadget"
 
 ### Press
 
-- [Hackaday magazine](https://hackaday.com/2013/02/08/a-pair-of-automatic-fish-feeders/)
+[Hackaday magazine](https://hackaday.com/2013/02/08/a-pair-of-automatic-fish-feeders/)
 
 Feeduino is a simple DIY gadget that experiments with the ability to automatically feed fish. It is built using very simple and cheap household items which makes the whole gadget cost less than the food itself (around $5). The controller is a small ATtiny 85 Atmel controller which is a striped down version of the Arduino. It is able to control two servos and feed the fish at a constant time interval.

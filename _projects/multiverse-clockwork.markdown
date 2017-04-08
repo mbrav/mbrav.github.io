@@ -9,7 +9,7 @@ medium: "openFrameworks Animation"
 
 <iframe src="https://player.vimeo.com/video/164663100?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-- [MultiverseClockwork on GitHub](https://github.com/mbrav/MultiverseClockwork)
+[MultiverseClockwork on GitHub](https://github.com/mbrav/MultiverseClockwork)
 
 For this creative coding project I wanted to replicate the animations from the 70’s. This is the time when *A Clockwork Orange* (1971), a movie based on Anthony Burgess’s novel was filmed. During that time, Computer Graphics (CG) first started to emerge and I wanted to create an animation that would encompass the aspects of early CG within the context of the movie. As if the mix was not enough, I also decided to include a few animations that would envision the theory of multiverses. The multiverse theory concepts in the animations are influenced by Jim Holt’s book called *Why Does the World Exist?*.
 

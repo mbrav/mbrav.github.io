@@ -13,8 +13,8 @@ medium: "Web Art / Data Visualization "
 
 <iframe src="https://www.youtube.com/embed/786-8AATBdQ" frameborder="0" allowfullscreen></iframe>
 
-- [Web Gallery](http://mbrav.github.io/Lab-FA16/10/index.html)
-- [Written Study]({{ site.url }}/post/sleep-data-abyss)
-- [Google Slide](https://docs.google.com/presentation/d/11fYZgN1jCmeWrh6HuNKrUFw33DoWND-UYVVfhNRtQVo/edit)
+[Web Gallery](http://mbrav.github.io/Lab-FA16/10/index.html)  
+[Written Study]({{ site.url }}/post/sleep-data-abyss)  
+[Google Slide](https://docs.google.com/presentation/d/11fYZgN1jCmeWrh6HuNKrUFw33DoWND-UYVVfhNRtQVo/edit)
 
 This project is a meditation on our relation with our personal data. If we constantly extract meaning out of our personal data, what do we accomplish as humans? Are we really the ones who extract meaning out of it? Or does someone else do it for us? What is the implication of quantifying ourselves and how does that augment our human nature? If it even does so at all. Perhaps it deteriorates it. Maybe quantifying ourselves through personal data just makes us less human and forces us into the realm of the material.

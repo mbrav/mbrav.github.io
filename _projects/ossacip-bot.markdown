@@ -11,8 +11,8 @@ medium: "Procedural Art"
   <blockquote class="twitter-tweet" width="300px" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/di4U6otL3x">pic.twitter.com/di4U6otL3x</a></p>&mdash; OssacipBot (@OssacipBot) <a href="https://twitter.com/OssacipBot/status/760396681397563392">August 2, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-- [@OssacipBot on Twitter](https://twitter.com/OssacipBot)
-- [OssacipBot on Github ](https://github.com/mbrav/OssacipBot)
+[@OssacipBot on Twitter](https://twitter.com/OssacipBot)  
+[OssacipBot on Github ](https://github.com/mbrav/OssacipBot)
 
 A Twitter bot that generates procedural artwork using a trigonometric formula, node.js, and Processing 3.
 
