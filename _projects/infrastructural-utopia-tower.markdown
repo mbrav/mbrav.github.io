@@ -9,7 +9,8 @@ medium: "Physical Installation"
 
 <iframe src="https://player.vimeo.com/video/166409996?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/InfrastructuralUtopiaTower)
+[Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/InfrastructuralUtopiaTower)  
+[Initial Notes]({{ site.url }}/journal/2016/04/15) about the Concept 
 
 *A speculative installation that envisions an utopian idealization of digital infrastructure, but contrary to its ideal, the tower in practice is a surveilled information-sniffing wi-fi hotspot. It is a reflection on the ways humans frequently manifest ideals that become realized in a way that is contrary to what was envisioned.*
 

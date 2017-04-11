@@ -4,9 +4,7 @@ title: Studies
 permalink: /studies
 ---
 
-### [Journals]({{ site.url }}/journals)
-
-*Studies* is what I call writings for which I dedicated my time to articulate. These can be anything that range from assignments, essays, to pseudo-scientific research. I also maintain [journals]({{ site.url }}/journals) where I keep my less elaborate writings.
+*Studies* is what I call writings for which I dedicated my time to articulate. These can be anything that range from assignments, essays, to pseudo-scientific research. I also maintain [Journals]({{ site.url }}/journals) where I keep my less elaborate writings.
 
 {% for post in site.posts %}
   <i class="post-list-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></i>

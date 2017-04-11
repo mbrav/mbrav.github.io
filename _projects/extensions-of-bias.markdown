@@ -11,7 +11,7 @@ medium: "Physical Installation"
 
 Starring: Jennifer Lee  
 [Extensions of Bias on Github](https://github.com/mbrav/bias)  
-[Additional Notes about the process]({{ site.url }}/journal/2016/12/08)  
+[Additional Notes]({{ site.url }}/journal/2016/12/08) about the process
 
 *A speculative new media art installation about media technology becoming a mediation of our biases.*
 
