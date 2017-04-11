@@ -1,14 +1,10 @@
-#  BOOKS IN PROGRESS
-
-# - author: Douglas Kahn
-#   title: "Earth Sound Earth Signal"
-#   date: 2099-99-99
-#   link: http://www.ucpress.edu/book.php?isbn=9780520257559
-#   comment:
-
-# TO READ
-
 # BOOKS READ
+
+# - author: Friedrich Nietzsche
+#   title: "Beyond Good and Evil"
+#   date: 2017-03-25
+#   link: https://en.wikipedia.org/wiki/Beyond_Good_and_Evil
+#   comment:
 
 - author: Cixin Liu
   title: "The Three-Body Problem"
@@ -40,6 +36,11 @@
   comment:
   link: https://en.wikipedia.org/wiki/The_Human_Condition_(book)
 
+- author: Martin Heidegger
+  date: 2016-11-24
+  title: "The Question Concerning Technology"
+  link: https://en.wikipedia.org/wiki/The_Question_Concerning_Technology
+
 - author: Steven Johnson
   date: 2016-10-08
   title: "Emergence: The Connected Lives of Ants, Brains, Cities, and Software"
@@ -59,6 +60,11 @@
   date: 2016-07-18
   title: "In Search of a Better World"
   link: https://www.amazon.com/Search-Better-World-Lectures-Essays/dp/0415135486
+
+- author: Carlo Rovelli
+  date: 2016-07-10
+  title: "Seven Brief Lessons on Physics"
+  link: http://www.sevenbrieflessons.com/
 
 - author: Ashlee Vance
   date: 2016-07-07

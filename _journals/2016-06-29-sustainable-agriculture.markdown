@@ -2,9 +2,8 @@
 layout: post
 title:  "Sustainable Agriculture 1.0"
 date:   2016-06-29 12:00:00 0200
-categories: study
 description: "Reinventing Agriculture for a multi-planetary civilization"
-tags: ideas agriculture environment
+tags: ideas agriculture environment research
 ---
 
 *Reinventing Agriculture for a multi-planetary civilization*

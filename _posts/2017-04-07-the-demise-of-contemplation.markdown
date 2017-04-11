@@ -3,6 +3,7 @@ layout: post
 title: "The Demise of Contemplation and the Rise of Intellectual Labour"
 date: "2017-04-07 23:26:59 -0400"
 image: https://c1.staticflickr.com/3/2850/33518824590_fa5d0936cc_b.jpg
+categories: essay
 ---
 
 ![](https://c1.staticflickr.com/3/2850/33518824590_fa5d0936cc_b.jpg)

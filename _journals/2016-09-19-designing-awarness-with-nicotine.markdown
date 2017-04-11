@@ -2,8 +2,8 @@
 layout: post
 title:  "Designing Collective Awareness with Nicotine"
 date:   2016-09-19 03:50:00 -0500
-categories: study
 image: http://i.imgur.com/rcJmwyh.jpg
+tags: research ideas
 ---
 
 After reading *Emergence: The Connected Lives of Ants, Brains, Cities, and Software* by Steven Johnson, and *Adversarial Design* by Carl DiSalvo, I started to think about a project that incorporates some of the themes introduced in these readings.

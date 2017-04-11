@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Humanstic Posthumansim by Natural Emergence"
+title: "Humanstic Posthumansim Through Natural Emergence"
 date: "2017-03-18 16:33:12 -0400"
-tags: [cybernetics, humanism, philosophy]
+tags: cybernetics humanism philosophy
 categories: essay
 ---
 
