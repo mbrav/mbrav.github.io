@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "A Guide to 21st Century Computational Archeology: Statement"
+title: "An Ontology of Computational Archeology: Statement"
 date: "2017-04-08 14:42:32 -0400"
 tags: [project, universe, space, archeology]
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/KeckObservatory.jpg"
+permalink: /ontology
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2f/KeckObservatory.jpg)
+
+[Google Slide](https://docs.google.com/presentation/d/18zipkHX-CGtfmGtt5sM8Az_yrj4JjJuxdVNK0MaaPII/present#slide=id.p) of the concept
 
 ## Creator Statement
 
@@ -19,6 +22,8 @@ When looking at something like the sky however, our eyes are not sophisticated e
 The motivation for this project is to create an experience where the user interaction is engaged in this new form of computational archeology. The digital artifacts in the interaction will include images, 3D models of dinosaurs, and maybe even am Arduino gadget in a form of a pickaxe. The user will have to to somehow interact with that space and reveal something from the past.
 
 [Data archaeology](https://en.wikipedia.org/wiki/Data_archaeology) from Wikipedia
+
+[Digital Classicista](http://de.digitalclassicist.org/berlin/index) - An organization from Berlin that specializes in Data Archeology
 
 
 [^1]: [Computational archaeology](https://en.wikipedia.org/wiki/Computational_archaeology) from Wikipedia
