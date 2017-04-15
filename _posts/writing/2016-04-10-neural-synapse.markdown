@@ -4,7 +4,7 @@ title:  "An Artist is a Neural Synapse"
 date:   2016-04-10 12:00:00 -0500
 categories: manifesto
 tags: art manifesto
-image: https://i.imgur.com/NgGAZcY.png
+image: "https://i.imgur.com/NgGAZcY.png"
 ---
 
 An artist is like a neural synapse. He must rest reactive to the environment and his surroundings. As negative as the reality surrounding the artist might be, he must maintain his awareness if he wants to rest entitled as an artist. Just like a neuron must maintain healthy synapses since otherwise it becomes dysfunctional. If the artist where to become ignorant of his awareness, his function as an artist and that of a healthy neuron — becomes falsified.

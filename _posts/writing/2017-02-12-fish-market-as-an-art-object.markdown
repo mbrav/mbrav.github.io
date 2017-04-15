@@ -4,7 +4,7 @@ title: "Beuckelaer's Fish Market as an Art Object"
 categories: study
 date: "2017-02-12 16:19:50 -0500"
 tags: [philosophy, art, painting, theory]
-image: http://images.metmuseum.org/CRDImages/ep/web-large/DP375107.jpg
+image: "http://images.metmuseum.org/CRDImages/ep/web-large/DP375107.jpg"
 ---
 
 Joachim Beuckelaer (c. 1533 – c. 1573/4) is a Flemish painter well known for specializing in depiction of markets, foods, and kitchen scenes. His elaborate displays of food and household equipment. His subjects often feature iconographical associations with Christian theology, but also very intricate depictions and representations of non-human dead subjects. Beuckelaer was also a student of Pieter Aertsen (c. 1507/8 – c. 1575) who also features very similar subject-matter. Him and his student Beuckelaer, both became very famous painter of everyday life.

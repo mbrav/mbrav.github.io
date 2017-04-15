@@ -3,7 +3,7 @@ layout: post
 title:  "Transagrarianism"
 date:   2016-12-20 12:10:00 -0500
 categories: study
-image: https://c2.staticflickr.com/6/5461/29884576834_d82844274b_b.jpg
+image: "https://c2.staticflickr.com/6/5461/29884576834_d82844274b_b.jpg"
 ---
 
 Agriculture is one of the most prominent human activities that has become the underlying backbone of cultures, economies, and even the Earth’s climate. The process that constitute the act of farming is constantly being optimized and adjusted according to human needs and agendas. With the advent of industrialization, an increasing number of these human needs and agendas become satisfiable in grander extents, while we lack complete awareness about the long term effects of these decisions. When it comes to agriculture, it becomes increasingly important to make changes that are less provisional, but more insightful about how these changes will effect economies, politics, and food culture in the longterm future.
