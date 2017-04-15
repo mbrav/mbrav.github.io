@@ -4,7 +4,7 @@
 
 // Slide Show data
 var slideData = [
-	{% for project in site.projects reversed %}
+	{% for project in site.categories.project %}
 		{
 		  'type': 'project',
 		  'imgFile': '{{ project.image }}',
