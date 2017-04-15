@@ -9,7 +9,7 @@ These are some of my projects which for the most part, explore and investigate h
 Some of these projects are also explorations through various types of other mediums.
 
 <div class="container">
-	{% for project in site.projects reversed %}
+	{% for project in site.categories.project %}
 		<a href="{{ project.url | prepend: site.baseurl }}">
 			<div class="tile" style="background-image: url('{{ project.image }}');">
 				<div class="tile-wrapper">

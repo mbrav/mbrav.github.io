@@ -17,17 +17,29 @@ soundcloud_username: mixania
 medium_username: mbrav
 tumblr_username: bravm
 
-# Custom names for different kinds of collections
-collections:
-  posts:
-    output: true
-    permalink: post/:title
-  projects:
-    output: true
-    permalink: project/:title
-  journals:
-    output: true
-    permalink: journal/:year/:month/:day
+# Custom names for different categories
+defaults:
+  # Journals
+  - scope:
+      path: "_posts/journal"
+      type: posts
+    values:
+      categories: journal
+      permalink: journal/:year/:month/:day
+  # Posts
+  - scope:
+      path: "_posts/writing"
+      type: posts
+    values:
+      categories: writing
+      permalink: post/:title
+  # Project
+  - scope:
+      path: "_posts/project"
+      type: posts
+    values:
+      categories: project
+      permalink: project/:title
 
 # Build settings
 markdown: kramdown

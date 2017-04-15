@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "An Ontology of Computational Archeology: Statement"
+title: "Computational Archeology: Project Statement"
 date: "2017-04-08 14:42:32 -0400"
 tags: [project, universe, space, archeology]
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/KeckObservatory.jpg"
-permalink: /ontology
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2f/KeckObservatory.jpg)
