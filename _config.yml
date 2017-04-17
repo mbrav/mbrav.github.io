@@ -68,5 +68,6 @@ google_analytics: UA-90389714-1
 # For Atom Jekyll plugin
 atom:
   postDirs:
-    - _projects
-    - _journals
+    - _post/project
+    - _post/journal
+    - _post/writing

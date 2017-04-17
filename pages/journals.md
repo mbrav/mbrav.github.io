@@ -5,7 +5,7 @@ permalink: /journals
 listed: false
 ---
 
-Journals are texts/excerpts/notes that I happen to write up on any particular day for whatever purpose it might be. These are not meant to be writings of a refined level. To see my more refined writing, go to [Writings]({{ site.url }}/writings).
+Journals are texts/excerpts/notes that I happen to write up on any particular day for whatever purpose it might be. These are not meant to be writings of a refined level. To see my more refined writing, go to [Writings]({{ site.url }}/writing).
 
 {% for post in site.categories.journal %}
 	{% assign title_len = post.title | size %}

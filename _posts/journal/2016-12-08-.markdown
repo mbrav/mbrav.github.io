@@ -2,7 +2,7 @@
 layout: post
 title: "Extensions of Bias - Notes"
 date: "2016-12-08 12:17:39 -0500"
-tags: [bias, notes, process]
+tags: [bias, notes, process, project]
 ---
 
 At an age of digitally augmented media, digital bias is transforming into something inherent in the nature — a species conditioning itself to take control over almost any natural system by means of technology. Humanity's destiny is quite certain, technology is becoming less of a tool, and more of a prosthesis that is actively shaping the human. But what does using technology mean when we us its as a construction material of our natures? Does it make us more truthful and rational, or does it do the opposite?

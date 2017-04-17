@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Beuckelaer's Fish Market as an Art Object"
-categories: study
+title: "Museum Visit I: Beuckelaer's Fish Market as an Art Object"
 date: "2017-02-12 16:19:50 -0500"
-tags: [philosophy, art, painting, theory]
+tags: philosophy, art, painting, theory, aesthetics
 image: "http://images.metmuseum.org/CRDImages/ep/web-large/DP375107.jpg"
 ---
 
