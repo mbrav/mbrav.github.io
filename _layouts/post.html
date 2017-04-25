@@ -10,7 +10,8 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}
   </br>
     <!-- word count  -->
-    {% if page.path contains '_posts' or page.path contains '_drafts' or page.path contains '_journals'%}
+    <!-- no word count for projects  -->
+    {% unless page.categories contains 'project'%}
       {% assign words = content | number_of_words %}
       {% if words < 360 %}
         1 min
@@ -18,7 +19,7 @@ layout: default
         {{ words | divided_by:180 }} mins
       {% endif %}
       read ({{ words }} words)
-    {% endif %}
+    {% endunless %}
   </span>
     <span>
     </span>

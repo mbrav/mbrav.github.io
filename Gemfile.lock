@@ -3,10 +3,7 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
-    classifier-reborn (2.1.0)
-      fast-stemmer (~> 1.0)
     colorator (1.1.0)
-    fast-stemmer (1.0.2)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
     jekyll (3.4.1)
@@ -50,7 +47,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  classifier-reborn
   jekyll
   jekyll-feed
   jekyll-seo-tag
