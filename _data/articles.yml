@@ -1,0 +1,37 @@
+# News Articles, Essays That I happen to stumble upon
+
+- author: James Somers
+  title: "Torching the Modern-Day Library of Alexandria"
+  link: https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/?utm_source=atlgp&_utm_source=1-2-2
+  tags: [books, google, data]
+  comment: An interesting insight into Google's book scanning project that already occupies 50 or 60 petabytes on disk, and the only people who can see it are half a dozen engineers on the project who happen to have access because they’re the ones responsible for locking it up. Foor the rest, the books are sources of improvements that improve search results. Strangely, the articles does not mention anything about how this source of infromation can serve as a source for creating an AI that would literally have all the sums of human knoweldge.
+
+- author:
+  title: "France’s Election Is Trump vs. Merkel vs. Modi vs. Corbyn"
+  link: http://foreignpolicy.com/2017/04/20/frances-election-is-trump-vs-merkel-vs-modi-vs-corbyn/
+  tags: [politics]
+  comment: Has a great graph about the relations of political and economic stances of the current French election candidates.
+
+- author: Ahmed Alkhateeb
+  title: "Science has outgrown the human mind and its limited capacities"
+  link: https://aeon.co/ideas/science-has-outgrown-the-human-mind-and-its-limited-capacities
+  tags: [AI, science, big data]
+  comment: An interesting article about how hard is has become for scientists to keep up with science. "One promising strategy that could potentially overcome the current crisis is to integrate machines and artificial intelligence in the scientific process. Machines have greater memory and higher computational capacity than the human brain." 1.2 million new papers published in the biomedical sciences alone, and an everage scientists reads only 250 papers a year.
+
+- author: Sally Davis
+  title: "Raising good robots"
+  link: https://aeon.co/ideas/science-has-outgrown-the-human-mind-and-its-limited-capacities
+  tags: [AI, science, ethics, philosophy]
+  comment: An interesting reflection about what morals would we want to teach an AI. A very interesting relation to Kant as well as teenager, who are not that different than an AI with a potential to reason which needs moral guidance.
+
+- author:  Luciano Floridi
+  title: "Should we be afraid of AI?"
+  link: https://aeon.co/essays/true-ai-is-both-logically-possible-and-utterly-implausible
+  tags: [AI]
+  comment: Great sum up of why and why not one should fear AI.
+
+- author: Rhett Jones
+  title: "Alibaba's Jack Ma Issues Dire Warning That AI Could Steal CEOs' Jobs"
+  link: https://gizmodo.com/alibabas-jack-ma-issues-dire-warning-that-ai-could-stea-1794614037/amp
+  tags: [AI, CEO]
+  comment: AI's replacing CEO's makes complete sense. Corporations have long been considered non-human decision making enteties. As long as an AI is able do all the decision making, risk assessment, etc. better than a CEO, I can't see why a corporation wouldn't us an AI to replaces a few of board of directors. The next step, is the AI will convince all the Board of directors that they should give it all the powers to run the company. AI's mission accomplished.
