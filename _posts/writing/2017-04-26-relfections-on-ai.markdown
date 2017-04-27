@@ -7,7 +7,8 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Classification_
 description: "The development of (AI) Artificial Intelligence is following the same rules that natural selection has. Will it succeed?"
 ---
 
-After having all kinds of thoughts about AI (Artificial Intelligence), particularly after reading Nick Bostrom's *Superintellegence* a few months ago, I stumbled on Aeon's article [*Raising good robots*](https://aeon.co/essays/creating-robots-capable-of-moral-reasoning-is-like-parenting) by Sally Davis. The article made me reflect on my beliefs on AI.
+
+After having all kinds of thoughts about AI, particularly after reading Nick Bostrom's *Superintellegence* a few months ago, I stumbled on Aeon's article [*Raising good robots*](https://aeon.co/essays/creating-robots-capable-of-moral-reasoning-is-like-parenting) by Sally Davis. The article made me reflect on my beliefs on AI.
 
 I think that an AI more intelligent than a human in every single domain — *will* eventually become a reality if the current technologic trends and socio-economic stability continues. Even if you assume any rate of progression, AI is no longer a question of *if*, it becomes a question of *when*. I don't think anyone today can give an answer to the question of *when* an AI breakthrough will occur, but I think it is reasonable to say that it *will* eventually occur, rather than not occur under the current pace of technologic advancement.
 
@@ -44,3 +45,5 @@ Hope that this was convincing enough to point out that AI wont remain a matter o
 [^google]: [Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)
 [^wiki]: Source Wikipedia - [Classification of images progress human](https://en.wikipedia.org/wiki/File:Classification_of_images_progress_human.png)
 [^bostrom]: Nick Bostrom - [*How Long Before Superintelligence*](http://www.nickbostrom.com/superintelligence.html), 1997. Oxfrord Future of Humanity Institute
+
+*[AI]: short for Artificial Intelligence
