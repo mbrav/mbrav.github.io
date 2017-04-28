@@ -50,7 +50,7 @@ iframe {
 	.tile {
 		font-size: 1em;
 		display:inline-block;
-		width:28%;
+		width:30.5%;
 		border-radius:5px;
 
 		// three tiles
@@ -177,4 +177,10 @@ iframe {
 
 .footnotes {
 	font-size: 85%;
+}
+
+.reversefootnote::after {
+	font-size: 50%;
+	content: "return";
+
 }

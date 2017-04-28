@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume
+excerpt: "Michael's resume"
 ---
 
 *Creative Technology*, *Physical Computing* and *Installation Art*

@@ -3,6 +3,7 @@ layout: page
 title: Journals
 permalink: /journals
 listed: false
+excerpt: "Michael's journals and quick writings"
 ---
 
 Journals are texts/excerpts/notes that I happen to write up on any particular day for whatever purpose it might be. These are not meant to be writings of a refined level. To see my more refined writing, go to [Writings]({{ site.url }}/writing).

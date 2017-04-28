@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects
+excerpt: "Michael's projects, installations, and artwork"
 ---
 
 These are some of my projects which for the most part, explore and investigate how technology shapes our human condition and understanding about the world. Projects that align with this category are mainly installations and electronic devices that have certain speculations and/or narratives.
