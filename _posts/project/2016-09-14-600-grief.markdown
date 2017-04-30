@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "600 Grief"
-date: 2016-09-14 00:00:00 -0400
+date: 2016-09-14 01:00:00 -0400
 image: "https://c1.staticflickr.com/9/8438/29417930580_3822ebf3c5.jpg"
 excerpt: "A creature from millions light years away that mourns and griefs a deceased fellow. A meditation on how grieving may be a universal language of every form of life."
 medium: "Physical Object / Narrative"
@@ -14,7 +14,7 @@ medium: "Physical Object / Narrative"
 *A creature from millions light years away that mourns and griefs a deceased fellow. A meditation on how grief may be a universal language of every possible form of life.*
 
 ## Narrative
-3
+
 600 Grief is a "creature" from a world located somewhere in the vast space of the universe. If we where to translate 600 Grief’s name into our anthropocentric human terms, his name would turn out to be "Orange  Grief". The creature’s favorite color is orange, but it has a hidden meaning in its name. The reason why 600 Grief has such a weird numerical name, is because him and the other creatures that live on his planet, collectively decided that it would be better to name everyone according to terms that can be understood by other alien species. This is important for a civilization that wants to encounter another alien civilization. How would you otherwise be able to exchange each other's names if you have no common point of reference? And how could names be understood by aliens who have completely different languages and cultures?
 
 > Grief - a universal language of the living.
