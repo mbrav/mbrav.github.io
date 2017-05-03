@@ -13,11 +13,11 @@ More that 122 years later, Team Radiation is exploring the possibilities of usin
 
 ## Initial Ideas and Explorations
 
-Our Initial focus was to explore the electromagnetic spectrum to explore the ways is which we can explore the gradients of t
+Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept. 
 
 ### Diffraction Grating: Dissecting the Electromagnetic  Spectrum
 
-One of the members of our Radiation team brought in a very interesting *artifact* that caught the attention of our whole group. It was a diffraction sheet which is made like any other plastic sheet, except that it reflects light in a very particular way. This is because the sheet features hundreds of microscopic indented lines per millimeter. This in turn, causes the sheet to have very particular deflection abilities which can be used for "dissecting" the visual spectrum.
+One of the members of our Radiation team brought in a very interesting *artifact* that caught the attention of our whole group. It was a diffraction sheet which looked like any other plastic sheet, except that it it has very peculiar light reflecting properties. This is because the sheet features hundreds of microscopic indented lines per millimeter. This in turn, causes the sheet to have very particular deflection abilities which can be used for "dissecting" the visual spectrum.
 
 ![](http://www.patonhawksley.co.uk/images/demonstrationslide.jpg) Different types of gratings on sheets which gives them various diffracting capabilities.
 
@@ -33,16 +33,16 @@ The Interview that we had with Liviu Babitz during Week 2, pinpointed how his No
 
 ### Cybernetic Sense as an Augmentation of the Brain's Deepest Functions.  
 
-Thus, even if a cybernetic sense might not be seen as a sensuous augmentation, more attention can be dedicated to studying how cybernetic senses form memories in their subjects. Perhaps sense augmentation can be seen as something intriguing but it might be a very superficial way of looking at the potential of cybernetic sense augmentation. New explorations and studies have yet to be made that study how cybernetic senses interact with the deepest functions of the brain such as memory, emotion. This is where the potential of cybernetic sensing lies.
+Thus, even if a cybernetic sense might not be seen as a sensuous augmentation, more attention can be dedicated to studying how cybernetic senses form memories in human brains subjects. Perhaps sense augmentation can be seen as something intriguing but it might be a very superficial way of looking at the potential of cybernetic sense augmentation. New explorations and studies have yet to be made that study how cybernetic senses interact with the deepest functions of the brain such as memory and emotion. We thought that this is where the potential of cybernetic sensing lies.
 
-For Week 4 of my Cyborg Futures class, I decided to make a prototype of a cybernetic sense. In a few previous classes, our team Radiation has brainstormed the attributes that make up a sense. And of these, the most important attributes is the *input* and the *output* of a sense.
+For Week 4 of our Cyborg Futures class, I decided to make a prototype of a cybernetic sense. In a few previous classes, our team has brainstormed the attributes that make up a sense. And of these, the most important attributes is the *input* and the *output* of a sense:
 
 external phenomena  |  input | output
 --|---|--
 1. reaction / stimuli   |  2. sensation |  3. perception
 An external physical occurrence which in some forms gets translated through the space/time dimension, whether it is a chemical, physical, atomic, or electromagnetic occurrence.  |  The external physical occurrence is somehow intercepted and perceived by a sense. |  The perception of an external phenomena gets translated into information that can be cognitively perceived.
 
-The *input* is what can be considered the "reaction" caused from an external *stimuli*. Such a reaction can either be chemical, physical, electromagnetic, and temperature. When a reaction happens (1), it is somehow sensed (2) and then gets translated into a sensational *output* that can be understood by a cognitive system (3). This is where the sense interfaces with the brain through a way of communication that the brain knows how to interpret.
+The *input* is what can be considered the "reaction" caused from an external *stimuli*. Such a reaction can either be chemical, physical, electromagnetic, and temperature. When a reaction happens (1), it is somehow sensed (2) and then gets translated into a sensational *output* that can be understood by a cognitive system like the human brain (3). This is where the sense interfaces with the brain through a way of communication that the brain knows how to interpret.
 
 ![](http://waysofperception.com/wp-content/uploads/2015/04/processor6.jpg)  
 A diagram about what is being said except that everything beyond **perception** is irrelevant for now.
@@ -51,6 +51,7 @@ A diagram about what is being said except that everything beyond **perception** 
 René Descartes's (1596 – 1650)  diagram of the mind/body dualism where sensory inputs are passed on by the sensory organs to the epiphysis in the brain and from there to the *immaterial spirit* (or conciousness in non-philosophic terms).
 
 ### EMF Detection Device
+David one day brought in an Arduino 
 ![](https://parsonscyborfutures.slack.com/files/davidtroetschel/F4BKG2MP1/img_20170226_222801.jpg)
 
 ### Vibration Motor Sensation
