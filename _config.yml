@@ -55,8 +55,8 @@ exclude:
 gems: [jekyll-seo-tag, jekyll-feed, jekyll-sitemap]
 
 # For jekyll-seo-tag
-twitter:
-  username: mixania
+author:
+  twitter: mixania
 
 # for comments
 disqus:

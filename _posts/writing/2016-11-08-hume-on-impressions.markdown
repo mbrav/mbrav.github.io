@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Hume on Impressions and Causation"
-date:   2016-11-08 20:00:00 -0500
-categories: essay
-tags: philosophy
+title: "Hume on Impressions and Causation"
+date: 2016-11-08 20:00:00 -0500
+tags: [philosophy, essay]
 ---
 
 According to David Hume’s proposition, all ideas can be related among each other through the principles of *resemblance*, *identity*, *relation* in space and time, *quantity*, *contrariety*, and *causation*.[^1] These are the principles established by Hume which form the principle of *connexion* among ideas and impressions. The relation between ideas and impressions is also very important, it is this conjunction of terms that forms the most immediate and reflective impression of reality. More complex ideas are built on top of simpler impressions — complex ideas are derived from simple impressions which correspond to the exact representations of the occurrence that they represent.[^3] These perceptions along with the principles of *connexion*, form the foundation on which a relation between an idea and another is possible.

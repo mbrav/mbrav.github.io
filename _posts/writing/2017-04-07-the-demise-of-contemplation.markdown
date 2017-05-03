@@ -3,8 +3,8 @@ layout: post
 title: "The Demise of Contemplation and the Rise of Intellectual Labour"
 date: "2017-04-07 23:26:59 -0400"
 image: "https://c1.staticflickr.com/3/2850/33518824590_fa5d0936cc_b.jpg"
-description: "What does it mean to have world-view consisting of scientific notations and instrument measurements"
-categories: essay
+excerpt: "What does it mean to have world-view consisting of scientific notations and instrument measurements"
+tags: [essay, science, philosophy]
 ---
 
 ![](https://c1.staticflickr.com/3/2850/33518824590_fa5d0936cc_b.jpg)

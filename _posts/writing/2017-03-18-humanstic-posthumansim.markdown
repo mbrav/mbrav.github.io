@@ -2,9 +2,8 @@
 layout: post
 title: "Humanstic Posthumansim Through Natural Emergence"
 date: "2017-03-18 16:33:12 -0400"
-tags: cybernetics humanism philosophy
-categories: essay
-description: "How emergent patterns found in nature can help posthumansim to progress while remaining something humanistic"
+tags: [essay, philosophy, humanism, cybernetics]
+excerpt: "How emergent patterns found in nature can help posthumansim to progress while remaining something humanistic"
 image: "https://instagram.fphl1-1.fna.fbcdn.net/t51.2885-15/e35/17493590_1321998634560217_5837033337503350784_n.jpg"
 ---
 

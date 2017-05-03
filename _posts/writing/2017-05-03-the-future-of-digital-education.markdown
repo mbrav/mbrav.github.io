@@ -2,8 +2,8 @@
 layout: post
 title: "The Future of Digital Education"
 date: "2017-05-03 11:32:27 -0400"
-tags: [AI, education, teaching, technology, automation, humanism]
-description: "Will society question the ethics and humanistic values of automation in teaching, or would it yield to AI's and algorithms?"
+tags: [AI, education, technology, automation, humanism, ideas]
+excerpt: "Will society question the ethics and humanistic values of automation in teaching, or would it yield to AI and algorithms?"
 image: "http://maxpixel.freegreatpicture.com/static/photo/1x/Concept-Baby-Computer-Boy-Childhood-Child-84626.jpg"
 ---
 

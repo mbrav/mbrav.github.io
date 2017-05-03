@@ -2,7 +2,7 @@
 layout: post
 title:  "Transagrarianism"
 date:   2016-12-20 12:10:00 -0500
-categories: study
+tags: [study, agriculture, ideas]
 image: "https://c2.staticflickr.com/6/5461/29884576834_d82844274b_b.jpg"
 ---
 

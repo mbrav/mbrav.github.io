@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "An Artist is a Neural Synapse"
-date:   2016-04-10 12:00:00 -0500
-categories: manifesto
+date: 2016-04-10 12:00:00 -0500
 tags: art manifesto
 image: "https://i.imgur.com/NgGAZcY.png"
 ---

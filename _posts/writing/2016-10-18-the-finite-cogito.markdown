@@ -2,8 +2,7 @@
 layout: post
 title:  "The Finite Cogito"
 date:   2016-10-18 20:00:00 -0500
-categories: essay
-tags: philosophy
+tags: [essay, philosophy]
 ---
 
 As Archimedes once proclaimed, if only he had a point that was firm and immovable, only then would he be able to move the Earth. It is a search for a foundation — one on which all products of both, epistemology and the physical world, can be established and built. Rene Descartes expresses comparable motivations by searching for certainty in the realm of the *cogito*.[^1] In his *Meditations*, Descartes denies all his previously established knowledge after suspecting that everything was built on shaky foundations.[^2] By doing so, Descartes ruthlessly destroyed all the prejudices established by him in the past. He ended up in a realm of the abyss, where one might not know what to grab onto. Descartes was not confounded for long, he discovered his own Archimedean foundation point by proclaiming: *I think, therefore I am*. This is the underlying foundation on which the *cogito* and reason are established and built.

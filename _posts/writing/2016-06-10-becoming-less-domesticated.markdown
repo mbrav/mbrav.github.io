@@ -2,7 +2,7 @@
 layout: post
 title:  "Becoming Less Domesticated"
 date:   2016-06-10 16:00:00 0200
-categories: essay
+categories: [essay, ideas, reflection]
 ---
 
 *How a change in a my sleep schedule made me reflect on how domesticate I am*
