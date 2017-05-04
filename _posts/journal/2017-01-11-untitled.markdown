@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ""
 date: "2017-01-11 20:53:44 -0500"
 tags: [technology, science, bias, Arendt, math]
+title: "Untitled"
 ---
 
 Based on the journal that I written [a few days ago](/journal/2017/01/08), I decided that it would be a good thing to reflect on my dispositions and see how I can confront them, and even try to convince myself otherwise. I feel that as a person who recently finished a work that speculates on [human confirmation bias](/project/extensions-of-bias), I should be determined to entertain thought an ideas that are not always fully inline with my beliefs.

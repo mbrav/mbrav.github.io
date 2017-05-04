@@ -13,7 +13,7 @@ More that 122 years later, Team Radiation is exploring the possibilities of usin
 
 ## Initial Ideas and Explorations
 
-Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept. 
+Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept.
 
 ### Diffraction Grating: Dissecting the Electromagnetic  Spectrum
 
@@ -51,7 +51,7 @@ A diagram about what is being said except that everything beyond **perception** 
 René Descartes's (1596 – 1650)  diagram of the mind/body dualism where sensory inputs are passed on by the sensory organs to the epiphysis in the brain and from there to the *immaterial spirit* (or conciousness in non-philosophic terms).
 
 ### EMF Detection Device
-David one day brought in an Arduino 
+David one day brought in an Arduino
 ![](https://parsonscyborfutures.slack.com/files/davidtroetschel/F4BKG2MP1/img_20170226_222801.jpg)
 
 ### Vibration Motor Sensation
@@ -95,10 +95,10 @@ And finally, this is a picture of the device being programmed by the computer. A
 
 To be continued...
 
-### Mind Body Duality 
+### Mind Body Duality
 
 ![](https://68.media.tumblr.com/ae4c3ddf9489c871981bf7f61527bb57/tumblr_onmrpujQao1w4nmffo1_1280.jpg)  
-Initial Ideas from which the Mind Body Duality Idea originated 
+Initial Ideas from which the Mind Body Duality Idea originated
 
 ### Hand Prototype
 
