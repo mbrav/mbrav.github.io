@@ -13,39 +13,41 @@ More that 122 years later, Team Radiation is exploring the possibilities of usin
 
 ## Initial Ideas and Explorations
 
-Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept.
+Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although initially we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept. These where one of the initial experiments and exploration that we have gone through. 
 
-### Diffraction Grating: Dissecting the Electromagnetic  Spectrum
+### Diffraction Grating: Dissecting the Electromagnetic Spectrum
 
-One of the members of our Radiation team brought in a very interesting *artifact* that caught the attention of our whole group. It was a diffraction sheet which looked like any other plastic sheet, except that it it has very peculiar light reflecting properties. This is because the sheet features hundreds of microscopic indented lines per millimeter. This in turn, causes the sheet to have very particular deflection abilities which can be used for "dissecting" the visual spectrum.
+One of the members of our Radiation team brought in a very interesting *artifact* that caught the attention of our whole group. It was a diffraction sheet which looked like any other plastic sheet, except that it had very peculiar light reflecting properties. This is because the sheet features hundreds of microscopic indented lines per millimeter. This in turn, causes the sheet to have a very particular light reflection abilities which can be used for "dissecting" the visual spectrum.
 
 ![](http://www.patonhawksley.co.uk/images/demonstrationslide.jpg) Different types of gratings on sheets which gives them various diffracting capabilities.
 
 ![](http://onebeamoflight.com/images/made/chrootimages/uploads/entries/incandescant_600_450_95.jpg) A lightbulb when viewed from through one of these sheets.
 
-According to Wikipedia, Diffraction rating "is an optical component with a periodic structure, which splits and diffracts light into several beams traveling in different directions".[^a459300a] This technique is often used on CCD sensors which can be found on mobile phones and cameras. diffraction grating is used to filter out Infrared and Ultraviolet radiation and leaves out the electromagnetic spectrum that can be sensed by the human eye (wavelengths from 390 to 700 nm[^85f02486]).
+According to Wikipedia, Diffraction grating "is an optical component with a periodic structure, which splits and diffracts light into several beams traveling in different directions".[^a459300a] This technique is often used on CCD sensors which can be found on mobile phones and cameras. Diffraction grating is used to filter out Infrared and Ultraviolet radiation and leaves out the electromagnetic spectrum that can be sensed by the human eye (wavelengths from 390 to 700 nm[^85f02486]). We have also realized that the human eye can only sense a trillionth fraction of the whole electromagnetic spectrum — which is quite petty.  
 
 ### Cybernetic Sense as a Memory Augmentation
 
-With our group we also talked about the very interesting aspect behind they cybernetic senses are able to form memories of its subjects.
+With our group we also talked about the very interesting aspect about how cybernetic senses are capable of forming completely new forms of spatial memories.
 
-The Interview that we had with Liviu Babitz during Week 2, pinpointed how his North Sense allowed him to gain a more sensuous grasp about the various geographical locations that he visited. This allowed him to form memories about particular places that where not just based on his natural senses, but also on the "memory imprints" that the cybernetic sense made in his brain.
+A Skype conference that we had with Liviu Babitz during Week 2, pinpointed how his North Sense allowed him to gain a more sensuous grasp about the various geographical locations that he visited. His sense allowed him to form memories about particular places that where not just based on his natural senses, but also on the "memory imprints" that his cybernetic sense made in addition to the memories that are collected by his natural senses. When his sense gets removed, as he recalled, it is as if he no longer has the ability to fix memories. His cybernetic sense has become a prosthetic for the creation of certain memories. 
+
+This quality made a particularly  
 
 ### Cybernetic Sense as an Augmentation of the Brain's Deepest Functions.  
 
-Thus, even if a cybernetic sense might not be seen as a sensuous augmentation, more attention can be dedicated to studying how cybernetic senses form memories in human brains subjects. Perhaps sense augmentation can be seen as something intriguing but it might be a very superficial way of looking at the potential of cybernetic sense augmentation. New explorations and studies have yet to be made that study how cybernetic senses interact with the deepest functions of the brain such as memory and emotion. We thought that this is where the potential of cybernetic sensing lies.
+Thus, even if a cybernetic sense might not be seen as a sensuous augmentation, more attention can be dedicated to studying how cybernetic senses form memories in human brains subjects. Perhaps sense augmentation can be seen as something intriguing, but it also might be a superficial way of looking at the potential of cybernetic sense augmentation. New explorations and studies have yet to be made that study how cybernetic senses interact with the deepest functions of the brain. One of these concerned functions are memory and emotion. Our group concluded that that is where the potential of a cybernetic sensing lie.
 
-For Week 4 of our Cyborg Futures class, I decided to make a prototype of a cybernetic sense. In a few previous classes, our team has brainstormed the attributes that make up a sense. And of these, the most important attributes is the *input* and the *output* of a sense:
+For Week 4 of our Cyborg Futures class, we decided to make a prototype of a cybernetic sense. In the previous classes, our team has brainstormed the attributes that make up a sense. And of these, the most important attributes is the *input* and the *output* of a sense, which we formulate on a graph:
 
-external phenomena  |  input | output
+External phenomena  |  Input | Output
 --|---|--
-1. reaction / stimuli   |  2. sensation |  3. perception
-An external physical occurrence which in some forms gets translated through the space/time dimension, whether it is a chemical, physical, atomic, or electromagnetic occurrence.  |  The external physical occurrence is somehow intercepted and perceived by a sense. |  The perception of an external phenomena gets translated into information that can be cognitively perceived.
+1. Reaction / Stimuli   |  2. Sensation |  3. Perception
+An external physical occurrence which in some forms gets translated through the space/time dimension; it can be chemical, physical, atomic, or a electromagnetic occurrence.  |  The external physical occurrence (1) is somehow intercepted and perceived by a sense. |  The sensation (2) of an external phenomena gets translated into information that can be cognitively perceived.
 
 The *input* is what can be considered the "reaction" caused from an external *stimuli*. Such a reaction can either be chemical, physical, electromagnetic, and temperature. When a reaction happens (1), it is somehow sensed (2) and then gets translated into a sensational *output* that can be understood by a cognitive system like the human brain (3). This is where the sense interfaces with the brain through a way of communication that the brain knows how to interpret.
 
 ![](http://waysofperception.com/wp-content/uploads/2015/04/processor6.jpg)  
-A diagram about what is being said except that everything beyond **perception** is irrelevant for now.
+A diagram that illustrated what is being said except that everything beyond **perception** is irrelevant for now.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/35/Descartes_mind_and_body.gif)  
 René Descartes's (1596 – 1650)  diagram of the mind/body dualism where sensory inputs are passed on by the sensory organs to the epiphysis in the brain and from there to the *immaterial spirit* (or conciousness in non-philosophic terms).
