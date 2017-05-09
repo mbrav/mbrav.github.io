@@ -3,8 +3,8 @@ layout: post
 title: "Wiki Faces"
 date: "2017-03-16 01:00:01 -0400"
 image: "https://c1.staticflickr.com/3/2815/32663368913_94d7b51d72_b.jpg"
-excerpt: ""
-medium: "Data Visualization "
+excerpt: "Wiki Faces is a project that aims to visualize the life spans and portraits of human figures who constitute the sums of our current scientific knowledge"
+medium: "Data Visualization"
 ---
 
 ![](https://c2.staticflickr.com/4/3911/33436796956_909c9311d1_b.jpg)

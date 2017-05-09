@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Digital Archaeology (WIP)"
+date: "2017-05-08 01:00:01 -0400"
+image: "https://i.vimeocdn.com/video/633613554.jpg?mw=1000&mh=563"
+excerpt: "An interaction that investigates the archeology of the 21st century"
+medium: "3D Interaction"
+---
+
+<iframe src="https://player.vimeo.com/video/216600347?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+![Original Statement](/journal/2017/04/08)
+
+The concept behind the project that I want to create is related to the idea of how most of what we experience as ‘history’, relies on some form of excavation and retrieval of the past. With the advent of new tools and technology, the way in which humans retrieve the past has evolved drastically.
+
+If the tools of 20th century archeology where trowels, shovels, and tape measures, the tools of the 21st century archeology are radios, X-ray telescopes, mathematical formulas, computer algorithms, and most importantly—*data*. Today's human factual understanding about the world is almost entirely based on the excavation of a digitized past.
+
+> We left ourselves in a universe of whose qualities we know no more than the way they effect our measuring instruments.  
+— Hannah Arendt
+
+The motivation for this project is to create an experience where the user interaction is engaged in this new form of computational archeology—where meaning is hidden behind seemingly meaningless pixels and data.
