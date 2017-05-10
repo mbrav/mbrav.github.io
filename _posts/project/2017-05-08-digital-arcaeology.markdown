@@ -8,8 +8,10 @@ medium: "3D Interaction"
 ---
 
 <iframe src="https://player.vimeo.com/video/216600347?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/216898722?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Original Statement](/journal/2017/04/08)  
+[Update Presentation](https://docs.google.com/presentation/d/1739ukAghCNTyaKDD-NUNRZ-BpxZPzB2pVvhrjyl9rvA/edit?usp=sharing)  
 [Github Link](https://github.com/mbrav/DigitalArchaeology)
 
 The concept behind the project that I want to create is related to the idea of how most of what we experience as ‘history’, relies on some form of excavation and retrieval of the past. With the advent of new tools and technology, the way in which humans retrieve the past has evolved drastically.

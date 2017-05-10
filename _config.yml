@@ -52,7 +52,7 @@ exclude:
   - Gemfile.lock
 
 # Custom gems
-gems: [jekyll-seo-tag, jekyll-feed, jekyll-sitemap]
+gems: [jekyll-seo-tag, jekyll-feed, jekyll-sitemap, jekyll-github-metadata]
 
 # For jekyll-seo-tag
 twitter:

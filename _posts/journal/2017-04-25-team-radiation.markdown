@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Team Radiation"
-date: "2017-04-25 17:33:30 -0400"
+date: "2017-04-25 17:33:31 -0400"
 ---
 
 ![First medical X-ray by Wilhelm Röntgen of his wife Anna Bertha Ludwig's hand](https://c1.staticflickr.com/5/4169/33886676570_262c196275_b.jpg)
@@ -13,7 +13,7 @@ More that 122 years later, Team Radiation is exploring the possibilities of usin
 
 ## Initial Ideas and Explorations
 
-Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although initially we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept. These where one of the initial experiments and exploration that we have gone through. 
+Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although initially we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept. These where one of the initial experiments and exploration that we have gone through.
 
 ### Diffraction Grating: Dissecting the Electromagnetic Spectrum
 
@@ -29,7 +29,7 @@ According to Wikipedia, Diffraction grating "is an optical component with a peri
 
 With our group we also talked about the very interesting aspect about how cybernetic senses are capable of forming completely new forms of spatial memories.
 
-A Skype conference that we had with Liviu Babitz during Week 2, pinpointed how his North Sense allowed him to gain a more sensuous grasp about the various geographical locations that he visited. His sense allowed him to form memories about particular places that where not just based on his natural senses, but also on the "memory imprints" that his cybernetic sense made in addition to the memories that are collected by his natural senses. When his sense gets removed, as he recalled, it is as if he no longer has the ability to fix memories. His cybernetic sense has become a prosthetic for the creation of certain memories. 
+A Skype conference that we had with Liviu Babitz during Week 2, pinpointed how his North Sense allowed him to gain a more sensuous grasp about the various geographical locations that he visited. His sense allowed him to form memories about particular places that where not just based on his natural senses, but also on the "memory imprints" that his cybernetic sense made in addition to the memories that are collected by his natural senses. When his sense gets removed, as he recalled, it is as if he no longer has the ability to fix memories. His cybernetic sense has become a prosthetic for the creation of certain memories.
 
 This quality made a particularly  
 
@@ -50,7 +50,7 @@ The *input* is what can be considered the "reaction" caused from an external *st
 A diagram that illustrated what is being said except that everything beyond **perception** is irrelevant for now.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/35/Descartes_mind_and_body.gif)  
-René Descartes's (1596 – 1650)  diagram of the mind/body dualism where sensory inputs are passed on by the sensory organs to the epiphysis in the brain and from there to the *immaterial spirit* (or conciousness in non-philosophic terms).
+René Descartes's (1596 – 1650) diagram of the mind/body dualism where sensory inputs are passed on by the sensory organs to the epiphysis in the brain and from there to the *immaterial spirit* (or conciousness in non-philosophic terms).
 
 ### EMF Detection Device
 David one day brought in an Arduino

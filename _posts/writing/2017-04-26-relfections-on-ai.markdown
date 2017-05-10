@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflections on AI"
-date: "2017-04-26 16:15:45 -0400"
+date: "2017-04-26 16:15:46 -0400"
 tags: [AI, biology, evolution, ideas]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Classification_of_images_progress_human.png/640px-Classification_of_images_progress_human.png
 excerpt: "The development of (AI) Artificial Intelligence is following the same rules that natural selection has. Will it succeed?"
@@ -22,22 +22,24 @@ Now, I can consider myself to be closer to the singularitarianist group. While t
 
 ## Natural Evolution
 
-My reason comes from a rule that allowed life to proliferate on Earth 3 billions ago in the first place. The very fact a sentient, comprehending, and relatively intelligent living being can read and comprehend these words (assuming your are not robot), who 3 billion years ago where nothing but a part of the Earth's primeval ocean — is something that I think slips past many minds when it comes to the possibility of creating non-biologic intelligence.   
+My reason comes from a rule that allowed life to proliferate on Earth 3 billions ago in the first place. The very fact that a sentient, comprehending, and relatively intelligent living being can read and comprehend these words (assuming your are not robot), who 3 billion years ago was nothing but a part of the Earth's primeval ocean — is something that I think slips past many minds when it comes to thinking about the possibility of creating non-biologic intelligence.   
 
-Natural Evolution proves that intelligent life can spawn from a primeval soup of amino acids and molecules. It took more than 3 billion years for single celled organisms to evolve into *Homo Sapiens*, whose brain is the most complicated thing known to science (apart from only black holes and quantum theory perhaps). The human brain is made out of small constituents; cells, molecules, which science can explain on an individual level, yet, it struggles to understand and formulate what happens when all these parts start functioning together — the enigma puzzle of the brain.
+Natural Evolution proves that intelligent life can spawn from a primeval soup of amino acids and molecules. It took more than 3 billion years for single celled organisms to evolve into *Homo Sapiens*, whose brain is the most complicated thing known to science (apart from only black holes and quantum theory, perhaps). The human brain is made out of small constituents; cells, molecules, which science can explain on an individual level, yet, it struggles to understand and formulate what happens when all these parts start functioning together — the enigma puzzle of the brain.
 
 Life as we know it, is something that has arisen out of relatively simple constituents once it was given some time. I don't see a compelling reason to not believe why something intricate and complex like intelligence, will not eventually emerge out of non-biological parts. The marvel of natural selection is that is able to create sentient life out of biologic material — through the span of billions of trial and error cycles. As long as there is some _thing_ that can learn from trail and error, take advantage of iterative design, and improve; intelligence does not have to emerge just out of biology.
 
 The same iterative technique that allowed life to emerge, are being actively used to train computers. All successes in AI are a result of "training" where the AI goes through millions of iterations before its algorithms (also known as CNN's Convolutional Neural Networks) become good at something. For biology, these iterations have taken millions of years; for a computer, it takes a few days. Humans already discovered very promising *ingredients* to non-biologic artificial intelligence, it is just a matter of time before the *recipe* is found.
 
+## AI Evolution
+
 Today, an AI algorithm can be trained in a matter of months, or even days, which is unlike the 3 billion years it took for life to evolve into humans. Already such algorithms are better than humans in certain areas such as IBM's speech-recognition AI, which achieved a 5.5% error rate in 2017 — very close to the error rate that humans make when understanding speech which is estimated to be at around a 5.1% error rate.[^ibm] Google in 2016 attained astounding results in AI research after its trained AI achieved a 6.1% error rate when describing images in words.[^google]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Classification_of_images_progress_human.png/640px-Classification_of_images_progress_human.png)  
-The error rate of machine classification of images such as the one researched by Google. Red line — is the error rate of a human, which algorithms have already surpassed.[^wiki]
+The error rate of machine classification of images such as the one researched by Google. Red line — is the error rate of a human, which Google's algorithms have surpassed and are already applied in our daily lives.[^wiki]
 
-Of course, these AI's are referred to as *weak AI* because they are better than humans at a very narrow domain. A *general AI* is something that is better than humans in many domains, if not all of them. General AI still seems to be nowhere close, but progress does prove that there are fewer reasons to think that it won't eventually become a reality, especially seeing that AI is already proving itself to be better than humans in numerous other domains.
+Of course, these AI's are referred to as *weak AI* because they are better than humans at a very narrow domain. A *general AI* is something that is better than humans in many domains, if not all of them. General AI still seems to be nowhere close, but progress does prove that there are fewer reasons to think that it won't eventually become a reality, especially seeing that AI is already proving itself to be better than humans in many narrow domains.
 
-Hope that this was convincing enough to point out that AI wont remain a matter of science fiction forever, and will eventually become a reality. It is only a question of *when*, and not a question of *if*. For a very interesting paper on the subject, check out Nick Bostrom's *How Long Before Superintelligence* paper written in 1997.[^bostrom]
+Hope that this was convincing enough to point out that AI won't remain a matter of science fiction forever, and will eventually become a reality. It is only a question of *when*, and not a question of *if*. For a very interesting paper on the subject, check out Nick Bostrom's *How Long Before Superintelligence* paper written in 1997.[^bostrom]
 
 [^singular]: [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity) from Wikipedia
 [^Floridi]: Luciano Floridi in his essay [Should we be afraid of AI?](https://aeon.co/essays/true-ai-is-both-logically-possible-and-utterly-implausible) nicley categorizes the two "schools" of belief about AI proliferation into *Singularitarianism* and *AItheism*.
