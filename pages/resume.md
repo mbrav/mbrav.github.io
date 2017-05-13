@@ -52,7 +52,7 @@ November 2014, New York, NY.
 - Modular/Analog Sound Synthesis)
 - Philosophy
 - Photography
-- Reading Books ([reading log]({{ site.url }}/books))
+- Reading Books ([my library]({{ site.url }}/library))
 - Reading science journals
 - Typography
 - Yoga

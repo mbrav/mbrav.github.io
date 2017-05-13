@@ -13,29 +13,29 @@ More that 122 years later, Team Radiation is exploring the possibilities of usin
 
 ## Initial Ideas and Explorations
 
-Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although initially we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on our concept. These where one of the initial experiments and exploration that we have gone through.
+Our Initial focus was to explore the electromagnetic spectrum and the ways in which we can explore the gradients between living and non-living matter. Although initially we where not yet aware about our ultimate goal, we where beginning to research and test methods that would eventually land us on the path to our final concept. These where one of the initial experiments and explorations that we have gone through.
 
 ### Diffraction Grating: Dissecting the Electromagnetic Spectrum
 
-One of the members of our Radiation team brought in a very interesting *artifact* that caught the attention of our whole group. It was a diffraction sheet which looked like any other plastic sheet, except that it had very peculiar light reflecting properties. This is because the sheet features hundreds of microscopic indented lines per millimeter. This in turn, causes the sheet to have a very particular light reflection abilities which can be used for "dissecting" the visual spectrum.
+One of the members of our Radiation team brought in a very interesting *artifact* that caught the attention of our whole group. It was a diffraction sheet which looked like any other plastic sheet, except that it had very peculiar light reflecting properties. This is because the sheet features hundreds of microscopic indented lines per millimeter. This in turn, causes the sheet to have a very particular reflective qualities which can be used for "dissecting" the visual spectrum.
 
 ![](http://www.patonhawksley.co.uk/images/demonstrationslide.jpg) Different types of gratings on sheets which gives them various diffracting capabilities.
 
 ![](http://onebeamoflight.com/images/made/chrootimages/uploads/entries/incandescant_600_450_95.jpg) A lightbulb when viewed from through one of these sheets.
 
-According to Wikipedia, Diffraction grating "is an optical component with a periodic structure, which splits and diffracts light into several beams traveling in different directions".[^a459300a] This technique is often used on CCD sensors which can be found on mobile phones and cameras. Diffraction grating is used to filter out Infrared and Ultraviolet radiation and leaves out the electromagnetic spectrum that can be sensed by the human eye (wavelengths from 390 to 700 nm[^85f02486]). We have also realized that the human eye can only sense a trillionth fraction of the whole electromagnetic spectrum — which is quite petty.  
+According to Wikipedia, diffraction grating "is an optical component with a periodic structure, which splits and diffracts light into several beams traveling in different directions".[^a459300a] This technique is often used on CCD sensors which can be found on mobile phones and cameras. Diffraction grating is used to filter out Infrared and Ultraviolet radiation and leaves out the electromagnetic spectrum that can be sensed by the human eye (wavelengths from 390 to 700 nm[^85f02486]). We also realized that the human eye can only sense a trillionth fraction of the whole electromagnetic spectrum—which is quite petty.  
 
 ### Cybernetic Sense as a Memory Augmentation
 
-With our group we also talked about the very interesting aspect about how cybernetic senses are capable of forming completely new forms of spatial memories.
+With our group we also talked about the very interesting aspect about how a cybernetic sense can form new forms of spatial memories. In a Skype conference that we had with Liviu Babitz during Week 2, he described this interesting characteristic of his North Sense. North Sense has allows the a human to sense the Earth's magnetic field and can be worn on one's chest by being attached through a few piercings.
 
-A Skype conference that we had with Liviu Babitz during Week 2, pinpointed how his North Sense allowed him to gain a more sensuous grasp about the various geographical locations that he visited. His sense allowed him to form memories about particular places that where not just based on his natural senses, but also on the "memory imprints" that his cybernetic sense made in addition to the memories that are collected by his natural senses. When his sense gets removed, as he recalled, it is as if he no longer has the ability to fix memories. His cybernetic sense has become a prosthetic for the creation of certain memories.
+The thing that our team found interesting Babitz's cybernetic sense, was his ability, which he claimed, allowed him to gain a more sensuous grasp about his geographical locations that he visited. His sense allowed him to form memories about particular places that where not just based on his natural senses, but also on the "memory imprints" that his cybernetic sense made in addition to the memories that are collected by his natural senses. As Babitz recalls, when his sense gets removed, it is as if he no longer has the ability to fixate certain kinds of memories. His cybernetic sense has therefore become a prosthetic for memory, as much as it has become a sense for Earth's magnetic field.
 
-This quality made a particularly  
+This quality that emerged out of Babitz's experience with his cybernetic sense was something that intrigued our group. The ability to fixate new memories as an unintended feature of sense—is an idea that inspired our group. 
 
-### Cybernetic Sense as an Augmentation of the Brain's Deepest Functions.  
+### Cybernetic Sense as an Augmentation for Memory: A Study
 
-Thus, even if a cybernetic sense might not be seen as a sensuous augmentation, more attention can be dedicated to studying how cybernetic senses form memories in human brains subjects. Perhaps sense augmentation can be seen as something intriguing, but it also might be a superficial way of looking at the potential of cybernetic sense augmentation. New explorations and studies have yet to be made that study how cybernetic senses interact with the deepest functions of the brain. One of these concerned functions are memory and emotion. Our group concluded that that is where the potential of a cybernetic sensing lie.
+With the interesting qualities that can emerge out of a cybernetic sense, our team spent some time brainstorming the way in which memories are formed. While memory augmentations are already being actively studied studied by organizations such as DARPA,[^RAM] perhaps they might superficial way of looking at the potential of cybernetic sense augmentation. New explorations and studies have yet to be made that study how cybernetic senses interact with the deepest functions of the brain. One of these concerned functions are memory and emotion. Our group concluded that that is where the potential of a cybernetic sensing lie.
 
 For Week 4 of our Cyborg Futures class, we decided to make a prototype of a cybernetic sense. In the previous classes, our team has brainstormed the attributes that make up a sense. And of these, the most important attributes is the *input* and the *output* of a sense, which we formulate on a graph:
 
@@ -109,6 +109,8 @@ Initial Ideas from which the Mind Body Duality Idea originated
 ![](https://68.media.tumblr.com/ee98de2a558bb679422c8e18c2645ba1/tumblr_oo9pv8U9cH1w4nmffo2_1280.jpg)
 
 ![](https://68.media.tumblr.com/11e161d72d388b4fa3c1aa7bfd9ff32c/tumblr_oou8bwYxWR1w4nmffo1_1280.jpg)
+
+[^RAM]: Justin Sanchez, [*Restoring Active Memory (RAM)*](http://www.darpa.mil/program/restoring-active-memory). DARPA.
 
 [^a459300a]: Wikipedia, [*Diffraction grating*](https://en.wikipedia.org/w/index.php?title=Diffraction_grating&oldid=763614901)
 [^85f02486]: Wikipedia, [*Visible spectrum*](https://en.wikipedia.org/wiki/Visible_spectrum)

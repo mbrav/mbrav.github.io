@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Books
-permalink: /books
+title: Library
+permalink: /library
 excerpt: "This is a place where I keep track of my reading habits"
 listed: false
 ---
