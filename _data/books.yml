@@ -1,16 +1,29 @@
 # BOOKS READ
 
-# - author: Friedrich Nietzsche
-#   title: "Beyond Good and Evil"
-#   date: 2017-03-25
-#   link: https://en.wikipedia.org/wiki/Beyond_Good_and_Evil
-#   comment:
+
+- author: Daniel C. Dennet
+  title: "From Bacteria to Bach and Back: The Evolution of Minds"
+  date: 2017-05-21
+  link: https://en.wikipedia.org/wiki/From_Bacteria_to_Bach_and_Back
+  comment: Great insight into the modern ideas of consciousness, linquistics, and information.
+
+- author: Georg W.F. Hegel,
+  title: "Aesthetics: Lectures on Fine Art"
+  date: 2017-05-17
+  link: https://www.marxists.org/reference/archive/hegel/works/ae/contents.htm
+  comment: Propably one of the greatest texts on art theory and a pillar for aesthetics.
+
+- author: Friedrich Nietzsche
+  title: "Beyond Good and Evil"
+  date: 2017-04-29
+  link: https://en.wikipedia.org/wiki/Beyond_Good_and_Evil
+  comment:
 
 - author: Cixin Liu
   title: "The Three-Body Problem"
   date: 2017-03-25
   link: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032
-  comment:
+  comment: "A very thrilling sci-fi novel"
 
 - author: Yuval Noah Harari
   title: "Homo Deus: A Brief History of Tomorrow"
@@ -37,8 +50,8 @@
   link: https://en.wikipedia.org/wiki/The_Human_Condition_(book)
 
 - author: Martin Heidegger
-  date: 2016-11-24
   title: "The Question Concerning Technology"
+  date: 2016-11-24
   link: https://en.wikipedia.org/wiki/The_Question_Concerning_Technology
 
 - author: Steven Johnson
