@@ -40,6 +40,13 @@ defaults:
     values:
       categories: project
       permalink: project/:title
+  # Reading Notes
+  - scope:
+      path: "_posts/annotation"
+      type: posts
+    values:
+      categories: annotation
+      permalink: annotation/:title
 
 # Build settings
 markdown: kramdown
@@ -71,3 +78,4 @@ atom:
     - _posts/project
     - _posts/journal
     - _posts/writing
+    - _posts/reading_notes

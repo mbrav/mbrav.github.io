@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infrastructural Utopia Tower"
-date: 2016-05-22 00:00:01 -0400
+date: 2016-05-22 00:10:02 -0400
 image: "https://c1.staticflickr.com/9/8674/28310046481_76696628b6.jpg"
 excerpt: "A speculative installation that envisions an idealization of digital infrastructure. In practice, it is a surveilled information-sniffing Raspberry Pi wi-fi hotspot."
 medium: "Physical Installation"
@@ -12,11 +12,11 @@ medium: "Physical Installation"
 [Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/InfrastructuralUtopiaTower)  
 [Initial Notes]({{ site.url }}/journal/2016/04/15) about the Concept
 
-*A speculative installation that envisions an utopian idealization of digital infrastructure, but contrary to its ideal, the tower in practice is a surveilled information-sniffing wi-fi hotspot. It is a reflection on the ways humans frequently manifest ideals that become realized in a way that is contrary to what was envisioned.*
+*A speculative installation that reflects on the ways we manifest ideals that become realized in manner that is contrary to what was envisioned.*
 
 ## Narrative
 
-*Infrastructural Utopia Tower* is an installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is an ironic manifestation of our technocratic human nature since we are beings that are constantly entertained by utopian ideals, but when realizing them, we sacrifice certain aspects of our own nature. For a modern human, infrastructure is part of his/her nature, it is a manifested symbol of our intellectual and evolutionary superiority above other animals. Without infrastructure, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent on infrastructures. We come to this realization and attempt to apply infrastructures almost everywhere while our technological advances only aid this process.
+*Infrastructural Utopia Tower* is an installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is an ironic manifestation of our technocratic human nature since we are beings that are constantly entertained by utopian ideals, but when realizing them, we sacrifice certain aspects of our own nature. For a modern human, infrastructure is part of his/her nature, it is a manifested symbol of our intellectual and evolutionary superiority above other animals, and without it, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent on the infrastructures that we build – we come to this realization and attempt to apply infrastructures almost everywhere while our technological advances only aid this process.
 
 Modern infrastructures are designed to be built in technological environments. Infrastructure provides us with food, water, resources, funds, energy, commodities, information, and entertainment. We are surrounded by it, most of the time without even noticing – hundreds of wires pass through walls, dozens of pipes are laid beneath us, and an unknown number of radio frequencies pass through our bodies. All this illustrates infrastructure’s overwhelming presence, yet, it is cleverly engineered to remain unnoticed. We have engineered a system that we ourselves are becoming blind to regard. It might have the capability to support us, or it might be holding us by the last drop without us even knowing. We have the privilege to blindly say “it just works” to describe the thousands of operations that infrastructures perform on a hourly basis. This is a burden as much as it is considered to be a privilege.
 
@@ -28,4 +28,4 @@ This installation piece emphasizes on digital infrastructures. Namely, the way d
 
 The piece features a Wi-Fi spot on top of its structure that sniffs the user’s data as he/she browses the internet. This serves not only how digital technologies are vulnerable to surveillance, but as a metaphor that illustrates infrastructure's constant connectedness. The tower’s intention is not to hide the infrastructure away from the user, but show its overwhelming presence, authority, and control -- an aspect that infrastructures do not demonstrate since they are hidden from our view. Even in the most remote places on Earth, infrastructures consist of satellites that fly above our heads. It is more literal than it might appear, but when it comes to infrastructures, modern humans are never in “offline” mode.
 
-The question that has to be asked is whether infrastructures can be used as a mean for maintaining freedom. Is there a point where freedom can become instrastructialized given the increase in our reliance on technologies? What is the balance between what should be inrastructuralized, and what should not? If our living conditions can be easily provided by infrastructured means, can freedom eventually be “served” like tap water? Once infrastructures become tools for providing human dependencies in very abstracted ways, would human beings not be blind enough to notice this malicious process? If infrastructures are meant to remain so unnoticeable, what is the truth that they hide? These are questions that must be made by a technologically advancing civilization, especially by its citizens.
+The question that has to be asked is whether infrastructures can be used as a mean for maintaining freedom. If infrastructures are meant to remain unnoticeable, what is the truth that they hide? These are questions that must be made by a technologically advancing civilization, especially citizens.

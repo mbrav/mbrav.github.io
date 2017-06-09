@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Archaeology (WIP)"
-date: "2017-05-08 01:00:01 -0400"
+date: "2017-05-08 01:10:01 -0400"
 image: "https://i.vimeocdn.com/video/633613554.jpg"
 excerpt: "An interaction that investigates the archeology of the 21st century"
 medium: "3D Interaction"
@@ -17,7 +17,7 @@ permalink: /da
 
 The concept behind the project that I want to create is related to the idea of how most of what we experience as ‘history’, relies on some form of excavation and retrieval of the past. With the advent of new tools and technology, the way in which humans retrieve the past has evolved drastically.
 
-If the tools of 20th century archeology where trowels, shovels, and tape measures, the tools of the 21st century archeology are radios, X-ray telescopes, mathematical formulas, computer algorithms, and most importantly—*data*. Today's human factual understanding about the world is almost entirely based on the excavation of a digitized past.
+If the tools of 20th century archeology where trowels, shovels, and tape measures, the tools of the 21st century archeology are radios, X-ray telescopes, mathematical formulas, computer algorithms, and most importantly—*data*. Today's human factual understanding about the world is almost entirely based on the excavation of a past that consists of quantitive data.
 
 > We left ourselves in a universe of whose qualities we know no more than the way they effect our measuring instruments.  
 — Hannah Arendt
