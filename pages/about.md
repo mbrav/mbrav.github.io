@@ -9,7 +9,7 @@ excerpt: "Michael is a creative technologist who is currently based in New York.
 
 <p><img src="assets/img/head.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
 
-Michael is a *creative technologist*, *new media artist*, and a *philosopher*. Michael’s past works range from creative/experimental web projects, to speculative new media art installations. His investigations consist of artistic philosophic, and technologic contexts – seek to define and comprehend the state of the human condition at a time of alienation from reality, existence in digital forms, and advent of various forms of advancing technology (data tracking, AI, social media, biotechnology, etc.).
+Michael is a *creative technologist*, *new media artist*, and a *philosopher*. Michael’s past works range from creative/experimental web projects, to speculative new media art installations. His investigations consist of artistic, philosophic, and technologic contexts; that seek to reveal the contemporary human condition – at a time of increased alienation from reality, existence by digital means, and frequent misrepresentation about the ethics and politics behind newly introduced technology (data tracking, AI, social media, biotechnology, space travel, etc.).
 
 Michael's influences include Humboldt, Hegel, Engels, Nietzsche, Heidegger, Arendt, Haraway, Azimov, Popper, Dennett, Pepperell, and Bostrom.
 

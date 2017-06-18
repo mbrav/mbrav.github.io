@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Diary of a Russian Agent"
-date: "2017-02-10 12:15:10 -0500"
+date: "2017-02-10 12:16:10 -0500"
 image: "https://c1.staticflickr.com/3/2172/32008552993_649bdda489_c.jpg"
 tags: [politics, russia, hacking]
 ---
@@ -28,7 +28,7 @@ I also listened to the full U.S. Senate intelligence hearing regarding the hacki
 
 I believe that the recent developments that occurred between the media and the US election, if anything, should have been a lesson for the American public to form their opinions based on primary sources, and not information digested by media. Unfortunately, this has not appeared to happen, and many where in a reactive state which was similar to the post 9/11 state, where decisions and accusations where made without a debate and completely desolated from public scrutiny.
 
-The second motivation for using my journal, is mostly pure irony. Assuming that Russia actually hacked the US election, I can now posses the whole range of stereotypes typical to the member of a clan that hacked the US election. Ultimately, I fail to see nations and states as anything beyond clans and until the public learns how to make up their own opinions, I will continue calling them clans. It all sounds primitive, but ultimately, this is the primitivity of human politics. As long as we continue having a malleable public, politics will remain as such, and this unfortunately, makes human coexistence on this planet more difficult and unstable.
+The second motivation for using my journal, is mostly pure irony. Assuming that Russia actually hacked the US election, I can now posses the whole range of stereotypes typical to the member of a clan that hacked the US election. Ultimately, I fail to see nations and states as anything beyond clans and until the public learns how to make up their own opinions, I will continue calling them clans. It all sounds primitive, but ultimately, this is the primitivity of human politics. As long as we continue having a malleable public, politics will remain as such, and this unfortunately, makes human coexistence on this planet more difficult and unstable. This not to say that I think a globalized world is better.
 
 To end, I would like to mention a quote of Edgar D. Mitchell who until recently, was one of the last Apollo astronauts to remain alive. Here he recounts his experience after visting the Moon:
 
