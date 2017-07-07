@@ -16,6 +16,23 @@ iframe {
 	width:100%;
 }
 
+footer {
+	padding-bottom: 20px;
+}
+
+.footer-col {
+	width: 49%;
+	display:inline-block;
+}
+
+@media (max-width: 36em) {
+	.footer-col {
+		text-align: center;
+		width: 100%;
+		display:block;
+	}
+}
+
 // social media icons
 .sidebar-item svg {
 	margin: 3px;
