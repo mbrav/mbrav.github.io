@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Projects
-permalink: /projects
+title: Work
+permalink: /works
 excerpt: "Michael's projects, installations, and artwork"
 ---
 
-These are some of my projects which for the most part, explore and investigate how technology shapes our human condition and understanding about the world. Projects that align with this category are mainly installations and electronic devices that have certain speculations and/or narratives.
+These are some of my works which for the most part, explore and investigate how technology shapes our human condition and understanding about the world. Works that align with this category are mainly installations and electronic devices that have certain speculations and/or narratives.
 
-Some of these projects are also explorations through various types of other mediums.
+Some of these works are also explorations through various types of other mediums.
 
 <div class="container">
-	{% for project in site.categories.project %}
+	{% for project in site.categories.work %}
 		<a href="{{ project.url | prepend: site.baseurl }}">
 			<div class="tile" style="background-image: url('{{ project.image }}');">
 				<div class="tile-wrapper">

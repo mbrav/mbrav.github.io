@@ -33,13 +33,13 @@ defaults:
     values:
       categories: writing
       permalink: post/:title
-  # Project
+  # Work
   - scope:
-      path: "_posts/project"
+      path: "_posts/work"
       type: posts
     values:
-      categories: project
-      permalink: project/:title
+      categories: work
+      permalink: work/:title
   # Reading Notes
   - scope:
       path: "_posts/annotation"
@@ -75,7 +75,7 @@ google_analytics: UA-90389714-1
 # For Atom Jekyll plugin
 atom:
   postDirs:
-    - _posts/project
+    - _posts/work
     - _posts/journal
     - _posts/writing
     - _posts/annotation

@@ -4,12 +4,12 @@
 
 // Slide Show data
 var slideData = [
-	{% for project in site.categories.project %}
+	{% for work in site.categories.work %}
 		{
-		  'type': 'project',
-		  'imgFile': '{{ project.image }}',
-		  'title': '{{ project.title }}',
-		  'date': '{{ project.date | date: "%b %Y" }}'
+		  'type': 'work',
+		  'imgFile': '{{ work.image }}',
+		  'title': '{{ work.title }}',
+		  'date': '{{ work.date | date: "%b %Y" }}'
 		},
 	{% endfor %}
 ];
@@ -38,8 +38,8 @@ function changeImg(time) {
   }
 
   // next image until it is different
-  // avoids duplicates and projects without images
-  while (previousIndex == imageIndex || slideData[imageIndex]["imgFile"] == null || slideData[imageIndex]["type"] != "project") {
+  // avoids duplicates and works without images
+  while (previousIndex == imageIndex || slideData[imageIndex]["imgFile"] == null || slideData[imageIndex]["type"] != "work") {
     imageIndex++;
     imageIndex = (imageIndex) % slideData.length;
   }

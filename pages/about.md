@@ -15,9 +15,9 @@ Michael's influences include Humboldt, Hegel, Engels, Nietzsche, Heidegger, Aren
 
 Michael is currently a student at Parsons School of Design studying BFA in [Design & Technology](http://www.newschool.edu/parsons/bfa-design-technology/) along with a Liberal Arts degree in [Philosophy](http://www.newschool.edu/lang/philosophy/) at Eugene Lang. His other skills also entail creative coding using JavaScript, WebGL, [openFrameworks](http://openframeworks.cc/), and [Processing](https://processing.org/); as well as [3d animation](/project/infrastructural-utopia-tower), sound effect & [music production](https://soundcloud.com/mixania), and [photography](https://www.flickr.com/photos/mixania). He also enjoys reflecting on through [writing](/writing) and [journaling](/journals) every once in a while.
 
-## Latest Projects
+## Latest Work
 <div class="container">
-	{% for project in site.categories.project limit:3 %}
+	{% for project in site.categories.work limit:3 %}
 		<a href="{{ project.url | prepend: site.baseurl }}">
 			<div class="tile" style="background-image: url('{{ project.image }}');">
 				<div class="tile-wrapper">
@@ -29,7 +29,7 @@ Michael is currently a student at Parsons School of Design studying BFA in [Desi
 		</a>
 	{% endfor %}
 </div>
-more [projects](/projects)...
+more [work](/work)...
 
 ## Latest Writings
 {% for post in site.categories.writing limit:3  %}
