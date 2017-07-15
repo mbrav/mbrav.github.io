@@ -25,7 +25,7 @@ defaults:
       type: posts
     values:
       categories: journal
-      permalink: journal/:year/:month/:day
+      permalink: journal/:year/:month/:day-:title
   # Posts
   - scope:
       path: "_posts/writing"

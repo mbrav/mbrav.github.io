@@ -10,7 +10,7 @@ medium: "Physical Installation"
 <iframe src="https://player.vimeo.com/video/166409996?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/InfrastructuralUtopiaTower)  
-[Initial Notes]({{ site.url }}/journal/2016/04/15) about the Concept
+[Initial Notes]({{ site.url }}/journal/2016/04/15-a-monument-for-a-surveillance-democracy) about the Concept
 
 *A speculative installation that reflects on the ways we manifest ideals that become realized in manner that is contrary to what was envisioned.*
 
