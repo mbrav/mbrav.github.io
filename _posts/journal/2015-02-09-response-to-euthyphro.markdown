@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Response to Euthyphro"
+date: "2015-02-09 18:24:06 +0200"
+tags: [Greek, Plato, philosophy]
+---
+
+In the _Euthyphro_ dialogue Socrates finds out that Euthyphro is prosecuting his father and considers his action to be _pious_ to gods. Socrates goes through the dialogue by posing various arguments such as what is considered _pious_ by gods, why the same thing might be considered _impious_ by other gods and the very fact that Euthyphro’s approach of reasoning breaks the rules of logic.
+
+Euthyphro approves the claim posed by Socrates on whether we can count something _pious_ based on the views of some gods but ignore the views of other gods who think the same judgment is _impious_ or vice versa (_Euthyphro_, 9c). This statement itself questions the integrity of judging someone based on an unreliable source of reasoning. Assuming that all gods have opposing views on all possible questions, the definitions of _pious_ and _impious_ become abstract since anything can be counted as a rejection or acceptance. Therefore, it becomes pointless to judge a person based on differentiating beliefs of various gods. Based on this argument, whichever way Euthyphro chooses to prosecute his father would be acceptable. A source of reasoning should be a consistent and reliable one. Euthyphro’s source of reasoning is inconsistent. The opinions of gods become an abstraction and pointless, Euthyphro is left with his own reasoning, he takes the role of a god. It would certainly be acceptable to prosecute the father either way but not logically correct since Euthyphro would be judging his father based on abstract rules that can also be considered nonexistent. The most logically correct decision in my opinion, would be not judging the father at all since the unreliable source of reasoning would be the gods. 
+
+Socrates makes many other interesting arguments such as the difference between something being _pious_ because it is loved by gods or is it _pious_ because it is loved by Gods since it is _pious_   (_Euthyphro_, 10). Irony can be found throughout the whole dialogue especially at the end when Euthyphro decides to abandon their conversation. When he decides to do so, Socrates in return complains that he thought he would find out the difference between _piety_ and _impiety_ and now that Euthyphro is gone, he has no hope that his life will improve towards the right direction without first finding out Euthyphro’s belief on the subject (_Euthyphro_, 16).
