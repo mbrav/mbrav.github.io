@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Make Your Own Instagram"
-date: "2017-07-29 21:04:55 +0200"
+date: "2017-07-29 21:05:55 +0200"
 tags: [script, Facebook, terminal, scraping]
 image: https://c1.staticflickr.com/5/4314/36219052676_b19005346d_b.jpg
+excerpt: "A simple tutorial on how to scrapes Instagram usernames and create a browsable web gallery."
 ---
 
 I deleted my Facebook on June 10th 2016, and upon this event—now that I sense the irony of it—I decided to [tweet about it](https://twitter.com/mixania/status/743207933438099457). I jumped from one network to the other, without really realizing that both profit off of selling my behavioral data regardless. Even Twitter makes money off of ads and behavioral data, but nothing comes close to Facebook. Even Google does not come close to what Facebook knows about certain aspects of its users, and how it has the capability to manipulate them psychologically.[^1] In her book _Weapons of Math Destruction_, Cathy O'Neil talks much about these systems.

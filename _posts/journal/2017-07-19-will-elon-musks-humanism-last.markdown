@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Will Elon Musk's Humanism Last?"
-date: "2017-07-19 19:18:35 +0200"
+date: "2017-07-19 19:19:35 +0200"
 tags: [Elon Musk, capitalism, free-market, future, humanity, thoughts, opinion]
+excerpt: "With advancing technologic progress, Elon Musk might not be able to hold on humanism for long."
 ---
 
 Everyone probably heard of Elon Musk, right? He is the guy who makes Teslas, runs the SpaceX company which reuses $30 million Falcon 9 rockets which otherwise would be thrown out after each use. But Musk has even further ambitions which will alter condition of humanity in the future: implant brain chips into our brains to counteract the treat of AI, make space easily  accessible by driving costs of rockets down, settle a Mars colony, etc.  
