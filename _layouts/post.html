@@ -3,6 +3,13 @@ layout: default
 ---
 
 <div class="post">
+
+  <ul class="tags">
+    {% for tag in page.tags %}
+      <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+    {% endfor %}
+  </ul>
+
   <h1 class="post-title">{{ page.title }}</h1>
   {% if page.medium %}
   <span class="post-medium"> {{ page.medium}}</span>
@@ -31,6 +38,10 @@ layout: default
   {% include disqus_comments.html %}
 {% endif %}
 
+
+{% include tag-cloud.html %}
+
+<!--
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -46,3 +57,4 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+-->

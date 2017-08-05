@@ -1,0 +1,15 @@
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+
+{% assign tag_words = site_tags | split:',' | sort %}
+
+<div class="tag-cloud">
+  <h2>Tag Cloud</h2>
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
+    <span style="font-size: {{ site.tags[this_word].size | times:4 | plus: 80}}%">
+      <a style="color: hsla({{site.tags[this_word].size | times:12 | plus: 210}}, 100%, 25%, 0.6)" href="/tags#{{ this_word }}" class="cloud-tag">{{ this_word }}
+      </a>
+    </span>
+  {% endunless %}{% endfor %}
+</div>
