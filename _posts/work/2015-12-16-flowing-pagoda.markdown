@@ -5,6 +5,7 @@ date: 2015-12-16 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8819/27772928563_557a48d304_o.png"
 excerpt: "An animation made in Processing 3 that depicts a pagoda patiently living through the four seasons of the year. "
 medium: "Processing Animation"
+tags: [technology, music, project, animation, existence, nature]
 ---
 
 <iframe src="https://player.vimeo.com/video/149526108?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

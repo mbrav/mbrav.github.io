@@ -2,7 +2,7 @@
 layout: post
 title: "Cyborg Futures: Week 4"
 date: "2017-02-21 15:15:16 -0500"
-tags: [cyborg, ideas, prototype]
+tags: [cyborg, ideas, prototype, blog]
 ---
 
 For Week 4 of my Cyborg Futures class, I decided to make a prototype of a cybernetic sense. In a few previous classes, our team Radiation has brainstormed the attributes that make up a sense. And of these, the most important attributes is the *input* and the *output* of a sense.

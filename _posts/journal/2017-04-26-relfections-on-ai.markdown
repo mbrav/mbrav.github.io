@@ -2,7 +2,7 @@
 layout: post
 title: "Reflections on AI"
 date: "2017-04-26 16:15:46 -0400"
-tags: [AI, biology, evolution, ideas]
+tags: [AI, biology, evolution, idea, opinion, future, intelligence, automation]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Classification_of_images_progress_human.png/640px-Classification_of_images_progress_human.png
 excerpt: "The development of (AI) Artificial Intelligence is following the same rules that natural selection has. Will it succeed?"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Response to Plato's Meno"
 date: "2015-02-18 18:16:08 +0200"
-tags: [Greek, Plato, philosophy]
+tags: [Greek, Plato, philosophy, virtue]
 ---
 
 ## Response I

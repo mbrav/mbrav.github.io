@@ -3,7 +3,7 @@ layout: post
 title: "A Diary of a Russian Agent"
 date: "2017-02-10 12:16:10 -0500"
 image: "https://c1.staticflickr.com/3/2172/32008552993_649bdda489_c.jpg"
-tags: [politics, russia, hacking]
+tags: [politics, russia, hack, blog]
 ---
 
 I was in a very relaxed time over the past couple days, and it appears to be a consequence of not using a daily planner / journal that I started using since the beginning of this year. I can already feel how the lack of maintaining a day plan significantly hinders my productivity. I find it very helpful to write down the things I need to get done on a given day. I started to maintain a daily journal which is similar to the one used by officials of the Russian Ministry of Foreign Affairs.

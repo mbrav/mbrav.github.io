@@ -2,7 +2,7 @@
 layout: post
 title: "Will Elon Musk's Humanism Last?"
 date: "2017-07-19 19:19:35 +0200"
-tags: [Elon Musk, capitalism, free-market, future, humanity, thoughts, opinion]
+tags: [Elon Musk, capitalism, free-market, future, humanity, opinion, cosmos, SpaceX]
 excerpt: "With advancing technologic progress, Elon Musk might not be able to hold on humanism for long."
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Commentary on The Human Condition - III"
 date: "2017-03-03 18:47:01 -0500"
-tags: [philosophy, arendt, human, condition, labor]
+tags: [philosophy, Arendt, human, condition, labor, polis]
 ---
 
 In the beginning of chapter III on *Labor*, Hannah Arendt emphasis that a distinction between work and labor must be made since even Karl Marx considered both terms interchangeable. The word labour is derived from the Latin words *laborare* and *fabricare* in which the root of the word implies a pain or a trouble of the body.[^2] After the fifth century BC, the Greek *polis* as well as the Romans, started classifying occupations according to the extent of which the body of their subjects is deteriorated.[^3] This in turn was the reasoning for which the ancients justified and defended the slavery institution, according to the idea of which, the slave was akin to a tamed animal whose sole function is to be subjected to the pain of labor. Unlike the function of the slavery institution that was embraced as an instrument for colonization and increasing profits by Western Europe during the 15th to the mid-18th centuries, ancient slavery institutions saw slavery as a mean for excluding labor from the condition of human life.[^4]

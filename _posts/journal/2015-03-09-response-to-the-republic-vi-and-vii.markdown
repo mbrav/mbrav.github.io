@@ -4,7 +4,7 @@ title: "Response to The Republic VI & VII"
 date: "2015-03-09 18:29:40 +0200"
 ---
 
-In the Republic crater VI and VII, Plato starts to define the purpose of a philosopher and where can the "cleanest" source of knowledge is found. Through many questions posed by Adeimantus to Socrates, Plato defines philosophers as individuals who have a clear understanding of the divine, but not the best knowledge of it—for knowledge has never been as the most valuable principle for Plato. On the other hand, in other plays by Plato, _opinion_ remains one of the most valuable principles for the definition of a philosopher. Plato also appears to be wanting but not demanding, that philosophers should partake in public affairs for the city's own benefit. A good guardian should strive to become a philosopher for that is what defines a perfect guardian.
+In the Republic crater VI and VII, Plato starts to define the purpose of a philosopher and where can the "cleanest" source of knowledge is found. Through many questions posed by Adeimantus to Socrates, Plato defines philosophers as individuals who have a clear understanding of the divine, but not the best knowledge of it—for knowledge has never been as the most valuable principle for Plato. On the other hand, in other plays by Plato, _opinion_ remains one of the most valuable principles for the definition of a philosopher. Plato also appears to be wanting but not demanding, that philosophers should partake in public affairs for the city's own benefit. A good guardian should strive to become a philosopher, for that is what defines a perfect guardian.
 
 [^1]:_The Republic_, 503b
 

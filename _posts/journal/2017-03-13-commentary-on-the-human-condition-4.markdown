@@ -2,7 +2,7 @@
 layout: post
 title: "Commentary on The Human Condition - IV"
 date: "2017-03-13 23:42:12 -0400"
-tags: [philosophy, arendt, human, condition, labor]
+tags: [philosophy, Arendt, human, condition, labor]
 ---
 
 Starting with the chapter on Work, Arendt states that the work of human hands is distinguished from the labour of the human body because work fabricates what would then constitute the human artifice.[^1] Any human production has durability which allows an object to "stand against" the needs and wants of their users.[^2] In order to replenish the lost durability however, new human artifice must be produced, maintained, and worked on in order to not allow its dissolution into the processes of nature. Most of human production is made through the killing of some form of natural process which establishes *homo faber* as a destroyer of nature. The products of human artifice is therefore what brings the human to a position where he can look at nature as something objective and something that can be worked and disrupted.

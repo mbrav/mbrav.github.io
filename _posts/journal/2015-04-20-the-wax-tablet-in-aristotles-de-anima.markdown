@@ -2,7 +2,7 @@
 layout: post
 title: "The Wax Tablet in Aristotle's De Anima"
 date: "2015-04-20 18:01:44 +0200"
-tags: [Greek, Aristotle, philosophy]
+tags: [Greek, Aristotle, philosophy, form, soul]
 ---
 
 In Book II.1 of _De Anima,_ the meaning behind Aristotle’s metaphor of the wax tablet, is that it is unnecessary to separate the being-at-work-staying-itself of a _soul_ from an object’s _form_[^1] (412b7). In the context of the wax tablet, there is no reason to question whether its potential to inscribe writings is separate from the _form_ of a wax tablet. The potential to inscribe writings is the _soul_ of the tablet by its _form_ on the other hand, is a ratio and appearance by which the tablet is defined. Or least of all, it is not necessary to separate the wax tablet from its potential to inscribe writings just like it is not necessary to separate an object’s _form_ from the object’s _soul_, or an object’s being-at-work-staying-itself-ness.

@@ -2,7 +2,7 @@
 layout: post
 title: "Computational Archeology: Project Statement"
 date: "2017-04-08 14:42:32 -0400"
-tags: [project, ideas, universe, space, archeology]
+tags: [project, ideas, cosmos, archeology]
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/KeckObservatory.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: 2016-02-27 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8638/28388677955_4c28b7db75.jpg"
 excerpt: ""
 medium: "Physical Object"
+tags: [technology, project, process, prototype, history]
 ---
 
 <iframe src="https://www.youtube.com/embed/tzNWS7Lbi3c" frameborder="0" allowfullscreen></iframe>

@@ -2,7 +2,7 @@
 layout: post
 title: "Museum Visit II: The Inner Life of Madonna and Child"
 date: "2017-04-17 10:27:58 -0400"
-tags: philosophy, art, painting, theory, aesthetics
+tags: [philosophy, art, painting, theory, aesthetics]
 image: "https://c1.staticflickr.com/3/2901/33877137842_5b402bf29f_z.jpg"
 excerpt: "The attempt in Christian painting to capture the absolute subjectivity of a divine figure in a world of finitude"
 ---

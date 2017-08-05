@@ -2,7 +2,7 @@
 layout: post
 date: "2017-01-07 20:37:10 -0500"
 music: "Jon Hopkins - Abandon Window"
-tags : [video, rain, ocean, beach]
+tags : [video, blog]
 title: "Another Lazy Day"
 ---
 

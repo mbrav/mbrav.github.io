@@ -2,7 +2,7 @@
 layout: post
 title: "Pathetic Human Politics"
 date: "2017-01-16 12:12:31 -0500"
-tags: [politics, rant]
+tags: [politics, opinion, blog]
 ---
 
 Following all the political turmoil that occurred during the US presidential election, and a few days before the inauguration of Donald Trump, I decided to take moment to reflect and define my political views and explore what politics is in general, and how it can be viewed from a more rational perspective.

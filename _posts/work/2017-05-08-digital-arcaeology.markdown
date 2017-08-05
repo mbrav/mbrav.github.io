@@ -5,6 +5,7 @@ date: "2017-05-08 01:10:01 -0400"
 image: "https://i.vimeocdn.com/video/633613554.jpg"
 excerpt: "An interaction that investigates the archeology of the 21st century"
 medium: "3D Interaction"
+tags: [data, technology, experiment, programming, history, 3D, humanity]
 ---
 
 <iframe src="https://player.vimeo.com/video/216600347?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

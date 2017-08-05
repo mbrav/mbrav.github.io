@@ -2,7 +2,7 @@
 layout: post
 title: "Phenomenology of Spirit by Hegel"
 date: "2017-06-18 22:43:20 +0200"
-tags: "philosophy, spirit, Hegel, idealism, dialectic"
+tags: [philosophy, spirit, Hegel, idealism, dialectic]
 ---
 
 - Kenley Doves, wonderful essay from 1969 on Hegel’s Phenomenology Method.

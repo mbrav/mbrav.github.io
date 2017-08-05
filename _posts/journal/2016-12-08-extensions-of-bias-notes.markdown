@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Extensions of Bias - Notes"
-date: "2016-12-08 12:17:39 -0500"
-tags: [bias, notes, process, project]
+title: "Extensions of Bias: Notes"
+date: "2016-12-08 12:18:39 -0500"
+tags: [bias, notes, process, project, ideas, rationality, capitalism]
 ---
 
-At an age of digitally augmented media, digital bias is transforming into something inherent in the nature — a species conditioning itself to take control over almost any natural system by means of technology. Humanity's destiny is quite certain, technology is becoming less of a tool, and more of a prosthesis that is actively shaping the human. But what does using technology mean when we us its as a construction material of our natures? Does it make us more truthful and rational, or does it do the opposite?
+At an age of digitally augmented media, digital bias is transforming into something inherent in human nature — a species conditioning almost any natural system by means of technology, an putting it under control. Humanity's destiny is quite certain, technology is becoming less of a tool, and more of a prosthesis that is actively shaping the human. But what does using technology mean when we us its as a construction material of our natures? Does it make us more truthful and rational, or does it do the exact opposite?
 
-Along the biases that are already inherent in biologic human nature, technology seems to extend the list of these biases and prejudices even further. Human biases have become the inherent products of digital capitalism and consumer societies — products that are becoming increasingly inconspicuous to human awareness, as they hardwire the human consciousness.  Human bias is a catalyst for the instrumentality of mass sensation, desire, marketing, and political sentiment. It is the equivalent of a nervous system that is being actively stimulated with electrodes, distracting the mind from thinking rationally.
+Along the biases that are already inherent in biologic human nature, technology seems to extend the list of these biases and prejudices even further. Human biases have become the inherent products of digital capitalism and consumer societies — products that are becoming increasingly inconspicuous to human awareness, as they hardwire the human consciousness. Human bias is a catalyst for the instrumentality of mass sensation, desire, marketing, and political sentiment. It is the equivalent of a nervous system that is being actively stimulated with electrodes, distracting the mind from thinking rationally.
 
-Too little information is viewed as a deprivation from freedom of speech, but too much information, to an extent that it becomes imperceptible — is not viewed as deprivation from freedom of speech. But distraction is the key instrumentality of *bias* — it breeds control, subversion, and manipulation. Excessive abundance of information transforms rationality into an oblique signal, fainted by news about Taylor Swift’s sex life, the new iPhone, and a politician’s hair style. But the information that surfaces, is based on intent of either the global Silicone Valley, or insurgent algorithms. Freedom is not just a set of actions that an ideology permits an individual to make, but it must be first and foremost, be a state of an unbiased mind. Without rationale, freedom becomes an instrumental term of oppression.
+Too little information is viewed as a deprivation from freedom of speech, but too much information, to an extent that it becomes imperceptible — is not viewed as deprivation from freedom of speech. But distraction is the key instrumentality of *bias* — it breeds control, subversion, and manipulation. Excessive abundance of information transforms rationality into an oblique signal, fainted by news about Taylor Swift’s sex life, the new iPhone, and a politician’s hair style. But the information that surfaces, is based on intent of either the global Silicone Valley, or insurgent algorithms. Freedom is not just a set of actions that an ideology permits an individual to make, but it must be first and foremost, be a state of an unbiased mind. Without rationale, 'freedom' becomes an instrumental term for oppression.
 
 As humanity invents new emergent forms of media consumption, we also embrace the biases that are adherent to these mediums. Mass media feeds, corporate endorsement, rhetoric, and undigested radical ideologies — are served to the human consciousness through the arteries of digital technology. While humans condition themselves to trust and embrace these technologies, we are also conditioning an increasingly biased human nature.
 
@@ -17,24 +17,24 @@ As humanity invents new emergent forms of media consumption, we also embrace the
 
 Extensions of Bias hang from the air. They don't have a foundation. But these represent the extensions that humans use become more aware of the occurrences that happen in the outside world. As much as humans believe that true knowledge can be attained trough books and/or rational inquiry (research, thought), it is in proportion to the belief that knowledge can be attained through entertainment, news feeds, and work. Bias is what forms ideologies and establish a social order, it can immediately become a political topic.
 
-But if one where to become observer.
+But if one where to become an observer.
 
-But sometimes, technology can escape before humans even learn how to tame it, or are able to realize its long-term consequences. Such an invention had almost turned out to be the atom bomb, which was miraculously tamed, before causing an even further proliferation and a final chapter of life as we *narrowly* know it. Such a chapter is chaotic from our perspective, but poetic to an extraterrestrial visitor, who would embark on our planet and remark: "a species that let technology escape", take a few deep breaths, and continue onto his next journey around other planets — similar to the way we continue on with our their daily lives after a visit to an archeological museum filled with fossilized dinosaurs.
+But sometimes, technology can escape before humans even learn how to tame it, or are able to realize its long-term consequences. Such an invention had almost turned out to be the atom bomb, which was miraculously tamed, before it had the potential to cause a further proliferation and a final chapter of life as we narrowly know it. Such a chapter is chaotic from our perspective, but poetic to an extraterrestrial visitor, who would embark on our planet and remark: "a species that let technology escape", take a few deep breaths, and continue onto his next journey around other planets — similar to how today we continue on with our their daily lives after a visit to an archeological museum filled with fossilized dinosaurs.
 
-How do we manifest bias?
 
-# Anti-rational Bias Manifesto
+## Anti-rational Bias Manifesto
+
+_If we are so biased, can we manifest and embrace it?_
 
 I welcome ...
 
-We are living in a world of biases, how can we build when the foundations are crawling apart? For one fact, humans are far from perfect rational beings -- bias is inherited in us. Perhaps there are other ways of fighting bias, at and age where half of the world population is concerned with celebrities, rationality seems to has been fossilized, just like the
-remains of dinosaurs where hundreds of millions years ago. Bringing rationality, and therefore unbias to the mass, seems helpless at and age filled with anti-rational human activities. Instead of fighting it, I welcome a manifestation of bias and irrationality.
+We are living in a world of biases, how can we build when the foundations are crawling apart? For one fact, humans are far from perfect rational beings — bias is inherited in us. Perhaps there are other ways of fighting bias, at and age where half of the world population is concerned with celebrities, rationality seems to has been fossilized, just like the dinosaurs remains hundreds of millions years ago—whose existence has been forgotten. Bringing rationality, and therefore unbias to the mass, seems helpless at and age filled with anti-rational human activities. Instead of fighting it, *I welcome a manifestation of bias and irrationality*.
 
-Could that mean the standardization and acceptance of ignorance? Or perhaps even forming a new aesthetic that will act as a manifested justification of bias? Why is being empirically correct necessarily better than being biased. ~~Better towards what? The preservation of the existence of a species? These are all founded on the inherent rules of molecular biology, where *ego* is what drives an organism to preserve its physical body. ~~ Can a biased culture be a manifestation? Can we manifest our adherence to baises in the same way that a tectonic plate might manifest its ability to shape the geologic landscape?
+Could that mean the standardization and acceptance of ignorance? Or perhaps even forming a new aesthetic that will act as a manifested justification of bias? Why is being empirically correct necessarily better than being biased. ~~Better towards what? The preservation of the existence of a species? These are all founded on the inherent rules of molecular biology, where *ego* is what drives an organism to preserve its physical body.~~ Can a biased culture be a manifestation? Can we manifest our adherence to bais in the same way a tectonic plate might manifest its ability to shape the geologic landscape?
 
-Ultimately, if bias and anti-rationality becomes a manifestation as apposed to just an unconscious and unaware state, then maybe rationality will become unfossilized. Just like Shell, B&P, and Exxon Mobile are currently unfossilising the remains of dinosaurs from 100 million of years ago. Their rationale, is bringing energy to humanity. Hopefully the time will come when people will start thinking about unfossilizing the rationale that was fossilized. B
+Ultimately, if bias and anti-rationality becomes a manifestation as apposed to just an unconscious and unaware state, then maybe rationality will become unfossilized. Just like Shell, B&P, and Exxon Mobile are currently un-fossilizing the remains of dinosaurs from 100 million of years ago and using it to sustain the energy og human life. Their rationale, is bringing energy to humanity. Hopefully the time will come when people will start thinking about un-fossilizing the rationale that was fossilized.
 
-**Dada Movement ** - Rejected the aesthetics that embraced chaos and irrationality. Dadaist art was intended as a protest "against this world of mutual destruction". Where art was concerned with traditional aesthetics, Dada ignored aesthetics.[^destruction]
+To Put things in perspective, perhaps we can borrow some ideas from the Avant-Gard Dada movement. The movement rejected aesthetics that embraced chaos and irrationality. Dadaist art was intended as a protest "against this world of mutual destruction". Where art was concerned with traditional aesthetics, Dada ignored aesthetics and manifested this protest.[^destruction]
 
 ## Bias and History
 
@@ -44,9 +44,7 @@ How can bias be related to other significant factors that effect and shape the E
 
 [Metamorphic rock](https://en.wikipedia.org/wiki/Metamorphic_rock)
 
-Bias is a catalyst for metamorphosis, just like fossil fuels, meteorologic storms, and volcano eruptions. Just like increasing CO2 in
-
-* Extension Event followed by trees 500 million years ago.
+Bias is a catalyst for metamorphosis, just like fossil fuels, meteorologic storms, and volcano eruptions. Just like increasing CO2 in Extension Event followed by the proliferation of trees 500 million years ago.
 
 Anti-Rationalism as a catalyst for metamorphisis: *[The New Anti-Rationalism](http://finnginn.blogspot.co.uk/2016/11/the-new-anti-rationalism.html?m=1)* by Finnginn
 

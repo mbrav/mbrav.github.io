@@ -2,7 +2,7 @@
 layout: post
 title: "Aristotle's Entelecheia and Potentiality"
 date: "2015-04-27 18:11:33 +0200"
-tags: [Greek, Aristotle, philosophy]
+tags: [Greek, Aristotle, philosophy, form]
 ---
 
 In _Physics_, Aristotle defines a _form_ to be a principle with a higher potential compared to matter since each thing receives a name when it exists in actuality rather than when it exists potentially. In order for an object to have a higher potential other than being an ambiguous collection of matter, it is required that it encompasses a _form_. For example, we can recall an object being a “chair” not because of the matter from which it is made but because the _form_ of a chair is known to us. If the form of a chair where to be absent, we would then fail to assign the word “chair” to matter regardless of whether it is a shape made out of wood or a shape made out of plastic.

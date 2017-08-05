@@ -2,7 +2,7 @@
 layout: post
 title: "Commentary on The Human Condition - I"
 date: "2017-02-17 20:43:55 -0500"
-tags: [philosophy, arendt, human, condition]
+tags: [philosophy, Arendt, human, condition]
 ---
 
 Hannah Arendt designated the term *vita activa* into three fundamental human activities: *labour*, *work*, and *action*. These are what are referred to by Arendt, as the "basic conditions under which life on Earth has been given to man".[^1] Of these, *labour* constitutes the human biological process and metabolism, whereas *work* provides and artificial human condition referred by Arendt as "worldliness" — a concern with material values and ordinary life rather than spiritual existence. Work is also a measure of durability against the futility of individual mortal life and the extent to which it can be overcome from a collective standpoint.[^2]

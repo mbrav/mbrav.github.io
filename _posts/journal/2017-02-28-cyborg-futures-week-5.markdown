@@ -2,7 +2,7 @@
 layout: post
 title: "Cyborg Futures: Week 5"
 date: "2017-02-28 17:53:08 -0500"
-tags: [prototype, arduino, cyborg]
+tags: [prototype, arduino, cyborg, blog]
 ---
 
 ## Vibro-Neuro prototype

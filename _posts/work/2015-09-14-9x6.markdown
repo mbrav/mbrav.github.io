@@ -3,8 +3,9 @@ layout: post
 title:  "9x6"
 date:   2015-09-14 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8157/28744393481_a61f2cb437.jpg"
-excerpt: "An expressive experimental motion picture with touches about my biography."
+excerpt: "An experimental motion picture with touches about my biography."
 medium: "Experimental Motion Picture"
+tags: [video, experiment, personal]
 ---
 
 <iframe src="https://player.vimeo.com/video/139899105?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

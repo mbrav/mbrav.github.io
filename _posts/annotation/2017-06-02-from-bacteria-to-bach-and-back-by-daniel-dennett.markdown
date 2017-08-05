@@ -2,7 +2,7 @@
 layout: post
 title: "From Bacteria to Bach and Back by Daniel Dennett"
 date: "2017-06-02 16:48:58 +0200"
-tags: "biology, evolution, comprehension, cognition consciousness"
+tags: [biology, evolution, comprehension, cognition, consciousness]
 ---
 
 ### Inversion of Reasoning

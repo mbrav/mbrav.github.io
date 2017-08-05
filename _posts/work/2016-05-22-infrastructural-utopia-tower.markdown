@@ -5,6 +5,7 @@ date: 2016-05-22 00:10:02 -0400
 image: "https://c1.staticflickr.com/9/8674/28310046481_76696628b6.jpg"
 excerpt: "A speculative installation that envisions an idealization of digital infrastructure. In practice, it is a surveilled information-sniffing Raspberry Pi wi-fi hotspot."
 medium: "Physical Installation"
+tags: [3D, technology, manifesto, installation, politics, polis]
 ---
 
 <iframe src="https://player.vimeo.com/video/166409996?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -4,7 +4,8 @@ title: "Sleep Data Abyss"
 date: 2016-10-14 00:10:01 -0400
 image: "https://c1.staticflickr.com/9/8600/29629268244_e10ab41e98.jpg"
 excerpt: "A meditation on our relation with our personal data. If we constantly extract meaning out of our personal data, what do we accomplish as humans?"
-medium: "Web Art / Data Visualization "
+medium: "Web Art / Data Visualization"
+tags: [data, technology, experiment, programming, 3D]
 ---
 
 <iframe src="https://www.youtube.com/embed/3oG59mIRGM8" frameborder="0" allowfullscreen></iframe>

@@ -2,7 +2,7 @@
 layout: post
 date: "2017-01-08 22:31:14 -0500"
 title: "Winter on the Dark Side of the Moon"
-tags: [poem, space, weather, children, spacex]
+tags: [poetry, cosmos, children, SpaceX, blog]
 ---
 
 On day, <br>

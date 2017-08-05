@@ -2,7 +2,7 @@
 layout: post
 title: "Commentary on The Human Condition - II"
 date: "2017-02-24 17:47:32 -0500"
-tags: [philosophy, arendt, human, condition]
+tags: [philosophy, Arendt, human, condition]
 ---
 According to Arendt, all human activities are conditioned according to the individual's role in a *polis.*[^1] The only type of human activity that is independent from other individuals is *labour* as it does not dependent on others. Labour is most closely related to a being's natural biologic process which is independent from any political organization. Labour can be directed towards the maintenance of a political organization, but if *labour* is done by a human in complete solitude with others, then that establishes his condition as a *animal laborans* or a "laboring animal". Even if such a human being works, fabricates, and builds for itself, he will nevertheless remain a *animal laborans*. Once a human starts fabricating for others, then that makes the human a *homo faber*, or a human that fabricates.
 

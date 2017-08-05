@@ -2,7 +2,7 @@
 layout: post
 title: "Cyborg Futures: Week 3"
 date: "2017-02-14 15:13:45 -0500"
-tags: [cyborg, futures, ideas]
+tags: [cyborg, ideas, blog]
 ---
 
 Before commencing our class, we had to watch a TED talk by David Eagleman called [*Can we create new senses for humans?*](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans). The talk was very intriguing and interesting and gave me some very good ideas about augmented sensing.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Rapidly Expanding Cosmic Flatulence"
 date: "2017-07-15 23:45:01 +0200"
-tags: [thoughts, funny, humor, cosmos, space, philosophy, existence]
+tags: [thoughts, humor, cosmos, philosophy, existence]
 ---
 
 At this day an age, as we are caught up in the process of depleting the precious potential of our minds and bodies—in the task our civilization established that seeks to maintain prevalence amidst the chaotic realm of nature—we rarely look up to question: What can we, humans, offer to the Universe? Is there really anything that special in us—carbon-based life floating amidst 100-400 billion other solar systems in our Milky Way galaxy—which in turn, is a galaxy amidst another 2 trillion galaxies within the observable Universe. In other words (and numbers), what is so exciting about our living conditions that are to impress someone-somewhere among ~500'000'000'000'000'000'000'000'000 other solar systems? Nothing.

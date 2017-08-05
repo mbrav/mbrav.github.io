@@ -2,7 +2,7 @@
 layout: post
 title: "Themes in Aristotle's De Anima"
 date: "2015-04-27 18:06:13 +0200"
-tags: [Aristotle, Greek, philosophy]
+tags: [Aristotle, Greek, philosophy, soul]
 ---
 
 Self-knowledge can be considered a topic that is brought up very subtly in _De Anima_. Aristotle certainly questions the definition of the _soul_ of living beings, but does so through methods observation. Observing one’s senses certainly requires self-inquiry in order to obtain self-knowledge but usually, this form of inquiry transforms into a rather spiritual-like type of self-knowledge, instead of a more observational type of self-knowledge—which Aristotle’s inquiries resemble more closely. The reason why Aristotle’s inquires about self-knowledge are more observational rather than spiritual, can be explained by his profound interest in biology which is much more “actual” as apposed to other forms of inquiry that are “potential”.

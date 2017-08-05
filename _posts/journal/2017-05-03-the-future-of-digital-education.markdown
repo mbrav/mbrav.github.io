@@ -2,7 +2,7 @@
 layout: post
 title: "The Future of Digital Education"
 date: "2017-05-03 11:32:27 -0400"
-tags: [AI, education, technology, automation, humanism, ideas]
+tags: [AI, education, technology, automation, humanism, ideas, capitalism]
 excerpt: "Will society question the ethics and humanistic values of automation in teaching, or would it yield to AI and algorithms?"
 image: "https://jsjammersmith.files.wordpress.com/2015/08/dead-poets-society1.jpg"
 ---
@@ -54,4 +54,4 @@ It will be interesting to see how the education system unfolds in the next few y
 
 [^google-suite]: Bram Bout. (Apr 30, 2014). [*Protecting Students With Google Apps for Education*](https://cloud.googleblog.com/2014/04/protecting-students-with-google-apps.html). Google Cloud Official Blog.
 
-[^img]: Image courtesy by White Tower Musings. A scene from *Dead Poets Society* (1989). 
+[^img]: Image courtesy by White Tower Musings. A scene from *Dead Poets Society* (1989).

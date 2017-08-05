@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring the Hidden Functions of my Brain "
 date: "2017-04-10 21:45:05 -0400"
-tags: brain cognition
+tags: [brain, cognition]
 description: "An experimentation with my sensory input through the act of taking off the 'device' that corrects my farsightedness and going for a run without it."
 image: https://instagram.fphl1-1.fna.fbcdn.net/t51.2885-15/e35/17439398_403933126631531_1643362132214939648_n.jpg
 ---

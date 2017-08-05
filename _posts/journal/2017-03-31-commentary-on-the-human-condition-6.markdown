@@ -2,7 +2,7 @@
 layout: post
 title: "Commentary on The Human Condition - VI"
 date: "2017-03-31 12:59:33 -0400"
-tags: [philosophy, arendt, human, condition, science, alienation]
+tags: [philosophy, Arendt, human, condition, alienation, science]
 ---
 
 In one of the passages from *The Human Condition*, Arendt talks about the process of "world alienation" and how it effects the human interpretation about the world:

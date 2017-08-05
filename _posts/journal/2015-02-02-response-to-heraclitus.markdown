@@ -2,7 +2,7 @@
 layout: post
 title: "Response to Heraclitus"
 date: "2015-02-02 18:25:48 +0200"
-tags: [Greek, Heraclitus, philosophy]
+tags: [Greek, Heraclitus, philosophy, logos, intelligence]
 ---
 
 By reading the text it is noticeable that the author emphasizes that only secondary sources of Heraclitus’ ideas survive until this day. Even the most popular philosophers such as Plato and Aristotle refused to reflect or reflected little on his philosophy since it was considered vague[^561f387e]. Nevertheless, Heraclitus does contemplate on _archē_ of things, the soul and even at a certain extent, the reason behind the world’s existence.  
@@ -25,6 +25,6 @@ Human actions, decisions and conflicts according to Heraclitus, resemble the nat
 
 [^77408210]: Heraclitus, pp. 211
 
-Heraclitus also made an interesting observation about humans that fail to understand reality by fabricating “private and deceptive intelligence”, making it hard for our intelligence to grasp basic philosophic concepts.[^503af002]
+Heraclitus also made an interesting observation about humans that fail to understand reality by fabricating “private and deceptive intelligence”, making it hard for us to grasp basic philosophic concepts.[^503af002]
 
 [^503af002]: Heraclitus, pp. 187

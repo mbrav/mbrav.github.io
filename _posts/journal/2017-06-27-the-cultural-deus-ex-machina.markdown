@@ -2,7 +2,7 @@
 layout: post
 title: "The Cultural Deus ex Machina"
 date: "2017-06-27 23:46:43 +0200"
-tags: [art, culture, capitalism, machine, culture, individuality]
+tags: [art, capitalism, machine, culture, individuality]
 ---
 
 As Nietzsche's famous dictum in his *The Birth of Tragedy* (1872) goes, "it is only as an *aesthetic phenomenon* that existence and the world are eternally justified".[^3] If art dies, then so does the way we look at our world and existence: nothing is no longer eternally justified, and becomes secularized—*dead*. And here we are, living in a dead world where everything called "aesthetically pleasing"—is a rotting dead corpse: an arrangement of matter spreading through the deceasing corpse of our global culture.

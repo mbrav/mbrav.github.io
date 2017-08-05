@@ -2,7 +2,7 @@
 layout: post
 title: "Response to Nicomachean Ethics"
 date: "2015-05-04 18:22:25 +0200"
-tags: [Greek, Aristotle, philosophy]
+tags: [Greek, Aristotle, philosophy, polis, knowledge]
 ---
 
 In the beginning of Book I, Aristotle states that the very nature of inquiry and knowledge as an art is to aim at some good rather than something that leads to degradation. How to reach the good while having no knowledge to start with is a question that Aristotle also tries to answer. There are different kinds of knowledge according to Aristotle; one is knowledge for the sake of knowing and the other is for the sake of some art or craft—such as shipbuilding, horsemanship and generalship.
