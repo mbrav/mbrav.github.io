@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
-excerpt: "Ways of Reaching out to Michael"
+excerpt: "Ways of reaching out to Michael"
 ---
 
 You have become acquainted with my digital identity, now become acquainted with actual me...
