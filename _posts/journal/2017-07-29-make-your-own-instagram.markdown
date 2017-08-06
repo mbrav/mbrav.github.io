@@ -97,7 +97,7 @@ $ mkdir ~/my-instagram
 {% endhighlight %}
 
 {% highlight bash %}
-$ instagram-scraper -n -d ~/my-instagram -f path/to/insta-following-list.txt -l -u your-username -p your password
+$ instagram-scraper -n -d ~/my-instagram -f path/to/insta-following-list.txt -l -u your-username -p your-password
 {% endhighlight %}
 
 #### Script Explanation
@@ -106,14 +106,14 @@ $ instagram-scraper -n -d ~/my-instagram -f path/to/insta-following-list.txt -l 
 - Option `-d` specifies the destination to which we want to scrape our content. In this case it is `~/my-instagram` where the `~/` specifies that it is located in your _home_ directory.
 - Option `-f` specifies the file path to our `insta-following-list.txt`. Find the path to this file, an paste it. On Mac, it should be `~/Downloads/insta-following-list.txt`.
 - The option `-l` signifies not to start script unless your login is successfully authenticated. This command is only necessary if you want to scrape private accounts. If you want to scrape only public accounts, use the command without `-l` and everything after it.   
-  - Option `-u`specifies your Instagram username. Paste this without any quotes.
-  - Option `-p`specifies your Instagram password. Paste this without any quotes.
+  - Option `-u`specifies your Instagram username. Paste this without any quotes by replacing `your-username`.
+  - Option `-p`specifies your Instagram password. Paste this without any quotes by replacing `your-password`.
 
-Note that there might be some problems with logging in. Try resting your Instagram password and retry the command with the new password.
+**Note:** There might be some problems with the script while it attempts to login into your Instagram account. Try resting your Instagram password and retry the command with the new password. This usually solves the problem.
 
 #### Result
 
-Once you run the script successfully will should get folder structure similar to this:
+Once you run the script successfully, you should get a folder structure similar to this one:
 
 {% highlight text %}
 /my-instagram
@@ -123,7 +123,7 @@ Once you run the script successfully will should get folder structure similar to
   .../
 {% endhighlight %}
 
-Now you have the Instagram content of all these usernames on their hard drive.
+Now you have the Instagram content of all your usernames on your hard drive.
 
 ### Creating a Browsable Web-Gallery (Optional)
 
@@ -146,8 +146,7 @@ Make the script executable:
 $ chmod +x gallery_shell/gallery.sh
 {% endhighlight %}
 
-Now cd to the Instagram folder:
-Cd to your home directory
+Now cd to the folder containing all the scraped usernames:
 {% highlight bash %}
 $ cd my-instagram/
 {% endhighlight %}
@@ -168,7 +167,7 @@ Now type [localhost:8000](http://localhost:8000) into your web browser and you s
 
 ![image5](https://c1.staticflickr.com/5/4304/36260943015_ecf2605911_c.jpg)
 
-Once you click on ant of these links, you'll see a thumbnail gallery for each username, including private account if you chose to use your Instagram credentials.
+Once you click on ant of these links, you'll see a thumbnail gallery for each username, including private accounts if you chose to include your Instagram credentials.
 
 ![image6](https://c1.staticflickr.com/5/4321/35427930724_8decbfa6a0_c.jpg)
 
