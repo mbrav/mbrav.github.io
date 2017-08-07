@@ -8,7 +8,7 @@ tags: [politics, russia, hack, blog]
 
 I was in a very relaxed time over the past couple days, and it appears to be a consequence of not using a daily planner / journal that I started using since the beginning of this year. I can already feel how the lack of maintaining a day plan significantly hinders my productivity. I find it very helpful to write down the things I need to get done on a given day. I started to maintain a daily journal which is similar to the one used by officials of the Russian Ministry of Foreign Affairs.
 
-And so, I want to talk about the motivations of using such a journal since one of them I find irnonic. The words "Министерство Иностранных Дел Российской Федрации" (Ministry of Foreign Affairs of the Russian Federation) is written.
+And so, I want to talk about the motivations of using such a journal since one of them I find ironic. The words "Министерство Иностранных Дел Российской Федрации" (Ministry of Foreign Affairs of the Russian Federation) is written.
 
 ![](https://c1.staticflickr.com/3/2172/32008552993_649bdda489_c.jpg)
 
@@ -30,7 +30,7 @@ I believe that the recent developments that occurred between the media and the U
 
 The second motivation for using my journal, is mostly pure irony. Assuming that Russia actually hacked the US election, I can now posses the whole range of stereotypes typical to the member of a clan that hacked the US election. Ultimately, I fail to see nations and states as anything beyond clans and until the public learns how to make up their own opinions, I will continue calling them clans. It all sounds primitive, but ultimately, this is the primitivity of human politics. As long as we continue having a malleable public, politics will remain as such, and this unfortunately, makes human coexistence on this planet more difficult and unstable. This not to say that I think a globalized world is better.
 
-To end, I would like to mention a quote of Edgar D. Mitchell who until recently, was one of the last Apollo astronauts to remain alive. Here he recounts his experience after visting the Moon:
+To end, I would like to mention a quote of Edgar D. Mitchell who until recently, was one of the last Apollo astronauts to remain alive. Here he recounts his experience after visiting the Moon:
 
 > You develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion to do something about it. From out there on the moon, international politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of a million miles out and say, "Look at that, you son of a bitch."
 
