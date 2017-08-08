@@ -101,6 +101,11 @@ footer {
 	padding-top: 20px;
 }
 
+// cc liscense
+.cc img {
+	margin: 0;
+}
+
 .footer-col {
 	width: 49%;
 	display:inline-block;
@@ -111,6 +116,17 @@ footer {
 		text-align: center;
 		width: 100%;
 		display:block;
+	}
+
+	// cc liscense
+	.cc {
+		display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+
+		img {
+			display: inline;
+		}
 	}
 }
 
