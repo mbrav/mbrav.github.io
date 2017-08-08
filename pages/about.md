@@ -29,7 +29,7 @@ Michael is currently a student at Parsons School of Design studying BFA in [Desi
 		</a>
 	{% endfor %}
 </div>
-more [work](/work)...
+more [work](/works)...
 
 ## Latest Writings
 {% for post in site.categories.writing limit:3  %}
