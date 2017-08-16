@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Rapidly Expanding Cosmic Flatulence"
-date: "2017-07-15 23:45:01 +0200"
+date: "2017-07-15 23:46:01 +0200"
 tags: [thoughts, humor, cosmos, philosophy, existence]
 ---
 
@@ -13,4 +13,4 @@ So *where are we?* Well, it depends what you mean by *where*. See, the human lan
 
 So where are we? Well, we might be somewhere in the outskirts of space, or, one might perhaps one day discover that we are part of a massive, rapidly expanding cosmic flatulence. But that doesn't sound promising, does it? Well, to put things in perspective; parasites do not seem troubled of devouring mammalian guts; cancer does not seem troubled that it spreads through the tissue of its living bodies; and humans—who like their mould cousins—do not seem troubled to hang on thin strings of temporal stability. Mold might survive a major cataclysm, but nothing survives the chaotic forces of the rapidly expanding cosmic flatulence; where a supernova nova explosion of a star within several dozen light-years from Earth can potentially bleach our planet.
 
-It seems like there is never a good answer to *where* are we, *what* are we, and *what* are we doing. But I welcome you to not give up your existential journey, for it is the greatest journey you could ever take within the span of this futile life, which you share with every other creature on Earth inhabit. Even birds and elephants are better existentialists than the majority of humans—at least they don't seek to claim their bombastic prevalence amidst the stars. Be an elephant, and fly like a bird.
+It seems like there is never a good answer to *where* are we, *what* are we, and *what* are we doing. But I welcome you to not give up your existential journey, for it is the greatest journey you could ever take within the span of this futile life, which you share with every other creature on Earth inhabit. Even birds and elephants are better existentialists than the majority of humans—at least they don't seek to claim their bombastic prevalence amidst the stars. Be an elephant, fly like a bird.

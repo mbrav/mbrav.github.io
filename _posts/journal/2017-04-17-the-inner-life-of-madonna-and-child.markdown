@@ -5,6 +5,7 @@ date: "2017-04-17 10:27:58 -0400"
 tags: [philosophy, art, painting, theory, aesthetics]
 image: "https://c1.staticflickr.com/3/2901/33877137842_5b402bf29f_z.jpg"
 excerpt: "The attempt in Christian painting to capture the absolute subjectivity of a divine figure in a world of finitude"
+music: "J. S. Bach - The Art of the Fugue, BWV 1080"
 ---
 
 The depiction of Jesus in Christian painting is an the attempt to capture the *absolute subjectivity* of a divine figure in a world of finitude. This is the feature in Romantic art which allows an absolute subject of a depiction of Jesus, or countless other divine figures — to become embodied in the finitude of an anthropomorphic figure.[^8fb309f4] It is a process of "turning the human form ... into an expression of the Absolute" while withdrawing "the inner into itself", the *inner* being "the spiritual consciousness of God in the individual".[^0acd34cb] The manner in which Romantic art embodies a divine subject in an externally contingent finite form, turns the subject into an expression of the Absolute ideal. As summarized by Hegel:
