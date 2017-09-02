@@ -2,7 +2,7 @@
 layout: page
 title: Journals
 permalink: /journals
-listed: false
+listed: true
 excerpt: "Michael's journals and quick writings"
 ---
 

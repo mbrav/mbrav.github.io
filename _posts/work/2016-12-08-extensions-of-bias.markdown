@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Extensions of Bias"
-date: 2016-12-08 01:12:01 -0400
+date: 2016-12-08 01:13:01 -0400
 image: "https://c1.staticflickr.com/1/267/32193124916_b3e6fa24e2.jpg"
 excerpt: "An installation consisting of 4 Raspberry Pi's that connect to Twitter. A speculative new media art installation on bias and media technology."
 medium: "Physical Installation"
+tags: [condition, culture, technology, humanity, installation, modernity, state, utopia, rationality]
 ---
 
 <iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -13,9 +14,11 @@ Starring: Jennifer Lee
 [Extensions of Bias on Github](https://github.com/mbrav/bias)  
 [Additional Notes]({{ site.url }}/journal/2016/12/08-extensions-of-bias-notes) about the process
 
-*A speculative new media art installation that illustrates how media technology has become an instrument for 'programming' human biases.*
+## Description
 
-The installation consists of four Raspberry Pi's which connect to Twitter, scrape for tweets based on a specific keyword, and read it using text-to-speech. Every 2 minutes, each of these four nodes chooses a random keyword or a name from a set of categories: *politics*, *science*, *ideology*, *technology*, *consumerism*, *memoirs*, and *celebrities*. When a keyword has been chosen, each of the nodes starts announcing tweets that contained its keyword for bias. The idea behind this process, is to exaggerate the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) that humans enjoy exercising as users of media technology.  
+*A speculative new media art installation that illustrates how media technology is transformed into an instrument that 'programs' human biases.*
+
+The installation consists of four Raspberry Pi's which connect to Twitter, scrape for tweets based on a specific keyword and then read it through a speaker using text-to-speech. Every 2 minutes, each of these four nodes chooses a random keyword or a name from a set of categories: *politics*, *science*, *ideology*, *technology*, *consumerism*, *memoirs*, and *celebrities*. When one keyword out of dozens within each category is chosen, each of the nodes starts announcing live tweets that contain the chosen keyword. The idea behind this process, is to exaggerate the _confirmation bias_ that humans enjoy exercising as users of media technology.  
 
 ## Narrative
 

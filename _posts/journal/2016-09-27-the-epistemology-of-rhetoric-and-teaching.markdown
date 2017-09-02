@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Instrumentality of Rhetoric and Teaching"
-tags: [plato, truth, rhetoric, education, Greek, philosophy]
+tags: [Plato, truth, rhetoric, education, Greek, philosophy]
 date: "2016-09-27 11:07:39 +0200"
 ---
 

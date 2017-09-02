@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Response to Euthyphro"
+title: "Response to Plato's Euthyphro"
 date: "2015-02-09 18:24:06 +0200"
 tags: [Greek, Plato, philosophy, piety]
 ---

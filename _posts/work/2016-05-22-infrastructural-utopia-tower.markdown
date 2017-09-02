@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infrastructural Utopia Tower"
-date: 2016-05-22 00:10:02 -0400
+date: 2016-05-22 00:11:02 -0400
 image: "https://c1.staticflickr.com/9/8674/28310046481_76696628b6.jpg"
 excerpt: "A speculative installation that envisions an idealization of digital infrastructure. In practice, it is a surveilled information-sniffing Raspberry Pi wi-fi hotspot."
 medium: "Physical Installation"
@@ -17,7 +17,7 @@ tags: [3D, technology, manifesto, installation, politics, polis]
 
 ## Narrative
 
-*Infrastructural Utopia Tower* is an installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is an ironic manifestation of our technocratic human nature since we are beings that are constantly entertained by utopian ideals, but when realizing them, we sacrifice certain aspects of our own nature. For a modern human, infrastructure is part of his/her nature, it is a manifested symbol of our intellectual and evolutionary superiority above other animals, and without it, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent on the infrastructures that we build – we come to this realization and attempt to apply infrastructures almost everywhere while our technological advances only aid this process.
+*Infrastructural Utopia Tower* is an installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is an ironic manifestation of our technocratic human nature since we are beings that are constantly entertained by utopian ideals; but when realizing them, we sacrifice certain aspects of our own nature. For a modern human, infrastructure is part of his/her nature; it is a manifested symbol of our intellectual and evolutionary superiority above other animals; without it, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent on the infrastructures that we build – we come to this realization and attempt to apply infrastructures almost everywhere, while our technological advances only aid this process.
 
 Modern infrastructures are designed to be built in technological environments. Infrastructure provides us with food, water, resources, funds, energy, commodities, information, and entertainment. We are surrounded by it, most of the time without even noticing – hundreds of wires pass through walls, dozens of pipes are laid beneath us, and an unknown number of radio frequencies pass through our bodies. All this illustrates infrastructure’s overwhelming presence, yet, it is cleverly engineered to remain unnoticed. We have engineered a system that we ourselves are becoming blind to regard. It might have the capability to support us, or it might be holding us by the last drop without us even knowing. We have the privilege to blindly say “it just works” to describe the thousands of operations that infrastructures perform on a hourly basis. This is a burden as much as it is considered to be a privilege.
 

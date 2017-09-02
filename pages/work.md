@@ -7,7 +7,7 @@ excerpt: "Michael's projects, installations, and artwork"
 
 These are some of my works which for the most part, explore and investigate how technology shapes our human condition and understanding about the world. Works that align with this category are mainly installations and electronic devices that have certain speculations and/or narratives.
 
-Some of these works are also explorations through various types of other mediums.
+Some of these works are also explorations in various other types of mediums.
 
 <div class="container">
 	{% for project in site.categories.work %}
