@@ -11,7 +11,7 @@ Some of these works are also explorations in various other types of mediums.
 
 <div class="container">
 	{% for project in site.categories.work %}
-		<a href="{{ project.url | prepend: site.baseurl }}">
+		<a id= "{{ project.title | slugify}}" href="{{ project.url | prepend: site.baseurl }}">
 			<div class="tile" style="background-image: url('{{ project.image }}');">
 				<div class="tile-wrapper">
 					<h3>{{ project.title }}</h3>
