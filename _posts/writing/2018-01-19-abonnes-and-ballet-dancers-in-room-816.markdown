@@ -2,6 +2,7 @@
 layout: post
 title: "Abonnés and Ballet Dancers in Room 816"
 date: "2018-01-19 11:49:33 -0500"
+tags: [art, critical theory, aesthetics, modernity, capitalism]
 ---
 
 ![](/assets/img/degas-1.jpg)

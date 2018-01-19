@@ -1,18 +1,60 @@
 # BOOKS READ
 
-- author:
+- author: "Fyodor Dostoyevsky"
+  title: "Notes from Underground"
+  date: 2018-01-10
+  link:
+  comment:
+
+- author: "Jean-Paul Sartre"
+  title: "Nausea"
+  date: 2018-01-05
+  link:
+  comment:
+
+- author: "Jean-Paul Sartre"
+  title: "Existentialism and Humanism"
+  date: 2017-12-26
+  link:
+  comment:
+
+- author: "Hobbes"
+  title: "Leviathan"
+  date: 2017-12-03
+  link:
+  comment:
+
+- author: "Karl Marx"
+  title: "Das Capital: Volume I"
+  date: 2017-07-20
+  link:
+  comment:
+
+- author: "Georg W.F. Hegel"
+  title: "Phenomenology of Spirit"
+  date: 2017-07-12
+  link:
+  comment:
+
+- author: "Friedrich Nietzsche"
+  title: "Beyond Good an Evil"
+  date: 2017-06-26
+  link:
+  comment:
+
+- author: "Terry Eagleton"
   title: "Materialism"
   date: 2017-06-16
-  link:
+  link: "https://www.amazon.com/Materialism-Terry-Eagleton/dp/030021880X"
   comment:
 
-- author:
+- author: "Andrea Wulf"
   title: "The Invention of Nature"
   date: 2017-06-15
-  link:
+  link: "https://www.amazon.com/Invention-Nature-Alexander-Humboldts-World/dp/038535066X"
   comment:
 
-- author:
+- author: "Friedrich Nietzsche"
   title: "The Birth of Tradegy"
   date: 2017-06-13
   link:

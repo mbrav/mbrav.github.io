@@ -3,7 +3,7 @@ layout: post
 title: "A Monument for a Surveillance Democracy: Notes"
 date: "2016-04-15 11:05:45 -0400"
 excerpt: "Initial thoughts of what would later become my 'Infrastructural Utopia Tower' piece."
-tags: utopia ideas project capitalism installation data 
+tags: utopia ideas project capitalism installation data
 image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tatlin%27s_Tower_maket_1919_year.jpg"
 ---
 
@@ -17,7 +17,7 @@ Technology is evolving faster than its biological counterpart that created it, n
 
 As digital technology is influencing our lives being abstracted and hidden by us. We assert it to be floating on the cloud but instead, it hides behind building walls, in the air, and even near ourselves. Although we are not as reliant on digital technology as we are on water or food, it is gaining what might be sought as an exaggerated level of importance when compared to these significantly more vital elements.
 
-Before increasing the pace of technologic incorporation in our lives, we must think of it not as a mean to change but a mean to evolution. At this stage, adding more technologies into our lives will lead us nowhere. For evolution in technology to happen we must evaluate and reflect before we make any further changes.        
+Before increasing the pace of technologic incorporation in our lives, we must think of it not as a mean to change but a mean to evolution. At this stage, adding more technologies into our lives will lead us nowhere. For evolution in technology to happen we must evaluate and reflect before we make any further changes.
 
 ## Motivation
 
@@ -37,11 +37,11 @@ We manifest the freedoms that technology has given us as much as the freedoms ga
 
 But it is important to emphasize that technology is powerful only when it is used as tool. A tool requires full understanding of how it should be used so it can serve a purpose, not impede it. Technology which can mask itself under many levels of abstraction, is not an easy tool to understand how to use. If it cannot be used with complete understanding, then it should not represent something vital to our ideology like our freedoms. We cannot use a tool properly when we are only aware of its superficial functionalities. A blacksmith knows every square inch of an anvil’s surface and how it can be used to his advantage. This type of knowledge relies on knowing the intricate and what is not immediately superficial. One should not use an abstract tool for his own benefit, it might be more functional to use bear hands than risking a backlash from such a tool.
 
-The goal of this project is to convey the absence of manifestation of technology as a mean to our freedom. The tool that is used to proclaim the values in our free society can easily become a tool that is used against us, especially if we can’t grasp the inner functionalities of such a tool. Anyone can use this vulnerability to turn our own technology against us, especially by those who serve and maintain its infrastructure. Technology is meant to be easily manipulated, those who do manipulate it, always have a higher order of understanding about technology than those who they manipulate.       
+The goal of this project is to convey the absence of manifestation of technology as a mean to our freedom. The tool that is used to proclaim the values in our free society can easily become a tool that is used against us, especially if we can’t grasp the inner functionalities of such a tool. Anyone can use this vulnerability to turn our own technology against us, especially by those who serve and maintain its infrastructure. Technology is meant to be easily manipulated, those who do manipulate it, always have a higher order of understanding about technology than those who they manipulate.
 
 ## Methods
 
-The physical realization of this model will stand next to utopian projection and serve as an object that juxtaposes with it. The physical piece will be made out of a steal structure that is dark in color and not entirely compelling. It will look like a pieces of steel welded together in an attempt to form a structure that relates to its utopian idea but nevertheless shows a form of brutality which is a consequence of its realization. The tower will be collecting Wi-Fi information that is emitted from surrounding devices illustrating that the proclamation of freedom was also followed with an indirect proclamation of surveillance. This also ties with previous statements: technology can backlash on freedom (4), technology cannot be manifested as a tool for freedom (5), and about “those who manipulate technology” (6).  
+The physical realization of this model will stand next to utopian projection and serve as an object that juxtaposes with it. The physical piece will be made out of a steal structure that is dark in color and not entirely compelling. It will look like a pieces of steel welded together in an attempt to form a structure that relates to its utopian idea but nevertheless shows a form of brutality which is a consequence of its realization. The tower will be collecting Wi-Fi information that is emitted from surrounding devices illustrating that the proclamation of freedom was also followed with an indirect proclamation of surveillance. This also ties with previous statements: technology can backlash on freedom (4), technology cannot be manifested as a tool for freedom (5), and about “those who manipulate technology” (6).
 
 ## Findings
 
@@ -52,11 +52,11 @@ For the development of the concept, many sources where used. The  influences are
 
 Tega Brain manifests a movement called *Eccentric Engineering* who’s biggest emphasis is on *enterstructure* as apposed to *infrastructure*. The difference is in the root of these words where *enter* emphasizes on openness and *infra* suggests the hidden and unnoticeable. This relation between these two terms can be witnessed in technology. Including technology everywhere as if it where an infrastructure is a concern that related to this idea. Concepts like surveillance and control especially rely on infrastructure, their served purpose would not longer allow them to function it they where to be converted in an enterstructure.
 
-John Peter’s influences where drawn particularly from his early chapters in *Marvelous Clouds: Toward a Philosophy of Elemental Media*, where he discusses the very intricate notions that constitute the abstract realm of modern day technologies. One of the most interesting observations in his second chapter was illustrating Cetacean’s adaptations to their *media* and how their existence is different from us as a *techne* driven species.
+John Peter’s influences were drawn particularly from his early chapters in *Marvelous Clouds: Toward a Philosophy of Elemental Media*, where he discusses the very intricate notions that constitute the abstract realm of modern day technologies. One of the most interesting observations in his second chapter was illustrating Cetacean’s adaptations to their *media* and how their existence is different from us as a *techne* driven species.
 
 One of the goals of my project is to juxtapose the idea of utopia with the practical realizations of it. I found it important to look at artists that emphasize on the ideas of utopia and how its undermining can be presented and expressed. Cao Fei’s recent exhibition in MoMa PS1 showed many of her works that emphasize on the changing society in China as it has become the factory of the world. In many of her works, she documents how people in China deal with stress by relying on fictional ideas and environments such as anime characters, virtual life, and even art.
 
-The utopia that I will emphasize on in my project will be the one that people already believe in. Unlike the utopia in Cao Fei’s works where people attempt to reach an idea of utopia under present depressing circumstances, I am seeking to make people realize that the freedom currently manifested in technology - is anti-utopia. The freedom to use technology as mean of expression is believed to be a leverage to the utopian ideal of our current free society. Using technology as tool for leveraging this ideal is its virtue, but the anti-utopia comes when such a tool becomes manipulable and impedes its utopian ideal.  
+The utopia that I will emphasize on in my project will be the one that people already believe in. Unlike the utopia in Cao Fei’s works where people attempt to reach an idea of utopia under present depressing circumstances, I am seeking to make people realize that the freedom currently manifested in technology - is anti-utopia. The freedom to use technology as mean of expression is believed to be a leverage to the utopian ideal of our current free society. Using technology as tool for leveraging this ideal is its virtue, but the anti-utopia comes when such a tool becomes manipulable and impedes its utopian ideal.
 
 ## Implications
 
@@ -77,7 +77,7 @@ Looking at the Tatlain’s tower, one can easily get sense of grandiosity of the
 
 The where the initial ideas that circulated after the Russian revolution. If the first years where seen as the embracement of the unification of people then by the mid 1920s, the utopian visions of an imminent world revolution faded and were replaced by the practical tasks of building "communism in one country", idealism in art and politics was replaced by a dictatorship more conservative in its social, political, and artistic policies. National interest’s became more important. Due to this, Tatlin’s tower was no longer applicable to ideology of the government following the mid 1920s. By no means would the government of that time  choose to represent itself in a form of an open tower that would suggest it’s transparency.
 
-Looking back a the narrowing down of government transparency that curbed the development of such a meaningful monument, one can come to many conclusions of critiquing the general notion of communism. But what this piece is arguing for, is that even among modern free society driven government’s, there are not many that would easily chose to represent themselves under a transparent building, despite the embracement of individual freedom and the right’s of speech.  
+Looking back a the narrowing down of government transparency that curbed the development of such a meaningful monument, one can come to many conclusions of critiquing the general notion of communism. But what this piece is arguing for, is that even among modern free society driven government’s, there are not many that would easily chose to represent themselves under a transparent building, despite the embracement of individual freedom and the right’s of speech.
 
 The same closing down of the Communist government from its originating utopia. Currents of socialism is the same kind of closure that is happening with US from the utopia of its originating ideology.
 

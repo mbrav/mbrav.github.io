@@ -27,3 +27,7 @@ Then serve the website:
 `bundle exec jekyll serve`
 
 The you should be able to access on your `http://localhost:4000`
+
+**For reference:**
+
+`git submodule foreach git pull (origin master)`

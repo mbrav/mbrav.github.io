@@ -11,8 +11,7 @@ Joachim Beuckelaer (c. 1533 – c. 1573/4) is a Flemish painter well known for s
 In one of his series of paintings called *Four Elements: Water* (1569), Beuckelaer depicts a scene of a market that represents twelve kinds of wish that are clearly dead and which ostensibly represent the twelve disciples of Jesus. Other Beuckelaer paintings such as the *Slaughtered Pig* (1563), is a quite realistic depiction of flesh in a pig's cut open belly.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c5/Joachim_Beuckelaer_-_The_Four_Elements_-_Water_-_WGA02112.jpg)One of the paintings from Beuckelaer's *Four Elements* series which represents the twelve disciples of Jesus. Located at The National Gallery, London.
-
-Beuckelaer's *Fish Market* (1568), which is a very recent acquisition by Metropolitan Museum of Art, is the painting chosen to be subjected to examination according to Hegel's introductory notes of his *Lectures on Aesthetics*.[^1]
+<sub> Beuckelaer's *Fish Market* (1568), which is a very recent acquisition by Metropolitan Museum of Art, is the painting chosen to be subjected to examination according to Hegel's introductory notes of his *Lectures on Aesthetics*.[^1]</sub>
 
 The theme of this examination is the manner in which the artwork is an apprehension of man's senses, and how it is drawn from the sensuous sphere.[^7] It is necessary to pinpoint art as something that is produced for apprehension by man's senses and its derivation from the sensuous sphere. The task of artwork is therefore to embrace a spirit intended for subject apprehension and feature an aspect of "abstract individual subjectivity".[^8] The Feeling of an artwork thus remains a purely subjective emotional state of the mind in which the concrete (such as morality, justice, etc.) vanishes and becomes a product with its own sensuous sphere contracted into the greatest abstraction.[^9]
 
