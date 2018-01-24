@@ -47,6 +47,13 @@ defaults:
     values:
       categories: annotation
       permalink: annotation/:title
+  # Thesis
+  - scope:
+      path: "_posts/thesis"
+      type: posts
+    values:
+      categories: thesis
+      permalink: thesis/:title
 
 # Build settings
 markdown: kramdown
@@ -79,3 +86,4 @@ atom:
     - _posts/journal
     - _posts/writing
     - _posts/annotation
+    - _posts/thesis
