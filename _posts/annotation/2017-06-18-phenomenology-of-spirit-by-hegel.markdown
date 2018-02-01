@@ -12,8 +12,8 @@ The philosopher is a son of his own time, and his philosophy is that time compre
 
 Hegel's dialectical method lies precisely in taking the path from the past, until the present — which describes the phenomenology essence of this path — in the *present*. The dialectical thought-paths lead to the Absolute idea of knowledge in what appears to be the Absolute conception of the present, based on the phenomenological interpretation of the past, leading to the present — the now.
 
-*Sache* — An identification the a man identifies himself with which allows him to pursue without a regard to external approval.  
-*Vernund* — Reason  
+*Sache* — An identification the a man identifies himself with which allows him to pursue without a regard to external approval.
+*Vernund* — Reason
 *Geist* — Spirit
 
 ## Preface
@@ -96,7 +96,7 @@ Every S-C seeks a recognition in another S-C through a form of Recognition. This
 
 However, there is also a tension of life and death among the two sides which has to be resolved among them. But the death of one of these sides does not resolve the tension because once that occurs, the remaining S-C will collapse into its own *unity* that "is split into lifeless, merely immediate, unopposed extreme"[^22]. This is why it becomes necessary for one consciousness to be for itself, while the other lives and serve it — the former is lord, the other is bondsman. The bondsman therefore labours for the lord while the latter posses the tools of subjection for the former.[^23]
 
-Through this service, the bondsman "rids himself of his attachment to natural existence in every single detail; and get rid of it by working on it."[^24] — A pretty much complete definition of what Marx would later define as *labour alienation*. In the next paragraph (§195), Hegel defines how the bondsman is actually a more genuine form of consciousness because he is directly engaged with his work. Even if whatever the bondsman produces is for the vanishing enjoyments of his lord, the consciousness *qua* worker (bondsman) comes to see its own independent being in the work of his own independence. Here Hegel probably means an independence in the worker's direct, un-alienated relation to his labour, but this could also be a historical independence of the bondsman through many generations of bondage to the lord. In other words, the history of "working out" the freedom of the individuality.  
+Through this service, the bondsman "rids himself of his attachment to natural existence in every single detail; and get rid of it by working on it."[^24] — A pretty much complete definition of what Marx would later define as *labour alienation*. In the next paragraph (§195), Hegel defines how the bondsman is actually a more genuine form of consciousness because he is directly engaged with his work. Even if whatever the bondsman produces is for the vanishing enjoyments of his lord, the consciousness *qua* worker (bondsman) comes to see its own independent being in the work of his own independence. Here Hegel probably means an independence in the worker's direct, un-alienated relation to his labour, but this could also be a historical independence of the bondsman through many generations of bondage to the lord. In other words, the history of "working out" the freedom of the individuality.
 
 ### Freedom of Self-consciousness: Stoicism, Skepticism, and the Unhappy Consciousness
 
