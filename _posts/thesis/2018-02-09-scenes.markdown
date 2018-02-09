@@ -1,0 +1,77 @@
+---
+layout: post
+title: "Scenes"
+date: "2018-02-09 10:13:37 -0500"
+---
+
+{:toc}
+
+
+## Scenes
+
+So far, I only have 4 scenes in my project which is a number that is subject to change. The chronology of these scenes is also something that I might alter through out the process. The idea behind all the scenes, is to walk the user through a narrative that exemplifies a chronological process of development in which human tools and technologies have altered our relation to ourselves, and the world surrounding us. In each of these scenes, the user is given a virtual tool that is related to the historical context in which it was used. Thought this tool, the user explores how one’s relation in the world is mediated through the tool that they have in their hand.
+
+### Scene I: Data Age
+
+The first scene consists of an environment that resembles an absurd utopian world. The idea here is to reveal a world in which a user’s phone serves as a mean for interacting with a world that is mediated by data and digital technologies. Pyramids act as structures in which user data is accumulated, which almost resemble Egyptian pyramids that were once object of worship for them. In this scene, the user walks with a virtual phone in their hand and interact with the world through this tool. In the experience of this scene, my motivation was to pose a question: can our everyday human reliance on data and digital technologies, be translated into some form of religion that abstracts us from our own world and existence? How can this problem be highlighted in a worthwhile experience?
+
+![](/assets/img/4-data-age1.jpg)
+![](/assets/img/4-data-age2.jpg)
+![](/assets/img/4-data-age3.jpg)
+
+<sub> Screenshoots of Scene I</sub>
+
+In order to guide the user through this experience, I decided to create an audible narrative that the user listens to as they go through this experience.
+
+
+#### Narrative
+
+> Welcome to Data$ein alpha—your spiritual guide for discovering the realm of your digital existence. This guide will help you reveal the hidden world that you encounter in your everyday existence. The aim of this guide, is to provide you with the capacity to discover your innermost and immediate existence in relation to the digital world mediated by technology. By the end of this guide you will overcome the obtrusive mediations that obstruct you to have a non-obfuscated world view and become an authentic being.
+
+> In order to guide you through this path you will be presented with various experiences that will help you to understand your direct relation to the world. Mankind is the inventor of tools that mediate their understanding about their relation to the world. But through this mediation sometimes the truth about the world is overlooked and concealed. Your digital devices are also tools that reveal the world in specific ways, this is how tools and technology ultimately transform the way humans look at the world. To reveal the other ways in which the truth about the world view is overlooked, press next to proceed to the next scene.
+
+### Scene II: Industry
+
+One the user had completed the second scene, they are given the option to transition to the next scene. In *Industry*, the user is given a different tool that related to the industrial era such as chainsaw or some other powered mechanical tools. In this environment, I seek to provide an experience guided by a narrative that exemplifies how automatic tools alters human relation to the world: where nature is no longer an environment that humans dwell in, but that which is transformed into stock warehouse that provides us with energy and resources to meet our unsatiating demands. The importance of this interaction is to highlight the alteration that occurs in the relation of *our* existence in the world, as much as it exemplifies the environmental consequence for exploiting nature’s resource to ever bigger quantities, at an ever increasing pace.
+
+![](/assets/img/3-industry1.jpg)
+![](/assets/img/3-industry2.jpg)
+![](/assets/img/3-industry3.jpg)
+
+<sub> Screenshoots of Scene II</sub>
+
+To guide the user through this experience, I decided to create an audible narrative that the user listens to as they go through this experience. Here in particular I included the certain ideas an quotes by Heidegger and Arendt.
+
+#### Narrative
+
+> Welcome to scene 2 of Data$ein alpha. In this scene of industrialization, you will look at the path that humanity had undertaken with the advent of machinery and mechanised production look at the world around you now look at the technology that you have in your hand have you ever wondered at the ways in which the tools reveal the environment around you. Tools such as the one you are holding in front of you are objects with their own history. They mediate the way human look at the world.
+
+> As the human world view is revealed through the scope of alienated perception, science and technology allow humans to think in terms that are cosmic and universal—contrary to a world view that is terrestrial and natural. The extent to which this world-view has become the predominant way in which reality is perceived, is reflected in the structure of various disciplines of knowledge, for example physics and engineering, which lost nearly all touch with the smoking human language and are only sufficiently grasped when conveyed through mathematical notions and rational thinking.
+
+> Through this world view human perception of the world is reduced to mere  mathematical symbols. Inventions such as algebra geometry and calculus are devices of modern mathematics that emancipate the human condition from the boundary of terrestrial perception and elevate the human ability to interpret the external world according to universal and cosmic standards. With the advent of machine tools the earth has been transformed into a coal mining district, the soil into mineral deposit, and agriculture into a mechanised food production activity. Тhere is now sat upon to yield nitrogen the earth to yield оре or to yield uranium to produce atomic energy, which can be released either for destruction or for peaceful use.
+
+> You are reminded that mankind is the inventor of tools that mediate their understanding about their relation to the world went through this mediation sometimes the truth about the world is overlooked. To reveal the other ways in which the truth about the world view is overlooked press next to proceed to the next scene.
+
+### Scene III: Civilization
+
+For the third scene, I decided to place the character in a scene that resembles an environment that our civilizcivilisation perhaps once encountered when we were still agrarian society. Here the tools that I decided to give to the player are a hoe and an axe. The idea here, is to guide the user through an interaction with an environment that contrasts the the other scenes in which digital technologies and mechanised powered tools abstract our relation to the world. Here, there is an element in which human is existence and form of dwelling is also altered by agricultural tools, although less prevalent compared to the more modern tools and environments, it is still an important precedent in the chronology of my narrative.
+
+![](/assets/img/2-civilization1.jpg)
+![](/assets/img/2-civilization2.jpg)
+![](/assets/img/2-civilization3.jpg)
+
+<sub> Screenshoots of Scene III</sub>
+
+The narrative for this scene is not written as of yet.
+
+### Scene IV: Nature
+
+For the final scene, I decided to include a peaceful scene that resides in nature. Here I explore what is it like to live in a primordial world in which there are no tools and technology.
+
+![](/assets/img/1-nature1.jpg)
+![](/assets/img/1-nature2.jpg)
+![](/assets/img/1-nature3.jpg)
+
+<sub> Screenshoots of Scene IV</sub>
+
+The narrative for this scene is not written as of yet.

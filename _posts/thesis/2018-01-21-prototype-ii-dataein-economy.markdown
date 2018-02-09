@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prototype II: Data$ein Economy"
-date: "2018-01-24 00:43:26 -0500"
+date: "2018-01-21 00:43:26 -0500"
 ---
 
 ![](/assets/img/dasein-2.png)

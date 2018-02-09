@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prototype III. Worker Waltz"
-date: "2018-01-24 00:44:38 -0500"
+date: "2018-01-22 00:44:38 -0500"
 ---
 
 ![](/assets/img/dasein-1.jpg)
