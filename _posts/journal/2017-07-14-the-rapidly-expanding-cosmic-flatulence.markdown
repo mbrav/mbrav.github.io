@@ -6,7 +6,7 @@ tags: [thoughts, humor, cosmos, philosophy, existence]
 img: https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png
 ---
 
-!](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png)
+![](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png)
 <sub>Pale Blue Dot is a photograph of planet Earth taken on February 14, 1990, by the Voyager 1 space probe. Demonstrating how small our Earth is amidst the cosmos.</sub>
 
 At this day an age, as we are caught up in the process of depleting the precious potential of our minds and bodies—in the task our civilisation established that seeks to maintain prevalence amidst the chaotic realm of nature—we rarely look up to question: What can we, humans, offer to the Universe? Is there really anything that special in us—carbon-based life floating amidst 100-400 billion other solar systems in our Milky Way galaxy—which in turn, is a galaxy amidst another 2 trillion galaxies within the observable Universe. In other words (and numbers), what is so exciting about our living conditions that are to impress someone-somewhere among ~500'000'000'000'000'000'000'000'000 other solar systems? Nothing.
