@@ -4,6 +4,10 @@ title: "Thesis MVP Reflections"
 date: "2018-02-25 10:13:37 -0500"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nc3KmVLTf14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<sub> A breif walkthroguht the scenes of my interactive experience.</sub>
+
 For my MVP, one of the main things that I decided to test out is a scene which serves as an introductory environment to all of the other scenes. I found this to be one of the most successful incorporations that I have done in my project so far. Based on some of the feedback, I realized that this introductory scene grounded well the idea that I want to communicate to the user. By having an introductory scene with certain objects that allow the user to teleport into the historical period that the tools represent—allowed the user to better understand what they are dealing with. The positive aspects of the experience was that the users better understood their relation to the experience which helped them to orient them to the historical context in which I want to ground the narrative/experience.
 
 As of now, the user interaction commences in a house that resembles a house belonging to a hermit who lives in the woods. Inside the house, there is a desk and a couple drawers filled with books. On of the the tables however, there is a something unusual: three objects floating in mid-air that seem to welcome the user to interact with them. When the user interacts with one of the objects, they are immediately transposed into the environment that is relevant to the object. What this environment is, is a scene from a specific historic period that attempts to exemplify that specific tool shapes the reality in the context it is applied.
