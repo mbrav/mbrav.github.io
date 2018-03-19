@@ -6,7 +6,7 @@ listed: false
 excerpt: "My thesis project for Design & Technology 2018"
 ---
 
-This is a page contains post and notes relating to my research for Design & Technology 2018
+This page contains posts, notes, work in progress, and research for my 2018 Design & Technology thesis. The name of of my project is *Data$ein*
 
 {% for post in site.categories.thesis %}
 	{% assign title_len = post.title | size %}
