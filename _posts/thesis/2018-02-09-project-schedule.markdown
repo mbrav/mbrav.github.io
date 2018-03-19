@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Schedule"
+title: "Project Calendar"
 date: "2018-02-09 00:27:31 -0500"
 ---
 
