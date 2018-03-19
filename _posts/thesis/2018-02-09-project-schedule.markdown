@@ -29,20 +29,25 @@ This is a schedule that will mark my progress of my project and highlight import
 |  | Have most of the in-game interaction done |
 | | VR incorporation 30% done |
 | | Add Ambient sounds DONE |
+| | Conceptualize on the theme that will weave together the concepts explored in each of the scenes |
+| | Work on the Exhibition Mockup|
 |  **Week 11** - 4/2| **FINAL** |
 |  | Finish all the dialogues that guide each user’s interaction and experience |
 | | VR incorporation 50% done|
 | | Ambient sounds done |
-|  **Week 12** - 4/9| **Installation prep** |
-|  | Have the work prepared for the installation|
+| | Finish the exhibition mockup |
+|  **Week 12** - 4/9| **Exhibition prep** |
+|  | Have the work prepared for the exhibition|
 | | VR incorporation 80% finished |
-|  **Week 13** - 4/16| **Installation Prep** |
-|  | Work on putting things together for the installation |
+|  **Week 13** - 4/16| **Exhibition Prep** |
+|  | Work on putting things together for the exhibition |
 | | VR incorporation DONE|
-|  **Week 14** - 4/23| **INSTALLATION** |
+| | Update the exhibition mockup if necessary|
+|  **Week 14** - 4/23| **EXHIBITION** |
 |  | Piece installed and is in a presentable format |
-|  **Week 15** - 4/30| **FINAL** |
-|  5/3|  |
+| | Make last minute tweaks if necessary|
+|  **Week 15** - 4/30| **EXHIBITION** |
+|  5/3|  Keep on making tweaks if deemed necessary |
 
 
 [^1]: Think of adding a new scene that shows a simple environment in which there are objects that can be interacted with.
