@@ -8,14 +8,14 @@ baseurl: ""
 url: "http://www.mbrav.com"
 
 # Social Media
-twitter_username: mixania
+twitter_username: absurdtankie
 github_username:  mbrav
 vimeo_username: mbrav
-instagram_username: mbrav_
+instagram_username: absurdtankie
 flickr_username: mixania
 soundcloud_username: mixania
 # medium_username: mbrav
-tumblr_username: bravm
+# tumblr_username: bravm
 
 # Custom names for different categories
 defaults:
