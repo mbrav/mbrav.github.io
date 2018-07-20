@@ -2,7 +2,7 @@
 layout: post
 title: "Hegel's Inner and Outer Apprehension"
 date: "2017-03-15 11:04:41 -0400"
-tags: [philosophy, art, aesthetics, theory]
+tags: [philosophy, Hegel, art, aesthetics, theory]
 ---
 
 Human art is a method of self-liberation, "it lifts [man] with gentle hands out of and above imprisonment in nature"[^20] which is accomplished when the subject-matter is expressed in an art form. Hegel describes this path to liberation during which the inner and outer apprehensions are synthesized together to produce a new form of apprehension, which conveys the spirit of the subject-matter:
