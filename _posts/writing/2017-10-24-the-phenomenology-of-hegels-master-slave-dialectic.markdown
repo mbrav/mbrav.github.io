@@ -2,7 +2,7 @@
 layout: post
 title: "The Phenomenology of Hegel’s Master-Slave Dialectic: The Servile Prerequisite for Freedom"
 date: "2017-10-24 11:04:41 -0400"
-tags: [Hegel, freedom, slavery, philosophy]
+tags: [Hegel, freedom, slavery, phenomenology, philosophy]
 ---
 
 
