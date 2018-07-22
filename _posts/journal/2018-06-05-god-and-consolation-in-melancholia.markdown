@@ -14,7 +14,7 @@ A detail that may perhaps serve as a start for commencing an exposition of the f
 
 ![](/images/melancholia-water.jpeg)
 
-![](http://mbrav.com/images/tarkovski-water.jpeg)
+![](/images/tarkovski-water.jpeg)
 
 <sub> A filmshot from *Melancholia* (top) depicting Justine and a filmshot from *Stalker* (bottom) depicting Stalker both laying in shallow water. The way in which water provides methaphors in both of the films especially draws many resemblances; but many other influences that Tarkovsky had on Lars von Trier can alos be pointed out in the film.</sub>
 
@@ -26,7 +26,7 @@ Based on a review of Tarkovsky’s *Mirror*, Mark Fisher has formulated well the
 
 [^2]: Mark Fisher, *K-Punk blog*, “[Mirror](http://k-punk.abstractdynamics.org/archives/001727.html)”, Feb. 18, 2014
 
-![](http://mbrav.com/images/stalker-meteorite.jpeg)
+![](/images/stalker-meteorite.jpeg)
 
 At the end of film *Stalker*, the three men sit together in a tavern, reconciled with the meaningless of each other beliefs, they silently sit in each other’s thoughts, while being completely confounded by the ambiguity and meaningless of “The Zone” as it escaped all their attempts to understand its meaning. This is precisely the similarity that we find in *Melancholia*; although all protagonists in *Melancholia* assert a certain belief in regard to how they can find consolation in their demise by the approaching planet, all of them potentially lack meaning—which is the nihilism of the film. In this sense, Justine who is the main protagonist in *Melancholia*, comes very close to Stalker’s position because she ultimately sees the futility of attempts of consolation that her family members have come up with—and embraces demise through a form of stoicism.  
 
@@ -51,6 +51,6 @@ Justine on the other hand, presents a different approach in confronting annihila
 Given the way in which the protagonists approach their death in *Melancholia*, the question remains as to what role does God serve in this consolation. In *Melancholia*, it appears that God, nor religion really have a role or function since it was substituted by other forms of consolation that either rely on reason, free will, or nihlism. Overall, it is a film that mediates on a scenario of a catastrophe in a society where as Nietzsche proclaimed, ‘God is dead’: where faith no longer serves as a source for meaning, redemption and consolation. If Margaret Thatcher once announced that ‘there is no alternative’ to neoliberal hypercapitalism, *Melancholia* announces that there is no alternative to nihilism. 
 
 
-![](http://mbrav.com/images/stalker-dog.jpeg)
+![](/images/stalker-dog.jpeg)
 
 [^1]: Sartre, *Existentialism is a Humanism*, p.51
