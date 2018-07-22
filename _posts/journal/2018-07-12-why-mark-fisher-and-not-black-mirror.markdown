@@ -5,7 +5,6 @@ date: "2018-07-12 17:26:55 -0400"
 tags: [capitalism, data, humanity, culture]
 ---
 
-# Why Mark Fisher and not Black Mirror 
 
 These past couple days have led me to find me an inspiration and guidance on how to navigate the whatever neo-late-post condition we are in, through the brilliant vigor and unobstructed flow of thought—Mark Fisher’s k-punk blog yields this inspiration. Where else can one find the level of brilliancy that is found in the way [he contextualizes Dido](http://k-punk.abstractdynamics.org/archives/001181.html):
 
