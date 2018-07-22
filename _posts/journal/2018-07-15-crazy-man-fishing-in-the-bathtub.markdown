@@ -5,7 +5,6 @@ date: "2018-07-15 13:22:51 -0400"
 tags: [philosophy, existentialism, existence, knowledge, rationality, truth]
 ---
 
-# The Crazy Man Fishing in the Bathtub 
 
 A particular passage from Camus’s *The Myth of Sisyphus* had been bogging and fascinating my mind lately. It appears to have originated from Kafka and proceeds as follows: 
 
