@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Candide: We Must Cultivate Our Garden"
+date: "2018-07-24 13:22:51 -0400"
+tags: [nihilism, philosphy, religion, condition, cosmos, Bach, human, Leibniz, Voltaire]
+---
+
+# Candide: We Must Cultivate Our Garden
+
+
+> O che sciagura d’essere senza coglioni! [^1]
+
+What torments and sufferings that poor Candide had to go through in order to discover the incoherency of the belief that he was living in the ‘best of possible worlds’ and that there is a pre-destined cosmic harmony that deicides whether one encounters a fortune, a misfortune, or death. Indeed, Voltaire lets his puppet-like (evident from the literary style) characters go through all these torments as a polemic against Leibnitz, various religious sects, and publishing houses of that time. But most predominately, *Candide* (1759) is a beef against Leibnitz’s views expressed in his *Monodology* (1714) and *Discourse on Metaphysics* (1686). One of his justifications for why there is so much suffering in the ‘best of all possible worlds’ is the following: 
+
+> God who in all things has the greatest perfection will have the greatest care for spirits and will give not only to all of them in general, but even to each one in particular the highest perfection which the *universal harmony will permit*.[^5]
+
+Though it is unfair to dismiss Leibnitz’s philosophy with just a novel, so is the contrary true: Voltaire did not write *Candide* just to refute Leibniz. Through all the adventures that Candide goes through in the age of the Thirty Years’ War (1618-1648) that tormented all Europe and claimed more than 8 million lives; his beloved Cunégonde gets tortured and raped by Bulgarians, gets help from an old woman whose buttocks was cut off in order to prevent a famine during a siege, and meets an African slave in a Dutch colony in Surinam, South America who lost his left leg and his right hand as punishment—who exclaimed: “it is at this cost that you eat sugar in Europe”[^3]. Immediately after this, Candide falls down to his knees and whips, while renouncing Pnaglose’s optimism, who professed Leibniz’s idea about the ‘best of all possible worlds’. But indeed, along with this polemic with Leibniz there is a critique of colonialism, monarchic rule, the human condition, and even patriarchy, where women’s status in society is put under question: “you men think so pleasing, but which to us unhappy creatures is the most dreadful of all sufferings.”[^6] Voltaire is indeed, one of the most important predecessors of liberal thought who saw many problems that where way beyond many minds of his time.
+
+But through the novel Voltaire also makes many comical jokes, but which always resonate with his skepticism towards an optimistic view of the human condition: such as a castrato who exclaims “*O che sciagura d’essere senza coglioni!*”[^1] multiple times throughout the novel. Is not this a primordial expression of life’s suffering in the human condition of a castrato? Voltaire brings the cosmical to the comical, as if by making fun of his characters in *Candide* is the equivalent of a God who created our imperfect universe just so he can get a laugh out of us, humans, living and suffering in it. It is these dark undertones that latently dwell and resonate beneath the humorous tone of *Candide*: it is the epitome of dark humor that can strike the deepest senses of melancholia. Nothing goes better along with *Candide* than Alberecht Dürer’s engraving *Melancholia I* (1514):
+
+![](/images/melancholia-durer.jpeg)
+
+Candide sometimes even questions his own benevolence, as he says: “I am the best man in the world, and yet I have already killed three men; and of these three tow were priests.”[^4] Indeed, Candide is nothing less that a existential subject experiencing dread who confronts a Hobbesian world where there is nothing but ‘war against all’ and ‘might makes right’. In such a world, when one takes a moment to reflect on the condition of one’s own life, one would inevitably stumble upon contradictions when contemplating on one’s own benevolence. Voltaire in 17th century’s world of colonialism, mercantilism, oligarchy and bloody European wars is a parallel to Jean-Paul Sartre living in the 20th century’s capitalist modernity. Both authors deal with the most profound existential questions of their time, and both derive similar conclusions: cultivating our garden for Voltaire, and enchanting a meaningless world with meaning for Sartre. Is not Voltaire’s *Candide* nothing less than an existential revolt against all attempts to justify evil in the world either through reason or religion? And is not the fact that Candide stay true to Miss Cunégonde from beginning to end, even after she became very ugly, a demonstration of how one stays true to the the meaning that one finds in a meaningless world? I think we must reconsider calling Kirkigaard the first existentialist. 
+
+But returning to the main focus of *Candide* as a refutation of Leibnitz, what conclusion does Voltaire wants us to have? Ultimately, the two outcomes in the refutation of the ‘best possible of all worlds’ puts one in a desperate position where one is “born to live in either in the convulsions of misery, or in the lethargy of boredom.”[^2] 
+This is where cultivation comes in. We live in a world that is solely up to us, and it is us who must cultivate it through work and involvement. It is no surprise that Voltaire draws the analogy of Adam and the Garden of Eden. By cultivation, Voltaire means that we must not only take, but also give and nourish. This obviously translates into many political conclusions that would makes us not motivated to live in a Hobbesian ‘solitary, poor, nasty, brutish, and short’ life that was common in Europe among that time, while also not reserving to compromising our freedom to a sovereign. We must instead, nourish our own political condition in a garden we share *together* and imagine new futures and possibilities where we can construct a better world out of the imperfect one we have already. It is a call to action, as apposed to relying on passive optimism. But in a more literal sense, Voltaire is hinting to pour relation with nature. This is the aspect that goes far before humans started raising questions about climate change, or even before Humboldt started questioning the human extractive relation with nature when he visited South America in 1800, 41 years after *Candide* was published. Voltaire raises profound questions in *Candid*, which amount to much more that a comical refutation of Leibniz theory.     
+
+> We must cultivate our garden.[^7]
+
+[^1]: “Oh, what a misfortune to be without balls” (Italian), p. 45.
+[^2]: Voltaire, p. 127
+[^3]: Voltaire, p. 77
+[^4]: Voltaire, p. 60
+[^5]: Leibnitz, *Discourse on Metaphysics*, §61 (emphasis my own)[[link](https://archive.org/stream/discourseonmetap00leib/discourseonmetap00leib_djvu.txt)]
+[^6]: Voltaire, p. 103
+[^7]: Voltaire, p. 129
