@@ -2,10 +2,8 @@
 layout: post
 title: "Candide: We Must Cultivate Our Garden"
 date: "2018-07-24 13:22:51 -0400"
-tags: [nihilism, philosphy, religion, condition, cosmos, Bach, human, Leibniz, Voltaire]
+tags: [nihilism, philosphy, religion, condition, cosmos, human, Leibniz, Voltaire]
 ---
-
-# Candide: We Must Cultivate Our Garden
 
 
 > O che sciagura d’essere senza coglioni! [^1]
