@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Candide: We Must Cultivate Our Garden"
 date: "2018-07-24 13:22:51 -0400"
