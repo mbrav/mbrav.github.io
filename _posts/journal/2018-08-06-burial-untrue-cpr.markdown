@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Burial’s ‘Untrue’ as a CPR"
