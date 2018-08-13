@@ -5,6 +5,10 @@ permalink: /resume
 excerpt: "Michael's resume"
 ---
 
+This is a resume that will hopefully transform my body without organs into a machine integrated under a grander Oedipal desired-production machine that outputs surplus products and fluids 24/7[^1]. 
+
+[^1]: Gilles Deleuze & Félix Guattari, *Anti-Oedipus: Capitalism and Schizophrenia*, 1972
+
 *Creative Technology*, *Physical Computing* and *Installation Art*
 
 ## Eduction
