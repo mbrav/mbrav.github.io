@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /
 excerpt: "Michael is a creative technologist based in New York. New Media Art | Installations | Philosophy."
+listed: false
 ---
 
 {% include slideshow.html %}
