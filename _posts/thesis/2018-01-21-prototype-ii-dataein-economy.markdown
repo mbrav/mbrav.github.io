@@ -7,8 +7,8 @@ date: "2018-01-21 00:43:26 -0500"
 ![](/assets/img/dasein-2.png)
 <sub> Fig.2: Overview of Data$ein’s method of interaction</sub>
 
-Because I wanted to create a user interaction that highlights the concept of expropriation and dispossession that occurs in the process of data gathering practices, I decided to create a prototype using the node.js server platform. The idea behind *Data$ein Economy* prototype, was to visualise the social dynamics that occur in the process of data accumulation (Fig.2). This stems from my initial idea of creating a game/interaction that even children can understand. It meant to highlight the social hierarchies behind everyday technologies
-Explore the dehumanising aspects of data capitalism that go unnoticed. It consists of a basic economic system that exemplifies how user data becomes disposed and owned not by the user, but by an entity under control. Here in particular, the roles are divided into users who translate their data to a master.
+Because I wanted to create a user interaction that highlights the concept of expropriation and dispossession that occurs in the process of data gathering practices, I decided to create a prototype using the node.js server platform. The idea behind *Data$ein Economy* prototype, was to visualize the social dynamics that occur in the process of data accumulation (Fig.2). This stems from my initial idea of creating a game/interaction that even children can understand. It meant to highlight the social hierarchies behind everyday technologies
+Explore the dehumanizing aspects of data capitalism that go unnoticed. It consists of a basic economic system that exemplifies how user data becomes disposed and owned not by the user, but by an entity under control. Here in particular, the roles are divided into users who translate their data to a master.
 
 ![](/assets/img/dasein-5.png)
 <sub> Fig.3: Overview of Data$ein’s exploitive economic underpinnings are revealed.</sub>
