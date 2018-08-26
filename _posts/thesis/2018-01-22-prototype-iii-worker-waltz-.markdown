@@ -4,7 +4,7 @@ title: "Prototype III. Worker Waltz"
 date: "2018-01-22 00:44:38 -0500"
 ---
 
-![](/assets/img/dasein-1.jpg)
+![](/images/dasein-1.jpg)
 <sub> Fig.4: A screenshot of *Worker Waltz*.</sub>
 
 *Worker Waltz* marks a turning point in the direction that my thesis project undertook. In this prototype (Fig.4), I started experimenting with the 3D game prototyping platform *Unity*. In this prototype I attempted to fease together the concepts that I explored in *Data$ein Economy* and incorporate them into realm of the absurd and irony. The scene consists of three workers who have Facebook and Amazon logos imprinted onto them. The three worker then dance resembling a Waltz within a boxed world at the sides of which there are two giant smiling portraits of Jeff Bezos and Mark Zuckerberg. All this happens as a the composition *The Blue Danube* by the Austrian music composer Johann Strauss II plays in the background.

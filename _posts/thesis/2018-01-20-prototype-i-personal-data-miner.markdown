@@ -4,7 +4,7 @@ title: "Prototype I: Personal Data Miner"
 date: "2018-01-20 00:42:37 -0500"
 ---
 
-![](/assets/img/dasein-3.png)
+![](/images/dasein-3.png)
 
 <sub> Fig.1: Exploring the decentralized nature of cryptocurencies</sub>
 

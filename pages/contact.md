@@ -7,7 +7,7 @@ excerpt: "Ways of reaching out to Michael"
 
 You have become acquainted with my digital identity, now become acquainted with actual me...
 
-![contact](/assets/img/contact.jpg)
+![contact](/images/contact.jpg)
 
 ### Ways to contact me
 Email: [{{ site.email }}](mailto:{{ site.email }})  

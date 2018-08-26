@@ -8,11 +8,11 @@ listed: false
 
 {% include slideshow.html %}
 
-<p><img src="assets/img/head.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
+<p><img src="/images/head.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
 
 Michael is a *creative technologist*, a *new media artist*, an *activist* and a *philosopher*. Michael’s past works range from creative/experimental web projects, to speculative new media art installations. His investigations consist of artistic, philosophic, and technologic contexts — that seek to expound and reveal the contemporary human condition — at an era of proliferating false ideas and ideologies that alienate subjectivity from reality, digital technologies as a evolving simulacra of existence, nihilism, death of God, imminent contradictions within the imperialist-colonialist world order, and frequent misrepresentations about the ethics, politics and systems of power that lie beneath the guise of newly introduced technology (data tracking, AI, social media, biotechnology, space travel, etc.) and technocratic policies.
 
-Michael recently finished his undergraduate degree in [Design & Technology](http://www.newschool.edu/parsons/bfa-design-technology/) at Parsons School of Design. Currently he is pursuing a second undergraduate degree in [Philosophy](http://www.newschool.edu/lang/philosophy/) at Eugene Lang set to be completed in May 2019. 
+Michael recently finished his undergraduate degree in [Design & Technology](http://www.newschool.edu/parsons/bfa-design-technology/) at Parsons School of Design. Currently he is pursuing a second undergraduate degree in [Philosophy](http://www.newschool.edu/lang/philosophy/) at Eugene Lang set to be completed in May 2019.
 
 <!--
 His other skills also entail creative coding using JavaScript, WebGL, [openFrameworks](http://openframeworks.cc/), and [Processing](https://processing.org/); as well as [3d animation](/project/infrastructural-utopia-tower), sound effect & [music production](https://soundcloud.com/mixania), and [photography](https://www.flickr.com/photos/mixania). He also enjoys reflecting through [writing](/writing) and [journaling](/journals) every once in a while.
@@ -47,4 +47,3 @@ more [journals](/journals)...
 	{% endfor %}
 </div>
 more [work](/works)...
-

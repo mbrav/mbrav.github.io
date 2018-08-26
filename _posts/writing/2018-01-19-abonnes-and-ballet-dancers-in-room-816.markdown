@@ -5,21 +5,21 @@ date: "2018-01-19 11:49:33 -0500"
 tags: [art, critical theory, aesthetics, modernity, capitalism]
 ---
 
-![](/assets/img/degas-1.jpg)
+![](/images/degas-1.jpg)
 <sub> fig.1: A cropped version of *The Rehearsal of the Ballet on Stage* (ca. 1874) by Edgar Degas depicting  two *abonnés*.</sub>
 
 *“Two male capitalist*-abonnés *sit casually in a room filled with young ballerina dancers: One* abonné *points at a ballerina and asks the other* abonné *...”*
 
 At first, one would consider this excerpt to be a beginning of a prejudicial anecdote, but in reality, it potentially hides a concealed message that resides within the gallery walls of Room 816 located in the Metropolitan Museum. The depiction of two “sugar-daddy” *abonnés* sitting in a room filled with rehearsing ballerina dancers—whom they impatiently seek to provide company afterwards—is precisely the setting depicted in *The Rehearsal of the Ballet on Stage* (fig.2). However, the relation that this Degas painting has to another dozen Degas paintings located in Room 816, is one that potentially conceals the more profound context for this anecdote.
 
-![](/assets/img/degas-2.jpg)
+![](/images/degas-2.jpg)
 <sub> fig.2: Edgar Degas, *The Rehearsal of the Ballet on Stage* (ca. 1874) .</sub>
 
 Before commencing the exposition of the room’s hidden message, it is first worth noting the subtle uniqueness of its interior setting. If one were to enter Gallery Room 816, one would not fail to notice a setting unlike in any other gallery room within the museum: the lights are very dim, the small size of the space might make it the closest to an interior at the MET that might trigger claustrophobia, and the bright orange lights that typically irradiate the gallery spaces of the museum, are substituted by a stark light that infuses the interior of the room with a dull grey tone. In other words, the character and setting of this room is unlike any other room in the museum; perhaps, it imitates the Parisian salons in which these Degas paintings were first shown to the public. In this room, one will find oneself surrounded by impressionist paintings of Edgar Degas that mostly depict young ballet dancers, amongst which hangs *The Rehearsal of the Ballet on Stage* (fig.2).
 
 Out of these dozen or so paintings in the gallery room, one could notice that most paintings have ballet dancers as a common subject-matter; if some paintings don’t share this common subject-matter, then at least they have a more general theme in common—*dancing*. But there is one stark exception to all these paintings to which neither the subject-matter of *ballet dancers* nor *dancing* can be attributed: this exception is the *Portraits at the Stock Exchange* (fig.3) that depicts a crowd of capitalists in the background, presumably not far from the stock exchange, with two of the subjects in the foreground: a financier and a collector, with one of them whispering something into the ear of the other.
 
-![](/assets/img/degas-3.jpg)
+![](/images/degas-3.jpg)
 <sub> fig.3: Edgar Degas, *Portraits at the Stock Exchange* (ca. 1878-79).</sub>
 
 One might be very surprised by the presence of *Portraits at the Stock Exchange*, but is its positioning—among paintings of dancers to which it hardly relates—an outcome of MET’s careful consideration, or a product of its incompetent institutional curation? At first, it might appear to be the latter case, but there is an urge to make a case for the former. Whether the curation of the Room 816 was made intentional or unintentional by the MET; the room hides a hidden sense of irony (maybe even a sense of genius) that begs to be expounded and revealed. This painting of the stock exchange appears to almost deliberately disharmonize the theme of the room; perhaps this is an attempt to bring to the surface the remnant critique of social norms at the time, which under this institutional setting, are better revealed. This may be a reason for why an impression of capitalists is not entirely out of place among Degas’s other paintings that hang in Gallery Room 816; particularly in relation to the formerly mentioned male *abonnés* depicted behind a group of ballet dancers in *The Rehearsal of the Ballet on Stage* (fig.2). Perhaps what connects these two paintings as two autonomous entities, is their own ontology, a language of negativity that they both clearly understand and communicate through; but it is only superficially understood by us, viewers, whose ontology of positivity only sometimes brings our understanding beyond the superficiality of the image of these paintings.

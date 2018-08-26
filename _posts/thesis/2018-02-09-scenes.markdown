@@ -15,9 +15,9 @@ So far, I only have 4 scenes in my project which is a number that is subject to 
 
 The first scene consists of an environment that resembles an absurd utopian world. The idea here is to reveal a world in which a user’s phone serves as a mean for interacting with a world that is mediated by data and digital technologies. Pyramids act as structures in which user data is accumulated, which almost resemble Egyptian pyramids that were once object of worship for them. In this scene, the user walks with a virtual phone in their hand and interact with the world through this tool. In the experience of this scene, my motivation was to pose a question: can our everyday human reliance on data and digital technologies, be translated into some form of religion that abstracts us from our own world and existence? How can this problem be highlighted in a worthwhile experience?
 
-![](/assets/img/4-data-age1.jpg)
-![](/assets/img/4-data-age2.jpg)
-![](/assets/img/4-data-age3.jpg)
+![](/images/4-data-age1.jpg)
+![](/images/4-data-age2.jpg)
+![](/images/4-data-age3.jpg)
 
 <sub> Screenshoots of Scene I</sub>
 
@@ -34,9 +34,9 @@ In order to guide the user through this experience, I decided to create an audib
 
 One the user had completed the second scene, they are given the option to transition to the next scene. In *Industry*, the user is given a different tool that related to the industrial era such as chainsaw or some other powered mechanical tools. In this environment, I seek to provide an experience guided by a narrative that exemplifies how automatic tools alters human relation to the world: where nature is no longer an environment that humans dwell in, but that which is transformed into stock warehouse that provides us with energy and resources to meet our unsatiating demands. The importance of this interaction is to highlight the alteration that occurs in the relation of *our* existence in the world, as much as it exemplifies the environmental consequence for exploiting nature’s resource to ever bigger quantities, at an ever increasing pace.
 
-![](/assets/img/3-industry1.jpg)
-![](/assets/img/3-industry2.jpg)
-![](/assets/img/3-industry3.jpg)
+![](/images/3-industry1.jpg)
+![](/images/3-industry2.jpg)
+![](/images/3-industry3.jpg)
 
 <sub> Screenshoots of Scene II</sub>
 
@@ -56,9 +56,9 @@ To guide the user through this experience, I decided to create an audible narrat
 
 For the third scene, I decided to place the character in a scene that resembles an environment that our civilizcivilisation perhaps once encountered when we were still agrarian society. Here the tools that I decided to give to the player are a hoe and an axe. The idea here, is to guide the user through an interaction with an environment that contrasts the the other scenes in which digital technologies and mechanised powered tools abstract our relation to the world. Here, there is an element in which human is existence and form of dwelling is also altered by agricultural tools, although less prevalent compared to the more modern tools and environments, it is still an important precedent in the chronology of my narrative.
 
-![](/assets/img/2-civilization1.jpg)
-![](/assets/img/2-civilization2.jpg)
-![](/assets/img/2-civilization3.jpg)
+![](/images/2-civilization1.jpg)
+![](/images/2-civilization2.jpg)
+![](/images/2-civilization3.jpg)
 
 <sub> Screenshoots of Scene III</sub>
 
@@ -68,9 +68,9 @@ The narrative for this scene is not written as of yet.
 
 For the final scene, I decided to include a peaceful scene that resides in nature. Here I explore what is it like to live in a primordial world in which there are no tools and technology.
 
-![](/assets/img/1-nature1.jpg)
-![](/assets/img/1-nature2.jpg)
-![](/assets/img/1-nature3.jpg)
+![](/images/1-nature1.jpg)
+![](/images/1-nature2.jpg)
+![](/images/1-nature3.jpg)
 
 <sub> Screenshoots of Scene IV</sub>
 
