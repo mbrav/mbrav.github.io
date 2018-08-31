@@ -2,7 +2,7 @@
 layout: post
 title: "Three Descartes Meditations with Wine"
 date: "2018-08-31 11:27:11 -0400"
-tags: "Descartes, humor, God, ideas, religion, mind, body"
+tags: [Descartes, humor, God, ideas, religion, mind, body]
 ---
 
 Wine—just to get those Dionysian hints in the Apollonian, you know.
