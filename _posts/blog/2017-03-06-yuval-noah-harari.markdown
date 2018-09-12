@@ -5,7 +5,7 @@ date: "2017-03-06 21:31:24 -0500"
 tags: [history, humanity, reading, opinion, ideas]
 ---
 
-During the winter break I managed to read one of the most intriguing books on human history that I have every read called *Sapiens: A Brief History of Humankind*. The author of the book, Yuval Noah Harari is one of the most amazing geniuses currently living. His insight into human history starts with as far as the Neanderthals and how our species subjected them to genocide, to as far as how we formed settlements, then nations, and then a global market. I also mentioned him in some of my previous [posts]({{ site.url }}/journal/2017/01/16-pathetic-human-politics).
+During the winter break I managed to read one of the most intriguing books on human history that I have every read called *Sapiens: A Brief History of Humankind*. The author of the book, Yuval Noah Harari is one of the most amazing geniuses currently living. His insight into human history starts with as far as the Neanderthals and how our species subjected them to genocide, to as far as how we formed settlements, then nations, and then a global market. I also mentioned him in some of my previous [posts]({{ site.url }}/blog/2017/01/pathetic-human-politics).
 
 Despite being in the start mode for midterms, I found some time to watch Yuval Noah Harari's new TED talk about the current Nationalist and Globalist divide from which I gained an insight that I would have not gained otherwise about the topic. But he announced his new book *Homo Deus: A Brief History of Tomorrow* in the talk and this made be go rush to the Barnes & Noble on Union Square and get it.  
 

@@ -11,7 +11,7 @@ tags: [data, technology, experiment, programming, history, 3D, humanity]
 <iframe src="https://player.vimeo.com/video/216600347?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/216898722?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Original Statement](/journal/2017/04/08-computational-archeology-statement)
+[Original Statement](/blog/2017/04/computational-archeology-statement)
 [Update Presentation](https://docs.google.com/presentation/d/1739ukAghCNTyaKDD-NUNRZ-BpxZPzB2pVvhrjyl9rvA/edit?usp=sharing)
 [Github Link](https://github.com/mbrav/DigitalArchaeology)
 

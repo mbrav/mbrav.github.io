@@ -20,7 +20,7 @@ The *input* is what can be considered the "reaction" caused from an external *st
 
 ## Vibration Motor Sensation
 
-As mentioned in my [last week's blog]({{ site.url }}/journal/2017/02/14-cyborg-futures-week-3) I was particularly inspired by David Eagleman's TED talk called "[Can We Create new Senses for Humans?](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans) for reasons that I explain in that blog. But I decided to go forward and build a sense from the parts I ordered.
+As mentioned in my [last week's blog]({{ site.url }}/blog/2017/02/cyborg-futures-week-3) I was particularly inspired by David Eagleman's TED talk called "[Can We Create new Senses for Humans?](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans) for reasons that I explain in that blog. But I decided to go forward and build a sense from the parts I ordered.
 
 I built a device consisting of an Arduino Uno microcontroller, 6-8 flat vibration motors, and a tilt sensor. A tilt sensor was used purely for demonstration purposes but the intention is to replace this sensor with something that relates more to the notion of radiation and the electromagnetic spectrum.  
 

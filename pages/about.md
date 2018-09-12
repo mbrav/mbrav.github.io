@@ -15,7 +15,7 @@ Michael is a *creative technologist*, a *philosopher*, and an *activist*. His pa
 Michael recently finished his undergraduate degree in [Design & Technology](http://www.newschool.edu/parsons/bfa-design-technology/) at Parsons School of Design and is currently he is pursuing a second undergraduate degree in [Philosophy](http://www.newschool.edu/lang/philosophy/) at Eugene Lang set to be completed in May 2019.
 
 <!--
-His other skills also entail creative coding using JavaScript, WebGL, [openFrameworks](http://openframeworks.cc/), and [Processing](https://processing.org/); as well as [3d animation](/project/infrastructural-utopia-tower), sound effect & [music production](https://soundcloud.com/mixania), and [photography](https://www.flickr.com/photos/mixania). He also enjoys reflecting through [writing](/writing) and [journaling](/journals) every once in a while.
+His other skills also entail creative coding using JavaScript, WebGL, [openFrameworks](http://openframeworks.cc/), and [Processing](https://processing.org/); as well as [3d animation](/project/infrastructural-utopia-tower), sound effect & [music production](https://soundcloud.com/mixania), and [photography](https://www.flickr.com/photos/mixania). He also enjoys reflecting through [writing](/writing) and [blogging](/blog) every once in a while.
 -->
 
 ## Latest Writings
@@ -25,12 +25,12 @@ His other skills also entail creative coding using JavaScript, WebGL, [openFrame
 {% endfor %}
 more [writings](/writing)...
 
-## Latest Journals
-{% for post in site.categories.journal limit:4  %}
+## Latest Blog Posts
+{% for post in site.categories.blog limit:4  %}
   <i class="post-list-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></i>
   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 {% endfor %}
-more [journals](/journals)...
+more [blog posts](/blog)...
 
 ## Latest Work
 <div class="container">

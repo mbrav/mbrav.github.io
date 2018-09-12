@@ -26,7 +26,7 @@ Our society welcomes the expression of individuality; where soon instead of sex 
 [^1]: Nietzsche, *The Birth of Tradegy*, sec. 9
 [^2]: Nietzsche, *The Birth of Tradegy*, sec. 20
 [^3]: Nietzsche, *The Birth of Tradegy*, sec. 5
-[^8d34d229]: Michael Braverman, *Commentary on The Human Condition - III*. March 2017 [[link](/journal/2017/03/04-commentary-on-the-human-condition-3)]
+[^8d34d229]: Michael Braverman, *Commentary on The Human Condition - III*. March 2017 [[link](/blog/2017/03/commentary-on-the-human-condition-3)]
 [^42da09c1]: Karl Marx, Friedrich Engels. _The German Ideology_ (Prometheus Books, New York). 1845.
 
 [^n1]: (German: *Entartete Kunst*)—A term adopted by the Nazi regime in Germany to describe Modern art. (see [Wikipedia](https://en.wikipedia.org/wiki/Degenerate_art)) It is important to note the Nietzsche had alluded to *degenerate art*—among numerous other ideas—half-a-century earlier than the Nazi's eluded to their terms. Nietzsche is sometimes dismissed as a provoker of Nazi thought, but those who claim so, unlikely have the mental capacities to comprehend his thought in an Absolute form; contrary to a dissected, labeled, fragmented reading of one the greatest philosophic minds. Thought this also has to do with improper translation of Nietzsche into the English language.

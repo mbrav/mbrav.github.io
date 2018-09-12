@@ -12,7 +12,7 @@ tags: [condition, culture, technology, humanity, installation, modernity, state,
 
 Starring: Jennifer Lee  
 [Extensions of Bias on Github](https://github.com/mbrav/bias)  
-[Additional Notes]({{ site.url }}/journal/2016/12/08-extensions-of-bias-notes) about the process
+[Additional Notes]({{ site.url }}/blog/2016/12/extensions-of-bias-notes) about the process
 
 ## Description
 

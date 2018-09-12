@@ -19,13 +19,13 @@ soundcloud_username: mixania
 
 # Custom names for different categories
 defaults:
-  # Journals
+  # blogs
   - scope:
-      path: "_posts/journal"
+      path: "_posts/blog"
       type: posts
     values:
-      categories: journal
-      permalink: journal/:year/:month/:day-:title
+      categories: blog
+      permalink: blog/:year/:month/:title
   # Posts
   - scope:
       path: "_posts/writing"
@@ -83,7 +83,7 @@ google_analytics: UA-90389714-1
 atom:
   postDirs:
     - _posts/work
-    - _posts/journal
+    - _posts/blog
     - _posts/writing
     - _posts/annotation
     - _posts/thesis
