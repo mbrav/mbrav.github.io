@@ -10,6 +10,16 @@ ul {
 	list-style-type:square;
 }
 
+// cool highlight
+*::-moz-selection {
+	color: white;
+	background: #111;
+}
+*::selection {
+	color: white;
+	background: #111;
+}
+
 // less space between the tags
 .masthead {
   // padding-bottom: 0rem;
