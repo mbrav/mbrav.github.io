@@ -12,6 +12,7 @@ emilybyersolson
 isabellemathersx
 olivia.mathers
 izisimundic
+<<<<<<< HEAD
 feet_of_mia
 taylawaligorski
 dorota4474
@@ -34,6 +35,10 @@ angelpolikarpova
 morgancryer
 oliibritt
 sofia_gregory
+=======
+sofia_gregory
+
+>>>>>>> 45cbc66de9fcbc8b1d4b0f5d162ef420165ff54a
 mayachabros
 cosmicmoonflower
 gracemarlin
