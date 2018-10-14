@@ -1,4 +1,4 @@
-rationalizedendeavor---
+---
 layout: post
 title: "Modernity and its Latent Discontents"
 date: "2017-12-01 12:51:57 -0500"

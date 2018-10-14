@@ -1,4 +1,4 @@
-delegitimization---
+---
 layout: post
 title: "Reconciling Marxism with Feminism: Accounting the Woman Class Struggle"
 date: "2017-12-17 17:41:39 -0500"
