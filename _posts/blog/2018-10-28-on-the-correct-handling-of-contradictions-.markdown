@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "On The Correct Handling of Contradictions "
+title: "Mao - On The Correct Handling of Contradictions "
 date: "2018-10-28 01:18:01 -0400"
+tags: [politics, philosophy, MLM, Mao, communism]
 ---
 
 ## Two Types of Contradictions Differing in Nature
 
-**Two types of contradictions**
+**Two types of contradictions**[^1]
 
 - Between the people and the enemy
 - Among people
@@ -59,3 +60,6 @@ The elimination of counter-revolutionaries becomes “absolutely necessary”:
 However, mistakes have been made in eliminating the counter-revolutionaries. Some where eliminated preemptively and with excess, in other cases, some revolutionaries “slipped through our net”. This act of eliminating the counter-revolutionaries is the *mass line*, but is is always subject to criticism since it is also prone to committing mistakes. But it becomes necessary since counter-revolutionaries are always being instrumentalized by the enemy such by the U.S Imperialists and Chiang Kai-shek, in order to instigate contradiction within the mass. This is why it always necessary to stay alert and Aware of such threats, even if the number of counter-revolutionaries has been drastically reduced since 1956—the struggle continues.   
 
 -->
+
+
+[^1]: Mao Zedong, [*On the Correct Handling of Contradictions Among the People*](https://www.marxists.org/reference/archive/mao/selected-works/volume-5/mswv5_58.htm), 27 February, 1957
