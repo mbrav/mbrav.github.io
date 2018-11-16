@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Despotic Dominion and Sovereignty: Hobbesian Account of Authority and Servitude"
+title: "Despotic Dominion and Sovereignty: a Hobbesian Account of Authority and Servitude"
 date: "2017-12-21 13:42:04 +0100"
 tags: [Hobbes, sovereignty, critical theory]
 ---
