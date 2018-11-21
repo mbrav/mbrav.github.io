@@ -2,6 +2,7 @@
 layout: post
 title: "Plato's Moderation and Censorship Within the City"
 date: "2015-11-06 19:43:00 -0500"
+tags: [Plato, Republic, polis]
 ---
 
 
