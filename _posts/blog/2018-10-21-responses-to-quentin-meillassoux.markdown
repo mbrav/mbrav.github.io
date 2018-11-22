@@ -48,8 +48,8 @@ It is on this point that Meillassoux turns to the question of religion and the s
 | Naive Realism | Realism | Midpoint | Weak Cor. | Strong Cor. | Epistemological Nihilism |
 |:--|:--|:--|:--|:--|:--|
 | empiricism | Descrates | impossible? | Kant |  phenomenology, relativism | existentialism, Sartre?, Nietzsche? |
-| Bacon? Locke? early Wittgenstein?  | Kuhn? | - | Hegel | late Wittgenstein  | Dada, the Avant-garde movement|
-| Richard Dawkins, religious anti-relegion | Meillassoux, materialist and speculative realism | - | - | Levinas? | anti-rationalism Trump? |
+| Bacon? Locke? early Wittgenstein?  | Kuhn? | Historical Materialism: Marxism-Leninism, Maoism, etc. | Hegel | late Wittgenstein  | Dada, the Avant-garde movement|
+| Richard Dawkins, religious anti-religion | Meillassoux, materialist and speculative realism | - | - | Levinas? | anti-rationalism Trump? |
 
 <sub> fig.1: A diagram attempting to outline the the spectrum between realism and correlationism.</sub>
 
