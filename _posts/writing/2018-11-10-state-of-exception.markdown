@@ -23,10 +23,6 @@ Agamben attempts to point out how the state of exception is not just a martial l
 
 Agamben’s *State of Exception* is an indispensable book for conceptualizing sovereignty in modern political philosophy and the way an exception is enacted for the sake of justifying sovereign decision. With the ever increasing number of ways how the distinction between sovereignty and exception becomes blurred, Agamben's book welcomes a re-consideration of various themes in relation to the refugee crisis, climate politics, war on terrorism, border control, etc. With an increasing number of pressing issues that the world faces, Agamben offers a way of looking at the phenomena of exception and its process of normalization.
 
-<!--
-
-
--->
 
 [^1]: Carl Schmidt, *Political Theology: Four Chapters on the Concept of Sovereignty* (Chicago: University of Chicago Press, 2005), p. 5.
 [^2]: Agamben, p. 4.

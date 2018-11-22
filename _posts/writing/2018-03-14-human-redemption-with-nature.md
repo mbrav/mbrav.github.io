@@ -3,7 +3,11 @@ layout: post
 title: "Human Redemption with Nature in Nietzsche’s Birth of Tragedy"
 date: 2018-03-14 16:00:00 0200
 categories: [essay, Nietzsche, philosophy, art, Greek]
+image: "http://mbrav.com/images/the-youth-of-bacchus-1884-william-adolphe-bouguereau.jpg"
 ---
+
+![](http://mbrav.com/images/the-youth-of-bacchus-1884-william-adolphe-bouguereau.jpg)
+<sub> *The Youth of Bacchus* by William-Adolphe Bouguereau, 1884 </sub>
 
 If the Dionysian drive is embodied in the human feeling and apprehension of aesthetic phenomena, to what extents can it be truly considered a natural human drive, and not a human drive that merely alludes to an idea of the natural, but nevertheless remains an imitation that is artificial? If the Dionysian drive is accounted as a human artistic movement that embodies the Platonic and Aristotelian notion of *mimesis*—art that imitates nature—then to what extents can this imitation be considered a transparent mirror of nature, and to what extents can it be denounced as artificial? In this essay, I will attempt to exemplify how in *Birth of Tragedy* (*BT*), Nietzsche conceives the Dionysian drive, its potential to reconcile man with nature, and its standing as an ‘authentic’ natural drive—for which, Nietzsche’s conception of nature would require a preliminary exposition. If the Dionysian drive is indeed natural, then to what extents is its reconciliation with the Apollonian drive, a symbiosis that produces tragedy as a genere—can still be regarded natural? To address the problematic that arises in what Nietzsche sees as a predominance of Apollonian qualities in certain arts, which attempt to imitate nature, but end up with an essence that is inherently unnatural; certain aspects of irresolution that arise in the attempt to reconcile these two drives will be discussed.
 
@@ -40,7 +44,7 @@ Silk, M. S., and Joseph Peter Stern. *Nietzsche on Tragedy*. Cambridge Universit
 
 <!--
 
-On the other hand, music as such can be considered something different form plastic arts (sculpture, painting, etc.) which relies on a certain kind of Apollonian “delights in beautiful forms” of the humans figure, and therefore somewhat escapes this Apollonian drive by finding its home in the Dionysian[^19]. 
+On the other hand, music as such can be considered something different form plastic arts (sculpture, painting, etc.) which relies on a certain kind of Apollonian “delights in beautiful forms” of the humans figure, and therefore somewhat escapes this Apollonian drive by finding its home in the Dionysian[^19].
 -->
 
 [^1]: *BT*, p.37, sec. 1

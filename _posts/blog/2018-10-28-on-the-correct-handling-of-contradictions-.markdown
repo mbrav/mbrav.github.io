@@ -17,7 +17,7 @@ The definitions of people and the enemy:
 - **People** (internal): The mass; those who, together united, fought against Japanese and U.S. imperialists.
 - **Enemies** (external): Those who resist the socialist revolution which includes the U.S imperialists and their running dogs, the bureaucrat-capitalists, the landlords, etc. These frequently introduce counter-revolutionaries in order to cause contradiction among the people.   
 
-The contradictions with the enemies are *antagonistic* for the most part, while the contradictions among the people (through different classes such as the peasantry, intelegentsia, working class and peasantry, etc.) are both, of an *antagonistic* as well as a non-*antongonisitc* character. The People’s Government represents the people’s interests, but there are contradictions that arise out of this representation nevertheless, which are the following:
+The contradictions with the enemies are *antagonistic* for the most part, while the contradictions among the people (through different classes such as the peasantry, intelligentsia, working class and peasantry, etc.) are both, of an *antagonistic* as well as a non-*antongonisitc* character. The People’s Government represents the people’s interests, but there are contradictions that arise out of this representation nevertheless, which are the following:
 
 - Interests of the **state** and interests of the **collective**
 - Interests of **democracy** and interests of **centralism**

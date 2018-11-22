@@ -3,7 +3,12 @@ layout: post
 title: "Phenomenology of Art: Overcoming the Specters of Platonism, Newtonism, and Cartesianism"
 date: "2018-10-13 23:13:11 -0400"
 tags: [essay, philosophy, aesthetics, Marleau-Ponty, Levinas, Newton, Plato, Descartes, Marx]
+images: "http://mbrav.com/images/leonardo-magi.jpg"
 ---
+
+![](http://mbrav.com/images/leonardo-magi.jpg)
+
+<sub> *Perspectival study of the Adoration of the Magi* by Leonardo da Vinci, c. 1481</sub>
 
 <!--
 
