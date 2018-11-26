@@ -5,7 +5,6 @@ date: "2018-10-13 23:13:11 -0400"
 tags: [essay, philosophy, aesthetics, Marleau-Ponty, Levinas, Newton, Plato, Descartes, Marx]
 ---
 
-# Phenomenology of Art: Overcoming the Specters of Platonism, Newtonism, and Cartesianism
 
 ![](http://mbrav.com/images/leonardo-magi.jpg)
 
