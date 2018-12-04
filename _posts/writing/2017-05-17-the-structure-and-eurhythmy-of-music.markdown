@@ -9,7 +9,6 @@ image: "http://mbrav.com/images/hegel-phenomenology.jpg"
 
 ![Georg Wilhelm Friedrich Hegel 1770-1831](http://mbrav.com/images/hegel-phenomenology.jpg)
 
-
 The aim of this paper is to characterize the melodic, harmonic, and structural resolutions that occur in the auditory medium of music; where bars and beats provide an organizational framework for structure, proportion, and harmony; and the striking resemblance of music with the structures devised in other art mediums; such as architecture, sculpture, and poetry. The subdivision of _caesura_ (meaning verse in Greek) into syllables and vowels, and the positioning of sculptures and architecture according to the laws of symmetry and visual harmony[^1]—are strikingly similar to the manner in which music is devised and arranged according to the structural division composed of bars, beats, and notes. The melodic characteristics that are attempted to be demonstrated in this essay, are twofold; the first point, concerns the potential of music to express its inner content within the subjectivity of a beholder despite the medium’s temporal characteristics. The second point of this essay concerns the capacity of the medium to transcend _its own_ laws of symmetry, structure, beat, etc.—and achieve an incomparable level of expression of inner life and emotion—to which a few resemblances with poetry will be mentioned.
 
 ## Music's Expression Albeit its Temporality
@@ -57,15 +56,17 @@ Further, in a poetic medium events become verses; uttered words are passed over 
 
 At the same time, Hegel makes an emphasis on the way sound is treated in music in relation to how sound is treated in poetry. In particular, Hegel mentions how in music, the sonorities of the human organ of speech are meticulously expounded; but not in poetry, where the organ of speech is used in a manner that is other than something musical—as a "mere token of word"—which acquires value only as something indicative, meaningless in itself.[^18] Although the vowels and syllables in poetry do consist of elaborated relations among their tones and accents, they are primarily adjusted for the translation of speech, which imposes limits on the extents to which the sonorities of an organ of speech can reach an idealized stage. Contrary to poetry, which treats sound as something subservient to speech; music takes sound as a separate _independent medium_—treating it as an inner world possessing a subjectivity.[^19]
 
-<!-- To conclude
+<!-- 
+
+To conclude
 
 END
 
-It it is mostly argued by Hegel that Music gains its full potential when accompanied with poetry to produce an opera. It also seems that poetry also gains structure in the resulting dramatic work as well. Hegel does say that poetry frees itself from the rules of harmony which music is constrained to. Hegel here, does not talk about structure, but the sensuous aspect of music that poetry is not constrained to.(Hegel, p. 1013) This _rhythmic versification_ of poetry depends on temporal progress just like music, and it is what makes music such a good addition to poetry. In section that concerns poetic rhyme, Hegel mentions how it versification approaches the measurements that are intrinsic to music, as opposed to the "stuffiness" of language composed of mere longs and shorts.(Hegel, 1023) Hegel praises Greek poetry for developing a form of versification that is most beautiful and richly developed:
+It it is mostly argued by Hegel that Music gains its full potential when accompanied with poetry to produce an opera. It also seems that poetry also gains structure in the resulting dramatic work as well. Hegel does say that poetry frees itself from the rules of harmony which music is constrained to. Hegel here, does not talk about structure, but the sensuous aspect of music that poetry is not constrained to.(Hegel, p. 1013) This _rhythmic versification_ of poetry depends on temporal progress just like music, and it is what makes music such a good addition to poetry. In section that concerns poetic rhyme, Hegel mentions how versification approaches the measurements that are intrinsic to music, as opposed to the "stuffiness" of language composed of mere longs and shorts.(Hegel, 1023) Hegel praises Greek poetry for developing a form of versification that is most beautiful and richly developed:
 
-This type of versification doesn't take for its material the sound as such of letter, syllables, or words, but the sound of syllables in their temporal duration, and so the result in that our attention in not to be exclusively directed to single syllables, or words, but the sound of syllables in their temporal duration, and so the result is that our attention is not exclusively directed to single syllables, letters or to the qualitative similarity or identity of their sound.(Hegel, p. 1026)
+> This type of versification doesn't take for its material the sound as such of letter, syllables, or words, but the sound of syllables in their temporal duration, and so the result in that our attention in not to be exclusively directed to single syllables, or words, but the sound of syllables in their temporal duration, and so the result is that our attention is not exclusively directed to single syllables, letters or to the qualitative similarity or identity of their sound.(Hegel, p. 1026)
 
-But on the contrary, Hegel suggests that the sound of the verse remains in an undivided unity with the tempo and follows the law regulating the rhythmic progress of the ensemble. Even the emphasis on specific syllables, is not just an ordinary accentuation, but one that also embodies metrical accent and rhythm—a play on sound and structure that music appertains to music as such. In fact, various versifications that depend on rhyme, gain a very poor and imperfect quality when syllables create one-letter rhymes which insist of the repetition of one and same letter. This type of rhyme does not demand the recurrence, tension, and relational structure of the same syllable that can be achieved with profundity within music's temporal medium.(Hegel, p. 1029)
+But on the contrary, Hegel suggests that the sound of the verse remains in an undivided unity with the tempo and follows the law regulating the rhythmic progress of the ensemble. Even the emphasis on specific syllables, is not just an ordinary accentuation, but one that also embodies metrical accent and rhythm—a play on sound and structure that music appertains to music as such. In fact, various versifications that depend on rhyme, gain a very poor and imperfect quality when syllables create one-letter rhymes which insist of the repetition of one and same letter. This type of rhyme does not demand the recurrence, tension, and relational structure of the same syllable that can be achieved with profundity within music's temporal medium.
 
 Speech is made into music of feeling and a melodic symmetry, not of time measure and rhythmic movement, bit of sound, which is clearly echoed in the inner life's inner feeling.(Hegel, p. 1031)
 
@@ -129,36 +130,34 @@ During the time of Bach, composers were not as transparent about the ways in whi
 
 This is similar to Shakesphere, who was also not as transparent about the way his works should be performed. Such as _Hamlet_, as an example. There is no description of the set, there is a list of _Dramatis Personae_, and then the play starts with Bernardo following the title "Act I, Scene I". There is no description about the height or the characteristics of the people. The only way is to study the characters and get a feel for their characteristics. Just like it is with getting the _inner_ life of a compost ion out of strict mathematical laws of musical composition. -->
 
-## Bibliography
-Hegel, Georg W.F., and T.M Knox. *Aesthetics Lectures on Fine Art*. Oxford: Clarendon, 2010.   
-  Print.
 
-[^1]: Hegel, p.913
-[^2]: Hegel, p. 892, top of page
-[^3]: Hegel, p. 891
-[^4]: Hegel, p. 889
-[^5]: Hegel, p. 890
-[^6]: Hegel, p. 938
-[^7]: Hegel, p. 956
-[^8]: Hegel, p. 915
-[^9]: Hegel, p. 894
-[^10]: Hegel, p. 891, bottom of page
-[^11]: Hegel, p. 934
-[^12]: Hegel, p. 935
+[^1]: Hegel, Georg Wilhelm Friedrich, trans. by T.M Knox. *Aesthetics: Lectures on Fine Art*, Vol 1 & 2 (Oxford: Clarendon, 1998), p.913.
+[^2]: Hegel, p. 892, top of page.
+[^3]: Hegel, p. 891.
+[^4]: Hegel, p. 889.
+[^5]: Hegel, p. 890.
+[^6]: Hegel, p. 938.
+[^7]: Hegel, p. 956.
+[^8]: Hegel, p. 915.
+[^9]: Hegel, p. 894.
+[^10]: Hegel, p. 891, bottom of page.
+[^11]: Hegel, p. 934.
+[^12]: Hegel, p. 935.
 [^13]: confirm where Hegel talks about the accompaniment of music
-[^14]: Hegel, p. 894. eurhythmy deriving from Greek roots meaning beautiful or harmonious rhythm
+[^14]: Hegel, p. 894. eurhythmy deriving from Greek roots meaning beautiful or harmonious rhythm.
 [^15]: As of why modern pop music culture can be describes as a mass-act of music hearing and consumption rather that listening and contemplation, I think, welcomes a question of whether such music is music at all, or some form of sound or noise stimulation. Because it does seem like music is consumed nowadays, more than it is being listened to and reflected upon, and its inner spirit attempted to be revealed. **(Maybe compare folk Song? High music was for elite, and folk songs was something that appertained to the mass, like pop music does today).**
-[^16]: Hegel, p. 896
-[^17]: Hegel, p. 897
-[^18]: Hegel, p.898
-[^19]: Hegel, p.899
-[^20]: Hegel, p. 913
-[^21]: http://www.iep.utm.edu/kantaest/
-[^22]: Hegel, p. 935
-[^23]: Hegel, p. 940
-[^24]: Hegel, p. 955
+[^16]: Hegel, p. 896.
+[^17]: Hegel, p. 897.
+[^18]: Hegel, p.898.
+[^19]: Hegel, p.899.
+[^20]: Hegel, p. 913.
+[^21]: http://www.iep.utm.edu/kantaest/.
+[^22]: Hegel, p. 935.
+[^23]: Hegel, p. 940.
+[^24]: Hegel, p. 955.
 [^25]: Add Hegel reference to the material of an instrument
-[^26]: Glenn, 2:30, part 2 - [https://youtu.be/u-jFQ-IrvDo](https://youtu.be/u-jFQ-IrvDo)
+[^26]: Glenn, 2:30, part 2 - [https://youtu.be/u-jFQ-IrvDo](https://youtu.be/u-jFQ-IrvDo).
 [^27]: _Ibid_, Hegel reference to the absolute of a composition
-[^28]: reference to previous essay about _inner_ and _outer_ apprehension
-[^29]: Bernstein, 0:58
+[^28]: reference to previous essay about _inner_ and _outer_ apprehension.
+[^29]: Bernstein, 0:58.
+[^30]: Hegel, p. 1029
