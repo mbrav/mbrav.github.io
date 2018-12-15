@@ -18,20 +18,6 @@ The point that Meillassoux makes about the definition of what counts as scientif
 This 'imprisoned cage' is what confines consciousness and language (which also includes metaphysical, scientific, and empirical presuppositions about the world); exploring the exteriority (a world were things-in-themselves are known, the noumenal realm, etc.) of this cage while completely omitting ones confinement to the cage (being, finitude of reason, etc.)—is the biggest philosophical dilemma that haunts all modern thought. But it is also precisely this dilemma that makes realists and empiricists 'naive' according to Meillassoux, since even they are trapped in a cage although they pretend to have overcome and transcended the confines of this cage. An illuminating example that demonstrates the problematic of empirical sciences who follow the 'naive realist' view, are the 'archi-fossils' that are used for estimating the date of accretion of the earth at 4.56 billion years ago. As Meillassoux puts it, these empirical methods attempt to reconstruct and produce statements "about events anterior to the advent of life as well as consciousness."[^9] In doing so, these empirical sciences reconstruct time in a way that is 'ancestral' that pass from the state of non-being into being; he then asks: "how to conceive of a time in which the given as such passes from non-being into being?"[^3] And more precisely, how would 'correlationism' interpret these statements in which the thinking-being and subject-object relations had been ruptured and separated?
 
 
-[^1]: Meillassoux, pp. 4-5
-[^2]: Thomas S. Kuhn, *The Structure of Scientific Revolutions* (Chicago: The University of Chicago Press, 2012), p. 45
-[^3]: Meillassoux, p.22
-[^4]: Quentin Meillassoux, trans. Ray Brassier; *After Finitude: An Essay on The Necessity of Contingency* (New York: Bloomsbury, 2008), p. *vii*
-[^5]: Meillassoux, pp. 4, 15, 16
-[^6]: Meillassoux, pp. 2—3
-[^7]: Meillassoux, p. 5
-[^8]: Meillassoux, p. 6
-[^9]: Meillassoux, p. 9
-[^10]: Meillassoux, pp. 11-12
-
-
-*[PoP]: *Phenomenology of Perception* (1945)
-
 
 ## Response II: Beyond the Cartesian Circle and Back
 
@@ -54,17 +40,6 @@ It is on this point that Meillassoux turns to the question of religion and the s
 <sub> fig.1: A diagram attempting to outline the the spectrum between realism and correlationism.</sub>
 
 
-[^11]: Quentin Meillassoux, trans. Ray Brassier; *After Finitude: An Essay on The Necessity of Contingency* (New York: Bloomsbury, 2008), p. 28
-[^12]: Meillassoux, p.30
-[^13]: Meillassoux, pp.31, 35
-[^14]: Meillassoux, pp.35-6
-[^15]: Meillassoux, p.34
-[^16]: In all fairness, Descartes also is aware of this problem and offers a possible way out himself.
-[^17]: Meillassoux, p.40
-[^18]: Meillassoux, p.41
-[^19]: Meillassoux, p.45
-[^20]: Meillassoux, p.46
-[^21-e]: Meillassoux, p.39
 
 
 
@@ -79,20 +54,6 @@ At first glance, it might appear that Meillassoux is justifying   a notion of ra
 Meillassoux then asks, how can then “Chaos possibly legitimate knowledge of the ancestral?”[^31] First, the notion of non-contradiction is still a crucial component for grounding any access to the absolute, since without it, it becomes nearly impossible to make sense of anything; but paradoxically, the basis for the proof of non-contradiction becomes the *chaotic absolute* itself, which also removes the requirement for a existence of a necessary being.[^32] Second, in an attempt to answer the Leibnitzian question “why there is something rather than nothing?” without resolving into fideist belief that the world was gifted to us and whose absolute outdoors always remain inaccessible,[^33] Meillassoux proclaims that it is necessary that something exist, because it is necessary that contingent things exist.[^34]
 
 
-[^21]: Quentin Meillassoux, trans. Ray Brassier; *After Finitude: An Essay on The Necessity of Contingency* (New York: Bloomsbury, 2008), p. 50
-[^22]: Meillassoux, p. 52
-[^23]: Meillassoux, p. 59
-[^24]: Meillassoux, p. 79
-[^25]: Meillassoux, p. 39
-[^26]: Meillassoux, p. 81
-[^27]: Meillassoux, p. 68
-[^28]: Meillassoux, p. 64
-[^29]: Meillassoux, p. 60
-[^30]: Meillassoux, p. 62
-[^31]: Meillassoux, p. 65
-[^32]: Meillassoux, pp. 71, 67
-[^33]: Meillassoux, p. 72
-[^34]: Meillassoux, p. 74
 
 
 
@@ -113,10 +74,47 @@ Meillassoux then outline the three types of responses that are likely to be pose
 
 Meillassoux’s ‘speculative refutation’ of the ‘necesseterian argument; consist of defending the contingency of the laws by demonstrating that all the three responses, except for Hume’s, already operate on certain metaphysical presuppositions. What unifies these theories is ‘the necessitarian inference’ that proclaims the stability of laws as an imperative condition by first assuming the necessity of law in the first place. Meillassoux also points out the inherent “absurd fear” that underlies the thought of not having a world the conforms to a static law of nature[^40]: What is usually referred to as ‘chance’ or an ‘anomaly’ when an observed phenomena does not conform to an underlying scientific framework, Meillassoux instead attempts to understand it as a contingency of natural law; law of contingency is therefore radically contrasted with the law of chance and probability[^41].
 
-With this in mind, Meillassoux then proceeds in defining the so called “numeric totality” that grounds every possible continent law, and every conceivable phenomena that can occur within any possible world or variation of the law itself[^42]. The thought that our universe is a totality of many possible universes with different laws, types of phenomena, etc. is therefore also the underlying aspect of this supposition. Thus, the conceivable becomes part of totality of cases that become part of a mathematical set, however big it may be[^43]. By borrowing the thought from Alain Badiou’s *Being and Event*, Meillassoux seeks to follow the usage of mathematics as a form of liberation from “calculatory reason” and reconcile math with philosophy in the same way that it had been during the times of Plato. The underlying concept behind this thought is Cantor’s set theory and the idea of the *transfinite* that free’s the reliance of knowledge based on contingent laws since “*a priori* totalization…[that] can no longer lay claim to any logical or mathematical necessity”[^44]. By demonstrating the “*absolutness* of matematical discourse“ however, an answer to the most important problem in Meillassoux’s project still remains—the problem of ancestriality—which is the topic that will be answered in the following chapter.
+With this in mind, Meillassoux then proceeds in defining the so called “numeric totality” that grounds every possible continent law, and every conceivable phenomena that can occur within any possible world or variation of the law itself[^42]. The thought that our universe is a totality of many possible universes with different laws, types of phenomena, etc. is therefore also the underlying aspect of this supposition. Thus, the conceivable becomes part of totality of cases that become part of a mathematical set, however big it may be[^43]. By borrowing the thought from Alain Badiou’s *Being and Event*, Meillassoux seeks to follow the usage of mathematics as a form of liberation from “calculatory reason” and reconcile math with philosophy in the same way that it had been during the times of Plato. The underlying concept behind this thought is Cantor’s set theory and the idea of the *transfinite* that free’s the reliance of knowledge based on contingent laws since “*a priori* totalization…[that] can no longer lay claim to any logical or mathematical necessity”[^44]. By demonstrating the “*absolutness* of matematical discourse“ however, an answer to the most important problem in Meillassoux’s project still remains—the problem of ancestriality—which is the topic that perhaps, will be answered in the following chapter.
+
+*[PoP]: *Phenomenology of Perception* (1945)
 
 
+[^1]: Meillassoux, pp. 4-5
+[^2]: Thomas S. Kuhn, *The Structure of Scientific Revolutions* (Chicago: The University of Chicago Press, 2012), p. 45
+[^3]: Meillassoux, p.22
+[^4]: Quentin Meillassoux, trans. Ray Brassier; *After Finitude: An Essay on The Necessity of Contingency* (New York: Bloomsbury, 2008), p. *vii*
+[^5]: Meillassoux, pp. 4, 15, 16
+[^6]: Meillassoux, pp. 2—3
+[^7]: Meillassoux, p. 5
+[^8]: Meillassoux, p. 6
+[^9]: Meillassoux, p. 9
+[^10]: Meillassoux, pp. 11-12
 
+[^11]: Quentin Meillassoux, trans. Ray Brassier; *After Finitude: An Essay on The Necessity of Contingency* (New York: Bloomsbury, 2008), p. 28
+[^12]: Meillassoux, p.30
+[^13]: Meillassoux, pp.31, 35
+[^14]: Meillassoux, pp.35-6
+[^15]: Meillassoux, p.34
+[^16]: In all fairness, Descartes also is aware of this problem and offers a possible way out himself.
+[^17]: Meillassoux, p.40
+[^18]: Meillassoux, p.41
+[^19]: Meillassoux, p.45
+[^20]: Meillassoux, p.46
+[^21-e]: Meillassoux, p.39
+[^21]: Quentin Meillassoux, trans. Ray Brassier; *After Finitude: An Essay on The Necessity of Contingency* (New York: Bloomsbury, 2008), p. 50
+[^22]: Meillassoux, p. 52
+[^23]: Meillassoux, p. 59
+[^24]: Meillassoux, p. 79
+[^25]: Meillassoux, p. 39
+[^26]: Meillassoux, p. 81
+[^27]: Meillassoux, p. 68
+[^28]: Meillassoux, p. 64
+[^29]: Meillassoux, p. 60
+[^30]: Meillassoux, p. 62
+[^31]: Meillassoux, p. 65
+[^32]: Meillassoux, pp. 71, 67
+[^33]: Meillassoux, p. 72
+[^34]: Meillassoux, p. 74
 [^35]: Quentin Meillassoux, trans. Ray Brassier; *After Finitude: An Essay on The Necessity of Contingency* (New York: Bloomsbury, 2008), p. 83.
 [^36]: Meillassoux, p. 90, citing Hume (1957), p. 44.
 [^37]: Meillassoux, p. 86
