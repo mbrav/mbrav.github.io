@@ -6,7 +6,10 @@ excerpt: "Michael is a creative technologist based in New York. New Media Art | 
 listed: false
 ---
 
-{% include slideshow.html %}
+
+<!-- {% include slideshow.html %} -->
+
+{% include p5-sketch.html %}
 
 <p><img src="/images/head.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
 
