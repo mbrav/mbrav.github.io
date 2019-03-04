@@ -4,6 +4,7 @@ date: "2017-01-07 20:37:10 -0500"
 music: "Jon Hopkins - Abandon Window"
 tags : [video, blog]
 title: "Another Lazy Day"
+published: false 
 ---
 
 Today was another lazy day in Miami, FL. The weather was partially cloudy in the beginning before it started to rain. But before it did, I managed to quickly fulfill my daily needs by taking 2 mile run along the beach trail.

@@ -4,6 +4,7 @@ date: "2017-01-06 20:36:09 -0500"
 title: Lazy Belated Resolutions
 music: "The Avalanches - If I Was a Folkstar"
 tags : [books, reading, new year, blog]
+published: false 
 ---
 
 While on a run along the beach that stretches along the beach coast between Bal Harbour and Surfside (Miami, FL), I thought of what if I start a journal using [Jekyll](https://jekyllrb.com/), which is a customizable blogging platform that transforms text into websites. Hopefully the technicality behind it will be left out for the most part of this journal. But it is worth noting that I'm using it to build my new [portfolio website]({{ site.url }}).
