@@ -9,7 +9,7 @@ Given that knowledge, morality and language, are derivatives of the human capaci
 
 In *On Truth and Lies in a Nonmoral Sense* (1873), Nietzsche provides a philosophic account of knowledge by characterizing it a something rather temporal and arbitrary in the grander cosmological scheme. Knowledge in Nietzsche’s account is therefore relative and no foundation can be ascribed to it, besides in the human mind and insofar as it exists at some point in the vastness of cosmic history:
 
-> There have been eternities when [knowledge] did not exist; and when it is done for again, nothing will have happened. For this intellect has no further mission that would lead beyond human life. It is human, rather, and only its owner and producer gives it such importance, as if the world pivoted around it.[^1]
+> There have been eternities when (knowledge) did not exist; and when it is done for again, nothing will have happened. For this intellect has no further mission that would lead beyond human life. It is human, rather, and only its owner and producer gives it such importance, as if the world pivoted around it.[^1]
 
 The implication of this account of knowledge therefore puts forward certain consequences. First, it is that knowledge is relative hence reinforcing Protagoras claim in Plato’s *Theaetetus* that ‘man is the measure of all things’[^6]. Second, even thought humans have the advantage of attaining such thing as knowledge, the very status of this “advantage” is put under question by Nietzsche. Given that all knowledge is relative and can therefore have no *absolute*, “thing-in-itslef” foundation other than in the relativistic minds of existing human beings and their subjective interpretation of the world; any claim to knowledge is therefore dismissed as nothing other than a disadvantageous pretension and illusive deception[^2]. For Nietzsche, the capacity for knowledge has also existential consequences in that humans pretend to see “forms”, categories, attributes, etc. in the natural world, while thus enforcing their inability to see their actual existence within this natural world. For Nietzsche, most human knowledge is therefore based on the “empty shells” with no inner substance and in accordance to which, illusions are bought for truths[^4]. Which implies that all human knowledge is derived from “metaphors, metonyms, and anthropomorphisms”[^8].
 
@@ -58,7 +58,7 @@ This of course would hint to Nietzsche’s point that all these truths will simp
 [^11]: Arendt, p. 225.
 [^12]: Arendt, p. 224, footnote 3.
 [^13]: Contrary to Nietzsche, Arendt would not go as far as saying that factual truths are ‘arbitrary’ and therefore completely unfounded. Arendt’s stance would entail that factual truths derived on ‘right opinions’ can have their place in politics, but these must not be deemed fully clarified elements either:
-*“[F]actual truth must inform opinions, but these truths, though they are never obscure, are not transparent either, and it is in their very nature to withstand further elucidation, as it is in the nature of light to withstand enlightenment.”* (Arendt, p. 238)
+*“Factual truth must inform opinions, but these truths, though they are never obscure, are not transparent either, and it is in their very nature to withstand further elucidation, as it is in the nature of light to withstand enlightenment.”* (Arendt, p. 238)
 [^14]: Arendt, p. 255.
 [^15]: Arendt, p. 233.
 [^16]: Arendt, p. 236.
