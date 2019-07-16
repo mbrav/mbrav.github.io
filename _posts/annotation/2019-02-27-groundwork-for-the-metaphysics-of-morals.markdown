@@ -4,10 +4,17 @@ title: "‌Groundwork for the Metaphysics of Morals"
 date: "2019-02-27 18:41:50 -0500"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/PSM_V64_D532_Immanuel_Kant.png"
 tags: [Kant, morality, ethics, philosophy]
-excerpt: “An outline of Kant’s Groundwork for the Metaphysics of Morals For my dearest Caroline ❤️”
+excerpt: “An outline of Kant’s Groundwork for the Metaphysics of Morals”
 ---
 
-**For my dearest Caroline  ❤️**
+> Ah, when to the heart of man  
+Was it ever less than a treason  
+To go with the drift of things,  
+To yield with a grace to reason,  
+And bow and accept the end  
+Of a love or a season?[^poem]
+
+[^poem]: Robert Frost, *Reluctance*.
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/PSM_V64_D532_Immanuel_Kant.png" alt="" />
