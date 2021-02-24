@@ -11,7 +11,7 @@ listed: false
 
 {% include p5-sketch.html %}
 
-<p><img src="/images/head.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
+<p><img src="/images/head2.jpg" id="portrait" alt="" /> Hi, this is Michael 👋🏼</p>
 
 Michael is a interdisciplinary philosophy student. His [past works](http://mbrav.com/works) range from creative/experimental projects to speculative new media art installations. These consisted of investigations with artistic, philosophic, and technologic contexts — that seek to expound and reveal the contemporary human condition — at an era of proliferating ideas that alienate subjectivity from authentic being in the world, digital technologies that transform reality into a simulacra; nihilist, political and relegious defeatism in the light of looming unstable future; death of God, imminent contradictions within neoliberalism and global capitalism, and frequent misrepresentations about the politics and systems of power that lie beneath the guise of advancing technology (data tracking, AI, social media, biotechnology, space travel, etc.)
 
