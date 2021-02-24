@@ -22,6 +22,21 @@ Michael's ultimate goal is to contribute to the cause of re-affirming collective
 <!--
 His other skills also entail creative coding using JavaScript, WebGL, [openFrameworks](http://openframeworks.cc/), and [Processing](https://processing.org/); as well as [3d animation](/project/infrastructural-utopia-tower), sound effect & [music production](https://soundcloud.com/mixania), and [photography](https://www.flickr.com/photos/mixania). He also enjoys reflecting through [writing](/writing) and [blogging](/blog) every once in a while.
 -->
+## Latest Work
+<div class="container">
+{% for project in site.categories.work limit:3 %}
+<a href="{{ project.url | prepend: site.baseurl }}">
+<div class="tile" style="background-image: url('{{ project.image }}');">
+<div class="tile-wrapper">
+<h3>{{ project.title }}</h3>
+<span class="post-meta">{{ project.date | date: "%b / %Y" }}</span>
+<!-- <span class="post-medium">{{ project.medium}}</span> -->
+</div>
+</div>
+</a>
+{% endfor %}
+</div>
+more [work](/works)...
 
 ## Latest Writings
 {% for post in site.categories.writing limit:4  %}
@@ -36,19 +51,3 @@ more [writings](/writing)...
   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 {% endfor %}
 more [blog posts](/blog)...
-
-## Latest Work
-<div class="container">
-	{% for project in site.categories.work limit:3 %}
-		<a href="{{ project.url | prepend: site.baseurl }}">
-			<div class="tile" style="background-image: url('{{ project.image }}');">
-				<div class="tile-wrapper">
-					<h3>{{ project.title }}</h3>
-					<span class="post-meta">{{ project.date | date: "%b / %Y" }}</span>
-					<!-- <span class="post-medium">{{ project.medium}}</span> -->
-				</div>
-			</div>
-		</a>
-	{% endfor %}
-</div>
-more [work](/works)...
