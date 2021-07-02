@@ -5,18 +5,6 @@ permalink: /resume
 excerpt: "Michael's resume"
 ---
 
-<!-- 
-This is a resume that will hopefully transform my body without organs into a machine integrated under a grander Oedipal desired-production machine that outputs surplus products and fluids 24/7[^1]. 
-
-[^1]: Gilles Deleuze & Félix Guattari, *Anti-Oedipus: Capitalism and Schizophrenia*, 1972
--->
-
-(347)-443-0317  
-bravm321@newschool.edu  
-[www.mbrav.com](www.mbrav.com)
-
-Michael is a student whose interdisciplinary interests intersect in the fields of philosophy, design, and technology.  
-
 ## Education
 [Parsons School of Design](http://www.newschool.edu/parsons/). New York, NY  
 BFA in [Design and Technology](http://www.newschool.edu/parsons/bfa-design-technology/)  
@@ -25,9 +13,6 @@ Class of May 2018
 [Eugene Lang](http://www.newschool.edu/lang/). New York, NY  
 BFA in [Philosophy](http://www.newschool.edu/lang/philosophy/)  
 Class of May 2019
-
-[Oxford Academy](http://www.oxfordacademy.net/). Westbrook, CT  
-High School, 2012 - 2014 
 
 ## Experience
 
@@ -52,7 +37,7 @@ May 2016, New York, NY.
 [Rentity concept](https://www.crunchbase.com/organization/rentity#/entity) design at [Design and Hack](https://events.newschool.edu/event/design_and_hack_opening_ceremonies_hackathon)  
 November 2014, New York, NY.
 
-## Skills
+## Qualities
 - Strong analytical thinking skills
 - Ability to logically present information
 - Ability to question assumptions
@@ -63,46 +48,39 @@ November 2014, New York, NY.
 - Good social, conversational skills and ability to foster engaging and productive exchanges 
 - Ability to work independently and meet deadlines
 - Ability to pay close attention to textual as well as visual and aesthetic detail
-- Technologically proficient in Word, Adobe Photoshop, Adobe Lightroom, CSS3 & HTML5 and JavaScript
+- Technologically proficient in Word, LibreOffice Adobe Photoshop, Adobe Lightroom, CSS3 & HTML5 and JavaScript
 
+## Skills
+
+- Web Technologies (CSS3 & HTML5, JavaScript, three.js, node.js, socket.io);
+    - JavaScript, HTML5, and CSS3
+    - Vue.js framework, moderate knoweldge
+    - Python (Django, REST framework, Celery)
+    - SQL, moderate (MySQL, PostgreSQL)
+- Proficient in macOS, Linux and FreeBSD;
+    - Good understanding of linux system administration
+    - Very comfortable with the terminal (sh, bash, zsh, etc.)
+    - Proficient in Ubuntu and Debian based OSs
+    - Have used Manjaro Linux as main driver for past 2 years
+    - Have used macOS extensively before
+- Experience with containers and virtualization
+    - Docker, Docker Compose (advanced) and Docker Swarm (basic)
+    - Virtualization, VirtualBox (fluent), Proxmox (basic)
+- Arduino, Raspberry Pi and Internet of Things;
+    - Esp32 programming
+- Creative Coding (Processing, openFrameworks, GLSL shader language, etc.);
+    - Can create interactive visualizations;
+    - Can scrape, parse and organize data from the internet and use for a project;
+    - Very basic understanding of Machine Learning 
+- Sound Production, Mixing and Eurorack sound synthesis (Logic Pro X, Ardour, VCV Rack);
+- 3D Modeling and Animation, basic (Blender, Rhino);
+- Analog and Digital Photography (Lightroom, Adobe Photoshop, Darktable, GIMP);
+- Video Editing (Adobe Premier Pro, Kdenlive);
+- Operating an espresso machine (worked as barista for 6 months);
+- Advanced knowledge in Google Sheets, able to create complex graphs and table realations.
 
 ## Languages
 
-- English (fluent)
-- Russian (fluent)
-- Italian (advanced/fluent)
-
-<!-- 
-- Creative Coding (Processing, Open Frameworks, GLSL, etc.)
-- Arduino, Raspberry Pi and Internet of Things
-- Proficient in Mac OSX, Linux and FreeBSD
-- Web Technologies (CSS3 & HTML5, JavaScript, three.js, node.js, socket.io)
-- Music and Sound Production (Logic Pro X)
-- 3D Modeling and Animation (Blender, Rhino)
-- Analog and Digital Photography ( Lightroom, Adobe Photoshop)
-- Video Editing (Adobe Premier Pro)
-- Operating an espresso machine
-
-## Interests
-
-
-
-
-## Languages
-
-### Human Languages
-
-- English (fluent)
-- Russian (fluent)
-- Italian (advanced/fluent)
-
-### Computer Languages
-
-- JavaScript, HTML5, and CSS3
-- C++ (openFrameworks, Arduino)
-- Bash
-- Python
-- GLSL
-- Turbo Pascal (1st!)
-
--->
+- English (fluent);
+- Russian (fluent);
+- Italian (advanced/fluent).
