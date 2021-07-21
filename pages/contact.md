@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Contact
 permalink: /contact
 excerpt: "Ways of reaching out to Michael"

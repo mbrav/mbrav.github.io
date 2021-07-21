@@ -2,7 +2,7 @@
 layout: post
 title: "A History for Life and Affirmation: An Adoption of Nietzsche’s Extra-Morality in History"
 date: 2018-05-18 16:00:00 0200
-categories: [essay, Nietzsche, philosophy, morality, history]
+tags: [essay, Nietzsche, philosophy, morality, history]
 ---
 
 > I want to teach men the meaning of their existence: which is the Superman, the lightening from the dark cloud man. But I am still distant from them, and my meaning does not speak to their minds. To men, I am still a cross between a fool and a corpse...To lure many away form the herd—that is why I have come. The people and the herd shall be angry with me: the herdsmen shall call Zarathustra a robber...Whom do they hate most? Him who smashed their tables of virtues, the breaker, the last-breaker—but he is the creator. [^11]

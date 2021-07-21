@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Resume
 permalink: /resume
 excerpt: "Michael's resume"

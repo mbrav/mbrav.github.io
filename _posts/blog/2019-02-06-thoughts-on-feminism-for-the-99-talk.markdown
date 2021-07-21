@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts on Feminism for the 99% talk"
 date: "2019-02-06 21:25:52 -0500"
 tags: [thoughts, marxism]
+published: false
 ---
 
 It would be a challenge to summarize the *‌Feminism for the 99% and the New Feminist Wave* conference ([link to video](https://www.facebook.com/LeftVoice.org/videos/347683359292501/)) organized at the New School on February 5th, 2019—in a few paragraphs. Topics of numerous and various kinds were mentioned and discussed during the talks, including forms of oppression towards women that exist in Latin America and all over the world along with more general organizational challenges that feminist movements come to face including identity politics, hegemony of neoliberal capitalism and the rise of far-right politics in the past couple years.

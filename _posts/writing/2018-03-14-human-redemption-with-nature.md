@@ -2,7 +2,7 @@
 layout: post
 title: "Human Redemption with Nature in Nietzsche’s Birth of Tragedy"
 date: 2018-03-14 16:00:00 0200
-categories: [essay, Nietzsche, philosophy, art, Greek]
+tags: [essay, Nietzsche, philosophy, art, Greek]
 image: "http://mbrav.com/images/the-youth-of-bacchus-1884-william-adolphe-bouguereau.jpg"
 ---
 

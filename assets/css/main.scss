@@ -1,178 +1,42 @@
 ---
-# process this file
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$custom-sidebar-color: #7e90ad;
+// Default theme colors
+$theme-colors: (
+  "coolblack": #090a0b,
+  "spacegrey": #353535,
+  "snowwhite": #ffffff,
+);
 
-@import "lanyon";
+// Default brand colors
+$brand-colors: (
+  "orangered": #ff5100,
+  "greatgold": #f2cb05,
+  "greenblue": #389092,
+);
 
-ul {
-	list-style-type:square;
+$theme-name: "{{ site.theme_color }}";
+$brand-name: "{{ site.brand_color }}";
+$theme-color: map-get($theme-colors, "snowwhite");
+$brand-color: map-get($brand-colors, "orangered");
+
+@if map-has-key($theme-colors, $theme-name) {
+  $theme-color: map-get($theme-colors, $theme-name);
+} @else if str-index($theme-name, "#") == 1 {
+  $theme-color: {{ site.theme_color | default: '#ffffff' }};
 }
 
-// cool highlight
-*::-moz-selection {
-	color: white;
-	background: #111;
-}
-*::selection {
-	color: white;
-	background: #111;
+@if map-has-key($brand-colors, $brand-name) {
+  $brand-color: map-get($brand-colors, $brand-name);
+} @else if str-index($brand-name, "#") == 1 {
+  $brand-color: {{ site.brand_color | default: '#ff5100' }};
 }
 
-// less space between the tags
-.masthead {
-  // padding-bottom: 0rem;
-  margin-bottom: 2rem;
-	background: rgba(255, 255, 255, 0.4);
-}
+@import "yat";
 
-.tag-cloud {
-	font-family: 'PT Sans', 'Helvetica', sans-serif;
-}
+// My scss
 
-/*Tags*/
-.tags {
-  list-style: none;
-  margin: 0;
-  overflow: hidden;
-  padding: 0;
-}
-
-.tags li {
-  float: left;
-	a {
-		color: #515151;
-	}
-}
-
-.tag {
-	font-family: 'PT Sans', 'Helvetica', sans-serif;
-  background: #c0c0c0;
-  border-radius: 3px 0 0 3px;
-  display: inline-block;
-  height: 26px;
-  line-height: 26px;
-  padding: 0 20px 0 23px;
-  position: relative;
-  margin: 0 10px 10px 0;
-  text-decoration: none;
-
-  // -webkit-transition: color 0.3s;
-  // transition: color 0.3s;
-	// -webkit-transition: background-color 0.3s;
-	// transition: background-color 0.3s;
-}
-
-.tag::before {
-  background: #fff;
-  border-radius: 10px;
-  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
-  content: '';
-  height: 6px;
-  left: 10px;
-  position: absolute;
-  width: 6px;
-  top: 10px;
-}
-
-.tag::after {
-  background-color: #fff;
-  border-bottom: 13px solid transparent;
-  border-left: 10px solid #c0c0c0;
-  border-top: 13px solid transparent;
-  content: '';
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.tag:hover {
-  background-color: $custom-sidebar-color;
-  color: #c0c0c0;
-  text-decoration: none;
-
-	a {
-		color: #c0c0c0;
-	}
-}
-
-.tag:hover::after {
-  border-left-color: $custom-sidebar-color;
-}
-
-// for videos
-iframe {
-	height:300px;
-	width:100%;
-}
-
-footer {
-	padding-bottom: 20px;
-	padding-top: 20px;
-}
-
-// cc liscense
-.cc img {
-	margin: 0;
-}
-
-.footer-col {
-	width: 49%;
-	display:inline-block;
-}
-
-@media (max-width: 36em) {
-	.footer-col {
-		text-align: center;
-		width: 100%;
-		display:block;
-	}
-
-	// cc liscense
-	.cc {
-		display: block;
-	  margin-left: auto;
-	  margin-right: auto;
-
-		img {
-			display: inline;
-		}
-	}
-}
-
-// social media icons
-.sidebar-item {
-	svg {
-		margin: 3px;
-		width: 18px;
-		height: 18px;
-		fill: white;
-	}
-
-	input {
-		height: 28px;
-		border-radius: 8px;
-	}
-}
-
-div#search {
-	padding-bottom: 0;
-}
-
-
-
-.post-meta {
-	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 16px;
-	display: block;
-}
-
-.post-list-title, .post-meta{
-	// display: inline-block;
-}
-
-// protrait photo
 #portrait {
 	width: 120px;
   border-radius: 50px;
@@ -181,149 +45,7 @@ div#search {
   margin-left: 0;
 }
 
-.quill-image {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+.site-favicon {
+  border-radius: 10%;
 
-// work tiles
-.page .container {
-	padding-left: 0;
-	padding-right: 0;
-	.tile {
-		font-size: 1em;
-		display:inline-block;
-		width:30.5%;
-		border-radius:5px;
-
-		// three tiles
-		margin-left:1%;
-		margin-right:1%;
-		margin-top: 4px;
-		margin-bottom: 4px;
-
-		// Center image
-		background-size:cover;
-		background-position:center center;
-		vertical-align:middle;
-
-		.tile-wrapper {
-			margin: 32px;
-			padding: 8px;
-			border-radius: 8px;
-
-			h3 {
-				display: inline-block;
-
-				margin: 0;
-				padding: 4px;
-				padding-left: 6px;
-				padding-right: 6px;
-
-				border-radius: 2px;
-				color: $custom-sidebar-color;
-				background-color: white;
-				font-size: 1em;
-			}
-			.post-meta {
-				display: inline-block;
-
-				padding: 1px;
-				padding-left: 4px;
-				padding-right: 4px;
-				border-radius: 2px;
-
-				font-size: 12px;
-				text-transform: uppercase;
-				color: white;
-				background-color: #313131;
-			}
-		}
-	}
-
-	.tile:hover {
-		.tile-wrapper {
-			-webkit-transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
-			transition: all 0.2s cubic-bezier(0.89, -0.4, 0, 1.32);
-			opacity: 0.3;
-		}
-	}
-}
-
-
-@media (max-width: 38em) {
-	// two tiles
-	.page .container .tile {
-		width:47%;
-		margin-left:1%;
-		margin-right:1%;
-	}
-}
-
-@media (max-width: 26em) {
-	// one tile
-	.page .container .tile .tile-wrapper{
-		margin: 20px;
-		.post-meta {
-			display: inline-block;
-		}
-	}
-
-	// one tile
-	.page .container .tile {
-		margin-left:0;
-		margin-right:0;
-		width: 100%;
-		min-height: 180px;
-	}
-
-	// full sidebar on mobile
-	#sidebar {
-		width: 100%;
-	}
-
-	.sidebar-toggle {
-		display: inline-block;
-    position: fixed;
-		// toggle on the right side
-		left: auto;
-		right: 1rem;
-	}
-}
-
-.slideshow {
-	margin-bottom: 24px;
-	// slideshow
-	.crop-img {
-		width: 100%;
-		height: 200px;
-		overflow: hidden;
-		border-radius: 2px;
-
-		img {
-			background-size:cover;
-			background-position:center center;
-			vertical-align:middle;
-			visibility: visible;
-			width: 100%;
-			/*background-blend-mode: lighten;*/
-		}
-	}
-
-	#img-caption {
-		margin-top: 6px;
-		text-align: right;
-		color: #BBB;
-		font-size: 80%;
-	}
-}
-
-.footnotes {
-	font-size: 85%;
-}
-
-.reversefootnote::after {
-	font-size: 50%;
-	content: "return";
 }

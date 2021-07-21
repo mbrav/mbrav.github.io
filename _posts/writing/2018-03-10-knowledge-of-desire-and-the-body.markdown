@@ -2,7 +2,7 @@
 layout: post
 title:  "Knowledge of The Body and Desire"
 date:   2018-03-10 16:00:00 0200
-categories: [essay, ideas, phenomenology, philosophy]
+tags: [essay, ideas, phenomenology, philosophy]
 ---
 
 The main subject matter of *Phenomenology of Perception* is concerned about perception and its particular milieu of being that grounds a subject’s existence in the world. Marleau-Ponty's concept of the "body schema", "intentionality", and "the phenomenal field"–which play the underlying role for constituting the totality of a body's subjective experience—draws many parallels with Butler's Hegelian understanding of *desire*. For Butler, *desire* is itself a certain way for the subject to attend the world through its milieu of being, and therefore, is a particular form of knowledge about the world. Marleau-Ponty problematizes the approaches of knowledge that seek to objectively describe experience and sensation; in his view, the Empiricist approach presumes that ‘things in the world’ can be formalized and reduced to their objective characteristics; among these ‘things’, includes the phenomena of perception itself. What this essay will seek to demonstrate, is the profound relation that body and desire have on mind and knowledge. What was is considered to be a monodirectional relation of the mind on the body, according to the classical Cartesian paradigm, will be challenged through Marleau-Ponty‘s and Butler’s views about the way in which the body attends the world in a particular fashion, which in turn, constitutes a particular form of knowledge that a body has of its being and existence in the world.

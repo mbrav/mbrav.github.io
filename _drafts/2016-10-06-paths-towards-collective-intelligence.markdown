@@ -2,7 +2,7 @@
 layout: post
 title:  "Paths Towards Collective Intelligence (WIP)"
 date:   2016-10-06 16:00:00 -0500
-categories: essay
+tags: essay
 ---
 
 We live in an era of digital interconnectedness, a human communication protocol which established a peculiar collective network. It is a system that alerts, entertains, and manipulates those who connect to it. It can be closed and open, safe and dangerous, centralized and decentralized, entertaining and rational; all at the same time. It is not just a systematized network serving a single authority, it can serve our collective best interests, or cause harm with us even realizing it. It is a network that metaphorically resembles a battlefield, a thunder storm, a tidal cycle, and an alerted swarm. The Internet is not just a technologic system, it is an extension of the human nature — humanized into something collective, natural, emotional, and erotic. Even if the Internet entirely relies on machines that follow monotonous laws of logic, us humans transformed it into an interface which satisfies our desires, emotions, and agendas.

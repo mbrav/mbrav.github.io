@@ -2,6 +2,7 @@ version: '3'
 
 services:
   jekyll:
+    container_name: mbrav-jekyll
     image: jekyll/jekyll:latest
     command: jekyll serve --watch --incremental
     ports:

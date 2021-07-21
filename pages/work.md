@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Work
 permalink: /works
 excerpt: "Michael's projects, installations, and artwork"
