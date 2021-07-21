@@ -3,18 +3,20 @@ layout: post
 title: "Meillassoux and Badiou: on The Event and V∅id as foundations of Speculative Realism and Set Ontology"
 date: "2018-12-26 11:58:38 +0100"
 tags: [essay, philosophy, set theory, math, ontology, Meillassoux, Badiou, speculative realism]
+banner: "/images/mandelbrot_set.png"
+image: "/images/mandelbrot_set.png"
 ---
-
-![](http://mbrav.com/images/mandelbrot_set.png)
-
-
-<sub>**fig.1**: A depiction of a fractal based on the Mandelbrot set, a progressive mathematical sequence that entails infinite iterations no matter how small or big the scale of the illustrated sequence is. This illustrates one of the outcomes of Badiou’s ontology based on pure multiplicities and iterative sets, an outcome which is counteracted and argued against with Badiou’s notion of ‘void’ and Meillassoux’s notion of ‘absolute chaos’—positing that reality is not infinitely recursive, but rather, consists of an ultimate bedrock compromised out of chaos or the ‘void-set’ (denoted as `{∅}`). <!--Thus attempting to resolve the question posed by Leibnitz: “why is there something rather than nothing”. The resolution is no less paradoxical: something exists out of void and pure nothingness.--></sub>
 
 
 ## Introduction
 
 
 Given that Quentin Meillassoux’s *After Finitude* (*AF*) is a work that explicates the notion of ‘speculative realism’ and calls for a new direction towards which continental philosophy should turn, it does not however offer a positive theoretical framework, but rather, relies on allusions to Alain Badiou’s work *Being and Event* (*BE*). In numerous ways, Meillassoux relies on Badiou’s mathematical ontology in order to derive one of the most crucial notions of ‘absolute chaos’ and ‘factiality’ which posit the necessity of contingency of all natural laws. Based on this problematic, Meillassoux attempts to come up with terms such as the ‘arche-fossil’ and ‘ancestriality’ in order to set out the problematic that a project of speculative realism must revolve around. To various extents, these questions can only be derived indirectly from Badiou’s *BE* since this work deals with an ontology grounded in set theory as apposed to the rather more empirical and practical questions regarding how science can absolutely ground the validity of ancestral statements as they are posed in Meillassoux’s *AF*. Meillassoux work can be seen as one that takes up Badiou’s ontology in conjunction to the problematics encountered by Descartes, Kant and Hume and posits a new problematic in a manner that puts forward a more concrete question regarding what should really be at stake in contemporary philosophy, which in turn, very much constitutes the problematic posed by the ‘speculative realist’ project. With this in sight, the manner in which Badiou’s ontology is translated and implicated in Meillassoux’s *AF* will be the characterized focus of this paper’s discussion. The first theme concerns Badiou’s notion of the *event* and its relation to the active subject along with its potential relation in Meillassoux’s *AF*. The second theme that will be discussed regards Meillassoux’s notion of ‘absolute chaos’ and its relation to Badiou’s notion of the void set that is derived based on Cantors set theory. Lastly, the implications of Meillassoux’s allusion to Badiou’s set theory in order to ground one of the most crucial terms for the speculative realist project, will be the theme discussed more broadly.
+
+![](/images/mandelbrot_set.png)
+
+
+<sub>**fig.1**: A depiction of a fractal based on the Mandelbrot set, a progressive mathematical sequence that entails infinite iterations no matter how small or big the scale of the illustrated sequence is. This illustrates one of the outcomes of Badiou’s ontology based on pure multiplicities and iterative sets, an outcome which is counteracted and argued against with Badiou’s notion of ‘void’ and Meillassoux’s notion of ‘absolute chaos’—positing that reality is not infinitely recursive, but rather, consists of an ultimate bedrock compromised out of chaos or the ‘void-set’ (denoted as `{∅}`). <!--Thus attempting to resolve the question posed by Leibnitz: “why is there something rather than nothing”. The resolution is no less paradoxical: something exists out of void and pure nothingness.--></sub>
 
 ## The Paradox Between two Thesis
 

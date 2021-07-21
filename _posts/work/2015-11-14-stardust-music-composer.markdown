@@ -3,12 +3,13 @@ layout: post
 title: "Stardust Music Composer"
 date: 2015-11-14 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8787/28389454205_6c3c3ffe1a.jpg"
+banner: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1.jpg"
 excerpt: "A Processing 3 experiment that emphasizes on interactivity, visualization, and combining it with music composition."
 medium: "Interactive Music Composition Tool"
 tags: [technology, music, project, programming]
 ---
 
-<iframe src="https://player.vimeo.com/video/177885335?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/177885335)
 
 [Stardust Composer on GitHub](https://github.com/mbrav/StardustComposer)
 

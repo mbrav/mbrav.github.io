@@ -3,6 +3,8 @@ layout: about
 title: Resume
 permalink: /resume
 excerpt: "Michael's resume"
+banner: "/images/cover-2.jpg"
+comments: false
 ---
 
 ## Education
@@ -38,17 +40,17 @@ May 2016, New York, NY.
 November 2014, New York, NY.
 
 ## Qualities
-- Strong analytical thinking skills
-- Ability to logically present information
-- Ability to question assumptions
-- Proficient in understanding and deconstructing different point of views and delineating the philosophical presuppositions that are assumed in any form of argumentation
-- Tech-savvy
-- Comprehensive understanding of the continental philosophical tradition including ancient Greek philosophy, German Idealism, 20th century philosophy and contemporary philosophical debates
-- Fair grasp of philosophical topics including critical theory, political philosophy,  moral philosophy, feminism, philosophy of religion, philosophy of science, philosophy of technology, epistemology, phenomenology, existentialism and aesthetics
-- Good social, conversational skills and ability to foster engaging and productive exchanges 
-- Ability to work independently and meet deadlines
-- Ability to pay close attention to textual as well as visual and aesthetic detail
-- Technologically proficient in Word, LibreOffice Adobe Photoshop, Adobe Lightroom, CSS3 & HTML5 and JavaScript
+- Strong analytical thinking skills;
+- Ability to logically present information;
+- Ability to question assumptions;
+- Proficient in understanding and deconstructing different point of views and delineating the philosophical;presuppositions that are assumed in any form of argumentation
+- Tech-savvy;
+- Comprehensive understanding of the continental;philosophical tradition including ancient Greek philosophy, German Idealism, 20th century philosophy and contemporary philosophical debates;
+- Fair grasp of philosophical topics including political philosophy, moral philosophy, philosophy of religion, philosophy of science, philosophy of technology, epistemology, phenomenology, existentialism and aesthetics;
+- Good social, conversational skills and ability to foster engaging and productive exchanges;
+- Ability to work independently and meet deadlines;
+- Ability to pay close attention to textual as well as visual and aesthetic detail;
+- Technologically proficient in Word, LibreOffice Adobe Photoshop, Adobe Lightroom, CSS3 & HTML5 and JavaScript.
 
 ## Skills
 

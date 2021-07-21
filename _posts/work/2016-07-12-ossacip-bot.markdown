@@ -3,6 +3,18 @@ layout: post
 title: "Ossacip Bot"
 date: 2016-07-12 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8695/28808877635_c977be1337.jpg"
+banner:
+  video: /images/video/ossacip.mp4
+  loop: true
+  volume: 0.0
+  start_at: 0.0
+  image: https://bit.ly/3xTmdUP
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 excerpt: "A Twitter bot that generates procedural artwork using a trigonometric formula, node.js, and Processing 3."
 medium: "Procedural Art"
 tags: [technology, art, poetry, automation]

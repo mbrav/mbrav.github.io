@@ -3,6 +3,7 @@ layout: post
 title: "Bots, Trigonometry, Math, and Shaders"
 date: 2016-07-19 06:00:00 0200
 image: http://i.giphy.com/3o6ZtkTxyhvGyoSTzq.gif
+banner: http://i.giphy.com/3o6ZtkTxyhvGyoSTzq.gif
 tags: [math, programming, blog]
 ---
 

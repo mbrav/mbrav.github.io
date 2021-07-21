@@ -3,10 +3,9 @@ layout: post
 title: "Reconciling Marxism with Feminism: Accounting the Woman Class Struggle"
 date: "2017-12-17 17:41:39 -0500"
 tags: [Marx, Marxism, feminism, capital, critical theory]
-images: "http://mbrav.com/images/red-detachment.jpg"
+images: "/images/red-detachment.jpg"
+banner: "/images/red-detachment.jpg"
 ---
-
-![](http://mbrav.com/images/red-detachment.jpg)
 
 <sub> *Red Detachment of Women* (Chinese: *红色娘子军*) a Chinese ballet from 1964 that become popularized during the Chinese Cultural Revolution </sub>
 

@@ -3,6 +3,7 @@ layout: post
 title: "Wiki Faces"
 date: "2017-03-16 01:10:01 -0400"
 image: "https://c1.staticflickr.com/3/2815/32663368913_94d7b51d72_b.jpg"
+banner: "https://c1.staticflickr.com/3/2815/32663368913_94d7b51d72_b.jpg"
 excerpt: "Wiki Faces is a project that aims to visualize the life spans and portraits of human figures who constitute the sums of our current scientific knowledge"
 medium: "Data Visualization"
 tags: [data, technology, experiment, programming, history, 3D, humanity]

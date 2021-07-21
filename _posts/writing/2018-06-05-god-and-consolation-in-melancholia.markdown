@@ -3,7 +3,8 @@ layout: post
 title: "Trier’s 'Melancholia' and Tarkovsky: God, Mysticism and Consolation"
 date: "2018-06-05 13:22:51 -0400"
 tags: [art, cinema, nihilism, philosophy, religion, human, condition, cosmos, Bach, Nietzsche, Sartre, Spinoza]
-image: "http://mbrav.com/images/tarkovski-water.jpeg"
+image: "/images/tarkovski-water.jpeg"
+banner: "/images/tarkovski-water.jpeg"
 ---
 
 The general theme that the film *Melancholia* (2011) by Lars von Trier expounds is on the possibility of consolation in times of prevailing modern secularity and nihilism—in a moment where a global catastrophe announces itself as imminent. In this film, this immanent catastrophe presents itself as a planet named ‘Melancholia’ that is set to collide with Earth and promises to transform Earth into its primordial state in which it was 4.5 billion years ago—a period when Earth’s surface consisted of nothing but terraforming lava. This scientific resonance is quite important in the film; scientism plays a primary role in presenting itself in the film as something that is ultimately futile, even if it was once deemed as a celebration of human overcoming of religion and dominance reason over nature. Under these circumstances, nihilism is the ultimate form of consolation offered by the film; the options are either a resignation through suicide as in the case of John, or an attempt to stoically meet death face to face as in the case of Justine and Claire.
@@ -12,9 +13,9 @@ A detail that may perhaps serve as a start for commencing an exposition of the f
 
 
 
-![](http://mbrav.com/images/melancholia-water.jpeg)
+![](/images/melancholia-water.jpeg)
 
-![](http://mbrav.com/images/tarkovski-water.jpeg)
+![](/images/tarkovski-water.jpeg)
 
 <sub> A filmshot from *Melancholia* (top) depicting Justine and a filmshot from *Stalker* (bottom) depicting Stalker both laying in shallow water. The way in which water provides metaphors in both of the films especially draws many resemblances; but many other influences that Tarkovsky had on Lars von Trier can also be pointed out in the film.</sub>
 
@@ -28,7 +29,7 @@ Here, Stalker’s eschatology towards ‘The Zone’, is one that resembles an a
 
 At the end of film *Stalker*, the three men sit together in a tavern, reconciled with the meaningless of each other beliefs, they silently sit in each other’s thoughts, while being completely confounded by the ambiguity and meaningless of ‘The Zone’ as it escaped all their attempts to understand its meaning. This is precisely the similarity that we find in *Melancholia*; although all protagonists in *Melancholia* assert a certain belief in regard to how they can find consolation in their demise by the approaching planet, all of them potentially lack meaning—which is the nihilism of the film. In this sense, Justine who is the main protagonist in *Melancholia*, comes very close to Stalker’s position because she ultimately sees the futility of attempts of consolation that her family members have come up with—and embraces demise through a form of stoicism.
 
-![](http://mbrav.com/images/stlaker-tavern.jpg)
+![](/images/stlaker-tavern.jpg)
 
 <sub>The three men sitting in the Tavern at the end of the film.</sub>
 
@@ -42,7 +43,7 @@ Mother of Justine was not at the church because she does not believe in marriage
 
 Claire walks out and looks at the night sky, as if the marriage can not find any reconciliation for her.
 
-![](http://mbrav.com/images/stalker-meteorite.jpeg)
+![](/images/stalker-meteorite.jpeg)
 -->
 
 Given that a catastrophe in the *Melancholia* is imminent, the question ultimately turns to how the protagonists deal with their imminent death in the age of secularism, death of God, and prevalence of scientific and empirical understanding about the world. Since God is nowhere mentioned in the movie, except for the wedding at the church that Justine’s mother asserted to not have attended due to her beliefs; the film demonstrates how the protagonists find comfort in this absence of God.
@@ -57,7 +58,7 @@ Justine on the other hand, presents a different approach in confronting annihila
 Given the way in which the protagonists approach their death in *Melancholia*, the question remains as to what role does God serve in this consolation. In *Melancholia*, it appears that God, nor religion really have a role or function since it was substituted by other forms of consolation that either rely on reason, free will, or nihilism. Overall, it is a film that mediates on a scenario of a catastrophe in a society where, as Nietzsche proclaimed, ‘God is dead’: where faith no longer serves as a source for meaning, redemption and consolation. If Margaret Thatcher famously announced that ‘there is no alternative’ to neoliberal capitalism, *Melancholia* announces that there is no alternative to nihilism; if the former was the cause of the fall of the Berlin Wall, the later perhaps, is the cause of Tarkovsky being no longer. On a cosmic plane similar to Bach and Shakespeare who prefigured and expressed the human encounter with modernity, Tarkovsky lives along with them, but also with us, as a specter[^4], for as long as we are moderns. However, the theme of consolation in *Melancholia*, is one that is undoubtedly reflective and expositional.
 
 
-![](http://mbrav.com/images/stalker-dog.jpeg)
+![](/images/stalker-dog.jpeg)
 
 [^1]: Jean-Paul Sartre, trans. Carol Macomber; *Existentialism is a Humanism* (Yale University Press: 2007), p.51.
 [^2]: Slavoj Žižek, *The Parallax View* (Massachusetts: MIT Press, 2006, 2009), p.85.

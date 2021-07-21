@@ -5,9 +5,10 @@ date: "2016-04-15 11:05:45 -0400"
 excerpt: "Initial thoughts of what would later become my 'Infrastructural Utopia Tower' piece."
 tags: utopia ideas project capitalism installation data
 image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tatlin%27s_Tower_maket_1919_year.jpg"
+banner: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tatlin%27s_Tower_maket_1919_year.jpg"
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Tatlin%27s_Tower_maket_1919_year.jpg) *Model of Tatlin's tower, 1919.*
+*Model of Tatlin's tower, 1919.*
 
 ## Abstract
 

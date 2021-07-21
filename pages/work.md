@@ -2,7 +2,8 @@
 layout: about
 title: Work
 permalink: /works
-excerpt: "Michael's projects, installations, and artwork"
+excerpt: "Michael's projects and installations"
+comments: false
 ---
 
 These are some of my works which for the most part, explore and investigate how technology shapes our human condition and understanding about the world. Works that align with this category are mainly installations and electronic devices that have certain speculations and/or narratives.

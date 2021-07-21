@@ -3,12 +3,13 @@ layout: post
 title: "Endeavour’s Guide for the 21st Century "
 date: 2016-02-27 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8638/28388677955_4c28b7db75.jpg"
+banner: "https://c1.staticflickr.com/9/8638/28388677955_4c28b7db75.jpg"
 excerpt: ""
 medium: "Physical Object"
 tags: [technology, project, process, prototype, history]
 ---
 
-<iframe src="https://www.youtube.com/embed/tzNWS7Lbi3c" frameborder="0" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=tzNWS7Lbi3c)
 
 [Endeavour's Guide on GitHub](https://github.com/mbrav/EndeavoursGuide)
 

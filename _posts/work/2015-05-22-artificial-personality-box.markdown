@@ -3,12 +3,13 @@ layout: post
 title: "Artificial Personality Box"
 date: 2015-05-22 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1.jpg"
+banner: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1.jpg"
 excerpt: "Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities in objects by means of advancing technology."
 medium: "Physical Installation"
 tags: [AI, technology, personality, cybernetics, consciousness]
 ---
 
-<iframe src="https://player.vimeo.com/video/173251207?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/173251207)
 
 Artificial Personality Box explores, observes, and critiques the human ambition to incorporate personalities into objects by means of technology.
 

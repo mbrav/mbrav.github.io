@@ -3,6 +3,8 @@ layout: archives
 title: Archives
 permalink: /archives
 excerpt: "Michael's blog, writings and journals"
+banner: "/images/cover-4.jpg"
+comments: false
 ---
 
 Blog are texts/excerpts/notes that I happen to write up on any particular day for whatever purpose it might be. These are not meant to be writings of a refined level. To see my more refined writing and essays, go to [Writings]({{ site.url }}/writing).

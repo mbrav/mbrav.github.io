@@ -3,12 +3,13 @@ layout: post
 title: "infORM"
 date: 2016-03-16 00:00:00 -0400
 image: "https://c2.staticflickr.com/8/7570/27772929823_ae1922ff53.jpg"
+banner: "https://c2.staticflickr.com/8/7570/27772929823_ae1922ff53.jpg"
 excerpt: "Object Oriented Mapping (ORM) of sensory data and translating that into a conveyable form of information about physical occurrences and events."
 medium: "Physical Mapping Tool"
 tags: [arduino, programming, technology, prototype]
 ---
 
-<iframe src="https://player.vimeo.com/video/161095259?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/161095259)
 
 [Conference Format Paper (PDF)](https://github.com/mbrav/infORM/raw/master/ProjectIntent.pdf)  
 [infORM on GitHub](https://github.com/mbrav/infORM)

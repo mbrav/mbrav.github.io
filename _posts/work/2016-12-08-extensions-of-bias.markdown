@@ -3,12 +3,13 @@ layout: post
 title: "Extensions of Bias"
 date: 2016-12-08 01:13:01 -0400
 image: "https://c1.staticflickr.com/1/267/32193124916_b3e6fa24e2.jpg"
+banner: "https://c1.staticflickr.com/1/267/32193124916_b3e6fa24e2.jpg"
 excerpt: "An installation consisting of 4 Raspberry Pi's that connect to Twitter. A speculative new media art installation on bias and media technology."
 medium: "Physical Installation"
 tags: [condition, culture, technology, humanity, installation, modernity, state, utopia, rationality]
 ---
 
-<iframe src="https://player.vimeo.com/video/195355551/?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/195355551)
 
 Starring: Jennifer Lee  
 [Extensions of Bias on Github](https://github.com/mbrav/bias)  

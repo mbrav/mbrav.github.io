@@ -3,12 +3,13 @@ layout: post
 title: "Hummin"
 date: 2016-09-06 00:00:00 -0400
 image: "https://c2.staticflickr.com/8/7484/29628885231_f997dba9e5.jpg"
+banner: "https://c2.staticflickr.com/8/7484/29628885231_f997dba9e5.jpg"
 excerpt: "A physical object made out of an CRT screen and a programmed Arduino. Inspired by a humanoid character from Isaac Asimov’s Foundation series."
 medium: "Physical Object"
 tags: [technology, experiment, art, music, video]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pw8o-xjXaz8" frameborder="0" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=pw8o-xjXaz8)
 
 [Hummin on GitHub](https://gist.github.com/mbrav/fd56ff01b985699b3825df33c41ff7b4)  
 [Blog Post](https://bfadtdeviceart.wordpress.com/2016/09/06/hummin/) of the building process

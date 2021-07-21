@@ -3,12 +3,13 @@ layout: post
 title: "Multiverse Clockwork"
 date: 2016-04-14 00:00:00 -0400
 image: "https://c1.staticflickr.com/9/8802/28388678085_ac9fdce3fe.jpg"
+banner: "https://c1.staticflickr.com/9/8802/28388678085_ac9fdce3fe.jpg"
 excerpt: ""
 medium: "openFrameworks Animation"
 tags: [technology, animation, existence, cosmos]
 ---
 
-<iframe src="https://player.vimeo.com/video/164663100?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/164663100)
 
 [MultiverseClockwork on GitHub](https://github.com/mbrav/MultiverseClockwork)
 

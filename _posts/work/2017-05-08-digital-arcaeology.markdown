@@ -3,13 +3,14 @@ layout: post
 title: "Digital Archaeology"
 date: "2017-05-08 01:11:01 -0400"
 image: "https://i.vimeocdn.com/video/633613554.jpg"
+banner: "https://i.vimeocdn.com/video/633613554.jpg"
 excerpt: "An interaction that investigates the archeology of the 21st century"
 medium: "3D Interaction"
 tags: [data, technology, experiment, programming, history, 3D, humanity]
 ---
 
-<iframe src="https://player.vimeo.com/video/216600347?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/216898722?color=9CBEF2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/216600347)
+![](https://vimeo.com/216898722)
 
 [Original Statement](/blog/2017/04/computational-archeology-statement)
 [Update Presentation](https://docs.google.com/presentation/d/1739ukAghCNTyaKDD-NUNRZ-BpxZPzB2pVvhrjyl9rvA/edit?usp=sharing)

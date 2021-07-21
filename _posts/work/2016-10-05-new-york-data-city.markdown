@@ -3,6 +3,7 @@ layout: post
 title: "New York Data City"
 date: 2016-10-05 01:10:00 -0400
 image: "https://c1.staticflickr.com/1/371/31489573024_93ea7a035a.jpg"
+banner: "https://c1.staticflickr.com/1/371/31489573024_93ea7a035a.jpg"
 excerpt: "Data visualizations exploring the conventional aspects of data representation using New York Open Data."
 medium: "Data Visualization"
 tags: [data, technology, experiment, programming, 3D]

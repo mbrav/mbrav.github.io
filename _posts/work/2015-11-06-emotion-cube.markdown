@@ -2,13 +2,14 @@
 layout: post
 title: "Emotion Cube"
 date: 2015-11-06 00:00:00 -0400
-image: "https://c2.staticflickr.com/8/7656/27772929453_622e677747.jpg"
+image: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1.jpg"
+banner: "https://c1.staticflickr.com/9/8277/27772929903_68a55209e1.jpg"
 excerpt: "A small wooden enclosure that senses physical movements, touches, changes in light intensity, and temperature. An Arduino inside controls the output of its emotion."
 medium: "Physical Object"
 tags: [arduino, technology, personal, existence]
 ---
 
-<iframe src="https://player.vimeo.com/video/144803164?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/144803164)
 
 [Emotion Cube on GitHub](https://gist.github.com/mbrav/875aec5f8ded109240a5f900c5b3f0cb)
 

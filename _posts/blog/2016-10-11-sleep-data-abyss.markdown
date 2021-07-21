@@ -4,6 +4,7 @@ title: "Sleep Data Abyss"
 date: 2016-10-11 12:10:00 -0500
 tags: [study, ideas, process]
 image: "https://4.bp.blogspot.com/-tTYZpdJ18bg/VYITAO4s_uI/AAAAAAAAAlE/L7VMImFFt_M/s1600/noise-to-banana.png"
+banner: "https://4.bp.blogspot.com/-tTYZpdJ18bg/VYITAO4s_uI/AAAAAAAAAlE/L7VMImFFt_M/s1600/noise-to-banana.png"
 ---
 
 This is a study that describes the development process of a project that regards the visualization of personal sleep data collected with an app called [Sleep Cycle](https://www.sleepcycle.com/). The project was first intended to be referred to as “Sleep Harmonics” because of my preliminary assumption that there is a poetic and harmonic quality in my personal data. My immediate intention was to visualize this data in a informative and visual manner. I assumed that the processes of sleep, could produce harmonious sounds based my sleep quality. I was inspired by nature’s cyclical phenomena such as planetary motion, water waves, plant growth, and various intriguing mathematical patterns. I wondered if these patterns and cycles were to be scaled to right speed and extent, could these be guided by music theory, overtone scales and the Fibonacci sequence? Would these cyclical phenomena then produce harmonies when combined? If my sleep cycle is repetitive to very similar extents, would it then be able to harmonize together with these natural cycles? I wanted to find a way of visualizing and representing this occurrence through my personal data.

@@ -4,10 +4,9 @@ title: "The Structure and Eurhythmy of Music"
 date: "2017-05-17 23:22:26 -0400"
 tags: [Hegel, philosophy, aesthetics, art, music]
 excerpt: "A characterization of Music's temporal and structure qualities based on Georg W. F. Hegel's Lectures on Aesthetics"
-image: "http://mbrav.com/images/hegel-phenomenology.jpg"
+image: "/images/hegel-phenomenology.jpg"
+banner: "/images/hegel-phenomenology.jpg"
 ---
-
-![Georg Wilhelm Friedrich Hegel 1770-1831](http://mbrav.com/images/hegel-phenomenology.jpg)
 
 The aim of this paper is to characterize the melodic, harmonic, and structural resolutions that occur in the auditory medium of music; where bars and beats provide an organizational framework for structure, proportion, and harmony; and the striking resemblance of music with the structures devised in other art mediums; such as architecture, sculpture, and poetry. The subdivision of _caesura_ (meaning verse in Greek) into syllables and vowels, and the positioning of sculptures and architecture according to the laws of symmetry and visual harmony[^1]—are strikingly similar to the manner in which music is devised and arranged according to the structural division composed of bars, beats, and notes. The melodic characteristics that are attempted to be demonstrated in this essay, are twofold; the first point, concerns the potential of music to express its inner content within the subjectivity of a beholder despite the medium’s temporal characteristics. The second point of this essay concerns the capacity of the medium to transcend _its own_ laws of symmetry, structure, beat, etc.—and achieve an incomparable level of expression of inner life and emotion—to which a few resemblances with poetry will be mentioned.
 

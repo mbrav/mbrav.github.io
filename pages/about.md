@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: about
 title: About
 permalink: /about
 excerpt: "Michael is a creative technologist based in New York. New Media Art | Installations | Philosophy."
+comments: false
 ---
 
 

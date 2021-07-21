@@ -2,13 +2,14 @@
 layout: post
 title: "Eccentric Shaders"
 date: 2016-08-16 00:00:01 -0400
-image: "https://c1.staticflickr.com/1/274/31498731173_2ce18933fd.jpg"
+image: "/images/clouds-of-venus.jpg"
+banner: "/images/clouds-of-venus.jpg"
 excerpt: "A collection of WebGL shaders that run on a web browser. Reflections and explorations about the mechanistic and voided world of computation and quantum theory."
 medium: "WebGL Shaders"
 tags: [math, technology, experiment, programming, universe]
 ---
 
-<iframe src="https://player.vimeo.com/video/200555033?color=9CBEF2"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![](https://vimeo.com/200555033)
 
 [Link to Shader Gallery](http://mbrav.github.io/shaders/01/)  
 [Eccentric Shaders on GitHub](https://github.com/mbrav/shaders)
