@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Russiagate, Lies, and Sufficient Evidence: A Critical View on a Matter with Political Stakes"
+title: "Russiagate, Lies, and Sufficient Evidence"
+subheading: "A Critical View on a Matter with Political Stakes"
 date: "2019-05-05 21:49:29 -0400"
 tags: [essay, poltics, Kant, truth, epistemology]
 ---

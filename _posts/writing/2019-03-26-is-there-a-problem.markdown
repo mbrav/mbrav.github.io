@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Problem with Facts and Knowledge in Nietzsche and Arendt: Is There a Problem?"
+title: "Is There a Problem?"
+subheading: "Facts and Knowledge in Nietzsche and Arendt"
 date: "2019-03-26 17:39:01 -0400"
-tags: [philosophy, Arendt, Nietzsche, Plato, Hobbes, knoweldge, epistemology, truth, lies, morlaity]
+tags: [philosophy, Arendt, Nietzsche, Plato, Hobbes, knowledge, epistemology, truth, lies, morality]
 ---
 
 <p>Given that knowledge, morality and language, are derivatives of the human capacity to think and reason, what are the implications of grounding the concept of truth and lies as a derivative of these human capacities? First, this question raises another question concerning human knowledge in general, regarding the foundation it has outside the human mind, if any. Second, it also raises the question of that role does knowledge have in the political realm, despite its potentially unfounded nature. Trough the work of Nietzsche, I will attempt to demonstrate his skeptical argument regarding knowledge concerning its relativistic aspect as a way of answering the first question. For the second question however, I will attempt to trace the role that knowledge has within the political realm in Arendt’s account after taking a few claims by Nietzsche as a premise. Finally, I will bring the conflicting sides between Nietzsche’s account of knowledge and how it fits within Arendt’s framework, that potentially posits Nietzsche’s problem of knowledge as a problem where there is not one. </p>

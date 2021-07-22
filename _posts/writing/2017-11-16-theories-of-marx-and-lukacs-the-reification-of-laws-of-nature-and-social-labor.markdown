@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Theories of Marx and Lukács: The Reification of Laws of Nature and Social Labor"
+title: "Theories of Marx and Lukács"
+subheading: "The Reification of Laws of Nature and Social Labor"
 date: "2017-11-16 21:53:37 -0500"
 tags: [Marx, Lukács, capital, labor, humanity, essay, rationality, reason, value, critical theory]
 ---

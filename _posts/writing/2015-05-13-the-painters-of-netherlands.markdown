@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Netherlandish Painters: Jan van Eyck and Robert Campin"
+title: "The Netherlandish Painters"
+subheading: "Jan van Eyck and Robert Campin"
 date: "2015-05-13 18:54:08 +0200"
 tags: [Netherlands, painting, art]
 img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/561px-Van_Eyck_-_Arnolfini_Portrait.jpg

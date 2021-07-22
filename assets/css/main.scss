@@ -48,3 +48,36 @@ $brand-color: map-get($brand-colors, "orangered");
 .site-favicon {
   border-radius: 10%;
 }
+
+.site-nav {
+  font-family: $headings-font-family;
+}
+
+.post-nav a {
+  line-height: 20px;
+}
+
+.page-banner {
+  .page-banner-inner {
+    h1 {
+      line-height: 1.1;
+      font-size: 80%;
+      font-weight: bold;
+      font-family: $headings-font-family;
+    }
+
+    h2{
+      line-height: 1.1;
+      font-weight: bold;
+      font-family: $headings-font-family;
+    }
+  }
+}
+
+div.theme-toggle {
+  font-family: $headings-font-family;
+
+  .names {
+    padding: 4px;
+  }
+}

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Kuhn's Paradigms: The Problem of Metaphysical Commitments, Scientific Progress and Objectivity"
+title: "Kuhn's Paradigms"
+subheading: "The Problem of Metaphysical Commitments, Scientific Progress and Objectivity"
 date: 2018-05-12 16:00:00 0200
 tags: [essay, Kuhn, philosophy, science, history, progress]
 ---

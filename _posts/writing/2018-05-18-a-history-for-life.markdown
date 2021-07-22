@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "A History for Life and Affirmation: An Adoption of Nietzsche’s Extra-Morality in History"
+title: "A History for Life and Affirmation"
+subheading: "An Adoption of Nietzsche’s Extra-Morality in History"
 date: 2018-05-18 16:00:00 0200
 tags: [essay, Nietzsche, philosophy, morality, history]
 ---

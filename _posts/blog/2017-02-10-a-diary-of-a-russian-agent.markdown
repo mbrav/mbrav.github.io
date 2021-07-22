@@ -3,6 +3,7 @@ layout: post
 title: "A Diary of a Russian Agent"
 date: "2017-02-10 12:16:10 -0500"
 image: "https://c1.staticflickr.com/3/2172/32008552993_649bdda489_c.jpg"
+banner: "https://c1.staticflickr.com/3/2172/32008552993_649bdda489_c.jpg"
 tags: [politics, russia, hack, blog]
 ---
 

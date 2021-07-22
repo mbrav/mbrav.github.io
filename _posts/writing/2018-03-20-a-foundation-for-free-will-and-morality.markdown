@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Leibniz’s God and Metaphysics: A Foundation for Free Will and Morality"
+title: "Leibniz’s God and Metaphysics"
+subheading: "A Foundation for Free Will and Morality"
 date:   2018-03-20 16:00:00 0200
 tags: [essay, Leibniz, philosophy, metaphysics, modernity]
 ---

@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Conflict and Climate Mitigation of the Future: Sovereignty and Exception in 21st Century Capitalism"
+title: "Conflict and Climate Mitigation of the Future"
+subheading: "Sovereignty and Exception in 21st Century Capitalism"
 date: "2019-01-24 14:47:49 -0500"
 tags: [politics, philosophy, Agamben, climate]
+image: "/images/leviathan.jpg"
+banner: "/images/leviathan.jpg"
 ---
 
 The question of this paper attempts to conceptualize new ways in which war and conflict in the 21st century is wagged. Such undertaking is not an easy one to carry out; with the broadening range of issues that perpetuate and normalize conflicts, the concept of war as such becomes more ambiguous, abstract and difficult to delineate. Issues that are likely to exacerbate rather than not in the near future include climate change, refugee movements, decreased food production due to increasing temperatures and draughts, the increasing advent of private military services to protect the security of private wealth[^1], along with advancing methods of cyber warfare and various advancing technologies such as biogenetics that open up new dimensions in which cybernetic, surveillant, and biopolitical power is exercised on humanity. The conceptual basis for attempting to delineate the so called normalization of war, conflict and exception—both, on the level of the Nation-State and private actors—will be borrowed from Agamben’s *State of Exception* (2005)[^3] which offers a conceptual framework that offers a conceptual ground on which the phenomena of sovereign exception can be conceptualized. Lastly, *Climate Leviathan* (2018) by Wainwright and Mann will offer a lucid account based on a political theory that serves a ground for conceptualizing the forms of political organization that may exist under the looming climate crisis—where war and conflict in under a state of planetary emergency become normalized in the notion of the *state of exception* as a form of management of the prevalent economic system based on global capitalism.

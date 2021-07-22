@@ -4,6 +4,7 @@ title: "Surplus-Value and Data Extractivism"
 date: "2017-08-25 21:40:16 -0400"
 tags: [Marx, Gogol, capital, data, Facebook, Hegel, capitalism]
 image: http://1.bp.blogspot.com/-uJQhPmXbetI/VYrO0fJupXI/AAAAAAAAHQE/5DneCoyhzfg/s1600/chiinovniki-goroda-NN-Hudozhnik-A-Laptev.jpg
+banner: "http://1.bp.blogspot.com/-uJQhPmXbetI/VYrO0fJupXI/AAAAAAAAHQE/5DneCoyhzfg/s1600/chiinovniki-goroda-NN-Hudozhnik-A-Laptev.jpg"
 ---
 
 One of the aspects of Marx’s theory that will always stay relevant in my opinion, is the notion of surplus-value extraction as profit. This extraction of surplus-value as profit — which constitutes the basis of capitalist production — does not necessarily have to stay in the economic context that Marx put it in. While Marx bases his theory very much on the idealism of Hegel, this was for the most part, left aside while he had to expound his theory from a economic-oriented, materialist perspective in his *Capital*.

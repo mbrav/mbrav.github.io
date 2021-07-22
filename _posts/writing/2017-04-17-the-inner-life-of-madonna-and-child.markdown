@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Inner Life of Madonna and Child: Transcendence of Human Finitude as Absolute Subjectivity in Christian Painting"
+title: "The Inner Life of Madonna and Child"
+subheading: "Transcendence of Human Finitude as Absolute Subjectivity in Christian Painting"
 date: "2017-04-17 10:27:58 -0400"
 tags: [philosophy, art, painting, theory, aesthetics]
 image: "https://c1.staticflickr.com/3/2901/33877137842_5b402bf29f_z.jpg"

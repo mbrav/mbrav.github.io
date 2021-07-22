@@ -4,6 +4,7 @@ title: "Make Your Own Instagram"
 date: "2017-07-29 21:05:55 +0200"
 tags: [hack, Facebook, tutorial]
 image: https://c1.staticflickr.com/5/4314/36219052676_b19005346d_b.jpg
+banner: https://c1.staticflickr.com/5/4314/36219052676_b19005346d_b.jpg
 excerpt: "A simple tutorial on how to scrapes Instagram usernames and create a browsable web gallery."
 ---
 
