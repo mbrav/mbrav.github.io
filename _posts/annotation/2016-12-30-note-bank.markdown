@@ -1,0 +1,372 @@
+---
+layout: post
+title: "Note Bank"
+date: "2016-12-30 16:48:58 +0200"
+tags: [notes, internet]
+---
+
+## *The Internet of Things* by Rob Van Kranenburg
+
+The dystopian application within the context of reading: [Wall Street Embraces Emotional Trading Surveillance](http://www.bloomberg.com/news/videos/2016-09-01/wall-street-embraces-emotional-trading-surveillance)
+
+As Naomi Klein recently pointed out, the blueprints for the City of Control are already been acted out. Klein points us towards3 Shenzhen, one of China’s emerging megacities. Thirty years ago Shenzhen didn’t exist. It was just “a string of small shing villagesand collectively run rice paddies, a place of rutted dirt roads and traditional temples”. But Shenzhen, thanks to its proximity to Hong Kong, was selected as the location for China’s rst “special economic zone” one of only four areas where capitalism would be permitted on an experimental basis.
+
+The result was a city of pure commerce, undiluted by history or rooted culture — the crack cocaine of capitalism.
+
+But Klein has noticed something else about Shenzhen. She says it is “once again serving as a laboratory, a testing ground for the next phase of this vast social experiment”. It isa vast network of some 200,000 surveillance cameras have been installed throughout the city.
+
+Chinese security executives predict they will install as many as two million CCTVs in Shenzhen, which would make it the most watched city in the world”
+
+The original meaning of the word ‘technology’ is about daily know-how or method. It wasn’t until the Great Exhibitionof 1851 that technology became associated with machines. It is therefore all the more interesting that the domain of knowledge which belonged to Praxis: phronesis has dropped out completely, not only in our language but also in our thought and ways of thinking. Phronesis, that knowledge that any one of us uses daily in the practice of living an everyday existence, is no longer recognised as an important domain of knowledge with a modern linguistic equivalent.
+
+The world becomes magical only when you lose your agency. As citizens will at some point soon no longer be aware of what we have lost in terms of personal agency.
+
+In theory the United States pioneered a new standard of intellectual property that set the highest possible requirements for patent protection-worldwide originality and novelty. In practice, the country encouraged widespread intellectual piracy and industrial espionage. Piracy took place with the full knowledge and sometimes even aggressive encouragement of government officials.
+Congress never protected the intellectual property of European authors and inventors, and Americans did not pay for the reprinting of literary works
+
+What fueled the 19th century American boom was a dual system of principled commitment to an intellectual property regime combined with absence of commitment to enforce these laws
+
+For how hard it is to write about a world becoming strange, or new, or spooky, after the dotcom crash, after the high hopes of increasing productivity through IT, of readers and writers becoming “wreaders”
+I believe that ubiquitous computing will enable something fundamentally new, and the main question is: to what extent does it allow for human agency?
+
+Successful introduction of new technologies  requirements
+
+1. code
+2. node
+3. link
+4. network
+
+https://en.wikipedia.org/wiki/Marshall_McLuhan
+
+THERE iS NO fORgETTiNg, NO mEmORy LOSS iN digiTaL TERRiTORy.
+
+In A Future World of Supersenses, Martin Rantzer of Ericsson Foresight claims: “New communication senses will be needed in the future to enable people to absorb the enormous mass of information with which they are confronted”. According to him the user interfaces we use today to transmit information to our brains threaten to create
+a real bottleneck for new broadband services. The bottleneck is thus our embodied brain, not our capacity to boost cable or wireless connectivity. The design challenge in implementing digital connectivity in an analogue environment lies in creating a working concept of corporal literacy that will inform a design for all the senses.
+
+Are our current designers, architects, policy makers equipped to deal with these fundamental issues and dilemma’s, where what used to be media ethics has now become building ethics itself?
+
+If the environment becomes the interface, where are the buttons, where are the knobs? Ambient intelligence requires, as it interfaces with citizens on very superficial levels of agency – as it wants the intelligence ‘running in the background’ – a very stable society, quite calm and sterile. Any change in the background, in the axioms that make up the environment has tremendous consequences on the level of agency of citizens. They become helpless very soon, as they have no clue how to operate what is ‘running in the background’, let alone fix things if they go wrong. As such, Ambient intelligence presumes a totalizing, anti-democratic logic. (p.23)
+
+Kranenberg predicted that middle class of developed countries will start scripting their own networks in response to the threatening networks that where developed by private and government institutions.  This however might not be the case in countries that are run on incentives of private groups. In such countries, the wage that people have is considered to be of a higher value than individual agency. In such states, people sell their agencies in exchange for pay checks, a process that occurs subconsciously.  
+
+We see the car, the engine and the tools to fix the engine, put it in the car and... drive it. We see code, protocol and procedure. Anyone with a mind to it can get to work on it. It is designed to be visible.
+Europe’s Future and Emergent Technology Programs as well as the major corporate labs have fallen unequivocally for Ambient which for the first time in the history of technology sets forth its own disappearance as technology as fundamental to its success.24 The result will be dumb interfaces that hide all keys to the technology that drives it. Consequently it will keep citizens from being able not only to fix it when it
+is broken but to build on it, to play with it, to remake, remodel, and reuse it for their own ends. I believe this being able to negotiate stuff, stuff that is axiomatic thinking embodied, is called creativity.
+
+Devices should be built freeto run anything. As software shapes our social interaction and communication topologies, the act of theft is where the people is deprived of their rights to re-use and re-create their own schemes of interaction with the devices they share.
+
+Hive devices convert everyday networking devices, such as a network router, into multi-functional ones with expanded possibilities. The conversion is done by replacing the pre-installed software of these networking devices with the open source Hivewares, which then allows new hardware to be plugged in. Examples include hard disks, web cameras, speakers, FM transmitters, weather stations and many other hardware tools.
+
+## [*Conscious Exotica*](https://aeon.co/essays/beyond-humans-what-other-kinds-of-minds-might-be-out-there) by Murray Shanahan
+
+"If the ‘system’ in question was an animal, then we already inhabit the same, familiar environment, notwithstanding that the environment affords different things to different creatures. But to discern purposeful behavior in an unfamiliar system (or creature or being), we might need to engineer an encounter with it."
+
+"Even in familiar instances, this business of engineering an encounter can be tricky. For example, in 2006 the neuroscientist Adrian Owen and his colleagues managed to establish a [simple form of communication](http://science.sciencemag.org/content/313/5792/1402) with vegetative-state patients using an fMRI scanner. The patients were asked to imagine two different scenarios that are known to elicit distinct fMRI signatures in healthy individuals: walking through a house and playing tennis. A subset of vegetative-state patients generated appropriate fMRI signatures in response to the relevant verbal instruction, indicating that they could understand the instruction, had formed the intention to respond to it, and were able to exercise their imagination. This must count as ‘engineering an encounter’ with the patient, especially when their behavior is interpreted against the backdrop of the many years of normal activity the patient displayed when healthy."
+
+## *Gorgias* by Plato
+
+"And so the rhetorician's business is not to instruct a law court or a public meeting in matters of right and wrong, but only to make them believe; since, I take it, he could not in a short while instruct such a mass of people in matters so important."
+
+"Then the case is the same in all the other arts for the orator and his rhetoric: there is no need to know [459c] the truth of the actual matters, but one merely needs to have discovered some device of persuasion which will make one appear to those who do not know to know better than those who know.
+So now, take whichever course you like: either put questions, or answer them."
+
+"And wise men tell us, Callicles, that heaven and earth and gods and men are held together by communion and friendship, by orderliness, temperance, and justice; and that is the reason, my friend, why they call the whole of this world by the name of order,1 not of disorder or dissoluteness."
+
+But he who is not a doctor is surely without knowledge of that whereof the doctor has knowledge.
+
+- So he who does not know will be more convincing to those who do not know than he who knows, supposing the orator to be more convincing than the doctor. Is that, or something else, the consequence?
+- In this case it does follow.
+
+## *Dancing With Systems* by Donella Meadows
+
+“But self-organizing, nonlinear feedback systems are inherently unpredictable. They are not controllable. They are understandable only in the most general way.”
+
+We humans are evolved to a point that we can discerns and understand systems like the anatomy of our bodies and constituents of small objects. But we are limited to understanding very complex and intricate systems like our brain. Simply because, we are not evolved enough to understand such complex systems intuitively. Abstraction is the only way we can deceivingly bring these intuitions closer to our understanding.
+
+“But there it was, the message emerging from every computer model we made. Living successfully in a world of systems requires more of us than an ability to calculate. It requires our full humanity-our rationality, our ability to sort out truth from falsehood, our intuition, our compassion, our vision, and our morality."
+
+"President Jimmy Carter had an unusual ability to think in feedback terms and to make feedback policies. Unfortunately he had a hard time explaining them to a press and public that didn't understand feedback."He suggested, at a time when oil imports were soaring, that there be a tax on gasoline proportional to the fraction of U.S. oil consumption that had to be imported. If imports continued to rise, the tax would rise until it suppressed demand and brought forth substitutes and reduced imports. If imports fell to zero, the tax would fall to zero. “
+"The tax never got passed.”"Carter was also trying to deal with a flood of illegal immigrants from Mexico. He suggested that nothing could be done about that immigration as long as there was a great gap in opportunity and living standards between the U.S. and Mexico. Rather than spending money on border guards and barriers, he said, we should spend money helping to build the Mexican economy, and we should continue to do so until the immigration stopped.”"That never happened either. “
+
+Defy the disciplines. In spite of what you majored in, or what the textbooks say, or what you think you're an expert at, follow a system wherever it leads.
+
+"Let's face it, the universe is messy. It is nonlinear, turbulent, and chaotic. It is dynamic. It spends its time in transient behavior on its way to somewhere else, not in mathematically neat equilibria. It self-organizes and evolves. It creates diversity, not uniformity. That's what makes the world interesting, that's what makes it beautiful, and that's what makes it work.
+"There's something within the human mind that is attracted to straight lines and not curves, to whole numbers and not fractions, to uniformity and not diversity, and to certainties and not mystery." One part of us, Meadows says, "designs buildings as boxes with uncompromising straight lines and flat surfaces. Another part of us recognizes instinctively that nature designs in fractals, with intriguing detail on every scale from the microscopic to the macroscopic. That part of us makes Gothic cathedrals and Persian carpets, symphonies and novels, Mardi Gras costumes and artificial intelligence programs, all with embellishments almost as complex as the ones we find in the world around us."
+
+*We count in numbers, yet, there is an infinite range of numbers that can exists between 3 and 4. Even when we perceive something, it can be in that particular state as a chance of a million.*
+
+Examples of bad human behavior are held up, magnified by the media, affirmed by the culture, as typical.
+
+*Humans attempt to build systems that would augment their erroneous nature, but sometimes, an systematic solution to a problem is not what a human nature wants.*
+
+"Let's face it, the universe is messy. It is nonlinear, turbulent, and chaotic. It is dynamic. It spends its time in transient behavior on its way to somewhere else, not in mathematically neat equilibria. It self-organizes and evolves. It creates diversity, not uniformity. That's what makes the world interesting, that's what makes it beautiful, and that's what makes it work."There's something within the human mind that is attracted to straight lines and not curves, to whole numbers and not fractions, to uniformity and not diversity, and to certainties and not mystery." One part of us, Meadows says, "designs buildings as boxes with uncompromising straight lines and flat surfaces. Another part of us recognizes instinctively that nature designs in fractals, with intriguing detail on every scale from the microscopic to the macroscopic. That part of us makes Gothic cathedrals and Persian carpets, symphonies and novels, Mardi Gras costumes and artificial intelligence programs, all with embellishments almost as complex as the ones we find in the world around us."
+
+## *Adversarial Design* by DiSalvo
+
+More  than  just  establishing  connectedness,  the  design  of  ubicomp  results in  the  formation  of  these  collectives:  the  design  of  ubicomp  produces  collectives.  For  some,  it  may  seem  odd  to  speak  of  collectives  comprising  both people  and  object.  But  this  activation  of  objects  and  their  environments and  this  mingling  of  a  multiplicity  of  diverse  things  together  provides ubicomp  with  distinctive  political  potential.  As  designer  and  theorist  Julian Bleeker  (2009,  173)  puts  it,  “Whereas  the  Internet  of  Non-Things  was limited  to  human  agents,  in  the  Internet  of  Things  objects  are  also  active participants  in  the  creation,  maintenance  and  knitting  together  of  social formations  through  the  dissemination  of  meaningful  insights  that,  until now,  were  not  easily  circulated  in  human  form.”
+
+## *Emergence: The Connected Lives of Ants, Brains, Cities, and Software* by Steven Johnson
+
+
+Emergent behaviors, like games, are all about living within the boundaries defined by rules, but also using that space to create something greater than the sum of its parts.
+
+Joi Ito keynote about transdisciplinary design - https://youtu.be/yXF_MElegC4
+
+What is Alan Turing’s definition of “morphogenesis”?
+Morphogenesis is a biologic phenomena where an organism develops complex modes of behavior from structurally simple organizations. Turing: How complex patterns could come into being by following simple rules. How a seed know how to build a flower.
+Define each of the following: (a) complex behavior, (b) emergent behavior, © adaptive behavior, and (d) artificial behavior.
+1. A complex behavior is that of system which is hard to predict.
+2. Emergent behavior is a complex set of reactions that emerge from relatively simple organization. "The movement from low-level rules to higher-level sophistication is what we call emergence." Manchester That mix of order and anarchy is what we now call emergent behavior.
+3. Learning behavior
+4. Systems built with a conscious understanding of what emergence is, systems designed to exploit those laws the same way our nuclear reactors exploit the laws of atomic physics."
+What are the three historical phases of understanding emergence and what characterizes them?
+
+What is “swarm logic”?
+
+bottom-up not from top to bottom
+Each limited to a meager vocabulary of pheromones and minimal cognitive skills—collectively engage in nuanced and improvisational problem-solving. Or what United Nation is desperately trying to accomplish.
+
+We see emergent behavior in systems like ant colonies when the individual agents in the system pay attention to their immediate neighbors rather than wait for orders from above. They think locally and act locally, but their collective action produces global behavior.
+
+Ants secrete a finite number of chemicals from their rectal and sternal glands—and occasionally regurgitate recently digested food—as a means of communicating with other ants. Those chemical signals turn out to be the key to understanding swarm logic.
+
+We try to improve human swarm logic but we are simply not designed to be a for it. We are follow the instincts of survival that causes us to satisfy our own needs as opposed to collective needs of humanity. The largest scope that we have the ability to regard is in this he city scale.
+
+According to Johnson, macro intelligence and adaptability derive from what, and what are its five fundamental principles?
+1. Learning from neighbors
+2. Referencing it external perception to its emergent code or DNA.
+3. There must be a tension between centripetal and centrifugal forces, with neither too strong.
+4. The range of the centripetal forces must be shorter than that of the centrifugal forces: business must like to have other businesses nearby, but dislike having them a little way away.
+What is “plum pudding polycentrism”? Whose coined this term? What is its governing logic?
+Reflecting upon your own experiences, how might this text reframe how you understand agency -- collective and individual -- and your ability to enact change within a system?
+
+I live in an era where the internet is the closest attempt to make humankind become a collective intelligence swarm. But we did not evolve as a collective thinking colony like ants have. We are based on satisfying our needs and increasing the chances of our survival and the group of people close to us. In collective environments we can accomplish many things thanks to our ability to reason, but in some areas we do things less efficiently than ants. For example, we don't have the percepitory bandwidth  to grasp our collective systems such as the internet. Ants release pheromones to as way to communicate with their collective, but we lack the sensing ability to so the same with internet.
+
+So there is this lacking ability in our sensing ability. If we want something like the internet to become a  collective sensing medium, we must redefine our biological nature and even our own anatomy.  There only two options for this:
+1. Human cyborgization
+2. Using a tool that would perceive the medium for us. Such as an AI.
+3. Exploring the artistic mediums
+
+But the problem with the debate over machine learning and intelligence is that it has too readily been divided between the mindless software of today and the sentient code of the near future. The Web may never become self-aware in any way that resembles human self-awareness, but that doesn’t mean the Web isn’t capable of learning. Our networks will grow smarter in the coming years, but smarter in the way that an immune system or a city grows smarter, not the way a child does.
+
+Nick Bistrom’s paperclip AI problem.
+
+[TED talk about slimes](https://youtu.be/2UxGrde1NDA)
+
+"Slimes represent their own political ideology"
+
+While all observers agreed that waves of cyclic AMP did indeed flow through the slime mold community before aggregation, all the cells in the community were effectively interchangeable. None of them possessed any distinguishing characteristics that might elevate them to pacemaker status. Shafer’s theory had presumed the existence of a cellular monarchy commanding the masses, but as it turned out, all slime mold cells were created equal. -  all slimes cells are created equal but their monarchy is not defined by their structure. Just like human societies where some individuals without an apparent physical distinction prevail the public.
+
+Where’s the founder cell? Where’s the pacemaker?’ It didn’t provide any satisfaction to them whatsoever.” Indeed, the pacemaker hypothesis would continue as the reigning model for another decade, until a series of experiments convincingly proved that the slime mold cells were organizing from below. “It amazes me how difficult it is for people to think in terms of collective phenomenon,” Keller says today.
+
+In chapter 2, there was an example with Manchester where it developed according to human nature and his technology without even being an official city.
+"Manchester didn’t even send representatives to Parliament until 1832, and it wasn’t incorporated for another six years. By the early 1840s, the newly formed borough council finally began to institute public health reforms and urban planning, but the British government didn’t officially recognize Manchester as a city until 1853."
+
+Appointed to command the northern districts in the late 1830s, Major General Charles James Napier wrote: “Manchester is the chimney of the world. Rich rascals, poor rogues, drunken ragamuffins and prostitutes form the moral. . . . What a place! The entrance to hell, realized.”
+
+Here humanity attains its most complete development and its most brutish; here civilization works its miracles, and civilized man is turned back almost into a savage.” Collective intelligence of ants is relatively more intelligent than human intelligence. We evolved to live in packs, not swarms.
+
+“Ants farm fungi, raise aphids as livestock, launch armies into wars, use chemical sprays to alarm and confuse enemies, capture slaves. . . . They do everything but watch television.”
+
+Increasing the efficiency of agriculture as an energy collecting practice “These innovations . . . consolidated to form a remarkably efficient new way of exploiting the soil.” First, the heavy wheeled plow, which tapped the muscular energy of domesticated animals, arrived with the German invaders, then swept through the river valleys north of the Loire; at roughly the same time, European farmers adopted triennial field rotation, which increased land productivity by at least a third. Capturing more energy from the soil meant that larger population densities could be maintained.
+
+“This acceleration in urban development,” writes philosopher-historian Manuel De Landa, “would not be matched for another five hundred years, when a new intensification of the flow of energy—this time arising from the exploitation of fossil fuels—propelled another great spurt of city birth and growth in the 1800s.”
+
+JavaScript and CSS is a good example of a form of emergence. It is a set of rules that take a JavaScript file composed of symbols composed by the human language, and translated that into visually pleasing websites. A flower emerges from a seed where its DNA is  compiling mechanism.
+
+## [An Illustrated Guide to Guy Debord’s *The Society of the Spectacle*](http://hyperallergic.com/313435/an-illustrated-guide-to-guy-debords-the-society-of-the-spectacle/) - Tiernan Morgan & Lauren Purje
+
+"What do you do when you get lost in a foreign city? Do you ask a passer-by for directions, or consult Google Maps on your smartphone? Perhaps Siri can help. Such technology is incredibly useful, but it also.""
+
+"We engineer our behavior."
+
+"Debord dedicates two extended theses to the subject of “stars.” He is particularly contemptuous of celebrities, branding them the “enemy of the individual.”
+
+"Debord believed that Dadaism and Surrealism marked the end of modern art, describing them as “the last great assault of the revolutionary proletarian movement.” For Debord, art was another phenomenon that had been subsumed by the spectacle. Its commodification reduced art movements into “congealed past culture:”
+
+"At the heart of Debord’s critique is his belief that capitalism is an inherently uncreativesystem. The obsession with profit demonstrably works against human interest, especially when it comes to the protection of the environment."
+
+"Debord would no doubt have been horrified by social media companies such as Facebook and Twitter, which monetize our friendships, opinions, and emotions. Our internal thoughts and experiences are now commodifiable assets. Did you tweet today? Why haven’t you posted to Instagram? Did you “like” your friend’s photos on Facebook yet?"
+
+## *Sustainable Agriculture* by Mark Shepard
+
+“This can be done by creating agricultural ecosystems that imitate natural systems in form and function while still providing for our human needs.”
+
+“Our modern agriculture system is actually creating weaker food plants and stronger pests and diseases. Modern agriculture has forced the breeding of plants that can only exist in weed-free environments that will only thrive when bathed in chemical fertilizers”
+
+“It was Thoreau nearly 200 years ago who rightly stated, “The mass of men lead lives of quiet desperation.” And when writing about labor and leisure he said, “He has no time to be anything but a machine.”
+
+## *Paths to Superintelligence* by Nick Bostrom
+
+"The AI, if reasonable, never assigns exactly zero probability to it having failed to achieve its goal."
+
+Horses were initially complemented by carriages and ploughs, which greatly increased the horse’s productivity. Later, horses were substituted for by automobiles and tractors. These later innovations reduced the demand for equine labor and led to a population collapse. Could a similar fate befall the human species?
+
+When horses became obsolete as a source of moveable power, many were sold off to meatpackers to be processed into dog food, bone meal, leather, and glue.
+
+After falling to 2 million in the early 1950s, the US horse population has undergone a robust recovery: a recent census puts the number at just under 10 million head.7 The rise is not due to new functional needs for horses in agriculture or transportation; rather, economic growth has enabled more Americans to indulge a fancy for equestrian recreation.
+
+We could thus imagine, as an extreme case, a technologically highly advanced society, containing many complex structures, some of them far more intricate and intelligent than anything that exists on the planet today—a society which nevertheless lacks any type of being that is conscious or whose welfare has moral significance. In a sense, this would be an uninhabited society. It would be a society of economic miracles and technological awesomeness, with nobody there to benefit. A Disneyland without children.
+
+The image of evolution as a process that reliably produces benign effects is difficult to reconcile with the enormous suffering that we see in both the human and the natural world. Those who cherish evolution’s achievements may do so more from an aesthetic than an ethical perspective. Yet the pertinent question is not what kind of future it would be fascinating to read about in a science fiction novel or to see depicted in a nature documentary, but what kind of future it would be good to live in: two very different matters.
+
+While the possibility of a pre-established harmony between what is valuable to us and what would be adaptive in a future digital ecology is hard to rule out, there are reasons for skepticism. Consider, first, that many of the costly displays we find in nature are linked to sexual selection.32 Reproduction among technologically mature life forms, in contrast, may be predominantly or exclusively asexual.
+
+Not all possible costly displays are intrinsically valuable or socially desirable. Many are simply wasteful. The Kwakiutl potlatch ceremonies, a form of status competition between rival chiefs, involved the public destruction of vast amounts of accumulated wealth. Record-breaking skyscrapers, megayachts, and moon rockets may be viewed as contemporary analogs.
+
+Costly pursuit of fashion accessories and other consumerist status symbols.
+
+If the first wave of machine superintelligence is emulation-based, then a second surge might result when the emulations now doing the research succeed in developing effective self-improving artificial intelligence.
+
+Suppose, for example, that two projects enter the first transition only a few days apart, and that the takeoff is slow enough that this gap does not give the leading project a decisive strategic advantage at any point during the takeoff. The two projects both emerge as superintelligent powers, though one of them remains a few days ahead of the other. But developments are now occurring on the research timescales characteristic of machine superintelligence—perhaps thousands or millions of times faster than research conducted on a biological human timescale.
+
+## *The Elegant Universe* by Brian Greene
+
+“No matter how hard you chase after a light beam, it still retreats from you at light speed. You can’t make the apparent speed with which light departs one iota less than 670 million miles per hour, let alone slow it down to the point of appearing stationary.”
+
+“Einstein proclaimed that all objects in the universe are always traveling through spacetime at one fixed speed—that of light.”
+
+## *In Search of a Better World* by Karl Popper
+
+"Genius Hesitates."
+
+“Many people who regard themselves as critics of scientism [not Scientology] are in reality dogmatic, ideological and authoritarian opponents of the natural sciences, of which they sadly understand all too little.”
+
+“Even the analysis of science— the 'philosophy of science'—is threatening to become a fashion, a specialism, yet philosophers should not be specialists. For myself, I am interested in science and in philosophy only because I want to learn something about the riddle of the world in which we live, and the riddle of man's knowledge of that world. And I believe that only a revival of interest in these riddles can save the sciences and philosophy from narrow specialization and from an obscurantist faith in the expert's special skill, and in his personal knowledge and authority; a faith that so well fits our 'post-rationalist' and 'post-critical' age, proudly dedicated to the destruction of the tradition of rational philosophy, and of rational thought itself.”
+
+“A part of normal theoretical work, though only a small part, consists simply in the use of existing theory to predict factual information of intrinsic value. The manufacture of astronomical ephemerides, the computation of lens characteristics, and the production of radio propagation curves are examples of problems of this sort. Scientists, however, generally regard them as hack work to be relegated to engineers or technicians.”
+
+“The philosophical relativism that hides behind the ‘old and famous question’ ‘What is truth?’ may open the way to evil things, such as a propaganda of lies inciting men to hatred. This is probably not seen by the majority of those who represent the relativist position. But they should have and could have seen it. Bertrand Russell saw it, and so did Julien Benda, author of La Trahison des Clercs (‘The Treason of the Intellectuals’).
+Relativism is one of the many crimes committed by intellectuals.”
+
+“We seem to be almost as helpless in the vast field of cosmology as we are in politics when faced with the task of making peace.”
+
+“We want to do, indeed we must do, everything in our power to avoid violent conflicts, or at least to limit them. On the other hand, a society without any conflict would be inhuman. It would not be a human society, but an ant heap. Nor should we overlook the fact that the great pacifists were also great fighters. Even Mahatma Gandhi was a fighter: a fighter for non-violence.”
+
+“Our western society has learned – from the Greeks – that the word has a much greater and more lasting effect in these conflicts than the sword; most effective of all, however, are rational arguments, if expressed simply.”
+
+“I also declare my support for science, so often maligned these days, which employs self-criticism in its search for truth and which discovers afresh with each new discovery just how little we know: how infinitely great our ignorance really is.”
+
+“In relating this anecdote to his Greek contemporaries, Herodotus not only intended to teach them to respect foreign customs, but also to make them capable of criticizing things that they took for granted. He had obviously learnt a great deal himself through cultural confrontations of this kind; and he wanted to share this experience with the reader.”
+
+“Enlightenment is the emancipation of man from a state of self-imposed tutelage … of incapacity to use his own intelligence without external guidance. Such a state of tutelage I call ‘self-imposed’ if it is due, not to lack of intelligence, but to lack of courage or determination to use one’s own intelligence without the help of a leader. Sapere aude! Dare to use your own intelligence! This is the battle-cry of the Enlightenment.7”
+
+“Ideas such as ‘progress’, ‘retrogression’, ‘decline’, etc., imply judgements of value; and thus all these theories, whether they predict historical progress or retrogression, or a cycle consisting of progress and retrogression, must necessarily refer to some scale of values. Such a scale of values can be moral, or economic, or perhaps aesthetic or artistic; and within the realm of the latter values it can refer to music or painting or architecture or literature. It may also refer to the realms of science, or of technology. Another scale of values may be based upon the statistics of our health or mortality, and another on our morality. Obviously, we can progress in one or several of these fields and, at the same time, retrogress and reach rock-bottom in others.”
+
+“Similarly, the progress of science – itself partly a consequence of the ideal of self-emancipation through knowledge – is contributing to the lengthening and to the enrichment of our lives; yet it has led us to spend those lives under the threat of an atomic war, and it is doubtful whether it has on balance contributed to the happiness and contentment of man.”
+
+“to view political history -the history of robbery, war, plunder, pillage and of ever-increasing means of destruction – as the direct work of God is nothing short of blasphemy. If history is the work of a merciful God, it can be so only if His will is for us inscrutable, incomprehensible and unfathomable.”
+
+“Yet unfortunately the general public expects and demands, especially since Hegel, and still more since Spengler, that a real scholar – a sage or a philosopher or a historian – should be able to play the role of an augur or soothsayer: that he should be able to predict the future. And what is even worse, this demand creates its own supply. In fact, the insistent demand has produced quite a glut of prophets. Without much exaggeration one could say that nowadays every intellectual of repute feels an irresistible obligation to become an expert in the art of”
+
+“I think it is high time to make an attempt to keep soothsaying where it belongs – in the fairground. I do not of course mean to say that soothsayers never predict the truth: if their predictions are sufficiently vague, the number of their true predictions will even exceed that of their false ones. All I assert is that there does not exist a scientific or historical or philosophical method which might help us to produce anything like those ambitious historical predictions for which Spengler created so great a demand.
+Whether a historical prediction will come true or not is neither a matter of method, nor of wisdom or intuition: it is purely a matter of chance. These predictions are arbitrary, accidental, and unscientific. But any of them may well achieve a powerful propagandist effect. Provided a sufficient number of people believe in the decline of the West, the West will decline; even if, without that propaganda for its decline, it would have continued to flourish. Prophets, even false prophets, can move mountains; and so can ideas, even wrong ones. Fortunately there may be occasions when it is possible to fight wrong ideas with right ones”
+
+“Does not history teach us that all attempts to be guided by ethical aims must be futile, just because those aims can play a historical role only when they are believed in and upheld fanatically? And does not the history of all religions and all revolutions show that the fanatical belief in an ethical idea will not only pervert it, but again and again transform it into its very opposite?”
+
+“It can hardly be accidental that Switzerland, England and America, -which all had to go through some disenchanting political experiences, are the countries which have succeeded in achieving, by democratic reforms, ethical-political aims which would have been unattainable by means of revolution, fanaticism, dictatorship and the use of force.
+At any rate we can learn not only from the history of the English-speaking democracies but also from the history of Switzerland and Scandinavia that we can set ourselves aims, and that we can sometimes achieve them – provided that these aims are neither too wide, nor too narrow, but conceived in a pluralist spirit – that is, that they embody respect for the freedom and convictions of all sorts of people with widely differing ideas and beliefs. This shows that it is not impossible to give meaning to our political history; which is, precisely, my third thesis.”
+
+“And the recognition of the sometimes overwhelming historical power of ideas should teach us how important it is to free ourselves from the overpowering influence of false or wrong ideas. In the interests of the quest for truth and of our liberation from errors we have to train ourselves to view our own favourite ideas just as critically as those we oppose”
+
+“In the western democracies many of us have learned that at times we are wrong and our opponents are right; but too many who have digested this important truth have slipped into relativism.”
+
+“In the western democracies many of us have learned that at times we are wrong and our opponents are right; but too many who have digested this important truth have slipped into relativism. In our great historical task of creating a free pluralist society, and with it a social framework for the growth of knowledge and for self-emancipation through knowledge, nothing is more vital than to be able to view our own ideas critically; without however becoming relativists or sceptics, and without losing the courage and the determination to fight for our convictions, even though we realize that these convictions should always be open to correction, and that only through correcting them may we free ourselves from error, thus making it possible for us to grow in knowledge.”
+
+“The western rationalist tradition, which derives from the Greeks, is the tradition of critical discussion – of examining and testing propositions or theories by attempting to refute them.”
+
+“There is a very influential philosophical view of life to the effect that whenever something happens in this world that is really bad (or that we greatly dislike), then there must be somebody responsible for it: there must be somebody who has done it, intentionally. This view is very old. In Homer the envy and the anger of the gods were responsible for most of the terrible things that happened in the field before Troy and to Troy itself; and it was Poseidon who was responsible for the misadventures of Odysseus. In later Christian thought it is the Devil who is responsible for evil; in vulgar Marxism it is the conspiracy of the greedy capitalists that prevents the coming of socialism and the establishment of heaven on earth.”
+
+“The theory which sees war, poverty and unemployment as the result of some evil intention, of some sinister design, is part of common sense, but it is uncritical. I have called this uncritical commonsense theory the conspiracy theory of society. (One might even call it the conspiracy theory of the world: think of Zeus’ bolt of lightning.) It is widely held and, in the form of a search for scapegoats, it has inspired much political strife and has created the most frightful suffering”
+
+“In the place of the important question ‘What is the truth about this matter?’ it puts another question, less important by far: ‘What is your self-interest, what are your hidden motives?’ It prevents us from learning from people whose opinions differ from our own, and it leads to a dissolution of the unity of mankind, a unity that is based on our common rationality.”
+
+“I am an admirer of common sense, though not of all of it; I hold that common sense is our only possible starting point. But we should not attempt to erect an edifice of secure knowledge upon it, but rather criticize it and improve upon it.”
+
+“The thought that we are all equal winds up denigrating those things that cannot be achieved by everyone, thereby making it less likely that they will be achieved by anyone.”
+
+“I believe it is the duty of every intellectual to be aware of the privileged position he is in. He has a duty to write as simply and clearly as he can, and in as civilized a manner as he can; and never to forget either the great problems that beset mankind and demand new and bold but patient thought, or the Socratic modesty of the man who knows how little he knows.”
+
+“We do not know how it is that we are alive on this wonderful little planet – or why there should be something like life, to make our planet so beautiful. But here we are, and we have every reason to wonder at it, and to feel grateful for it. It comes close to being a miracle. For all that science can tell us, the universe is almost empty of matter; and where there is matter, the matter is almost everywhere in a chaotic, turbulent state, and uninhabitable. So life has at any rate the value of something rare; it is precious. We are inclined to forget this, and treat life cheaply, perhaps out of thoughtlessness; or perhaps because this beautiful earth of ours is, no doubt, a bit overcrowded.”
+
+“All men are philosophers, because in one way or another all take up an attitude towards life and death. There are those who think that life is valueless because it comes to an end. They fail to see that the opposite argument might also be proposed: that if there were no end to life, life would have no value; that it is, in part, the ever-present danger of losing it which helps to bring home to us the value of life.”
+
+“What I mean when talking of reason or rationalism is nothing more than a conviction that we can learn through criticism, that is, through critical discussion with others and through self-criticism”
+
+“A rationalist is a person who is willing to learn from others, not simply by accepting their opinions, but by allowing them to criticize his ideas and by criticizing theirs: in other words by critical discussion.”
+
+“For the rationalist will easily be able to see that he owes his rationality to other men. He will recognize that the critical attitude can only be the result of criticism by others, and that one can become self-critical only by criticism of and by others.”
+
+“You may be right, and I may be wrong; and even if our critical discussion does not enable us to decide definitely who is right, we may still hope to see matters more clearly after the discussion. We may both learn from each other, as long as we do not forget that what really matters is not who is right, but rather that we come nearer to the objective truth”
+
+“It is probably true that freedom of thought can never be suppressed completely, but it can be suppressed at least to a very great extent, because without free exchange of thought there can be no true freedom of thought. We need others in order to put our thoughts to the test to find out which of our ideas are valid. Critical discussion is the foundation of the free thought of the individual.”
+
+“It is our misfortune that our intelligence has developed faster than our moral consciousness. Thus we were clever enough to construct atom bombs and hydrogen bombs; but morally we were too immature to build a world state, which alone can save us from an all-annihilating war.”
+“All political action consists in choosing the lesser evil’ (to quote the Viennese poet Karl Kraus).”
+
+"Christianity is Platonism for the people."
+
+“Democracy is the worst form of government. Except of course, for all those other forms of government that have been tried from time to time.”
+- Winston Churchill
+
+## *Amusing Ourselves to Death* by Neil Postman
+
+“Seeing is believing” has always had a preeminent status as an epistemological axiom, but “saying is believing,” “reading is believing,” “counting is believing,” “deducing is believing,” and “feeling is believing” are others that have risen or fallen in importance as cultures have undergone media change.”
+
+“In a print-culture, we are apt to say of people who are not intelligent that we must “draw them pictures” so that they may understand. Intelligence implies that one can dwell comfortably without pictures, in a field of concepts and generalizations.”
+
+“Telegraphic discourse permitted no time for historical perspectives and gave no priority to the qualitative. To the telegraph, intelligence meant knowing of lots of things, not knowing about them.”
+
+“To begin with, photography is a language that speaks only in particularities. Its vocabulary of images is limited to concrete representation. Unlike words and sentences, the photograph does not present to us an idea or concept about the world, except as we use language itself to convert the image to idea. By itself, a photograph cannot deal with the unseen, the remote, the internal, the abstract”
+
+“The photograph also lacks a syntax, which deprives it of a capacity to argue with the world. As an “objective” slice of space-time, the photograph testifies that someone was there or something happened. Its testimony is powerful but it offers no opinions—no “should-have-beens” or “might-have-beens.” Photography is preeminently a world of fact, not of dispute about facts or of conclusions to be drawn from them”
+
+“Pictures,” Gavriel Salomon has written, “need to be recognized, words need to be understood.”
+
+“But this is not to say photography lacks an epistemological bias. As Susan Sontag has observed, a photograph implies “that we know about the world if we accept it as the camera records it”
+
+“But, as she further observes, all understanding begins with our not accepting the world as it appears.”
+
+“A pseudo-context is a structure invented to give fragmented and irrelevant information a seeming use. But the use the pseudo-context provides is not action, or problem-solving, or change. It is the only use left for information with no genuine connection to our lives. And that, of course, is to amuse. The pseudo-context is the last refuge, so to say, of a culture overwhelmed by irrelevance, incoherence, and impotence.”
+
+“Television has become, so to speak, the background radiation of the social and intellectual universe, the all-but-imperceptible residue of the electronic big bang of a century past, so familiar and so thoroughly integrated with American culture that we no longer hear its faint hissing in the background or see the flickering gray light. This, in turn, means that its epistemology goes largely unnoticed. And the peek-a-boo world it has constructed around us no longer seems even strange.”
+
+## *The Question Concerning Technology* by Martin Heidegger
+
+Within  its  domain  belong  end  and  means,  belongs  instrumentality.l1  Instrumentality  is  considered  to  be  the  fundamental characteristic  of  technology.  If  we  inquire,  step  by  step,  into what  technology,  represented  as  means,  actually  is,  then  we  shall arrive  at  revealing.  The  possibility  of  all  productive  manufacturing  lies  in *revealing* (p. 12).
+
+The  other  point  that  we  should  observe  with  regard  to  techne is  even  more  important.  From  earliest  times  until  Plato  the  word *techne*  is  linked  with  the  word  *episteme*.
+
+The  work  of  the  peasant  does  not  challenge  the soil  of  the  field.  In  the  sowing  of  the  grain  it  places  the  seed  in the  keeping  of  the  forces  of  growth  and  watches  over  its  increase. But  meanwhile  even  the  cultivation  of  the  field  has  come  under the  grip  of  another  kind  of  setting-in-order,  which  sets  upon [stellt]  natureY  It  sets  upon  it  in  the  sense  of  challenging  it. Agriculture  is  now  the  mechanized  food  industry.  Air  is  now  set upon  to  yield  nitrogen,  the  earth  to  yield  ore,  ore  to  yield uranium,  for  example;  uranium  is  set  upon  to  yield  atomic energy,  which  can  be  released  either  for  destruction  or  for  peace ful  use (p. 15).
+
+*A Material outlook at the world is caused by our mindsets becoming inline with mechanistic technology and modes of thinking that i entails.*
+
+In  order that  we  may  even  remotely  consider  the  monstrousness  that reigns  here,  let  us  ponder  for  a  moment  the  contrast  that  speaks out  of  the  two  titles,  "The  Rhine"  as  dammed  up  into  the power  works,  and  "The  Rhine"  as  uttered  out  of  the  art  work, in  Holderlin's  hymn  by  that  name.  But,  it  will  be  replied,  the Rhine  is  still  a  river  in  the  landscape,  is  it  not?  Perhaps.  But  how? In  no  other  way  than  as  an  object  on  call  for  inspection  by  a  tour group  ordered  there  by  the  vacation  industry.
+
+*Using technology transforms the objective outlook towards the subject. The Rhine became part of a power plant more than it can be referred to as a river by the tour group.*
+
+Enframing  is  the  gathering  together  that  belongs  to  that setting-upon  which  sets  upon  man  and  puts  him  in  position  to reveal  the  real,  in  the  mode  of  ordering,  as  standing-reserve. (p. 24)
+
+**But  where  danger  is,  grows The  saving  power  also.**
+
+Let  us  think  carefully  about  these  words  of  H6lderlin.  What does  it  mean  "to  save"?  Usually  we  think  that  it  means  only  to seize  hold  of  a  thing  threatened  by  ruin,  in  order  to  secure  it  in its  former  continuance.  But  the  verb  "to  save"  says  more.  "To save"  is  to  fetch  something  home  into  its  essence,  in  order  to Q[,ing  the  essence  for  the  first  time  into  its  genuine  appearing. (p. 28)
+
+*Similar to Nick Bostrom taking white and gray balls out of the jar as if they where inventions. When you get a black one, you cannot uninvent it.*
+
+Everything,  then,  depends  upon  this:  that  we  ponder  this arising  and  that,  recollecting,  we  watch  over  it.  How  can  this happen?  Above  all  through  our  catching  sight  of  what  comes to  presence  in  technology,  instead  of  merely  staring  at  the  tech nologicarSo  long  as  we  represent  technology  as  an  instrument, we  remain  held  fast  in  the  will  to  master  it.  We  press  on  past the  essence  of  technology.
+
+*Technology changes, while our definition of it does so little.*
+
+The  essence  of  technology  is  in  a  lofty  sense  ambiguous.  Such ambiguity  points  to  the  mystery  of  all  revealing,  i.e.,  of  truth (p. 33).
+
+What,  then,  was  art-perhaps  only  for  that  brief  but  magnificent  time?  Why  did  art  bear  the  modest  name  *techne*?  Be cause  it  was  a  revealing  that  brought  forth  and  hither,  and therefore  belonged  within  poiesis.  It  was  finally  that  revealing which  holds  complete  sway  in  all  the  fine  arts,  in  poetry,  and  in everything  poetical  that  obtained  poiesis  as  its  proper  name (p. 34).
+
+The  poetical  thoroughly  pervades  every  art,  every revealing  of  coming  to  presence  into  the  beautiful (p. 34).
+
+Could  it  be  that  the  fine  arts  are  called  to  poetic  revealing? Could  it  be  that  revealing  lays  claim  to  the  arts  most  primally, so  that  they  for  their  part  may  expressly  foster  the  growth  of the  saving  power,  may  awaken  and  found  anew  our  look  into  that which  grants  and  our  trust  in  it?
+
+> Because  the  essence  of  technology  is  nothing  technological, essential  reflection  upon  technology  and  decisive  confrontation with  it  must  happen  in  a  realm  that  is,  on  the  one  hand,  akin  to the  essence  of  technology  and,  on  the  other,  fundamentally different  from  it. Such  a  realm  is  art.  But  certainly  only  if  reflection  on  art, for  its  part,  does  not  shut  its  eyes  to  the  constellation  of  truth after  which  we  are  questioning.
+
+Thus  questioning,  we  bear  witness  to  the  crisis  that  in  our  sheer preoccupation  with  technology  we  do  not  yet  experience  the coming  to  presence  of  technology,  that  in  our  sheer  aesthetic mindedness  we  no  longer  guard  and  preserve  the  coming  to presence  of  art.  Yet  the  more  questioningly  we  ponder  the  es sence  of  technology,  the  more  mysterious  the  essence  of  art becomes. The  closer  we  come  to  the  danger,  the  more  brightly  do  the ways  into  the  saving  power  begin  to  shine  and  the  more  question ing  we  become.  For  questioning  is  the  piety  of  thought.
+
+**Saving power is ART**
