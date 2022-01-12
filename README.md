@@ -6,6 +6,16 @@ Built with [Jekyll](https://jekyllrb.com/). Theme based on [Lanyon](https://gith
 
 ### Instructions
 
+#### With Docker
+
+Make sure you have Docker and docker-compose installed, then:
+
+`docker-compose up`
+
+You should be able to access on your `http://localhost:4000`
+
+#### With Ruby
+
 First, make sure you have ruby installed, then install jekyll like so
 
 `gem install jekyll bundler`
@@ -26,7 +36,7 @@ Then serve the website:
 
 `bundle exec jekyll serve`
 
-The you should be able to access on your `http://localhost:4000`
+You should be able to access on your `http://localhost:4000`
 
 **For reference:**
 
