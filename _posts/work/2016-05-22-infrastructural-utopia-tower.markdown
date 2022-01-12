@@ -18,12 +18,12 @@ medium: "Physical Installation"
 tags: [3D, technology, manifesto, installation, politics, polis]
 ---
 
+_A speculative installation that reflects on the ways we manifest ideals that become realized in manner that is contrary to what was envisioned._
+
 ![](https://vimeo.com/166409996)
 
 [Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/archive/tree/main/InfrastructuralUtopiaTower)  
 [Initial Notes]({{ site.url }}/blog/2016/04/a-monument-for-a-surveillance-democracy) about the Concept
-
-_A speculative installation that reflects on the ways we manifest ideals that become realized in manner that is contrary to what was envisioned._
 
 ## Narrative
 

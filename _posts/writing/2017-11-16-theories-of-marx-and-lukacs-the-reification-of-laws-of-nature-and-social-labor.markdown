@@ -1,14 +1,26 @@
 ---
 layout: post
 title: "Theories of Marx and Lukács"
-subheading: "The Reification of Laws of Nature and Social Labor"
+subtitle: "The Reification of Laws of Nature and Social Labor"
 date: "2017-11-16 21:53:37 -0500"
-tags: [Marx, Lukács, capital, labor, humanity, essay, rationality, reason, value, critical theory]
+tags:
+    [
+        Marx,
+        Lukács,
+        capital,
+        labor,
+        humanity,
+        essay,
+        rationality,
+        reason,
+        value,
+        critical theory,
+    ]
 ---
 
 One of the chief achievements of Marx's analysis of the capitalist mode of production, is describing how the commodity form penetrates the relations of men and the products of their own labor. For Marx, this question is beyond merely an economical one, but one that entails a structural contradiction within the fabric of human society itself. Under these contradictory relations within society, arises a process that Lukács refers to as the phenomenon of &quot;reification&quot; [_Versachlichung_], where human relations within a commodity producing society become alienated due to the manner in which the value of human labor is expressed. For Lukács, reification arises out certain relations within society; one of these aspects is what Marx refers to as &quot;commodity fetishism&quot; [_Warenfetisch_], in which every product of human labor is expressed through a uniform, quantifiable, and determinable value form. On one hand, this expression of the commodity form permits trade to take place among different communities since the market value of an any given commodity can be set to an agreeable price. In practice however, the commodity form conceals a state of domination and servitude that reflects the antagonistic class relations of a society—a relation that is well concealed by the phenomenon of &quot;reification&quot; itself. In this essay, I will attempt to exemplify the extents to which the phenomenon of reification penetrates not just human relations, but also the most fundamental human conceptions about the laws of nature.
 
-A foundation for any social relation within a society, must rely on some principles that attempt to make sense of the world, which is the foundation on which social organisation can be  established; it guides individuals to perform actions in accordance to this commonly accepted understanding of the world. The investigation into the fundamental human understanding about the world, is a crucial step that Marx first makes before proceeding in defining the social relations that emerge out of a particular understanding about a societies' condition in the material world. For Marx's materialist view of the world, &quot;all the phenomena of the universe, whether produced by the hand of man or indeed by the universal laws of physics, are not to be conceived of as acts of creation but solely as a reordering of matter.&quot;[^1] The way in which matter is decomposed and re-ordered, is not an act of creation that possesses a form of divinity; but is either a causal change the follows the laws of physics, or a deliberate attempt of the human mind to re-structure matter according to some deliberate action. Any deliberate manipulation of matter relies on the exertion of a certain amount of human labor-power necessary for the creation of an end product, which &quot;is essentially the expenditure of human brain, nerves, muscles, and sense organs&quot;[^2]. Because the deliberate restructuring of matter can also occur in a more efficient manner—and if the human mind deems necessary to do so—the labor-power of the human bodily organism can be reduced to the bare minimum necessary for the creation of a particular commodity: an amount of human _labor-power_ necessary to reorder matter into a specific commodity. This bare-minimum of human labor, which defines the exchange value of a given commodity, is based on the amount of labor-power that must be exerted during the creation of a commodity.
+A foundation for any social relation within a society, must rely on some principles that attempt to make sense of the world, which is the foundation on which social organisation can be established; it guides individuals to perform actions in accordance to this commonly accepted understanding of the world. The investigation into the fundamental human understanding about the world, is a crucial step that Marx first makes before proceeding in defining the social relations that emerge out of a particular understanding about a societies' condition in the material world. For Marx's materialist view of the world, &quot;all the phenomena of the universe, whether produced by the hand of man or indeed by the universal laws of physics, are not to be conceived of as acts of creation but solely as a reordering of matter.&quot;[^1] The way in which matter is decomposed and re-ordered, is not an act of creation that possesses a form of divinity; but is either a causal change the follows the laws of physics, or a deliberate attempt of the human mind to re-structure matter according to some deliberate action. Any deliberate manipulation of matter relies on the exertion of a certain amount of human labor-power necessary for the creation of an end product, which &quot;is essentially the expenditure of human brain, nerves, muscles, and sense organs&quot;[^2]. Because the deliberate restructuring of matter can also occur in a more efficient manner—and if the human mind deems necessary to do so—the labor-power of the human bodily organism can be reduced to the bare minimum necessary for the creation of a particular commodity: an amount of human _labor-power_ necessary to reorder matter into a specific commodity. This bare-minimum of human labor, which defines the exchange value of a given commodity, is based on the amount of labor-power that must be exerted during the creation of a commodity.
 
 It is precisely this discovery on which Marx bases his theory, namely, that the value of a commodity can be entirely determined by the amount of labor-power expended during its production process. In this case, the value of a commodity is determined by what Marx refers to as _exchange-value_, and not according to the naturalistic qualities of a commodity that defines its _use-value._ Since the value of every commodity within a commodity producing society is expressed through an _exchange-value_, exchange of commodities can be facilitated more easily since exchange-value can determine the price of any given commodity based on the amount of labor-power that was expended during its production process. It is this elaboration that Marx made which revealed the manner in which the evaluation process of any commodity, suppresses its _use-value_ in favour of an imposed _exchange-value_—a value expressed through a relation that a commodity has with other commodities.[^3] The _use-value_ of a commodity, is expressed as a value based on the qualitative features of a commodity, and its usefulness. Marx himself proclaims that his chief achievement was to be the first one who examined and discovered this twofold character of labour and the way it is expressed in the value of commodites.[^4] It is precisely this aspect of suppression of the _use-value_ of any given commodity that propels the commodification of men's labor. Since commodities are products of men's labor, and since the relation between commodities is based on the amount of social labor exerted during their production process; commodities become alien from their own physical features, while men become alien from the products of their own labor.
 
@@ -29,33 +41,18 @@ To fully understand how the phenomenon of reification penetrated into the fabric
 Lukács makes one important elaboration on rationalisation, quantification, determination, and all other forms of rationality that fall under the bourgeois form of calculation; it is an emphasis on a fundamental difference between _rationality_ and _reason_.[^14] Since bourgeois rationality seeks to transform all social relations into something that can be counted and probabilistically determined, the process in itself can be proven to be un-emeprical and un-reasonable—especially due to the contradictions that arise within the social classes of society. Lukács states that the bourgeois consciousness does not possess the reason necessary to question its own reified concepts, the fetish of which, penetrates the most fundamental miscued understandings about the empirical world.[^15] It is the worker class who possesses the philosophy, reason, and consciousness necessary for dismantling the bourgeois mode of thought by noticing the contradictions that occur within the empirical reality of a society. Unlike a commodity, a worker can become conscious of his position within a society as a commodity—and it is only under this realisation that the worker can become truly consciousness.[^16] It might turn out to be a big surprise to the bourgeoises to discover that the worker whom they reduced to a mere commodity, has the capacity to become more conscious and reasonable than the bourgeoises can become themselves. But this is precisely what for Lukács is the consciousness of the proletariat, which has the capacity to overcome the process of reification, and the hegemony of the bourgeois mode of thought.
 
 [^1]: Karl Marx, _Capital Volume I_, New York: Penguin Classics, 1990, p. 133, note 13.
-
 [^2]: Karl Marx, _Capital Volume I_, p. 164.
-
 [^3]: Karl Marx, _Capital Volume I_, p. 154.
-
 [^4]: Karl Marx, _Capital Volume I_,p. 132
-
 [^5]: Karl Marx, _Capital Volume I_, p. 163.
-
 [^6]: Karl Marx, _Capital Volume I_, p. 165.
-
 [^7]: Gottlieb, Roger S. _An anthology of western Marxism_, Oxford University Press, 1989, p.75
-
 [^8]: Gottlieb, p.78
-
 [^9]: Gottlieb, p.79
-
 [^10]: Gottlieb, p.80
-
 [^11]: Karl Marx, _Capital Volume I_, p. 133, note 13.
-
 [^12]: Lukács takes Marx's idea (from _The Poverty of Philosophy_, pp.58-59) that under the process of rationalisation of human labor, the dimension of space and time becomes entirely contingent on the quantity of time; that is, it priorities on the amount of labor that can be performed in a given amount of time. Therefore, every worker's labor-power is quantitatively equal to the labor-power of other workers based on the same amount of time. However, it is not outside the scope of reality that space, just as time, can also be rationalised, counted and determined. But even in such a case, Lukács's distinction between qualitative and quantitive still holds: the phenomenon of rationalisation and reification in itself, cannot transform space, nor time—into something qualitative.
-
 [^13]: Gottlieb, p.91
-
 [^14]: Gottlieb, p.97-99
-
 [^15]: Gottlieb, p.98
-
 [^16]: Gottlieb, p.105

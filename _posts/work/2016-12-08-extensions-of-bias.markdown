@@ -29,17 +29,15 @@ tags:
     ]
 ---
 
+_A speculative new media art installation that illustrates how media technology is transformed into an instrument that 'programs' human biases._
+
+The installation consists of four Raspberry Pi's which connect to Twitter, scrape for tweets based on a specific keyword and then read it through a speaker using text-to-speech. Every 2 minutes, each of these four nodes chooses a random keyword or a name from a set of categories: _politics_, _science_, _ideology_, _technology_, _consumerism_, _memoirs_, and _celebrities_. When one keyword out of dozens within each category is chosen, each of the nodes starts announcing live tweets that contain the chosen keyword. The idea behind this process, is to exaggerate the _confirmation bias_ that humans enjoy exercising as users of media technology.
+
 ![](https://vimeo.com/195355551)
 
 Starring: Jennifer Lee  
 [Extensions of Bias on Github](https://github.com/mbrav/archive/tree/main/bias)  
 [Additional Notes]({{ site.url }}/blog/2016/12/extensions-of-bias-notes) about the process
-
-## Description
-
-_A speculative new media art installation that illustrates how media technology is transformed into an instrument that 'programs' human biases._
-
-The installation consists of four Raspberry Pi's which connect to Twitter, scrape for tweets based on a specific keyword and then read it through a speaker using text-to-speech. Every 2 minutes, each of these four nodes chooses a random keyword or a name from a set of categories: _politics_, _science_, _ideology_, _technology_, _consumerism_, _memoirs_, and _celebrities_. When one keyword out of dozens within each category is chosen, each of the nodes starts announcing live tweets that contain the chosen keyword. The idea behind this process, is to exaggerate the _confirmation bias_ that humans enjoy exercising as users of media technology.
 
 ## Narrative
 

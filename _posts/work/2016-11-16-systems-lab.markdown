@@ -18,8 +18,8 @@ medium: "WebGL/Javascript Experiments"
 tags: [book, technology, experiment, programming, 3D, math]
 ---
 
--   [Link to Experiments](http://mbrav.github.io/archive/Lab-FA16/)
-
 Instructors: Miri Park & Bryan Collinsworth
+
+-   [Link to Experiments](http://mbrav.github.io/archive/Lab-FA16/)
 
 Fall 2016

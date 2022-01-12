@@ -1,17 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
 // Default theme colors
-$theme-colors: (
-  "coolblack": #090a0b,
+$theme-colors: ("coolblack": #090a0b,
   "spacegrey": #353535,
   "snowwhite": #ffffff,
 );
 
 // Default brand colors
-$brand-colors: (
-  "orangered": #ff5100,
+$brand-colors: ("orangered": #ff5100,
   "greatgold": #f2cb05,
   "greenblue": #389092,
 );
@@ -38,7 +35,7 @@ $brand-color: map-get($brand-colors, "orangered");
 // My scss
 
 #portrait {
-	width: 120px;
+  width: 120px;
   border-radius: 50px;
   float: left;
   margin: 10px;
@@ -66,7 +63,7 @@ $brand-color: map-get($brand-colors, "orangered");
       font-family: $headings-font-family;
     }
 
-    h2{
+    h2 {
       line-height: 1.1;
       font-weight: bold;
       font-family: $headings-font-family;
@@ -81,3 +78,102 @@ div.theme-toggle {
     padding: 4px;
   }
 }
+
+@mixin media() {
+  @media (min-width: 768px) {
+    @content;
+  }
+}
+
+.cards {
+  overflow:hidden;
+
+  .card {
+    height: 400px;
+    width:100%;
+    position: relative;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-end;
+    text-decoration: none;
+    margin-bottom: 40px;
+    background-image: url('https://mbrav.github.io/images/cover-2.jpg');
+    background-size: cover;
+    transition: transform 0.6s;
+    transition-timing-function: ease-out;
+
+    &:hover {
+      transform:scale(1.1);
+    }
+
+    @include media {
+      height: 500px;
+    }
+
+    .inner {
+      height: 60%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.8);
+      border: 4px solid $text-color;
+      box-sizing: border-box;
+      padding: 20px;
+
+      @include media {
+        width: 40%;
+        height: 100%;
+      }
+
+      .title {
+        font-size: 32px;
+        font-family: $headings-font-family;
+        color: black;
+        text-align: center;
+        font-weight: 700;
+        color: #181818;
+        position: relative;
+        margin: 0 0 20px 0;
+
+        @include media {
+          font-size: 30px;
+        }
+      }
+
+      .subtitle {
+        color: $grey-color;
+        text-align: center;
+      }
+    }
+  }
+
+  .card-right {
+    flex-flow: column wrap;
+  }
+}
+
+
+.contact-icons {
+  padding: 4px;
+
+  a {
+    margin-left: 6px;
+    i {
+      font-size: 42px;
+    }
+  }
+}
+
+.site-footer-inner {
+  width: 100%;
+  overflow-x: auto;
+
+  .footer-col {
+    display: inline-block;
+    width: 49%;
+    height: 100%;
+  }
+}
+

@@ -1,0 +1,119 @@
+<style type="text/css">
+    #container {
+        width: 100%;
+        height: 600px;
+        margin: 0;
+        padding: 0;
+    }
+</style>
+
+<script src="https://cdn.anychart.com/releases/v8/js/anychart-core.min.js"></script>
+<script src="https://cdn.anychart.com/releases/v8/js/anychart-sankey.min.js"></script>
+
+<div id="container"></div>
+
+<script type="text/javascript">
+    anychart.onDocumentReady(function () {
+
+        var hhTotal = 335
+        var hhTotalReplied = 22
+        var hhTotalRejected = 80
+        var LITotalReplied = 3
+        var ReplyWaiting = 10
+        var TotalTasks = 7
+        var TasksFinished = 4
+        var TasksFinishedWaiting = 1
+        var TotalInterviews = 13
+        var TotalInterviewsOffer = 1
+        var TotalInterviewsRejected = 5
+
+        var TotalDeclined = 1
+
+        var data = [{
+                from: "HH.ru",
+                to: "No Response",
+                weight: hhTotal - hhTotalReplied - hhTotalRejected
+            },
+            {
+                from: "HH.ru",
+                to: "Replied",
+                weight: hhTotalReplied
+            },
+            {
+                from: "HH.ru",
+                to: "Rejected",
+                weight: hhTotalRejected
+            },
+            {
+                from: "LinkedIn",
+                to: "Replied",
+                weight: LITotalReplied
+            },
+            {
+                from: "Replied",
+                to: "Interview",
+                weight: TotalInterviews
+            },
+            {
+                from: "Replied",
+                to: "Waiting",
+                weight: ReplyWaiting
+            },
+            {
+                from: "Replied",
+                to: "Test Task",
+                weight: TotalTasks
+            },
+            {
+                from: "Test Task",
+                to: "Finished",
+                weight: TasksFinished
+            },
+            {
+                from: "Test Task",
+                to: "Unfinished",
+                weight: TotalTasks - TasksFinished
+            },
+            {
+                from: "Finished",
+                to: "Waiting",
+                weight: TasksFinishedWaiting
+            },
+            {
+                from: "Finished",
+                to: "Interview",
+                weight: TasksFinished - TasksFinishedWaiting
+            },
+            {
+                from: "Interview",
+                to: "Rejected",
+                weight: TotalInterviewsRejected
+            },
+            {
+                from: "Interview",
+                to: "Waiting",
+                weight: TotalInterviews - TotalInterviewsRejected - TotalInterviewsOffer
+            },
+            {
+                from: "Interview",
+                to: "Offer",
+                weight: TotalInterviewsOffer
+            },
+            {
+                from: "Offer",
+                to: "Declined",
+                weight: TotalDeclined
+            },
+
+        ];
+
+        //calling the Sankey function
+        var sankey_chart = anychart.sankey(data); //customizing the width of the nodes
+        sankey_chart.nodeWidth("20%"); //setting the chart title
+        sankey_chart.title(
+            "Job Search 2022 Data Visualization"); //customizing the vertical padding of the nodes
+        sankey_chart.nodePadding(20); //setting the container id
+        sankey_chart.container("container"); //initiating drawing the Sankey diagram
+        sankey_chart.draw();
+    });
+</script>

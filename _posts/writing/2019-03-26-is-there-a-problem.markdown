@@ -1,9 +1,21 @@
 ---
 layout: post
 title: "Is There a Problem?"
-subheading: "Facts and Knowledge in Nietzsche and Arendt"
+subtitle: "Facts and Knowledge in Nietzsche and Arendt"
 date: "2019-03-26 17:39:01 -0400"
-tags: [philosophy, Arendt, Nietzsche, Plato, Hobbes, knowledge, epistemology, truth, lies, morality]
+tags:
+    [
+        philosophy,
+        Arendt,
+        Nietzsche,
+        Plato,
+        Hobbes,
+        knowledge,
+        epistemology,
+        truth,
+        lies,
+        morality,
+    ]
 ---
 
 <p>Given that knowledge, morality and language, are derivatives of the human capacity to think and reason, what are the implications of grounding the concept of truth and lies as a derivative of these human capacities? First, this question raises another question concerning human knowledge in general, regarding the foundation it has outside the human mind, if any. Second, it also raises the question of that role does knowledge have in the political realm, despite its potentially unfounded nature. Trough the work of Nietzsche, I will attempt to demonstrate his skeptical argument regarding knowledge concerning its relativistic aspect as a way of answering the first question. For the second question however, I will attempt to trace the role that knowledge has within the political realm in Arendt’s account after taking a few claims by Nietzsche as a premise. Finally, I will bring the conflicting sides between Nietzsche’s account of knowledge and how it fits within Arendt’s framework, that potentially posits Nietzsche’s problem of knowledge as a problem where there is not one. </p>
@@ -37,10 +49,9 @@ tags: [philosophy, Arendt, Nietzsche, Plato, Hobbes, knowledge, epistemology, tr
 <p>This of course would hint to Nietzsche’s point that all these truths will simply perish, once, if one thinks within the grander cosmic scheme of things, humans who once thought and invented these truths, go extinct. Arendt would probably point to the fact that this opinion is one that invents a philosophical problem out of where potentially there is no problem in the first place. For Arendt, the source of factual knowledge is the political realm of people, and for her, knowledge is political and therefore must be counted as such. Even if humans go extinct and all our knowledge perishes along with us, there will be no longer be a precondition (unless intelligent E.T exists somewhere else in the universe) for the establishment of knowledge, since knowledge relies on the existence of a political realm. Although the incommensurability between Nietzsche’s and Arendt’s views concerning knowledge still remains, one can see how Nietzsche sets out a problem concerning knowledge, whereas Arendt’s argument demonstrates that what Nietzsche is doing, is positing a problem where there is potentially no problem for Arendt. Since the skepticism regarding knowledge is just another opinion based on a philosophical truth, it must be brought to the political realm before it becomes factual. Hence, since the human political life is the very precondition for the existence of knowledge, it should be considered as an inherent part of human existence. This would lie contrary to Nietzsche’s repulsion concerning knowledge, that it is nothing more than a disadvantageous pretension and illusive deception that alienates humans from their existence. For Arendt, this knowledge is the product of human existence and relations within the public realm and is inherent aspect of human existence and condition. </p>
 <!--
 
-~~*Action* (p. 145) capacity for action entails chaining reality (p. 246) This is the seance of human freedom since we are not contingent to truths and can therefore factual truths do not have complete determinacy over human action. Lies as form of violence and destruction of factual truths established by witness and opinions among the multitude (p. 248) Which entails the “making of another reality” within which these lies gain a grounding as truths.~~
+~~_Action_ (p. 145) capacity for action entails chaining reality (p. 246) This is the seance of human freedom since we are not contingent to truths and can therefore factual truths do not have complete determinacy over human action. Lies as form of violence and destruction of factual truths established by witness and opinions among the multitude (p. 248) Which entails the “making of another reality” within which these lies gain a grounding as truths.~~
 
 ~~Such manifestations as Arendt mentions, are organizations within modern governments where organizations independent from the government, employ methods of framing the mind of the mass with a justification in the interest of the political body (p. 250).~~
-
 
 ~~Therefore, the danger consist of applying outdated factual truths in justifying political matters. By bringing the Russian Revolution as an example, Arendt does not argue for improving methods of discovery factual truths, but the very problematic of grounding politics based on the application of rational truths.~~
 

@@ -3,31 +3,34 @@
 
   <div class="wrapper">
     <div class="site-footer-inner">
-      {%- assign currentYear = 'now' | date: "%Y" -%}
-      {%- assign copyright = site.copyright
+      <div class="footer-col">
+        {%- include views/contact-icons.html -%}
+  
+        &copy;2013 - {{ site.time | date: '%Y' }} {{ site.title }}
+        <a href="https://raw.githubusercontent.com/mbrav/mbrav/main/pgp-key.txt">
+          <img alt="PGP key" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/letsencrypt.svg" />
+        </a>
+        <br>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" class="cc"><img
+            alt="Creative Commons License" style="border-width:0; margin:0"
+            src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+      </div>
+      <div class="footer-col">
+        {%- assign currentYear = 'now' | date: "%Y" -%}
+        {%- assign copyright = site.copyright
             | replace: '{currentYear}', currentYear
             | replace: '{author}', site.author
             | replace: '(c)', '&copy;'
             | replace: '(p)', '℗'
             | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
         -%}
-      <div>{{ copyright }}</div>
-      <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
+        <div>{{ copyright }}</div>
+        <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
       generator." href="http://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
       another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
-      <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
-      <br>
-      <!-- This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> -->
-      Last update: <a
-        href="{{ site.github.repository_url}}/tree/{{ site.github.build_revision}}">{{site.github.build_revision | truncate: 16 }}</a>
-      <br>
-      &copy;2013 - {{ site.time | date: '%Y' }} {{ site.title }}
-      <a href="https://raw.githubusercontent.com/mbrav/mbrav/main/pgp-key.txt">
-        <img alt="PGP key" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/letsencrypt.svg" />
-      </a>
-      <br>
-      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" class="cc"><img alt="Creative Commons License"
-          style="border-width:0; margin:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+        <small> Last update: <a
+            href="{{ site.github.repository_url}}/tree/{{ site.github.build_revision}}">{{site.github.build_revision | truncate: 16 }}</a></small>
+      </div>
     </div>
   </div>
 </footer>

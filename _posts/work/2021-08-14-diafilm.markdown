@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Δиа Фильм²"
+date: "2021-08-14 00:00:00 +0300"
+image: "/images/diafilm.jpg"
+banner: "/images/diafilm.jpg"
+excerpt: "A Django website that displays 6233 old Soviet diafilms"
+tags: [django, scraping, python, database]
+---
+
+_Δиа Фильм²_ is a project that was developed for the Yandex Practicum course. It is possible that the project will receive further attention and its development will continue. At this point, the project will be saved as it is now.
+
+A screenshot of the homepage:
+
+![](/images/diafilm2.png)
+
+-   [Github Repo](https://github.com/mbrav/diafilm2)
+-   [diafilm.pythonanywhere.com](https://diafilm.pythonanywhere.com/)

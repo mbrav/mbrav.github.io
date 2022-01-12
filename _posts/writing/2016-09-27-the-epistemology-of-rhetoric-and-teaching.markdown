@@ -38,5 +38,6 @@ It can be thus concluded that a rhetorician, nor a teacher, are reliant sources 
 In the four enquires that where presented, the function of rhetoric and its similar relation to education where entertained. It can be concluded that both rhetoric and education may be put in contexts that exploit their just intent. It was also shown how rhetoric and education by nature, are not always a reliant source of truth. But these are nevertheless qualifiable as forms of arts, including rhetoric, which was under a closer inquiry in that regard. Both strive for the good, justice, and both seem to strive to achieve a state of least ignorance.
 
 ## Bibliography
+
 Plato. _Laches; Protagoras; Meno; Euthydemus_. Cambridge, MA:
 Harvard U, 1977. Print.

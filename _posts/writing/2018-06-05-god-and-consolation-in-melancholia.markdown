@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Trier’s 'Melancholia' and Tarkovsky: God, Mysticism and Consolation"
+title: "Trier’s 'Melancholia' and Tarkovsky"
+subtitle: "God, Mysticism and Consolation"
 date: "2018-06-05 13:22:51 -0400"
 tags: [art, cinema, nihilism, philosophy, religion, human, condition, cosmos, Bach, Nietzsche, Sartre, Spinoza]
 image: "/images/tarkovski-water.jpeg"

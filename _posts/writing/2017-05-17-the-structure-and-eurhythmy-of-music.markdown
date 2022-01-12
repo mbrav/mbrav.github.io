@@ -43,7 +43,7 @@ These expressions triggered by music however, are not derivatives of sensuous ma
 
 The time-measure in music; which consists of a bar, a beat and a tempo; serve as the foundation of regularity on top of which the inner and absolute qualities of a melody can unfold. This structural definition draws similarities to classical Greek architecture—where columns of the same thickness must be placed alongside one another in accordance to devised principle of equality.[^8] Music borrows some of the successes achieved in the Greek columns in terms of devising methods of order and structure (whether this was deliberate or not, the similarities are nevertheless there). One of these is namely, the laws of symmetry and _eurhythmy_[^9] (deriving from Greek roots meaning beautiful or harmonious rhythm), except that music is not actualized in an external object and is the reason why it can only be expressed temporally.
 
-Another medium with which music shares it temporal and structural characteristics, is poetry. Among the many distinctions between music and poetry, Hegel emphasizes on the most prominent distinction among them—_beat_. Poetry in relation to music is not constrained to the repetitive time measures, which for the most, are fixated in music.[^1017] The rhythmical time-measure in poetry, does however introduce a form of accent and _caesura_ (verse in Greek) which corresponds to what is recognized in music as the *rhythmical beat*. The manner in which long syllables become more accented and more important than the shorter ones, is an example of how language can form an intricate sonorous structure within a poetic work. This relation between poetry and music, is further unraveled when an accent is put on shorter syllables, which can emphasize them relative to the longer ones.[^bla] This example in the structural and relational quality of poetry, highlights its similarities with musical structure, while also hinting on poetry's immense dependance on the meticulously devised structure in music—and even perhaps—in architecture.
+Another medium with which music shares it temporal and structural characteristics, is poetry. Among the many distinctions between music and poetry, Hegel emphasizes on the most prominent distinction among them—_beat_. Poetry in relation to music is not constrained to the repetitive time measures, which for the most, are fixated in music.[^1017] The rhythmical time-measure in poetry, does however introduce a form of accent and _caesura_ (verse in Greek) which corresponds to what is recognized in music as the _rhythmical beat_. The manner in which long syllables become more accented and more important than the shorter ones, is an example of how language can form an intricate sonorous structure within a poetic work. This relation between poetry and music, is further unraveled when an accent is put on shorter syllables, which can emphasize them relative to the longer ones.[^bla] This example in the structural and relational quality of poetry, highlights its similarities with musical structure, while also hinting on poetry's immense dependance on the meticulously devised structure in music—and even perhaps—in architecture.
 
 [^1017]: Hegel, p. 1017
 [^bla]: Hegel, p. 1018
@@ -55,7 +55,7 @@ Further, in a poetic medium events become verses; uttered words are passed over 
 
 At the same time, Hegel makes an emphasis on the way sound is treated in music in relation to how sound is treated in poetry. In particular, Hegel mentions how in music, the sonorities of the human organ of speech are meticulously expounded; but not in poetry, where the organ of speech is used in a manner that is other than something musical—as a "mere token of word"—which acquires value only as something indicative, meaningless in itself.[^18] Although the vowels and syllables in poetry do consist of elaborated relations among their tones and accents, they are primarily adjusted for the translation of speech, which imposes limits on the extents to which the sonorities of an organ of speech can reach an idealized stage. Contrary to poetry, which treats sound as something subservient to speech; music takes sound as a separate _independent medium_—treating it as an inner world possessing a subjectivity.[^19]
 
-<!-- 
+<!--
 
 To conclude
 
@@ -129,8 +129,7 @@ During the time of Bach, composers were not as transparent about the ways in whi
 
 This is similar to Shakesphere, who was also not as transparent about the way his works should be performed. Such as _Hamlet_, as an example. There is no description of the set, there is a list of _Dramatis Personae_, and then the play starts with Bernardo following the title "Act I, Scene I". There is no description about the height or the characteristics of the people. The only way is to study the characters and get a feel for their characteristics. Just like it is with getting the _inner_ life of a compost ion out of strict mathematical laws of musical composition. -->
 
-
-[^1]: Hegel, Georg Wilhelm Friedrich, trans. by T.M Knox. *Aesthetics: Lectures on Fine Art*, Vol 1 & 2 (Oxford: Clarendon, 1998), p.913.
+[^1]: Hegel, Georg Wilhelm Friedrich, trans. by T.M Knox. _Aesthetics: Lectures on Fine Art_, Vol 1 & 2 (Oxford: Clarendon, 1998), p.913.
 [^2]: Hegel, p. 892, top of page.
 [^3]: Hegel, p. 891.
 [^4]: Hegel, p. 889.

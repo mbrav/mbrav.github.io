@@ -6,6 +6,7 @@ tags: [Spinoza, Conway]
 ---
 
 ## Liz Rossman's First Letter
+
 Meneer Spinoza,
 
 I agree with your vindications on many accounts. For the purpose of this letter, my focus pins at the heart of the conception of God; and consequently, our preservation. In all the while reading Ethics, I found myself running across similarities of your conception of God with Monsieur Descartes' mediations on the same subject.
@@ -17,6 +18,7 @@ From our preservation do we not strive to become more perfect human beings, infi
 October 30, 2015
 
 ## Michael Braverman's First Reply
+
 Dear Lady Anne,
 
 I have taken into consideration your thoughts carefully and tried to critique your ideas as closely as possible to the vindications I have made in my text. I have however come to some doubts regarding wether the substance that generates existence is the same as the conception of an infinite being such as God. You do however realize that these are two separate notions. Before I proceed, I would like to answer your question with a short answer and then with a longer one.
@@ -29,7 +31,7 @@ I would like to proceed in finding an answer to your question as contextually as
 
 In my second Axiom, I state that "What cannot be conceived through another, must be conceived through itself". From this I may conclude that even if we may not conceive an attribute in its infinite state, it can be conceived through God. God is the substance in which both, the conceivable and the unconceivable infinities can exist subjectively. However, I doubt that we could experience these infinite ideas subjectively as opposed to the possibility of experiencing these ideas objectively while employing God’s ability to experience the infinite, which is the only ability through which these ideas exist subjectively.
 
-In other words, the highest achievement we may make is ”ask” God what infinite substance is like. But even then, we will fail to grasp all of these conceptions because we are finite. If we were to stay within the context of "substance which generates existence”, we would only consider what is finite and not consider things that are outside of us. I may draw a parallel between this way of being the ignorant way of being. This  perhaps remains as my main concern.
+In other words, the highest achievement we may make is ”ask” God what infinite substance is like. But even then, we will fail to grasp all of these conceptions because we are finite. If we were to stay within the context of "substance which generates existence”, we would only consider what is finite and not consider things that are outside of us. I may draw a parallel between this way of being the ignorant way of being. This perhaps remains as my main concern.
 
 If we where to consider your question as being true, I would like to point out that we would only consider the knowledge that is only within us. By A4 ("The knowledge of an effect depends on and involves the knowledge of a cause”), should seek the cause of our existence, which is why I advocate for the infinite substance and not the substance from which existence is generated.
 
@@ -41,11 +43,12 @@ René de Spinoza
 October 31, 2015
 
 ## Liz Rossman's Reply
+
 Monsieur Baruch Descartes,
 
 Thank you kindly for your reply. From your response, I understand your answer to my question "Is the nature of preservation, apart from degenerating, to become more and and more like the creator, or more and more like the substance from which it generates existence?" to be the difference between knowledge and ignorance.
 
-But in your answer I will question you further as to what you term as "striving" and "effectively progress": "it is more appropriate for a being to strive towards his conception of an infinite substance, or to strive towards something that constitutes his existence..ignorance as a state of being that cannot effectively progress because it is only aware of substance that is only contained within it." If God is an infinite substance (for now I use the term God loosely in correlation with the cause) then are not our conception of him infinite? By doing so we may achieve being as infinite (whether or not we may achieve the infinite, is an idea I correlate with the  the Buddhist belief of achieving enlightenment---it may never be fully achieved, only practiced).
+But in your answer I will question you further as to what you term as "striving" and "effectively progress": "it is more appropriate for a being to strive towards his conception of an infinite substance, or to strive towards something that constitutes his existence..ignorance as a state of being that cannot effectively progress because it is only aware of substance that is only contained within it." If God is an infinite substance (for now I use the term God loosely in correlation with the cause) then are not our conception of him infinite? By doing so we may achieve being as infinite (whether or not we may achieve the infinite, is an idea I correlate with the the Buddhist belief of achieving enlightenment---it may never be fully achieved, only practiced).
 
 If we possess conceptions of an infinite substance, in both there is a cause for an idea of the infinite and that an infinite substance must exist, then they reside under a subjective conception of the infinite. Hereby I argue, that in order come closer to God, and become "higher" in our finite matter, this must be achieved through spirit.
 
@@ -59,6 +62,7 @@ Madame Conway
 November 1, 2015
 
 ## Michael Braverman's Second Reply
+
 Dear Madame Lady Anne,
 
 Thank you for extending our conversation with some good clarifications, I will try my best to argue for my opinion on the matter while closely considering the potential flaws suggested by you.

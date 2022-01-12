@@ -2,18 +2,22 @@
   <!-- Post list links -->
   <div class="cards">
     {% for project in site.categories.work %}
-    <div class="card">
-      <img src="{{ project.image }}" alt="{{ project.title }} banner" style="width:100%">
-      <div class="container">
-        <h4><b>{{ project.title }}</b></h4>
-        <a id="{{ project.title | slugify}}" href="{{ project.url | relative_url }}">Link</a>
-        <p>{{ project.excerpt | markdownify | strip_html | truncate: 160 }}</p>
-        <p>{{ project.date | date: "%B / %Y" }}</p>
-      </div>
-    </div>
-    {% endfor %}
+    {% assign remainder = forloop.index | modulo: 2 %}
+    {% if remainder == 0 %}
+    <a href="{{ project.url | relative_url }}" class="card" style="background-image: url('{{ project.image }}');">
+      {% else %}
+      <a href="{{ project.url | relative_url }}" class="card card-right"
+        style="background-image: url('{{ project.image }}');">
+        {% endif %}
+        <div class="inner">
+          <h2 class="title">{{ project.title }}</h2>
+          <p>{{ project.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+          <time class="subtitle">{{ project.date | date: "%B / %Y" }}<time>
+        </div>
+      </a>
+      {% endfor %}
 
-    <!-- {%- for post in paginator.posts -%}
+      <!-- {%- for post in paginator.posts -%}
 
     <li>
       {%- assign date_format = site.yat.date_format | default: "%b %-d, %Y" -%}

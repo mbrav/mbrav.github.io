@@ -9,13 +9,13 @@ medium: "Data Visualization"
 tags: [data, technology, experiment, programming, 3D]
 ---
 
-![11 - NYDC Combined visualization](http://i.imgur.com/qU7KqxJ.png)
-
-[Link to Data Visualization](http://mbrav.github.io/archive/nydc/11/index.html)
-
 NYDC is an experiment that explores the conventional aspects of data representation. Data visualizations are frequently used to convey information using visual and semantic symbols. In some cases, humans are only capable of interpreting data because a symbolic reference is provided along the visualization. Visualizations can force the viewer to interpret the data in very intentional and particular ways. But this is the vulnerability of Data visualization because it can be politicized and manipulated through the use of symbols.
 
 The semantic symbols in a data visualization, can sometimes become the most significant factor that dictate the viewer’s interpretation of the data. People frequently use terms like “let data speak for itself” as a substitute to info-graphical representation, but even in these cases, symbols are nevertheless used to direct the viewer's interpretation of the data. Data can be represented in more abstract forms that may convey its inherit nature and its meaningfulness. This requires one to "feel" the data, rather than simply reading it as tool that represents quantified data.
+
+![11 - NYDC Combined visualization](http://i.imgur.com/qU7KqxJ.png)
+
+[Link to Data Visualization](http://mbrav.github.io/archive/nydc/11/index.html)
 
 [Visual 01](https://mbrav.github.io/archive/nydc/01/index.html) - NYC Farmer Markets ([data source](https://data.cityofnewyork.us/Health/New-York-City-Farmers-Markets/j8gx-kc43/data))
 

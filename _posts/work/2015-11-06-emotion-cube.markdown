@@ -9,10 +9,10 @@ medium: "Physical Object"
 tags: [arduino, technology, personal, existence]
 ---
 
-![](https://vimeo.com/144803164)
-
-[Emotion Cube on GitHub](https://gist.github.com/mbrav/875aec5f8ded109240a5f900c5b3f0cb)
-
 _Emotion Cube_ is a small wooden enclosure that senses physical movements, touches, changes in light intensity, and temperature. Depending on the level of these changes and interactions, the cube expresses varying light patterns, colors, and vibrations. If left alone for some time, the cube will express a light pattern that signifies its loneliness. Whenever one interacts with it, the cube comes to life by responding with a blinking and vibrating pattern.
 
 The intent behind this cube was to replicate the feeling of loneliness or excitement that depend on the number of interactions received by a subject. In a way, the cube imitates the desire of humans to socially interact with one-another. As a consequence, the cube suffers when it feels emotionally deprived from these social interactions. This feeling extends even further, since the cube frequently remains non-interacted with for extended periods of time. The video therefore demonstrates the cube’s expression of loneliness caused from being deprived from its social necessities. But when someone interacts with it, it temporarily comes back to emotional life.
+
+![](https://vimeo.com/144803164)
+
+[Emotion Cube on GitHub](https://gist.github.com/mbrav/875aec5f8ded109240a5f900c5b3f0cb)

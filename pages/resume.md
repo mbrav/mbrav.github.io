@@ -9,33 +9,30 @@ comments: false
 
 ## 🤹🏻 Skills
 
--   Python (Django, REST framework, Fast API, Celery);
--   Python Tools (Unitests, Pytest, poetry, pyenv)
--   SQL, moderate (MySQL, PostgreSQL);
--   Web Technologies (CSS3 & HTML5, JavaScript, three.js, node.js, socket.io);
--   Vue.js framework (basic);
--   Rust language (very basic)
--   Proficient in macOS, Linux and FreeBSD:
-    -   Basic understanding of linux system administration;
-    -   Very comfortable with the terminal (sh, bash, zsh, etc.);
-    -   Proficient in Ubuntu, Debian and Arch based OSs;
--   Have a good amount of experience scraping, parsing and organizing data:
-    -   BeautifulSoup;
-    -   Selenium;
-    -   Scrapy.
--   Some experience with containers and virtualization:
-    -   Docker, Docker Compose, and Docker Swarm (basic).
--   Creative Coding (Processing, openFrameworks, GLSL shader language, etc.):
-    -   Can create interactive visualizations using WebGL;
--   Very basic understanding of Machine Learning;
+-   Python Web (Django, DRF, Celery, FastAPI);
+-   Python Tools (Unitests, Pytest, poetry, pyenv);
+-   SOLID comprehension of TTD, KISS, OOP, DRY, and Clean Architecture paradigms (pun intended);
+-   Work with SQL (MySQL, PostgreSQL, some SQLAlchemy);
+-   Basic understanding of algorithms;
+-   Parsing and scraping (BeautifulSoup, Selenium, some scrapy);
+-   Experience with Docker and Docker Compose;
+-   Web technologies (HTML, CSS, Bootstrap, JavaScript, node.js, Grunt);
+-   JS Framework Vue.js (basic);
+-   Experience with Linux, fluent in OS based on Ubuntu, Debian and Arch:
+-   Basic understanding of system administration in Linux;
+-   Terminal fluent (ssh, sftp, rsync, systemctl, sh, bash, zsh, etc.);
+-   Language Rust (basic);
+-   Can create interactive visualizations with JavaScript;
+-   Basic understanding of machine learning.
 
 ## ✨ Qualities
 
--   Strong analytical thinking skills;
--   Tech-savvy, always eager to learn new technical skills;
--   Good social, conversational skills and ability to foster engaging and productive exchanges;
--   Ability to work independently and meet deadlines;
--   Ability to pay close attention to textual as well as visual and aesthetic detail.
+-   🦜 Good social and conversational skills;
+-   🧐 Ability to pay close attention to textual as well as visual and aesthetic details;
+-   🧘🏻 Have been practicing yoga for over 7 years;
+-   📚 In my free time I read books on clinical psychology;
+-   ⛓ On the side am interested in Rust, API frameworks based on Rust such as actix-core, blockchain and smart contracts;
+-   ☕ Worked as a barista, can make a good cappuccino.
 
 ## 🌐 Languages
 
@@ -85,3 +82,7 @@ Exhibited [_Infrastructural Utopia Tower_](http://mbrav.com/work/infrastructural
 
 [Rentity concept](https://www.crunchbase.com/organization/rentity#/entity) design at [Design and Hack](https://events.newschool.edu/event/design_and_hack_opening_ceremonies_hackathon)  
 November 2014, New York, NY.
+
+## Stay in touch
+
+{% include views/contact-icons.html %}

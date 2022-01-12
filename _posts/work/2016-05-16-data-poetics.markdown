@@ -9,6 +9,6 @@ medium: "JavaScript Experiments"
 tags: [technology, poetry, experiment, programming]
 ---
 
--   [Link to Projects](http://mbrav.github.io/archive/Code2-SP16/)
-
 These are various JavaScript experiments that I’ve made while taking Bryan Ma’s class called _Code: Data Poetics_ at Parsons School of Design. The emphasis in this class was to procedurally analyze text-based data and learn ways to creatively manipulate it. The techniques that where explored in this class was to generate text via statistics and probability, Markov chains, Twitter bots, and API’s.
+
+-   [Link to Projects](http://mbrav.github.io/archive/Code2-SP16/)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Netherlandish Painters"
-subheading: "Jan van Eyck and Robert Campin"
+subtitle: "Jan van Eyck and Robert Campin"
 date: "2015-05-13 18:54:08 +0200"
 tags: [Netherlands, painting, art]
 img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/561px-Van_Eyck_-_Arnolfini_Portrait.jpg
@@ -41,20 +41,20 @@ The left part of the Triptych depicts Saint John and the donor Heinrich von Werl
 
 ## References
 
-Borchert, Till. _Van Eyck to Dürer: The Influence of Early Netherlandish Painting on European Art, 1430-1530_.   
+Borchert, Till. _Van Eyck to Dürer: The Influence of Early Netherlandish Painting on European Art, 1430-1530_.  
 London: Thames & Hudson, 2011.
 
 Burroughs, Bryson. _A Diptych by Hubert van Eyck_.  
 The Metropolitan Museum of Art Bulletin, Volume 28, No. 11, Pt 1, November 1933.
 
 Conway, William Martin. _The Woodcutters of the Netherlands in the Fifteenth Century In Three Parts_.  
-History of the Woodcutters. Cambridge: University Press, 1884.  
+History of the Woodcutters. Cambridge: University Press, 1884.
 
 Cotter, Holland. _Mysteries in the Crystalline World of a Flemish Master._  
-The New York Times. April 23, 1998. Accessed May 9, 2015.  
+The New York Times. April 23, 1998. Accessed May 9, 2015.
 
 Kamil, Neil. _Violence, Metaphysics, and Material Life in the Huguenots' New World, 1517-1751_.  
-Baltimore: Johns Hopkins University Press, 2005.  
+Baltimore: Johns Hopkins University Press, 2005.
 
 _Robert Campin | Von Werl Altarpiece: John the Baptist and the Franciscan Theologian Heinrich Von Werl, and Saint Barbara (1438)._  
 Artsy. Accessed May 9, 2015.

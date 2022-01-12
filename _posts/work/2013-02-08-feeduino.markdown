@@ -11,8 +11,8 @@ tags: [arduino, automation, technology, programming]
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/1IwfZIiVXiA" frameborder="0" allowfullscreen></iframe>
 
+Feeduino is a simple DIY gadget that experiments with the ability to automatically feed fish. It is built using very simple and cheap household items which makes the whole gadget cost less than the food itself (around $5). The controller is a small ATtiny 85 Atmel controller which is a striped down version of the Arduino. It is able to control two servos and feed the fish at a constant time interval.
+
 ### Press
 
-[Hackaday magazine](https://hackaday.com/2013/02/08/a-pair-of-automatic-fish-feeders/)
-
-Feeduino is a simple DIY gadget that experiments with the ability to automatically feed fish. It is built using very simple and cheap household items which makes the whole gadget cost less than the food itself (around $5). The controller is a small ATtiny 85 Atmel controller which is a striped down version of the Arduino. It is able to control two servos and feed the fish at a constant time interval.
+-   [Hackaday magazine](https://hackaday.com/2013/02/08/a-pair-of-automatic-fish-feeders/)
