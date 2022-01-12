@@ -1,0 +1,37 @@
+<div class="portfolio">
+  <!-- Post list links -->
+  <div class="cards">
+    {% for project in site.categories.work %}
+    <div class="card">
+      <img src="{{ project.image }}" alt="{{ project.title }} banner" style="width:100%">
+      <div class="container">
+        <h4><b>{{ project.title }}</b></h4>
+        <a id="{{ project.title | slugify}}" href="{{ project.url | relative_url }}">Link</a>
+        <p>{{ project.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+        <p>{{ project.date | date: "%B / %Y" }}</p>
+      </div>
+    </div>
+    {% endfor %}
+
+    <!-- {%- for post in paginator.posts -%}
+
+    <li>
+      {%- assign date_format = site.yat.date_format | default: "%b %-d, %Y" -%}
+
+      {% assign article = post.content %}
+      {% assign lang = post.lang %}
+      {%- include functions.html func='get_reading_time' -%}
+      {% assign reading_time = return %}
+      {%- include functions.html func='get_article_excerpt' -%}
+      {% assign excerpt = return %}
+      {%- assign post_url = post.url | relative_url -%}
+
+      <h2 class="post-title">
+        <a class="post-link" href="{{ post_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h2>
+    </li>
+    {%- endfor -%} -->
+  </div>
+</div>

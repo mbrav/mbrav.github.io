@@ -11,9 +11,9 @@ tags: [technology, project, process, prototype, history]
 
 ![](https://www.youtube.com/watch?v=tzNWS7Lbi3c)
 
-[Endeavour's Guide on GitHub](https://github.com/mbrav/EndeavoursGuide)
+[Endeavour's Guide on GitHub](https://github.com/mbrav/archive/tree/main/EndeavoursGuide)
 
-The intention behind this project is to revive James Cook’s geographic discoveries that where made while he was the captain of the *Endeavour* ship. The device is capable of displaying the direction it is directed through 4 different modes and displays its functionality on three 7 segment displays.
+The intention behind this project is to revive James Cook’s geographic discoveries that where made while he was the captain of the _Endeavour_ ship. The device is capable of displaying the direction it is directed through 4 different modes and displays its functionality on three 7 segment displays.
 
 I wanted to combine a technology of the past that allowed explorers to navigate the seas while they where on their historic journeys. One of the most prominent among these inventions was the compass. The compass was a tool that transformed sea navigation after it was first invented in China. The compass became an object of wonder, it’s magnetic behavior was even associated with witchcraft and is why many captains preferred to hide it in their secret chests. As the age of sail proceeded, the compass became a widely accepted navigation tool. James Cook took the use of the compass to his own advantage which allowed him to make his historic geographical discoveries.
 

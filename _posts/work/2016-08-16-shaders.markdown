@@ -3,8 +3,17 @@ layout: post
 title: "Eccentric Shaders"
 date: 2016-08-16 00:00:01 -0400
 image: "/images/clouds-of-venus.jpg"
-banner: "/images/clouds-of-venus.jpg"
 excerpt: "A collection of WebGL shaders that run on a web browser. Reflections and explorations about the mechanistic and voided world of computation and quantum theory."
+banner:
+    video: /images/video/venus.mp4
+    loop: true
+    volume: 0.0
+    start_at: 0.0
+    image: /images/clouds-of-venus.jpg
+    opacity: 1.0
+    background: "#000"
+    height: "100vh"
+    min_height: "38vh"
 medium: "WebGL Shaders"
 tags: [math, technology, experiment, programming, universe]
 ---
@@ -16,6 +25,6 @@ tags: [math, technology, experiment, programming, universe]
 
 This is a collection of WebGL shaders that run in a web browser window. These, for the most part, are reflections and meditations on the laws of the physical laws of nature, expressed in a computer graphic language. Imitating natural patterns with computer code turns out to be a very abstracted and intangible process. This was an exploratory process which explored the mechanistic and voided world of computers.
 
-As computers increasingly become the middle grounds for establishing human understanding about the world, they also give birth to ideas that make us believe that our reality is nothing but a simulation (see [simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)), and therefore not "real". These works are therefore reflections about the way in which humans create a scientific world-view that is no different than a collection of instrument measurements and scientific notations (I reflected on this in *[The Demise of Contemplation and the Rise of Intellectual Labour](/post/the-demise-of-contemplation)*).
+As computers increasingly become the middle grounds for establishing human understanding about the world, they also give birth to ideas that make us believe that our reality is nothing but a simulation (see [simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)), and therefore not "real". These works are therefore reflections about the way in which humans create a scientific world-view that is no different than a collection of instrument measurements and scientific notations (I reflected on this in _[The Demise of Contemplation and the Rise of Intellectual Labour](/post/the-demise-of-contemplation)_).
 
-This was a background thought that I had throughout the duration of this alienated form of mediated expression. The ultimate revelation that emerged out of these explorations is that the greatest thing that one can do in life is to enjoy one's present existent condition disregarding whether it is "real" or not. The realness of the present is a question that does not have a meaningful answer. The attempt to ascribe and understand everything according to reductionist terms and symbols, only suppresses the belief that everything is real. Therefore, the greatness of life that there could be, is just to enjoy what is always here — the present.  
+This was a background thought that I had throughout the duration of this alienated form of mediated expression. The ultimate revelation that emerged out of these explorations is that the greatest thing that one can do in life is to enjoy one's present existent condition disregarding whether it is "real" or not. The realness of the present is a question that does not have a meaningful answer. The attempt to ascribe and understand everything according to reductionist terms and symbols, only suppresses the belief that everything is real. Therefore, the greatness of life that there could be, is just to enjoy what is always here — the present.

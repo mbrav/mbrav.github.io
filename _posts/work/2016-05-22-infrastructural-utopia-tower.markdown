@@ -3,7 +3,16 @@ layout: post
 title: "Infrastructural Utopia Tower"
 date: 2016-05-22 00:11:02 -0400
 image: "https://c1.staticflickr.com/9/8674/28310046481_76696628b6.jpg"
-banner: "https://c1.staticflickr.com/9/8674/28310046481_76696628b6.jpg"
+banner:
+    video: /images/video/utopia.mp4
+    loop: true
+    volume: 0.0
+    start_at: 0.0
+    image: https://c1.staticflickr.com/9/8674/28310046481_76696628b6.jpg
+    opacity: 1.0
+    background: "#000"
+    height: "100vh"
+    min_height: "38vh"
 excerpt: "A speculative installation that envisions an idealization of digital infrastructure. In practice, it is a surveilled information-sniffing Raspberry Pi wi-fi hotspot."
 medium: "Physical Installation"
 tags: [3D, technology, manifesto, installation, politics, polis]
@@ -11,20 +20,20 @@ tags: [3D, technology, manifesto, installation, politics, polis]
 
 ![](https://vimeo.com/166409996)
 
-[Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/InfrastructuralUtopiaTower)  
+[Infrastructural Utopia Tower on GitHub](https://github.com/mbrav/archive/tree/main/InfrastructuralUtopiaTower)  
 [Initial Notes]({{ site.url }}/blog/2016/04/a-monument-for-a-surveillance-democracy) about the Concept
 
-*A speculative installation that reflects on the ways we manifest ideals that become realized in manner that is contrary to what was envisioned.*
+_A speculative installation that reflects on the ways we manifest ideals that become realized in manner that is contrary to what was envisioned._
 
 ## Narrative
 
-*Infrastructural Utopia Tower* is an installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is an ironic manifestation of our technocratic human nature since we are beings that are constantly entertained by utopian ideals; but when realizing them, we sacrifice certain aspects of our own nature. For a modern human, infrastructure is part of his/her nature; it is a manifested symbol of our intellectual and evolutionary superiority above other animals; without it, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent on the infrastructures that we build – we come to this realization and attempt to apply infrastructures almost everywhere, while our technological advances only aid this process.
+_Infrastructural Utopia Tower_ is an installation that emphasizes on our modern society’s reliance on infrastructures and automated systems. It is an ironic manifestation of our technocratic human nature since we are beings that are constantly entertained by utopian ideals; but when realizing them, we sacrifice certain aspects of our own nature. For a modern human, infrastructure is part of his/her nature; it is a manifested symbol of our intellectual and evolutionary superiority above other animals; without it, a modern human would think he/she had been placed in the wilderness. Us humans, are existentially dependent on the infrastructures that we build – we come to this realization and attempt to apply infrastructures almost everywhere, while our technological advances only aid this process.
 
 Modern infrastructures are designed to be built in technological environments. Infrastructure provides us with food, water, resources, funds, energy, commodities, information, and entertainment. We are surrounded by it, most of the time without even noticing – hundreds of wires pass through walls, dozens of pipes are laid beneath us, and an unknown number of radio frequencies pass through our bodies. All this illustrates infrastructure’s overwhelming presence, yet, it is cleverly engineered to remain unnoticed. We have engineered a system that we ourselves are becoming blind to regard. It might have the capability to support us, or it might be holding us by the last drop without us even knowing. We have the privilege to blindly say “it just works” to describe the thousands of operations that infrastructures perform on a hourly basis. This is a burden as much as it is considered to be a privilege.
 
 This installation piece emphasizes on digital infrastructures. Namely, the way digital technologies have become prerequisites for supporting our infrastructures. Yet, we as a society manifest these digital infrastructures but rarely think about the ways they can backfire. Digital technologies like the internet, are arguably, one of the most manipulable infrastructures that humankind has every built. Today like never before, an authority can control the outcome of something located across the globe, or know everything about particular individuals.
 
-*Infrastructural Utopia Tower* also emphasizes on government surveillance. Surveillance however, is not made possible without it's underlying framework - infrastructure. When something becomes infrastructuralized, one should not wonder why it can be exploited for someone else's advantage. It is a system designed to remain hidden to its intended user and nevertheless remain manipulable. Combating surveillance becomes ineffective if one does not realize the implications of its underlying framework on top of which it is built. Infrastructure by definition is meant to be controlled and manipulated. This aspect is frequently overlooked since the root in the word infrastructure, *infra*  - means closed. The technologies we use on a daily basis is a perfect example of how hidden technologies abstract their intended function.
+_Infrastructural Utopia Tower_ also emphasizes on government surveillance. Surveillance however, is not made possible without it's underlying framework - infrastructure. When something becomes infrastructuralized, one should not wonder why it can be exploited for someone else's advantage. It is a system designed to remain hidden to its intended user and nevertheless remain manipulable. Combating surveillance becomes ineffective if one does not realize the implications of its underlying framework on top of which it is built. Infrastructure by definition is meant to be controlled and manipulated. This aspect is frequently overlooked since the root in the word infrastructure, _infra_ - means closed. The technologies we use on a daily basis is a perfect example of how hidden technologies abstract their intended function.
 
 <!-- *Infrastructural Utopia Tower* is an infrastructure, the way it was built reflects this aspect. The way it was realized however, is unlike its intended utopian model. It was meant to stand like its 3D model, manifesting the ideals that have had the potential to be realized. This realization did not happen, and the existence of the ideal did not go beyond a 3D model that flickers on a computer screen. What has been realized however, is an anti-utopian realization of infrastructure within the tower. The structure transformed into a breeding ground for humankind to infrastructialize as much estate that nature can provide. The outcome is an anti-utopian looking tower that reflects this human characteristic. -->
 

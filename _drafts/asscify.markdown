@@ -13,4 +13,4 @@ medium: "Node.js"
 ![](https://c1.staticflickr.com/3/2611/32951568411_74f68b6dcc_b.jpg)
 ![](https://c1.staticflickr.com/3/2144/32951568311_d113996600_b.jpg)
 ![](https://c1.staticflickr.com/1/750/32951568241_cdbf15d975_b.jpg)
-[ASCIIfy on GitHub](https://github.com/mbrav/asciify)
+[ASCIIfy on GitHub](https://github.com/mbrav/archive/tree/main/asciify)

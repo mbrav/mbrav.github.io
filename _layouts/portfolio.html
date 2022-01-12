@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="articles">
+  {% if page.banner == nil %}
+  {% assign banner = page.title %}
+  {% endif %}
+
+  {{ content }}
+
+  {% include views/portfolio.html %}
+</div>
