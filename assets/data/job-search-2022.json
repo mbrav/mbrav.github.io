@@ -1,0 +1,16 @@
+{
+	"hh.ru": {
+		"total": 376,
+		"replied": 24,
+		"rejected": 83,
+		"interview": 12,
+		"call": 12
+	},
+	"LinkedIn": {
+		"total": 3,
+		"replied": 2,
+		"rejected": 0,
+		"interview": 12,
+		"call": 12
+	}
+}
