@@ -5,6 +5,10 @@
         margin: 0;
         padding: 0;
     }
+
+    .anychart-credits {
+        display: none;
+    }
 </style>
 
 <script src="https://cdn.anychart.com/releases/v8/js/anychart-core.min.js"></script>
@@ -13,9 +17,9 @@
 <div id="container"></div>
 
 <script type="text/javascript">
-    var hhTotal = 376
-    var hhTotalReplied = 24
-    var hhTotalRejected = 83
+    var hhTotal = 530
+    var hhTotalReplied = 28
+    var hhTotalRejected = 135
 
     var LITotalReplied = 3
 
@@ -27,17 +31,16 @@
     var АssignmentsToInterview = TotalАssignments - АssignmentsFinished - АssignmentsFinishedWaiting
 
     var TotalInterviews = 13
-    var TotalInterviewsOffer = 1
+    var TotalInterviewsOffer = 2
     var TotalInterviewsRejected = 5
 
     var TotalInterviewsWaiting = TotalInterviews - TotalInterviewsOffer - TotalInterviewsRejected +
         АssignmentsToInterview
 
     var TotalWaiting = TotalReplied - TotalInterviews - TotalАssignments
-    var TotalDeclined = 1
+    var TotalDeclinedOffer = 1
+    var AcceptedOffer = 1
 
-
-    console.log(TotalWaiting)
 
     var chartData = [{
             from: 'HH.ru',
@@ -66,7 +69,7 @@
         },
         {
             from: 'Replied',
-            to: 'Waiting',
+            to: null,
             weight: TotalWaiting
         },
         {
@@ -81,12 +84,12 @@
         },
         {
             from: 'Test Assignment',
-            to: 'Аssignment Unfinished',
+            to: null,
             weight: TotalАssignments - АssignmentsFinished
         },
         {
             from: 'Аssignment Finished',
-            to: 'Waiting',
+            to: null,
             weight: АssignmentsFinishedWaiting
         },
         {
@@ -101,7 +104,7 @@
         },
         {
             from: 'Interview',
-            to: 'Waiting',
+            to: null,
             weight: TotalInterviewsWaiting
         },
         {
@@ -112,9 +115,13 @@
         {
             from: 'Offer',
             to: 'Declined',
-            weight: TotalDeclined
+            weight: TotalDeclinedOffer
         },
-
+        {
+            from: 'Offer',
+            to: 'Accepted',
+            weight: AcceptedOffer
+        },
     ];
 
     anychart.onDocumentReady(function () {
@@ -129,6 +136,11 @@
                     'Job searching data visualization of a Python Developer in Russia in 2022');
                 sankey_chart.nodePadding(20);
                 sankey_chart.container('container');
+
+                sankey_chart.dropoff().normal().fill({
+                    keys: ["#dd2c00 0.4", "#455a64 0.7"],
+                    angle: 180
+                });
                 sankey_chart.draw();
             })
     });

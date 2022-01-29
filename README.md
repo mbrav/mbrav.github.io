@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/github/mbrav/mbrav.github.io.svg)](https://wakatime.com/badge/github/mbrav/mbrav.github.io)
+
 # My Personal / Portfolio Site
 
 I like having a fully customizable personal website, so this is the result. Hope it goes well.

@@ -9,21 +9,19 @@ comments: false
 
 ## 🤹🏻 Skills
 
--   Python Web (Django, DRF, Celery, FastAPI);
--   Python Tools (Unitests, Pytest, poetry, pyenv);
+-   Python Backend (Django, DRF, FastAPI, Flask);
+-   Python Tools (Unitests, pytest, poetry, pyenv);
 -   SOLID comprehension of TTD, KISS, OOP, DRY, and Clean Architecture paradigms (pun intended);
 -   Work with SQL (MySQL, PostgreSQL, some SQLAlchemy);
 -   Basic understanding of algorithms;
 -   Parsing and scraping (BeautifulSoup, Selenium, some scrapy);
 -   Experience with Docker and Docker Compose;
--   Web technologies (HTML, CSS, Bootstrap, JavaScript, node.js, Grunt);
+-   Can work with the frontend (HTML, CSS, Bootstrap, JavaScript, node.js, Grunt);
 -   JS Framework Vue.js (basic);
 -   Experience with Linux, fluent in OS based on Ubuntu, Debian and Arch:
 -   Basic understanding of system administration in Linux;
 -   Terminal fluent (ssh, sftp, rsync, systemctl, sh, bash, zsh, etc.);
--   Language Rust (basic);
--   Can create interactive visualizations with JavaScript;
--   Basic understanding of machine learning.
+-   Had some insignificant experience with Rust, Java, Ruby, PHP, C++, C, GLSL (descending order).
 
 ## ✨ Qualities
 
